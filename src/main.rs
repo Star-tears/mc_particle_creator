@@ -65,11 +65,11 @@ fn main() {
     // println!("{:#?}", tick_node_list);
     create_setblocks_mcfunction(&tick_node_list, &config);
     let point_group_list = get_point_group_list(&tick_node_list, &config);
-    println!("{:#?}", point_group_list);
+    // println!("{:#?}", point_group_list);
     let point_list = get_point_list(&tick_node_list, &config);
     // println!("{:?}", point_list);
     let edge_list = get_edge_list(&point_list, &config);
-    create_particlelines_mcfunction(edge_list, &config);
+    create_play_mcfunction(edge_list, &config);
 }
 
 fn get_tick_node_list(range: &Range) -> Vec<TickNode> {
@@ -182,8 +182,8 @@ fn create_setblocks_mcfunction(tick_node_list: &Vec<TickNode>, config: &Config) 
     create_tp_mcfuntion(&mut dest, config);
 }
 
-fn create_particlelines_mcfunction(edge_list: Vec<Edge>, config: &Config) {
-    let mut dest = BufWriter::new(File::create("./particlelines.mcfunction").unwrap());
+fn create_play_mcfunction(edge_list: Vec<Edge>, config: &Config) {
+    let mut dest = BufWriter::new(File::create("./play.mcfunction").unwrap());
     for edge in edge_list {
         draw_line(&mut dest, edge.point1, edge.point2);
     }
