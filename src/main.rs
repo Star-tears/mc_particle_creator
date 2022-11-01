@@ -15,7 +15,7 @@ struct TickNode {
     pitch_set: BTreeSet<i64>,
 }
 
-#[derive(Debug)]
+#[derive(Clone, Debug)]
 struct PointGroup {
     x: i64,
     z_list: Vec<i64>,
@@ -88,8 +88,7 @@ fn main() {
     // println!("{:#?}", point_group_list);
     let point_list = get_point_list(&tick_node_list, &config);
     // println!("{:?}", point_list);
-    let edge_list = get_edge_list(&point_group_list, &config);
-    create_play_mcfunction(edge_list, &config);
+    create_play_mcfunction(&point_group_list, &config);
     create_clear_mcfunction(&tick_node_list, &config);
 }
 
@@ -151,6 +150,37 @@ fn get_point_group_list(tick_node_list: &Vec<TickNode>, config: &Config) -> Vec<
         point_group_list.push(point_group);
     }
     point_group_list
+}
+
+fn get_sub_point_group_list(
+    point_group_list: &Vec<PointGroup>,
+    config: &Config,
+) -> Vec<Vec<PointGroup>> {
+    let mut sub_point_group_list: Vec<Vec<PointGroup>> = Vec::new();
+    sub_point_group_list.push(Vec::new());
+    sub_point_group_list.push(Vec::new());
+    for point_group in point_group_list {
+        let init_point_group = PointGroup {
+            x: point_group.x,
+            z_list: Vec::new(),
+        };
+        sub_point_group_list[0].push(init_point_group.clone());
+        sub_point_group_list[1].push(init_point_group.clone());
+        for (_, z) in point_group.z_list.iter().enumerate() {
+            if *z < config.mid_pitch {
+                sub_point_group_list[0].last_mut().unwrap().z_list.push(*z);
+            } else {
+                sub_point_group_list[1].last_mut().unwrap().z_list.push(*z);
+            }
+        }
+        if sub_point_group_list[0].last().unwrap().z_list.len() == 0 {
+            sub_point_group_list[0].pop();
+        }
+        if sub_point_group_list[1].last().unwrap().z_list.len() == 0 {
+            sub_point_group_list[1].pop();
+        }
+    }
+    sub_point_group_list
 }
 
 fn get_point_list(tick_node_list: &Vec<TickNode>, config: &Config) -> Vec<Point> {
@@ -231,8 +261,9 @@ fn create_setblocks_mcfunction(point_group_list: &Vec<PointGroup>, config: &Conf
 /**
  *  play.mcfunction文件生成主函数
  */
-fn create_play_mcfunction(edge_list: Vec<Edge>, config: &Config) {
+fn create_play_mcfunction(point_group_list: &Vec<PointGroup>, config: &Config) {
     let mut rng = thread_rng();
+    let mut dest = BufWriter::new(File::create(config.output_play_path.as_str()).unwrap());
     let color_list: Vec<Color> = vec![
         Color {
             r: 1.0,
@@ -283,26 +314,30 @@ fn create_play_mcfunction(edge_list: Vec<Edge>, config: &Config) {
             a: 1.0,
         },
     ];
-    let mut dest = BufWriter::new(File::create(config.output_play_path.as_str()).unwrap());
-    for edge in edge_list {
-        if edge.point1.x == edge.point2.x {
-            draw_line(
-                &mut dest,
-                edge.point1,
-                edge.point2,
-                color_list.get(0).unwrap(),
-            );
-        } else {
-            let index_color = rng.gen_range(1..8);
-            draw_line(
-                &mut dest,
-                edge.point1,
-                edge.point2,
-                color_list.get(index_color).unwrap(),
-            );
+    let sub_point_group_list: Vec<Vec<PointGroup>> =
+        get_sub_point_group_list(&point_group_list, config);
+    for sub_point_group in sub_point_group_list {
+        let edge_list = get_edge_list(&sub_point_group, config);
+        for edge in edge_list {
+            if edge.point1.x == edge.point2.x {
+                draw_line(
+                    &mut dest,
+                    edge.point1,
+                    edge.point2,
+                    color_list.get(0).unwrap(),
+                );
+            } else {
+                let index_color = rng.gen_range(1..8);
+                draw_line(
+                    &mut dest,
+                    edge.point1,
+                    edge.point2,
+                    color_list.get(index_color).unwrap(),
+                );
+            }
         }
+        create_tp_mcfuntion(&mut dest, config);
     }
-    create_tp_mcfuntion(&mut dest, config);
 }
 
 fn create_clear_mcfunction(tick_node_list: &Vec<TickNode>, config: &Config) {
