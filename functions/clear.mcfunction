@@ -1,1552 +1,1552 @@
-setblock ~0 ~0 ~43 minecraft:redstone_lamp[lit=true]
-setblock ~0 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~2 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~5 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~8 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~11 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~14 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~17 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~20 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~22 ~0 ~43 minecraft:redstone_lamp[lit=true]
-setblock ~22 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~25 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~28 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~31 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~34 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~37 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~40 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~42 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~45 ~0 ~53 minecraft:redstone_lamp[lit=true]
-setblock ~45 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~48 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~51 ~0 ~57 minecraft:redstone_lamp[lit=true]
-setblock ~54 ~0 ~69 minecraft:redstone_lamp[lit=true]
-setblock ~57 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~60 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~62 ~0 ~57 minecraft:redstone_lamp[lit=true]
-setblock ~65 ~0 ~69 minecraft:redstone_lamp[lit=true]
-setblock ~68 ~0 ~53 minecraft:redstone_lamp[lit=true]
-setblock ~68 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~71 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~74 ~0 ~57 minecraft:redstone_lamp[lit=true]
-setblock ~77 ~0 ~69 minecraft:redstone_lamp[lit=true]
-setblock ~80 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~82 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~85 ~0 ~57 minecraft:redstone_lamp[lit=true]
-setblock ~88 ~0 ~69 minecraft:redstone_lamp[lit=true]
-setblock ~91 ~0 ~51 minecraft:redstone_lamp[lit=true]
-setblock ~91 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~94 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~97 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~100 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~102 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~105 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~108 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~111 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~114 ~0 ~51 minecraft:redstone_lamp[lit=true]
-setblock ~114 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~117 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~120 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~122 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~125 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~128 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~131 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~134 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~137 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~137 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~140 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~142 ~0 ~57 minecraft:redstone_lamp[lit=true]
-setblock ~145 ~0 ~69 minecraft:redstone_lamp[lit=true]
-setblock ~148 ~0 ~72 minecraft:redstone_lamp[lit=true]
-setblock ~151 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~154 ~0 ~57 minecraft:redstone_lamp[lit=true]
-setblock ~157 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~160 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~160 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~162 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~165 ~0 ~57 minecraft:redstone_lamp[lit=true]
-setblock ~168 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~171 ~0 ~66 minecraft:redstone_lamp[lit=true]
-setblock ~174 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~177 ~0 ~57 minecraft:redstone_lamp[lit=true]
-setblock ~180 ~0 ~66 minecraft:redstone_lamp[lit=true]
-setblock ~182 ~0 ~43 minecraft:redstone_lamp[lit=true]
-setblock ~182 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~185 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~188 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~191 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~194 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~197 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~200 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~202 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~205 ~0 ~43 minecraft:redstone_lamp[lit=true]
-setblock ~205 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~208 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~211 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~214 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~217 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~220 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~222 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~225 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~228 ~0 ~53 minecraft:redstone_lamp[lit=true]
-setblock ~228 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~231 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~234 ~0 ~57 minecraft:redstone_lamp[lit=true]
-setblock ~237 ~0 ~69 minecraft:redstone_lamp[lit=true]
-setblock ~240 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~242 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~245 ~0 ~57 minecraft:redstone_lamp[lit=true]
-setblock ~248 ~0 ~69 minecraft:redstone_lamp[lit=true]
-setblock ~251 ~0 ~53 minecraft:redstone_lamp[lit=true]
-setblock ~251 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~254 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~257 ~0 ~57 minecraft:redstone_lamp[lit=true]
-setblock ~260 ~0 ~69 minecraft:redstone_lamp[lit=true]
-setblock ~262 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~265 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~268 ~0 ~57 minecraft:redstone_lamp[lit=true]
-setblock ~271 ~0 ~69 minecraft:redstone_lamp[lit=true]
-setblock ~274 ~0 ~51 minecraft:redstone_lamp[lit=true]
-setblock ~274 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~277 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~280 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~282 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~285 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~288 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~291 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~294 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~297 ~0 ~51 minecraft:redstone_lamp[lit=true]
-setblock ~297 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~300 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~302 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~305 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~308 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~311 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~314 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~317 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~320 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~320 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~322 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~325 ~0 ~57 minecraft:redstone_lamp[lit=true]
-setblock ~328 ~0 ~69 minecraft:redstone_lamp[lit=true]
-setblock ~331 ~0 ~72 minecraft:redstone_lamp[lit=true]
-setblock ~334 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~337 ~0 ~57 minecraft:redstone_lamp[lit=true]
-setblock ~340 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~342 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~342 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~345 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~348 ~0 ~57 minecraft:redstone_lamp[lit=true]
-setblock ~351 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~354 ~0 ~66 minecraft:redstone_lamp[lit=true]
-setblock ~357 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~360 ~0 ~57 minecraft:redstone_lamp[lit=true]
-setblock ~362 ~0 ~66 minecraft:redstone_lamp[lit=true]
-setblock ~365 ~0 ~43 minecraft:redstone_lamp[lit=true]
-setblock ~365 ~0 ~74 minecraft:redstone_lamp[lit=true]
-setblock ~365 ~0 ~79 minecraft:redstone_lamp[lit=true]
-setblock ~371 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~371 ~0 ~74 minecraft:redstone_lamp[lit=true]
-setblock ~374 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~374 ~0 ~74 minecraft:redstone_lamp[lit=true]
-setblock ~377 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~377 ~0 ~74 minecraft:redstone_lamp[lit=true]
-setblock ~380 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~380 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~382 ~0 ~43 minecraft:redstone_lamp[lit=true]
-setblock ~382 ~0 ~72 minecraft:redstone_lamp[lit=true]
-setblock ~382 ~0 ~75 minecraft:redstone_lamp[lit=true]
-setblock ~385 ~0 ~72 minecraft:redstone_lamp[lit=true]
-setblock ~385 ~0 ~75 minecraft:redstone_lamp[lit=true]
-setblock ~388 ~0 ~72 minecraft:redstone_lamp[lit=true]
-setblock ~388 ~0 ~75 minecraft:redstone_lamp[lit=true]
-setblock ~391 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~391 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~394 ~0 ~69 minecraft:redstone_lamp[lit=true]
-setblock ~394 ~0 ~72 minecraft:redstone_lamp[lit=true]
-setblock ~400 ~0 ~53 minecraft:redstone_lamp[lit=true]
-setblock ~400 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~400 ~0 ~74 minecraft:redstone_lamp[lit=true]
-setblock ~405 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~405 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~408 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~408 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~411 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~411 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~414 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~414 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~417 ~0 ~53 minecraft:redstone_lamp[lit=true]
-setblock ~417 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~417 ~0 ~72 minecraft:redstone_lamp[lit=true]
-setblock ~420 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~420 ~0 ~72 minecraft:redstone_lamp[lit=true]
-setblock ~422 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~422 ~0 ~72 minecraft:redstone_lamp[lit=true]
-setblock ~425 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~425 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~428 ~0 ~69 minecraft:redstone_lamp[lit=true]
-setblock ~428 ~0 ~74 minecraft:redstone_lamp[lit=true]
-setblock ~434 ~0 ~51 minecraft:redstone_lamp[lit=true]
-setblock ~434 ~0 ~74 minecraft:redstone_lamp[lit=true]
-setblock ~434 ~0 ~79 minecraft:redstone_lamp[lit=true]
-setblock ~440 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~440 ~0 ~74 minecraft:redstone_lamp[lit=true]
-setblock ~442 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~442 ~0 ~74 minecraft:redstone_lamp[lit=true]
-setblock ~445 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~445 ~0 ~74 minecraft:redstone_lamp[lit=true]
-setblock ~448 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~448 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~451 ~0 ~51 minecraft:redstone_lamp[lit=true]
-setblock ~451 ~0 ~72 minecraft:redstone_lamp[lit=true]
-setblock ~451 ~0 ~75 minecraft:redstone_lamp[lit=true]
-setblock ~454 ~0 ~72 minecraft:redstone_lamp[lit=true]
-setblock ~454 ~0 ~75 minecraft:redstone_lamp[lit=true]
-setblock ~457 ~0 ~72 minecraft:redstone_lamp[lit=true]
-setblock ~457 ~0 ~75 minecraft:redstone_lamp[lit=true]
-setblock ~460 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~460 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~462 ~0 ~69 minecraft:redstone_lamp[lit=true]
-setblock ~462 ~0 ~72 minecraft:redstone_lamp[lit=true]
-setblock ~468 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~468 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~468 ~0 ~74 minecraft:redstone_lamp[lit=true]
-setblock ~474 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~474 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~477 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~477 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~480 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~480 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~482 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~482 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~485 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~485 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~485 ~0 ~72 minecraft:redstone_lamp[lit=true]
-setblock ~488 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~488 ~0 ~72 minecraft:redstone_lamp[lit=true]
-setblock ~491 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~491 ~0 ~72 minecraft:redstone_lamp[lit=true]
-setblock ~494 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~494 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~497 ~0 ~66 minecraft:redstone_lamp[lit=true]
-setblock ~497 ~0 ~69 minecraft:redstone_lamp[lit=true]
-setblock ~500 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~500 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~502 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~502 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~502 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~502 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~508 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~508 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~508 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~508 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~511 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~511 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~511 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~511 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~514 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~514 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~514 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~514 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~517 ~0 ~48 minecraft:redstone_lamp[lit=true]
-setblock ~517 ~0 ~53 minecraft:redstone_lamp[lit=true]
-setblock ~517 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~517 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~520 ~0 ~51 minecraft:redstone_lamp[lit=true]
-setblock ~520 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~520 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~520 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~522 ~0 ~51 minecraft:redstone_lamp[lit=true]
-setblock ~522 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~522 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~522 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~525 ~0 ~51 minecraft:redstone_lamp[lit=true]
-setblock ~525 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~525 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~525 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~528 ~0 ~48 minecraft:redstone_lamp[lit=true]
-setblock ~528 ~0 ~53 minecraft:redstone_lamp[lit=true]
-setblock ~528 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~528 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~531 ~0 ~57 minecraft:redstone_lamp[lit=true]
-setblock ~531 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~537 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~537 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~537 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~537 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~542 ~0 ~46 minecraft:redstone_lamp[lit=true]
-setblock ~542 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~542 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~542 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~545 ~0 ~46 minecraft:redstone_lamp[lit=true]
-setblock ~545 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~545 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~545 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~548 ~0 ~46 minecraft:redstone_lamp[lit=true]
-setblock ~548 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~548 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~548 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~551 ~0 ~43 minecraft:redstone_lamp[lit=true]
-setblock ~551 ~0 ~48 minecraft:redstone_lamp[lit=true]
-setblock ~551 ~0 ~53 minecraft:redstone_lamp[lit=true]
-setblock ~551 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~554 ~0 ~51 minecraft:redstone_lamp[lit=true]
-setblock ~554 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~554 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~557 ~0 ~51 minecraft:redstone_lamp[lit=true]
-setblock ~557 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~557 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~560 ~0 ~51 minecraft:redstone_lamp[lit=true]
-setblock ~560 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~560 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~562 ~0 ~48 minecraft:redstone_lamp[lit=true]
-setblock ~562 ~0 ~53 minecraft:redstone_lamp[lit=true]
-setblock ~562 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~565 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~565 ~0 ~57 minecraft:redstone_lamp[lit=true]
-setblock ~565 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~568 ~0 ~48 minecraft:redstone_lamp[lit=true]
-setblock ~568 ~0 ~53 minecraft:redstone_lamp[lit=true]
-setblock ~568 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~571 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~571 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~571 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~571 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~577 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~577 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~577 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~577 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~580 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~580 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~580 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~580 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~582 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~582 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~582 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~582 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~585 ~0 ~48 minecraft:redstone_lamp[lit=true]
-setblock ~585 ~0 ~53 minecraft:redstone_lamp[lit=true]
-setblock ~585 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~585 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~588 ~0 ~51 minecraft:redstone_lamp[lit=true]
-setblock ~588 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~588 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~588 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~591 ~0 ~51 minecraft:redstone_lamp[lit=true]
-setblock ~591 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~591 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~591 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~594 ~0 ~51 minecraft:redstone_lamp[lit=true]
-setblock ~594 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~594 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~594 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~597 ~0 ~48 minecraft:redstone_lamp[lit=true]
-setblock ~597 ~0 ~53 minecraft:redstone_lamp[lit=true]
-setblock ~597 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~597 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~600 ~0 ~57 minecraft:redstone_lamp[lit=true]
-setblock ~600 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~605 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~605 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~605 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~605 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~611 ~0 ~46 minecraft:redstone_lamp[lit=true]
-setblock ~611 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~611 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~611 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~614 ~0 ~46 minecraft:redstone_lamp[lit=true]
-setblock ~614 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~614 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~614 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~617 ~0 ~46 minecraft:redstone_lamp[lit=true]
-setblock ~617 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~617 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~617 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~620 ~0 ~43 minecraft:redstone_lamp[lit=true]
-setblock ~620 ~0 ~48 minecraft:redstone_lamp[lit=true]
-setblock ~620 ~0 ~53 minecraft:redstone_lamp[lit=true]
-setblock ~620 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~622 ~0 ~51 minecraft:redstone_lamp[lit=true]
-setblock ~622 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~622 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~625 ~0 ~51 minecraft:redstone_lamp[lit=true]
-setblock ~625 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~625 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~628 ~0 ~51 minecraft:redstone_lamp[lit=true]
-setblock ~628 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~628 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~631 ~0 ~48 minecraft:redstone_lamp[lit=true]
-setblock ~631 ~0 ~53 minecraft:redstone_lamp[lit=true]
-setblock ~631 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~634 ~0 ~45 minecraft:redstone_lamp[lit=true]
-setblock ~634 ~0 ~48 minecraft:redstone_lamp[lit=true]
-setblock ~634 ~0 ~54 minecraft:redstone_lamp[lit=true]
-setblock ~637 ~0 ~43 minecraft:redstone_lamp[lit=true]
-setblock ~637 ~0 ~48 minecraft:redstone_lamp[lit=true]
-setblock ~637 ~0 ~53 minecraft:redstone_lamp[lit=true]
-setblock ~640 ~0 ~43 minecraft:redstone_lamp[lit=true]
-setblock ~640 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~642 ~0 ~57 minecraft:redstone_lamp[lit=true]
-setblock ~645 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~645 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~648 ~0 ~59 minecraft:redstone_lamp[lit=true]
-setblock ~651 ~0 ~48 minecraft:redstone_lamp[lit=true]
-setblock ~651 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~654 ~0 ~61 minecraft:redstone_lamp[lit=true]
-setblock ~657 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~657 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~660 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~662 ~0 ~43 minecraft:redstone_lamp[lit=true]
-setblock ~662 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~665 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~668 ~0 ~46 minecraft:redstone_lamp[lit=true]
-setblock ~668 ~0 ~66 minecraft:redstone_lamp[lit=true]
-setblock ~671 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~674 ~0 ~45 minecraft:redstone_lamp[lit=true]
-setblock ~674 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~677 ~0 ~57 minecraft:redstone_lamp[lit=true]
-setblock ~680 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~680 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~682 ~0 ~54 minecraft:redstone_lamp[lit=true]
-setblock ~685 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~688 ~0 ~57 minecraft:redstone_lamp[lit=true]
-setblock ~691 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~691 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~694 ~0 ~59 minecraft:redstone_lamp[lit=true]
-setblock ~697 ~0 ~48 minecraft:redstone_lamp[lit=true]
-setblock ~697 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~700 ~0 ~61 minecraft:redstone_lamp[lit=true]
-setblock ~702 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~702 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~705 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~708 ~0 ~43 minecraft:redstone_lamp[lit=true]
-setblock ~708 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~711 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~714 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~714 ~0 ~66 minecraft:redstone_lamp[lit=true]
-setblock ~717 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~720 ~0 ~48 minecraft:redstone_lamp[lit=true]
-setblock ~720 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~722 ~0 ~69 minecraft:redstone_lamp[lit=true]
-setblock ~725 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~725 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~728 ~0 ~65 minecraft:redstone_lamp[lit=true]
-setblock ~731 ~0 ~43 minecraft:redstone_lamp[lit=true]
-setblock ~731 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~742 ~0 ~79 minecraft:redstone_lamp[lit=true]
-setblock ~803 ~0 ~43 minecraft:redstone_lamp[lit=true]
-setblock ~810 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~817 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~823 ~0 ~74 minecraft:redstone_lamp[lit=true]
-setblock ~830 ~0 ~48 minecraft:redstone_lamp[lit=true]
-setblock ~830 ~0 ~74 minecraft:redstone_lamp[lit=true]
-setblock ~841 ~0 ~72 minecraft:redstone_lamp[lit=true]
-setblock ~845 ~0 ~74 minecraft:redstone_lamp[lit=true]
-setblock ~849 ~0 ~75 minecraft:redstone_lamp[lit=true]
-setblock ~860 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~867 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~875 ~0 ~69 minecraft:redstone_lamp[lit=true]
-setblock ~882 ~0 ~72 minecraft:redstone_lamp[lit=true]
-setblock ~890 ~0 ~43 minecraft:redstone_lamp[lit=true]
-setblock ~890 ~0 ~72 minecraft:redstone_lamp[lit=true]
-setblock ~901 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~905 ~0 ~72 minecraft:redstone_lamp[lit=true]
-setblock ~909 ~0 ~74 minecraft:redstone_lamp[lit=true]
-setblock ~920 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~927 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~930 ~0 ~72 minecraft:redstone_lamp[lit=true]
-setblock ~932 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~935 ~0 ~69 minecraft:redstone_lamp[lit=true]
-setblock ~942 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~950 ~0 ~51 minecraft:redstone_lamp[lit=true]
-setblock ~950 ~0 ~74 minecraft:redstone_lamp[lit=true]
-setblock ~961 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~965 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~972 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~980 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~980 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~987 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~995 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~1006 ~0 ~69 minecraft:redstone_lamp[lit=true]
-setblock ~1010 ~0 ~43 minecraft:redstone_lamp[lit=true]
-setblock ~1010 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~1017 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~1021 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~1025 ~0 ~43 minecraft:redstone_lamp[lit=true]
-setblock ~1029 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~1032 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~1036 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~1040 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~1040 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~1040 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~1040 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~1055 ~0 ~53 minecraft:redstone_lamp[lit=true]
-setblock ~1055 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~1055 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~1055 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~1066 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~1070 ~0 ~48 minecraft:redstone_lamp[lit=true]
-setblock ~1070 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~1074 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~1077 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~1081 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~1085 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~1085 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~1089 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~1092 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~1096 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~1100 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~1100 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~1104 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~1107 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~1111 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~1115 ~0 ~54 minecraft:redstone_lamp[lit=true]
-setblock ~1115 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~1119 ~0 ~69 minecraft:redstone_lamp[lit=true]
-setblock ~1122 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~1126 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~1130 ~0 ~43 minecraft:redstone_lamp[lit=true]
-setblock ~1130 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~1134 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~1137 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~1141 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~1145 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~1145 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~1149 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~1152 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~1156 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~1160 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~1160 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~1164 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~1167 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~1171 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~1175 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~1175 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~1179 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~1180 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~1182 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~1186 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~1190 ~0 ~51 minecraft:redstone_lamp[lit=true]
-setblock ~1190 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~1194 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~1197 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~1201 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~1205 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~1205 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~1209 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~1212 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~1216 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~1220 ~0 ~45 minecraft:redstone_lamp[lit=true]
-setblock ~1220 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~1224 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~1227 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~1231 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~1235 ~0 ~48 minecraft:redstone_lamp[lit=true]
-setblock ~1235 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~1239 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~1242 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~1246 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~1250 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~1250 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~1254 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~1257 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~1261 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~1265 ~0 ~54 minecraft:redstone_lamp[lit=true]
-setblock ~1265 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~1269 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~1272 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~1276 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~1280 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~1280 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~1284 ~0 ~69 minecraft:redstone_lamp[lit=true]
-setblock ~1287 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~1291 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~1295 ~0 ~54 minecraft:redstone_lamp[lit=true]
-setblock ~1295 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~1306 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~1310 ~0 ~48 minecraft:redstone_lamp[lit=true]
-setblock ~1310 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~1314 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~1317 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~1321 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~1325 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~1325 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~1329 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~1332 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~1336 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~1340 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~1340 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~1344 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~1347 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~1351 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~1355 ~0 ~54 minecraft:redstone_lamp[lit=true]
-setblock ~1355 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~1359 ~0 ~69 minecraft:redstone_lamp[lit=true]
-setblock ~1362 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~1366 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~1370 ~0 ~43 minecraft:redstone_lamp[lit=true]
-setblock ~1370 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~1374 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~1377 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~1381 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~1385 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~1385 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~1389 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~1392 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~1396 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~1400 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~1400 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~1404 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~1407 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~1411 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~1415 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~1415 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~1419 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~1420 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~1422 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~1426 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~1430 ~0 ~51 minecraft:redstone_lamp[lit=true]
-setblock ~1430 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~1434 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~1437 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~1441 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~1445 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~1445 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~1449 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~1452 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~1456 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~1460 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~1460 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~1464 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~1467 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~1471 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~1475 ~0 ~54 minecraft:redstone_lamp[lit=true]
-setblock ~1475 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~1479 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~1482 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~1486 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~1490 ~0 ~43 minecraft:redstone_lamp[lit=true]
-setblock ~1490 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~1494 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~1497 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~1501 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~1505 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~1505 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~1509 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~1512 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~1516 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~1520 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~1520 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~1524 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~1527 ~0 ~69 minecraft:redstone_lamp[lit=true]
-setblock ~1531 ~0 ~69 minecraft:redstone_lamp[lit=true]
-setblock ~1535 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~1535 ~0 ~69 minecraft:redstone_lamp[lit=true]
-setblock ~1550 ~0 ~48 minecraft:redstone_lamp[lit=true]
-setblock ~1550 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~1554 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~1557 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~1561 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~1565 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~1565 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~1569 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~1572 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~1576 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~1580 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~1580 ~0 ~72 minecraft:redstone_lamp[lit=true]
-setblock ~1591 ~0 ~54 minecraft:redstone_lamp[lit=true]
-setblock ~1595 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~1599 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~1602 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~1606 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~1610 ~0 ~43 minecraft:redstone_lamp[lit=true]
-setblock ~1610 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~1614 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~1617 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~1621 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~1625 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~1625 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~1629 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~1632 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~1636 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~1640 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~1640 ~0 ~72 minecraft:redstone_lamp[lit=true]
-setblock ~1647 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~1655 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~1655 ~0 ~69 minecraft:redstone_lamp[lit=true]
-setblock ~1659 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~1662 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~1666 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~1670 ~0 ~51 minecraft:redstone_lamp[lit=true]
-setblock ~1670 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~1674 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~1677 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~1681 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~1685 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~1685 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~1689 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~1692 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~1696 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~1700 ~0 ~45 minecraft:redstone_lamp[lit=true]
-setblock ~1700 ~0 ~72 minecraft:redstone_lamp[lit=true]
-setblock ~1715 ~0 ~48 minecraft:redstone_lamp[lit=true]
-setblock ~1722 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~1726 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~1730 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~1730 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~1734 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~1737 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~1741 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~1745 ~0 ~54 minecraft:redstone_lamp[lit=true]
-setblock ~1745 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~1749 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~1752 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~1756 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~1760 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~1760 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~1775 ~0 ~54 minecraft:redstone_lamp[lit=true]
-setblock ~1790 ~0 ~48 minecraft:redstone_lamp[lit=true]
-setblock ~1790 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~1794 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~1797 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~1801 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~1805 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~1809 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~1812 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~1816 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~1820 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~1820 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~1824 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~1827 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~1831 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~1835 ~0 ~54 minecraft:redstone_lamp[lit=true]
-setblock ~1839 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~1842 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~1846 ~0 ~69 minecraft:redstone_lamp[lit=true]
-setblock ~1850 ~0 ~43 minecraft:redstone_lamp[lit=true]
-setblock ~1850 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~1854 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~1857 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~1861 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~1865 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~1865 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~1869 ~0 ~69 minecraft:redstone_lamp[lit=true]
-setblock ~1872 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~1876 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~1880 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~1880 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~1884 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~1887 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~1891 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~1895 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~1899 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~1902 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~1906 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~1910 ~0 ~51 minecraft:redstone_lamp[lit=true]
-setblock ~1910 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~1914 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~1917 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~1921 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~1925 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~1925 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~1929 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~1932 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~1936 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~1940 ~0 ~45 minecraft:redstone_lamp[lit=true]
-setblock ~1940 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~1944 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~1947 ~0 ~69 minecraft:redstone_lamp[lit=true]
-setblock ~1951 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~1955 ~0 ~48 minecraft:redstone_lamp[lit=true]
-setblock ~1955 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~1959 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~1962 ~0 ~69 minecraft:redstone_lamp[lit=true]
-setblock ~1966 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~1970 ~0 ~43 minecraft:redstone_lamp[lit=true]
-setblock ~1970 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~1973 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~1976 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~1979 ~0 ~69 minecraft:redstone_lamp[lit=true]
-setblock ~1982 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~1982 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~1985 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~1988 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~1991 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~1994 ~0 ~43 minecraft:redstone_lamp[lit=true]
-setblock ~2000 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~2006 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~2012 ~0 ~74 minecraft:redstone_lamp[lit=true]
-setblock ~2018 ~0 ~48 minecraft:redstone_lamp[lit=true]
-setblock ~2018 ~0 ~74 minecraft:redstone_lamp[lit=true]
-setblock ~2027 ~0 ~72 minecraft:redstone_lamp[lit=true]
-setblock ~2030 ~0 ~75 minecraft:redstone_lamp[lit=true]
-setblock ~2042 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~2048 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~2054 ~0 ~54 minecraft:redstone_lamp[lit=true]
-setblock ~2054 ~0 ~69 minecraft:redstone_lamp[lit=true]
-setblock ~2060 ~0 ~72 minecraft:redstone_lamp[lit=true]
-setblock ~2066 ~0 ~43 minecraft:redstone_lamp[lit=true]
-setblock ~2066 ~0 ~72 minecraft:redstone_lamp[lit=true]
-setblock ~2075 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~2078 ~0 ~74 minecraft:redstone_lamp[lit=true]
-setblock ~2090 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~2096 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~2102 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~2102 ~0 ~69 minecraft:redstone_lamp[lit=true]
-setblock ~2108 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~2114 ~0 ~51 minecraft:redstone_lamp[lit=true]
-setblock ~2114 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~2123 ~0 ~69 minecraft:redstone_lamp[lit=true]
-setblock ~2126 ~0 ~72 minecraft:redstone_lamp[lit=true]
-setblock ~2138 ~0 ~45 minecraft:redstone_lamp[lit=true]
-setblock ~2144 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~2150 ~0 ~48 minecraft:redstone_lamp[lit=true]
-setblock ~2150 ~0 ~69 minecraft:redstone_lamp[lit=true]
-setblock ~2156 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~2162 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~2162 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~2171 ~0 ~72 minecraft:redstone_lamp[lit=true]
-setblock ~2174 ~0 ~69 minecraft:redstone_lamp[lit=true]
-setblock ~2186 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~2192 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~2198 ~0 ~54 minecraft:redstone_lamp[lit=true]
-setblock ~2198 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~2204 ~0 ~74 minecraft:redstone_lamp[lit=true]
-setblock ~2210 ~0 ~48 minecraft:redstone_lamp[lit=true]
-setblock ~2210 ~0 ~74 minecraft:redstone_lamp[lit=true]
-setblock ~2219 ~0 ~72 minecraft:redstone_lamp[lit=true]
-setblock ~2222 ~0 ~81 minecraft:redstone_lamp[lit=true]
-setblock ~2234 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~2240 ~0 ~82 minecraft:redstone_lamp[lit=true]
-setblock ~2246 ~0 ~81 minecraft:redstone_lamp[lit=true]
-setblock ~2252 ~0 ~74 minecraft:redstone_lamp[lit=true]
-setblock ~2258 ~0 ~43 minecraft:redstone_lamp[lit=true]
-setblock ~2258 ~0 ~72 minecraft:redstone_lamp[lit=true]
-setblock ~2267 ~0 ~74 minecraft:redstone_lamp[lit=true]
-setblock ~2270 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~2282 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~2288 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~2294 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~2294 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~2300 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~2306 ~0 ~51 minecraft:redstone_lamp[lit=true]
-setblock ~2306 ~0 ~74 minecraft:redstone_lamp[lit=true]
-setblock ~2315 ~0 ~72 minecraft:redstone_lamp[lit=true]
-setblock ~2318 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~2330 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~2336 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~2342 ~0 ~54 minecraft:redstone_lamp[lit=true]
-setblock ~2342 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~2351 ~0 ~69 minecraft:redstone_lamp[lit=true]
-setblock ~2354 ~0 ~43 minecraft:redstone_lamp[lit=true]
-setblock ~2354 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~2378 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~2384 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~2390 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~2396 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~2402 ~0 ~48 minecraft:redstone_lamp[lit=true]
-setblock ~2402 ~0 ~74 minecraft:redstone_lamp[lit=true]
-setblock ~2411 ~0 ~72 minecraft:redstone_lamp[lit=true]
-setblock ~2414 ~0 ~74 minecraft:redstone_lamp[lit=true]
-setblock ~2417 ~0 ~75 minecraft:redstone_lamp[lit=true]
-setblock ~2426 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~2432 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~2438 ~0 ~69 minecraft:redstone_lamp[lit=true]
-setblock ~2444 ~0 ~72 minecraft:redstone_lamp[lit=true]
-setblock ~2450 ~0 ~43 minecraft:redstone_lamp[lit=true]
-setblock ~2450 ~0 ~72 minecraft:redstone_lamp[lit=true]
-setblock ~2459 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~2462 ~0 ~72 minecraft:redstone_lamp[lit=true]
-setblock ~2465 ~0 ~74 minecraft:redstone_lamp[lit=true]
-setblock ~2474 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~2480 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~2486 ~0 ~69 minecraft:redstone_lamp[lit=true]
-setblock ~2492 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~2498 ~0 ~51 minecraft:redstone_lamp[lit=true]
-setblock ~2498 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~2507 ~0 ~69 minecraft:redstone_lamp[lit=true]
-setblock ~2510 ~0 ~72 minecraft:redstone_lamp[lit=true]
-setblock ~2522 ~0 ~45 minecraft:redstone_lamp[lit=true]
-setblock ~2528 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~2534 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~2540 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~2546 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~2546 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~2555 ~0 ~72 minecraft:redstone_lamp[lit=true]
-setblock ~2558 ~0 ~69 minecraft:redstone_lamp[lit=true]
-setblock ~2570 ~0 ~54 minecraft:redstone_lamp[lit=true]
-setblock ~2576 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~2582 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~2585 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~2588 ~0 ~77 minecraft:redstone_lamp[lit=true]
-setblock ~2591 ~0 ~75 minecraft:redstone_lamp[lit=true]
-setblock ~2594 ~0 ~48 minecraft:redstone_lamp[lit=true]
-setblock ~2594 ~0 ~74 minecraft:redstone_lamp[lit=true]
-setblock ~2603 ~0 ~72 minecraft:redstone_lamp[lit=true]
-setblock ~2606 ~0 ~81 minecraft:redstone_lamp[lit=true]
-setblock ~2618 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~2624 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~2630 ~0 ~69 minecraft:redstone_lamp[lit=true]
-setblock ~2636 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~2642 ~0 ~43 minecraft:redstone_lamp[lit=true]
-setblock ~2642 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~2651 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~2654 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~2666 ~0 ~53 minecraft:redstone_lamp[lit=true]
-setblock ~2672 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~2675 ~0 ~72 minecraft:redstone_lamp[lit=true]
-setblock ~2678 ~0 ~69 minecraft:redstone_lamp[lit=true]
-setblock ~2684 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~2690 ~0 ~51 minecraft:redstone_lamp[lit=true]
-setblock ~2690 ~0 ~74 minecraft:redstone_lamp[lit=true]
-setblock ~2699 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~2702 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~2714 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~2720 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~2726 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~2735 ~0 ~69 minecraft:redstone_lamp[lit=true]
-setblock ~2738 ~0 ~48 minecraft:redstone_lamp[lit=true]
-setblock ~2738 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~2762 ~0 ~48 minecraft:redstone_lamp[lit=true]
-setblock ~2762 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~2762 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~2762 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~2786 ~0 ~47 minecraft:redstone_lamp[lit=true]
-setblock ~2786 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~2789 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~2792 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~2795 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~2798 ~0 ~47 minecraft:redstone_lamp[lit=true]
-setblock ~2801 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~2804 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~2807 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~2810 ~0 ~47 minecraft:redstone_lamp[lit=true]
-setblock ~2810 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~2813 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~2816 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~2819 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~2822 ~0 ~47 minecraft:redstone_lamp[lit=true]
-setblock ~2825 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~2828 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~2828 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~2831 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~2831 ~0 ~65 minecraft:redstone_lamp[lit=true]
-setblock ~2834 ~0 ~48 minecraft:redstone_lamp[lit=true]
-setblock ~2834 ~0 ~65 minecraft:redstone_lamp[lit=true]
-setblock ~2840 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~2841 ~0 ~65 minecraft:redstone_lamp[lit=true]
-setblock ~2843 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~2846 ~0 ~48 minecraft:redstone_lamp[lit=true]
-setblock ~2846 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~2849 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~2852 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~2852 ~0 ~72 minecraft:redstone_lamp[lit=true]
-setblock ~2855 ~0 ~74 minecraft:redstone_lamp[lit=true]
-setblock ~2858 ~0 ~75 minecraft:redstone_lamp[lit=true]
-setblock ~2906 ~0 ~45 minecraft:redstone_lamp[lit=true]
-setblock ~2906 ~0 ~65 minecraft:redstone_lamp[lit=true]
-setblock ~2909 ~0 ~53 minecraft:redstone_lamp[lit=true]
-setblock ~2912 ~0 ~48 minecraft:redstone_lamp[lit=true]
-setblock ~2915 ~0 ~53 minecraft:redstone_lamp[lit=true]
-setblock ~2918 ~0 ~45 minecraft:redstone_lamp[lit=true]
-setblock ~2918 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~2920 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~2922 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~2924 ~0 ~59 minecraft:redstone_lamp[lit=true]
-setblock ~2927 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~2930 ~0 ~45 minecraft:redstone_lamp[lit=true]
-setblock ~2930 ~0 ~65 minecraft:redstone_lamp[lit=true]
-setblock ~2933 ~0 ~53 minecraft:redstone_lamp[lit=true]
-setblock ~2933 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~2936 ~0 ~48 minecraft:redstone_lamp[lit=true]
-setblock ~2936 ~0 ~69 minecraft:redstone_lamp[lit=true]
-setblock ~2939 ~0 ~53 minecraft:redstone_lamp[lit=true]
-setblock ~2939 ~0 ~72 minecraft:redstone_lamp[lit=true]
-setblock ~2942 ~0 ~45 minecraft:redstone_lamp[lit=true]
-setblock ~2942 ~0 ~65 minecraft:redstone_lamp[lit=true]
-setblock ~2945 ~0 ~53 minecraft:redstone_lamp[lit=true]
-setblock ~2945 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~2948 ~0 ~48 minecraft:redstone_lamp[lit=true]
-setblock ~2948 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~2951 ~0 ~53 minecraft:redstone_lamp[lit=true]
-setblock ~2951 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~2954 ~0 ~46 minecraft:redstone_lamp[lit=true]
-setblock ~2954 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~2957 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~2960 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~2963 ~0 ~57 minecraft:redstone_lamp[lit=true]
-setblock ~2966 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~2966 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~2969 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~2972 ~0 ~65 minecraft:redstone_lamp[lit=true]
-setblock ~2975 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~2978 ~0 ~74 minecraft:redstone_lamp[lit=true]
-setblock ~3026 ~0 ~51 minecraft:redstone_lamp[lit=true]
-setblock ~3026 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~3029 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~3032 ~0 ~66 minecraft:redstone_lamp[lit=true]
-setblock ~3035 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~3038 ~0 ~69 minecraft:redstone_lamp[lit=true]
-setblock ~3041 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~3044 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~3047 ~0 ~69 minecraft:redstone_lamp[lit=true]
-setblock ~3050 ~0 ~51 minecraft:redstone_lamp[lit=true]
-setblock ~3050 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~3053 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~3056 ~0 ~66 minecraft:redstone_lamp[lit=true]
-setblock ~3059 ~0 ~65 minecraft:redstone_lamp[lit=true]
-setblock ~3062 ~0 ~64 minecraft:redstone_lamp[lit=true]
-setblock ~3065 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~3068 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3071 ~0 ~61 minecraft:redstone_lamp[lit=true]
-setblock ~3074 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~3074 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3077 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~3080 ~0 ~57 minecraft:redstone_lamp[lit=true]
-setblock ~3083 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~3086 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~3089 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~3092 ~0 ~49 minecraft:redstone_lamp[lit=true]
-setblock ~3095 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~3098 ~0 ~49 minecraft:redstone_lamp[lit=true]
-setblock ~3100 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~3102 ~0 ~51 minecraft:redstone_lamp[lit=true]
-setblock ~3104 ~0 ~52 minecraft:redstone_lamp[lit=true]
-setblock ~3106 ~0 ~53 minecraft:redstone_lamp[lit=true]
-setblock ~3108 ~0 ~54 minecraft:redstone_lamp[lit=true]
-setblock ~3110 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~3114 ~0 ~57 minecraft:redstone_lamp[lit=true]
-setblock ~3116 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~3118 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~3120 ~0 ~61 minecraft:redstone_lamp[lit=true]
-setblock ~3122 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~3122 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3125 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~3128 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~3131 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3134 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~3137 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3140 ~0 ~61 minecraft:redstone_lamp[lit=true]
-setblock ~3143 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~3146 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~3146 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3149 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~3152 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~3155 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3158 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~3161 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3164 ~0 ~61 minecraft:redstone_lamp[lit=true]
-setblock ~3167 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~3170 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~3170 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3173 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~3176 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~3179 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3182 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~3185 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3188 ~0 ~61 minecraft:redstone_lamp[lit=true]
-setblock ~3191 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~3194 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~3194 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3197 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~3200 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~3203 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3206 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~3209 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3212 ~0 ~61 minecraft:redstone_lamp[lit=true]
-setblock ~3215 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~3218 ~0 ~43 minecraft:redstone_lamp[lit=true]
-setblock ~3218 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3221 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~3224 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3227 ~0 ~61 minecraft:redstone_lamp[lit=true]
-setblock ~3230 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3233 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~3236 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~3239 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~3242 ~0 ~43 minecraft:redstone_lamp[lit=true]
-setblock ~3242 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3245 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~3248 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3251 ~0 ~61 minecraft:redstone_lamp[lit=true]
-setblock ~3254 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3257 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~3260 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~3263 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~3266 ~0 ~53 minecraft:redstone_lamp[lit=true]
-setblock ~3266 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3269 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~3272 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3275 ~0 ~61 minecraft:redstone_lamp[lit=true]
-setblock ~3278 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3281 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~3284 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~3287 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~3290 ~0 ~53 minecraft:redstone_lamp[lit=true]
-setblock ~3290 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3293 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~3296 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3299 ~0 ~61 minecraft:redstone_lamp[lit=true]
-setblock ~3302 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3305 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~3308 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~3311 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~3314 ~0 ~51 minecraft:redstone_lamp[lit=true]
-setblock ~3314 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3317 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~3320 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3323 ~0 ~61 minecraft:redstone_lamp[lit=true]
-setblock ~3326 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3329 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~3332 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~3335 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~3338 ~0 ~51 minecraft:redstone_lamp[lit=true]
-setblock ~3338 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3341 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~3344 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3347 ~0 ~61 minecraft:redstone_lamp[lit=true]
-setblock ~3350 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3353 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~3356 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~3359 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~3362 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~3362 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3365 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~3368 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3371 ~0 ~61 minecraft:redstone_lamp[lit=true]
-setblock ~3374 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~3377 ~0 ~57 minecraft:redstone_lamp[lit=true]
-setblock ~3380 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~3383 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~3386 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~3386 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3389 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~3392 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3395 ~0 ~61 minecraft:redstone_lamp[lit=true]
-setblock ~3398 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3401 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~3404 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~3407 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~3410 ~0 ~43 minecraft:redstone_lamp[lit=true]
-setblock ~3410 ~0 ~74 minecraft:redstone_lamp[lit=true]
-setblock ~3413 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~3416 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~3419 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~3422 ~0 ~74 minecraft:redstone_lamp[lit=true]
-setblock ~3425 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~3428 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~3431 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~3434 ~0 ~43 minecraft:redstone_lamp[lit=true]
-setblock ~3434 ~0 ~74 minecraft:redstone_lamp[lit=true]
-setblock ~3437 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~3440 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~3443 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~3446 ~0 ~74 minecraft:redstone_lamp[lit=true]
-setblock ~3449 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~3452 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~3455 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~3458 ~0 ~53 minecraft:redstone_lamp[lit=true]
-setblock ~3458 ~0 ~74 minecraft:redstone_lamp[lit=true]
-setblock ~3461 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~3464 ~0 ~69 minecraft:redstone_lamp[lit=true]
-setblock ~3467 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~3470 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3473 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~3476 ~0 ~69 minecraft:redstone_lamp[lit=true]
-setblock ~3479 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~3482 ~0 ~53 minecraft:redstone_lamp[lit=true]
-setblock ~3482 ~0 ~74 minecraft:redstone_lamp[lit=true]
-setblock ~3485 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~3488 ~0 ~69 minecraft:redstone_lamp[lit=true]
-setblock ~3491 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~3494 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3497 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~3500 ~0 ~69 minecraft:redstone_lamp[lit=true]
-setblock ~3503 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~3506 ~0 ~51 minecraft:redstone_lamp[lit=true]
-setblock ~3506 ~0 ~74 minecraft:redstone_lamp[lit=true]
-setblock ~3509 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~3512 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~3515 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~3518 ~0 ~74 minecraft:redstone_lamp[lit=true]
-setblock ~3521 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~3524 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~3527 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~3530 ~0 ~51 minecraft:redstone_lamp[lit=true]
-setblock ~3530 ~0 ~74 minecraft:redstone_lamp[lit=true]
-setblock ~3533 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~3536 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~3539 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~3542 ~0 ~74 minecraft:redstone_lamp[lit=true]
-setblock ~3545 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~3548 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~3551 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~3554 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~3554 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3557 ~0 ~72 minecraft:redstone_lamp[lit=true]
-setblock ~3560 ~0 ~69 minecraft:redstone_lamp[lit=true]
-setblock ~3563 ~0 ~72 minecraft:redstone_lamp[lit=true]
-setblock ~3566 ~0 ~74 minecraft:redstone_lamp[lit=true]
-setblock ~3569 ~0 ~72 minecraft:redstone_lamp[lit=true]
-setblock ~3572 ~0 ~69 minecraft:redstone_lamp[lit=true]
-setblock ~3575 ~0 ~66 minecraft:redstone_lamp[lit=true]
-setblock ~3578 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~3578 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3581 ~0 ~72 minecraft:redstone_lamp[lit=true]
-setblock ~3584 ~0 ~69 minecraft:redstone_lamp[lit=true]
-setblock ~3587 ~0 ~72 minecraft:redstone_lamp[lit=true]
-setblock ~3590 ~0 ~74 minecraft:redstone_lamp[lit=true]
-setblock ~3593 ~0 ~72 minecraft:redstone_lamp[lit=true]
-setblock ~3596 ~0 ~69 minecraft:redstone_lamp[lit=true]
-setblock ~3599 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~3602 ~0 ~54 minecraft:redstone_lamp[lit=true]
-setblock ~3602 ~0 ~57 minecraft:redstone_lamp[lit=true]
-setblock ~3602 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3602 ~0 ~66 minecraft:redstone_lamp[lit=true]
-setblock ~3650 ~0 ~43 minecraft:redstone_lamp[lit=true]
-setblock ~3656 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~3659 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~3662 ~0 ~43 minecraft:redstone_lamp[lit=true]
-setblock ~3662 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~3662 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~3665 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~3668 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~3671 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~3674 ~0 ~43 minecraft:redstone_lamp[lit=true]
-setblock ~3674 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~3680 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~3683 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~3686 ~0 ~43 minecraft:redstone_lamp[lit=true]
-setblock ~3686 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~3686 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~3689 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~3692 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~3695 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~3698 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~3698 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~3704 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3707 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~3710 ~0 ~48 minecraft:redstone_lamp[lit=true]
-setblock ~3710 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3713 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~3716 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3719 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~3722 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~3722 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3728 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3731 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~3734 ~0 ~48 minecraft:redstone_lamp[lit=true]
-setblock ~3734 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3737 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~3740 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3743 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~3746 ~0 ~51 minecraft:redstone_lamp[lit=true]
-setblock ~3746 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3752 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3755 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~3758 ~0 ~48 minecraft:redstone_lamp[lit=true]
-setblock ~3758 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~3758 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3761 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~3764 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3767 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~3770 ~0 ~51 minecraft:redstone_lamp[lit=true]
-setblock ~3770 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3776 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3779 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~3782 ~0 ~48 minecraft:redstone_lamp[lit=true]
-setblock ~3782 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~3782 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3785 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~3788 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3791 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~3794 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~3794 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3800 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3803 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~3806 ~0 ~48 minecraft:redstone_lamp[lit=true]
-setblock ~3806 ~0 ~54 minecraft:redstone_lamp[lit=true]
-setblock ~3806 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3809 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~3812 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3815 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~3818 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~3818 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3824 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3827 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~3830 ~0 ~48 minecraft:redstone_lamp[lit=true]
-setblock ~3830 ~0 ~54 minecraft:redstone_lamp[lit=true]
-setblock ~3830 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3833 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~3836 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3839 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~3842 ~0 ~43 minecraft:redstone_lamp[lit=true]
-setblock ~3842 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3848 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~3850 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~3852 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~3854 ~0 ~43 minecraft:redstone_lamp[lit=true]
-setblock ~3854 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3860 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~3862 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~3864 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~3866 ~0 ~43 minecraft:redstone_lamp[lit=true]
-setblock ~3866 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3872 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~3874 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~3876 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~3878 ~0 ~43 minecraft:redstone_lamp[lit=true]
-setblock ~3878 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~3881 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3884 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~3887 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3890 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~3890 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~3896 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3898 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3900 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3902 ~0 ~48 minecraft:redstone_lamp[lit=true]
-setblock ~3902 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~3908 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3910 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3912 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3914 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~3914 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~3920 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3922 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3924 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3926 ~0 ~48 minecraft:redstone_lamp[lit=true]
-setblock ~3926 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3929 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~3932 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3935 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~3938 ~0 ~51 minecraft:redstone_lamp[lit=true]
-setblock ~3938 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3944 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~3946 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~3948 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~3950 ~0 ~48 minecraft:redstone_lamp[lit=true]
-setblock ~3950 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3956 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~3958 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~3960 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~3962 ~0 ~51 minecraft:redstone_lamp[lit=true]
-setblock ~3962 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3968 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~3970 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~3972 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~3974 ~0 ~48 minecraft:redstone_lamp[lit=true]
-setblock ~3974 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~3977 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3980 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~3983 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3986 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~3986 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3989 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3990 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~3992 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3995 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~3998 ~0 ~48 minecraft:redstone_lamp[lit=true]
-setblock ~3998 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~4001 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~4004 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~4005 ~0 ~63 minecraft:redstone_lamp[lit=true]
-setblock ~4007 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~4010 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~4010 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~4013 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~4016 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~4019 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~4022 ~0 ~48 minecraft:redstone_lamp[lit=true]
-setblock ~4022 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~4025 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~4028 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~4031 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~4034 ~0 ~43 minecraft:redstone_lamp[lit=true]
-setblock ~4046 ~0 ~43 minecraft:redstone_lamp[lit=true]
-setblock ~4046 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~4049 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~4052 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~4055 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~4058 ~0 ~43 minecraft:redstone_lamp[lit=true]
-setblock ~4058 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~4061 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~4064 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~4067 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~4070 ~0 ~43 minecraft:redstone_lamp[lit=true]
-setblock ~4070 ~0 ~65 minecraft:redstone_lamp[lit=true]
-setblock ~4076 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~4082 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~4082 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~4094 ~0 ~48 minecraft:redstone_lamp[lit=true]
-setblock ~4094 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~4097 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~4100 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~4103 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~4106 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~4106 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~4109 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~4112 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~4115 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~4118 ~0 ~48 minecraft:redstone_lamp[lit=true]
-setblock ~4118 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~4124 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~4130 ~0 ~51 minecraft:redstone_lamp[lit=true]
-setblock ~4142 ~0 ~48 minecraft:redstone_lamp[lit=true]
-setblock ~4142 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~4145 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~4148 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~4151 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~4154 ~0 ~51 minecraft:redstone_lamp[lit=true]
-setblock ~4154 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~4157 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~4160 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~4163 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~4166 ~0 ~48 minecraft:redstone_lamp[lit=true]
-setblock ~4166 ~0 ~65 minecraft:redstone_lamp[lit=true]
-setblock ~4172 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~4178 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~4178 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~4190 ~0 ~48 minecraft:redstone_lamp[lit=true]
-setblock ~4190 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~4193 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~4196 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~4199 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~4202 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~4202 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~4205 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~4208 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~4211 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~4214 ~0 ~48 minecraft:redstone_lamp[lit=true]
-setblock ~4214 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~4220 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~4226 ~0 ~43 minecraft:redstone_lamp[lit=true]
-setblock ~4238 ~0 ~43 minecraft:redstone_lamp[lit=true]
-setblock ~4238 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~4241 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~4244 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~4247 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~4250 ~0 ~43 minecraft:redstone_lamp[lit=true]
-setblock ~4250 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~4253 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~4256 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~4259 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~4262 ~0 ~43 minecraft:redstone_lamp[lit=true]
-setblock ~4262 ~0 ~65 minecraft:redstone_lamp[lit=true]
-setblock ~4268 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~4274 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~4274 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~4286 ~0 ~48 minecraft:redstone_lamp[lit=true]
-setblock ~4286 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~4289 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~4292 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~4295 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~4298 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~4298 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~4301 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~4304 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~4307 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~4310 ~0 ~48 minecraft:redstone_lamp[lit=true]
-setblock ~4310 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~4316 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~4322 ~0 ~51 minecraft:redstone_lamp[lit=true]
-setblock ~4334 ~0 ~48 minecraft:redstone_lamp[lit=true]
-setblock ~4334 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~4337 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~4340 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~4343 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~4346 ~0 ~51 minecraft:redstone_lamp[lit=true]
-setblock ~4346 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~4349 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~4352 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~4355 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~4358 ~0 ~48 minecraft:redstone_lamp[lit=true]
-setblock ~4358 ~0 ~65 minecraft:redstone_lamp[lit=true]
-setblock ~4364 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~4370 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~4370 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~4382 ~0 ~48 minecraft:redstone_lamp[lit=true]
-setblock ~4382 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~4385 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~4388 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~4391 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~4394 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~4394 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~4397 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~4400 ~0 ~60 minecraft:redstone_lamp[lit=true]
-setblock ~4403 ~0 ~58 minecraft:redstone_lamp[lit=true]
-setblock ~4406 ~0 ~48 minecraft:redstone_lamp[lit=true]
-setblock ~4406 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~4412 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~4442 ~0 ~43 minecraft:redstone_lamp[lit=true]
-setblock ~4448 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~4454 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~4460 ~0 ~74 minecraft:redstone_lamp[lit=true]
-setblock ~4466 ~0 ~48 minecraft:redstone_lamp[lit=true]
-setblock ~4466 ~0 ~74 minecraft:redstone_lamp[lit=true]
-setblock ~4475 ~0 ~72 minecraft:redstone_lamp[lit=true]
-setblock ~4478 ~0 ~75 minecraft:redstone_lamp[lit=true]
-setblock ~4490 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~4496 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~4502 ~0 ~54 minecraft:redstone_lamp[lit=true]
-setblock ~4502 ~0 ~69 minecraft:redstone_lamp[lit=true]
-setblock ~4508 ~0 ~72 minecraft:redstone_lamp[lit=true]
-setblock ~4514 ~0 ~43 minecraft:redstone_lamp[lit=true]
-setblock ~4514 ~0 ~72 minecraft:redstone_lamp[lit=true]
-setblock ~4523 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~4526 ~0 ~74 minecraft:redstone_lamp[lit=true]
-setblock ~4538 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~4544 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~4550 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~4550 ~0 ~69 minecraft:redstone_lamp[lit=true]
-setblock ~4556 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~4562 ~0 ~51 minecraft:redstone_lamp[lit=true]
-setblock ~4562 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~4571 ~0 ~69 minecraft:redstone_lamp[lit=true]
-setblock ~4574 ~0 ~72 minecraft:redstone_lamp[lit=true]
-setblock ~4586 ~0 ~45 minecraft:redstone_lamp[lit=true]
-setblock ~4592 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~4598 ~0 ~48 minecraft:redstone_lamp[lit=true]
-setblock ~4598 ~0 ~69 minecraft:redstone_lamp[lit=true]
-setblock ~4604 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~4610 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~4610 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~4619 ~0 ~72 minecraft:redstone_lamp[lit=true]
-setblock ~4622 ~0 ~69 minecraft:redstone_lamp[lit=true]
-setblock ~4634 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~4640 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~4646 ~0 ~54 minecraft:redstone_lamp[lit=true]
-setblock ~4646 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~4652 ~0 ~74 minecraft:redstone_lamp[lit=true]
-setblock ~4658 ~0 ~48 minecraft:redstone_lamp[lit=true]
-setblock ~4658 ~0 ~74 minecraft:redstone_lamp[lit=true]
-setblock ~4667 ~0 ~72 minecraft:redstone_lamp[lit=true]
-setblock ~4670 ~0 ~81 minecraft:redstone_lamp[lit=true]
-setblock ~4682 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~4688 ~0 ~82 minecraft:redstone_lamp[lit=true]
-setblock ~4694 ~0 ~81 minecraft:redstone_lamp[lit=true]
-setblock ~4700 ~0 ~74 minecraft:redstone_lamp[lit=true]
-setblock ~4706 ~0 ~43 minecraft:redstone_lamp[lit=true]
-setblock ~4706 ~0 ~72 minecraft:redstone_lamp[lit=true]
-setblock ~4715 ~0 ~74 minecraft:redstone_lamp[lit=true]
-setblock ~4718 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~4730 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~4736 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~4742 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~4742 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~4748 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~4754 ~0 ~51 minecraft:redstone_lamp[lit=true]
-setblock ~4754 ~0 ~74 minecraft:redstone_lamp[lit=true]
-setblock ~4763 ~0 ~72 minecraft:redstone_lamp[lit=true]
-setblock ~4766 ~0 ~67 minecraft:redstone_lamp[lit=true]
-setblock ~4778 ~0 ~50 minecraft:redstone_lamp[lit=true]
-setblock ~4784 ~0 ~62 minecraft:redstone_lamp[lit=true]
-setblock ~4790 ~0 ~54 minecraft:redstone_lamp[lit=true]
-setblock ~4790 ~0 ~70 minecraft:redstone_lamp[lit=true]
-setblock ~4799 ~0 ~69 minecraft:redstone_lamp[lit=true]
-setblock ~4802 ~0 ~43 minecraft:redstone_lamp[lit=true]
-setblock ~4802 ~0 ~55 minecraft:redstone_lamp[lit=true]
-setblock ~4802 ~0 ~67 minecraft:redstone_lamp[lit=true]
+execute if score @p Timer matches 0 run setblock ~0 ~0 ~43 minecraft:air
+execute if score @p Timer matches 0 run setblock ~0 ~0 ~62 minecraft:air
+execute if score @p Timer matches 2 run setblock ~2 ~0 ~58 minecraft:air
+execute if score @p Timer matches 5 run setblock ~5 ~0 ~55 minecraft:air
+execute if score @p Timer matches 8 run setblock ~8 ~0 ~67 minecraft:air
+execute if score @p Timer matches 11 run setblock ~11 ~0 ~70 minecraft:air
+execute if score @p Timer matches 14 run setblock ~14 ~0 ~58 minecraft:air
+execute if score @p Timer matches 17 run setblock ~17 ~0 ~55 minecraft:air
+execute if score @p Timer matches 20 run setblock ~20 ~0 ~67 minecraft:air
+execute if score @p Timer matches 22 run setblock ~22 ~0 ~43 minecraft:air
+execute if score @p Timer matches 22 run setblock ~22 ~0 ~62 minecraft:air
+execute if score @p Timer matches 25 run setblock ~25 ~0 ~58 minecraft:air
+execute if score @p Timer matches 28 run setblock ~28 ~0 ~55 minecraft:air
+execute if score @p Timer matches 31 run setblock ~31 ~0 ~67 minecraft:air
+execute if score @p Timer matches 34 run setblock ~34 ~0 ~70 minecraft:air
+execute if score @p Timer matches 37 run setblock ~37 ~0 ~58 minecraft:air
+execute if score @p Timer matches 40 run setblock ~40 ~0 ~55 minecraft:air
+execute if score @p Timer matches 42 run setblock ~42 ~0 ~67 minecraft:air
+execute if score @p Timer matches 45 run setblock ~45 ~0 ~53 minecraft:air
+execute if score @p Timer matches 45 run setblock ~45 ~0 ~62 minecraft:air
+execute if score @p Timer matches 48 run setblock ~48 ~0 ~58 minecraft:air
+execute if score @p Timer matches 51 run setblock ~51 ~0 ~57 minecraft:air
+execute if score @p Timer matches 54 run setblock ~54 ~0 ~69 minecraft:air
+execute if score @p Timer matches 57 run setblock ~57 ~0 ~70 minecraft:air
+execute if score @p Timer matches 60 run setblock ~60 ~0 ~58 minecraft:air
+execute if score @p Timer matches 62 run setblock ~62 ~0 ~57 minecraft:air
+execute if score @p Timer matches 65 run setblock ~65 ~0 ~69 minecraft:air
+execute if score @p Timer matches 68 run setblock ~68 ~0 ~53 minecraft:air
+execute if score @p Timer matches 68 run setblock ~68 ~0 ~62 minecraft:air
+execute if score @p Timer matches 71 run setblock ~71 ~0 ~58 minecraft:air
+execute if score @p Timer matches 74 run setblock ~74 ~0 ~57 minecraft:air
+execute if score @p Timer matches 77 run setblock ~77 ~0 ~69 minecraft:air
+execute if score @p Timer matches 80 run setblock ~80 ~0 ~70 minecraft:air
+execute if score @p Timer matches 82 run setblock ~82 ~0 ~58 minecraft:air
+execute if score @p Timer matches 85 run setblock ~85 ~0 ~57 minecraft:air
+execute if score @p Timer matches 88 run setblock ~88 ~0 ~69 minecraft:air
+execute if score @p Timer matches 91 run setblock ~91 ~0 ~51 minecraft:air
+execute if score @p Timer matches 91 run setblock ~91 ~0 ~62 minecraft:air
+execute if score @p Timer matches 94 run setblock ~94 ~0 ~58 minecraft:air
+execute if score @p Timer matches 97 run setblock ~97 ~0 ~55 minecraft:air
+execute if score @p Timer matches 100 run setblock ~100 ~0 ~67 minecraft:air
+execute if score @p Timer matches 102 run setblock ~102 ~0 ~70 minecraft:air
+execute if score @p Timer matches 105 run setblock ~105 ~0 ~58 minecraft:air
+execute if score @p Timer matches 108 run setblock ~108 ~0 ~55 minecraft:air
+execute if score @p Timer matches 111 run setblock ~111 ~0 ~67 minecraft:air
+execute if score @p Timer matches 114 run setblock ~114 ~0 ~51 minecraft:air
+execute if score @p Timer matches 114 run setblock ~114 ~0 ~62 minecraft:air
+execute if score @p Timer matches 117 run setblock ~117 ~0 ~58 minecraft:air
+execute if score @p Timer matches 120 run setblock ~120 ~0 ~55 minecraft:air
+execute if score @p Timer matches 122 run setblock ~122 ~0 ~67 minecraft:air
+execute if score @p Timer matches 125 run setblock ~125 ~0 ~70 minecraft:air
+execute if score @p Timer matches 128 run setblock ~128 ~0 ~58 minecraft:air
+execute if score @p Timer matches 131 run setblock ~131 ~0 ~55 minecraft:air
+execute if score @p Timer matches 134 run setblock ~134 ~0 ~67 minecraft:air
+execute if score @p Timer matches 137 run setblock ~137 ~0 ~50 minecraft:air
+execute if score @p Timer matches 137 run setblock ~137 ~0 ~62 minecraft:air
+execute if score @p Timer matches 140 run setblock ~140 ~0 ~58 minecraft:air
+execute if score @p Timer matches 142 run setblock ~142 ~0 ~57 minecraft:air
+execute if score @p Timer matches 145 run setblock ~145 ~0 ~69 minecraft:air
+execute if score @p Timer matches 148 run setblock ~148 ~0 ~72 minecraft:air
+execute if score @p Timer matches 151 run setblock ~151 ~0 ~58 minecraft:air
+execute if score @p Timer matches 154 run setblock ~154 ~0 ~57 minecraft:air
+execute if score @p Timer matches 157 run setblock ~157 ~0 ~70 minecraft:air
+execute if score @p Timer matches 160 run setblock ~160 ~0 ~50 minecraft:air
+execute if score @p Timer matches 160 run setblock ~160 ~0 ~62 minecraft:air
+execute if score @p Timer matches 162 run setblock ~162 ~0 ~58 minecraft:air
+execute if score @p Timer matches 165 run setblock ~165 ~0 ~57 minecraft:air
+execute if score @p Timer matches 168 run setblock ~168 ~0 ~67 minecraft:air
+execute if score @p Timer matches 171 run setblock ~171 ~0 ~66 minecraft:air
+execute if score @p Timer matches 174 run setblock ~174 ~0 ~58 minecraft:air
+execute if score @p Timer matches 177 run setblock ~177 ~0 ~57 minecraft:air
+execute if score @p Timer matches 180 run setblock ~180 ~0 ~66 minecraft:air
+execute if score @p Timer matches 182 run setblock ~182 ~0 ~43 minecraft:air
+execute if score @p Timer matches 182 run setblock ~182 ~0 ~62 minecraft:air
+execute if score @p Timer matches 185 run setblock ~185 ~0 ~58 minecraft:air
+execute if score @p Timer matches 188 run setblock ~188 ~0 ~55 minecraft:air
+execute if score @p Timer matches 191 run setblock ~191 ~0 ~67 minecraft:air
+execute if score @p Timer matches 194 run setblock ~194 ~0 ~70 minecraft:air
+execute if score @p Timer matches 197 run setblock ~197 ~0 ~58 minecraft:air
+execute if score @p Timer matches 200 run setblock ~200 ~0 ~55 minecraft:air
+execute if score @p Timer matches 202 run setblock ~202 ~0 ~67 minecraft:air
+execute if score @p Timer matches 205 run setblock ~205 ~0 ~43 minecraft:air
+execute if score @p Timer matches 205 run setblock ~205 ~0 ~62 minecraft:air
+execute if score @p Timer matches 208 run setblock ~208 ~0 ~58 minecraft:air
+execute if score @p Timer matches 211 run setblock ~211 ~0 ~55 minecraft:air
+execute if score @p Timer matches 214 run setblock ~214 ~0 ~67 minecraft:air
+execute if score @p Timer matches 217 run setblock ~217 ~0 ~70 minecraft:air
+execute if score @p Timer matches 220 run setblock ~220 ~0 ~58 minecraft:air
+execute if score @p Timer matches 222 run setblock ~222 ~0 ~55 minecraft:air
+execute if score @p Timer matches 225 run setblock ~225 ~0 ~67 minecraft:air
+execute if score @p Timer matches 228 run setblock ~228 ~0 ~53 minecraft:air
+execute if score @p Timer matches 228 run setblock ~228 ~0 ~62 minecraft:air
+execute if score @p Timer matches 231 run setblock ~231 ~0 ~58 minecraft:air
+execute if score @p Timer matches 234 run setblock ~234 ~0 ~57 minecraft:air
+execute if score @p Timer matches 237 run setblock ~237 ~0 ~69 minecraft:air
+execute if score @p Timer matches 240 run setblock ~240 ~0 ~70 minecraft:air
+execute if score @p Timer matches 242 run setblock ~242 ~0 ~58 minecraft:air
+execute if score @p Timer matches 245 run setblock ~245 ~0 ~57 minecraft:air
+execute if score @p Timer matches 248 run setblock ~248 ~0 ~69 minecraft:air
+execute if score @p Timer matches 251 run setblock ~251 ~0 ~53 minecraft:air
+execute if score @p Timer matches 251 run setblock ~251 ~0 ~62 minecraft:air
+execute if score @p Timer matches 254 run setblock ~254 ~0 ~58 minecraft:air
+execute if score @p Timer matches 257 run setblock ~257 ~0 ~57 minecraft:air
+execute if score @p Timer matches 260 run setblock ~260 ~0 ~69 minecraft:air
+execute if score @p Timer matches 262 run setblock ~262 ~0 ~70 minecraft:air
+execute if score @p Timer matches 265 run setblock ~265 ~0 ~58 minecraft:air
+execute if score @p Timer matches 268 run setblock ~268 ~0 ~57 minecraft:air
+execute if score @p Timer matches 271 run setblock ~271 ~0 ~69 minecraft:air
+execute if score @p Timer matches 274 run setblock ~274 ~0 ~51 minecraft:air
+execute if score @p Timer matches 274 run setblock ~274 ~0 ~62 minecraft:air
+execute if score @p Timer matches 277 run setblock ~277 ~0 ~58 minecraft:air
+execute if score @p Timer matches 280 run setblock ~280 ~0 ~55 minecraft:air
+execute if score @p Timer matches 282 run setblock ~282 ~0 ~67 minecraft:air
+execute if score @p Timer matches 285 run setblock ~285 ~0 ~70 minecraft:air
+execute if score @p Timer matches 288 run setblock ~288 ~0 ~58 minecraft:air
+execute if score @p Timer matches 291 run setblock ~291 ~0 ~55 minecraft:air
+execute if score @p Timer matches 294 run setblock ~294 ~0 ~67 minecraft:air
+execute if score @p Timer matches 297 run setblock ~297 ~0 ~51 minecraft:air
+execute if score @p Timer matches 297 run setblock ~297 ~0 ~62 minecraft:air
+execute if score @p Timer matches 300 run setblock ~300 ~0 ~58 minecraft:air
+execute if score @p Timer matches 302 run setblock ~302 ~0 ~55 minecraft:air
+execute if score @p Timer matches 305 run setblock ~305 ~0 ~67 minecraft:air
+execute if score @p Timer matches 308 run setblock ~308 ~0 ~70 minecraft:air
+execute if score @p Timer matches 311 run setblock ~311 ~0 ~58 minecraft:air
+execute if score @p Timer matches 314 run setblock ~314 ~0 ~55 minecraft:air
+execute if score @p Timer matches 317 run setblock ~317 ~0 ~67 minecraft:air
+execute if score @p Timer matches 320 run setblock ~320 ~0 ~50 minecraft:air
+execute if score @p Timer matches 320 run setblock ~320 ~0 ~62 minecraft:air
+execute if score @p Timer matches 322 run setblock ~322 ~0 ~58 minecraft:air
+execute if score @p Timer matches 325 run setblock ~325 ~0 ~57 minecraft:air
+execute if score @p Timer matches 328 run setblock ~328 ~0 ~69 minecraft:air
+execute if score @p Timer matches 331 run setblock ~331 ~0 ~72 minecraft:air
+execute if score @p Timer matches 334 run setblock ~334 ~0 ~58 minecraft:air
+execute if score @p Timer matches 337 run setblock ~337 ~0 ~57 minecraft:air
+execute if score @p Timer matches 340 run setblock ~340 ~0 ~70 minecraft:air
+execute if score @p Timer matches 342 run setblock ~342 ~0 ~50 minecraft:air
+execute if score @p Timer matches 342 run setblock ~342 ~0 ~62 minecraft:air
+execute if score @p Timer matches 345 run setblock ~345 ~0 ~58 minecraft:air
+execute if score @p Timer matches 348 run setblock ~348 ~0 ~57 minecraft:air
+execute if score @p Timer matches 351 run setblock ~351 ~0 ~67 minecraft:air
+execute if score @p Timer matches 354 run setblock ~354 ~0 ~66 minecraft:air
+execute if score @p Timer matches 357 run setblock ~357 ~0 ~58 minecraft:air
+execute if score @p Timer matches 360 run setblock ~360 ~0 ~57 minecraft:air
+execute if score @p Timer matches 362 run setblock ~362 ~0 ~66 minecraft:air
+execute if score @p Timer matches 365 run setblock ~365 ~0 ~43 minecraft:air
+execute if score @p Timer matches 365 run setblock ~365 ~0 ~74 minecraft:air
+execute if score @p Timer matches 365 run setblock ~365 ~0 ~79 minecraft:air
+execute if score @p Timer matches 371 run setblock ~371 ~0 ~70 minecraft:air
+execute if score @p Timer matches 371 run setblock ~371 ~0 ~74 minecraft:air
+execute if score @p Timer matches 374 run setblock ~374 ~0 ~70 minecraft:air
+execute if score @p Timer matches 374 run setblock ~374 ~0 ~74 minecraft:air
+execute if score @p Timer matches 377 run setblock ~377 ~0 ~70 minecraft:air
+execute if score @p Timer matches 377 run setblock ~377 ~0 ~74 minecraft:air
+execute if score @p Timer matches 380 run setblock ~380 ~0 ~58 minecraft:air
+execute if score @p Timer matches 380 run setblock ~380 ~0 ~62 minecraft:air
+execute if score @p Timer matches 382 run setblock ~382 ~0 ~43 minecraft:air
+execute if score @p Timer matches 382 run setblock ~382 ~0 ~72 minecraft:air
+execute if score @p Timer matches 382 run setblock ~382 ~0 ~75 minecraft:air
+execute if score @p Timer matches 385 run setblock ~385 ~0 ~72 minecraft:air
+execute if score @p Timer matches 385 run setblock ~385 ~0 ~75 minecraft:air
+execute if score @p Timer matches 388 run setblock ~388 ~0 ~72 minecraft:air
+execute if score @p Timer matches 388 run setblock ~388 ~0 ~75 minecraft:air
+execute if score @p Timer matches 391 run setblock ~391 ~0 ~62 minecraft:air
+execute if score @p Timer matches 391 run setblock ~391 ~0 ~67 minecraft:air
+execute if score @p Timer matches 394 run setblock ~394 ~0 ~69 minecraft:air
+execute if score @p Timer matches 394 run setblock ~394 ~0 ~72 minecraft:air
+execute if score @p Timer matches 400 run setblock ~400 ~0 ~53 minecraft:air
+execute if score @p Timer matches 400 run setblock ~400 ~0 ~70 minecraft:air
+execute if score @p Timer matches 400 run setblock ~400 ~0 ~74 minecraft:air
+execute if score @p Timer matches 405 run setblock ~405 ~0 ~67 minecraft:air
+execute if score @p Timer matches 405 run setblock ~405 ~0 ~70 minecraft:air
+execute if score @p Timer matches 408 run setblock ~408 ~0 ~67 minecraft:air
+execute if score @p Timer matches 408 run setblock ~408 ~0 ~70 minecraft:air
+execute if score @p Timer matches 411 run setblock ~411 ~0 ~67 minecraft:air
+execute if score @p Timer matches 411 run setblock ~411 ~0 ~70 minecraft:air
+execute if score @p Timer matches 414 run setblock ~414 ~0 ~58 minecraft:air
+execute if score @p Timer matches 414 run setblock ~414 ~0 ~62 minecraft:air
+execute if score @p Timer matches 417 run setblock ~417 ~0 ~53 minecraft:air
+execute if score @p Timer matches 417 run setblock ~417 ~0 ~67 minecraft:air
+execute if score @p Timer matches 417 run setblock ~417 ~0 ~72 minecraft:air
+execute if score @p Timer matches 420 run setblock ~420 ~0 ~67 minecraft:air
+execute if score @p Timer matches 420 run setblock ~420 ~0 ~72 minecraft:air
+execute if score @p Timer matches 422 run setblock ~422 ~0 ~67 minecraft:air
+execute if score @p Timer matches 422 run setblock ~422 ~0 ~72 minecraft:air
+execute if score @p Timer matches 425 run setblock ~425 ~0 ~62 minecraft:air
+execute if score @p Timer matches 425 run setblock ~425 ~0 ~67 minecraft:air
+execute if score @p Timer matches 428 run setblock ~428 ~0 ~69 minecraft:air
+execute if score @p Timer matches 428 run setblock ~428 ~0 ~74 minecraft:air
+execute if score @p Timer matches 434 run setblock ~434 ~0 ~51 minecraft:air
+execute if score @p Timer matches 434 run setblock ~434 ~0 ~74 minecraft:air
+execute if score @p Timer matches 434 run setblock ~434 ~0 ~79 minecraft:air
+execute if score @p Timer matches 440 run setblock ~440 ~0 ~70 minecraft:air
+execute if score @p Timer matches 440 run setblock ~440 ~0 ~74 minecraft:air
+execute if score @p Timer matches 442 run setblock ~442 ~0 ~70 minecraft:air
+execute if score @p Timer matches 442 run setblock ~442 ~0 ~74 minecraft:air
+execute if score @p Timer matches 445 run setblock ~445 ~0 ~70 minecraft:air
+execute if score @p Timer matches 445 run setblock ~445 ~0 ~74 minecraft:air
+execute if score @p Timer matches 448 run setblock ~448 ~0 ~58 minecraft:air
+execute if score @p Timer matches 448 run setblock ~448 ~0 ~62 minecraft:air
+execute if score @p Timer matches 451 run setblock ~451 ~0 ~51 minecraft:air
+execute if score @p Timer matches 451 run setblock ~451 ~0 ~72 minecraft:air
+execute if score @p Timer matches 451 run setblock ~451 ~0 ~75 minecraft:air
+execute if score @p Timer matches 454 run setblock ~454 ~0 ~72 minecraft:air
+execute if score @p Timer matches 454 run setblock ~454 ~0 ~75 minecraft:air
+execute if score @p Timer matches 457 run setblock ~457 ~0 ~72 minecraft:air
+execute if score @p Timer matches 457 run setblock ~457 ~0 ~75 minecraft:air
+execute if score @p Timer matches 460 run setblock ~460 ~0 ~62 minecraft:air
+execute if score @p Timer matches 460 run setblock ~460 ~0 ~67 minecraft:air
+execute if score @p Timer matches 462 run setblock ~462 ~0 ~69 minecraft:air
+execute if score @p Timer matches 462 run setblock ~462 ~0 ~72 minecraft:air
+execute if score @p Timer matches 468 run setblock ~468 ~0 ~50 minecraft:air
+execute if score @p Timer matches 468 run setblock ~468 ~0 ~70 minecraft:air
+execute if score @p Timer matches 468 run setblock ~468 ~0 ~74 minecraft:air
+execute if score @p Timer matches 474 run setblock ~474 ~0 ~67 minecraft:air
+execute if score @p Timer matches 474 run setblock ~474 ~0 ~70 minecraft:air
+execute if score @p Timer matches 477 run setblock ~477 ~0 ~67 minecraft:air
+execute if score @p Timer matches 477 run setblock ~477 ~0 ~70 minecraft:air
+execute if score @p Timer matches 480 run setblock ~480 ~0 ~67 minecraft:air
+execute if score @p Timer matches 480 run setblock ~480 ~0 ~70 minecraft:air
+execute if score @p Timer matches 482 run setblock ~482 ~0 ~58 minecraft:air
+execute if score @p Timer matches 482 run setblock ~482 ~0 ~62 minecraft:air
+execute if score @p Timer matches 485 run setblock ~485 ~0 ~50 minecraft:air
+execute if score @p Timer matches 485 run setblock ~485 ~0 ~67 minecraft:air
+execute if score @p Timer matches 485 run setblock ~485 ~0 ~72 minecraft:air
+execute if score @p Timer matches 488 run setblock ~488 ~0 ~67 minecraft:air
+execute if score @p Timer matches 488 run setblock ~488 ~0 ~72 minecraft:air
+execute if score @p Timer matches 491 run setblock ~491 ~0 ~67 minecraft:air
+execute if score @p Timer matches 491 run setblock ~491 ~0 ~72 minecraft:air
+execute if score @p Timer matches 494 run setblock ~494 ~0 ~62 minecraft:air
+execute if score @p Timer matches 494 run setblock ~494 ~0 ~67 minecraft:air
+execute if score @p Timer matches 497 run setblock ~497 ~0 ~66 minecraft:air
+execute if score @p Timer matches 497 run setblock ~497 ~0 ~69 minecraft:air
+execute if score @p Timer matches 500 run setblock ~500 ~0 ~62 minecraft:air
+execute if score @p Timer matches 500 run setblock ~500 ~0 ~67 minecraft:air
+execute if score @p Timer matches 502 run setblock ~502 ~0 ~55 minecraft:air
+execute if score @p Timer matches 502 run setblock ~502 ~0 ~58 minecraft:air
+execute if score @p Timer matches 502 run setblock ~502 ~0 ~62 minecraft:air
+execute if score @p Timer matches 502 run setblock ~502 ~0 ~67 minecraft:air
+execute if score @p Timer matches 508 run setblock ~508 ~0 ~50 minecraft:air
+execute if score @p Timer matches 508 run setblock ~508 ~0 ~55 minecraft:air
+execute if score @p Timer matches 508 run setblock ~508 ~0 ~58 minecraft:air
+execute if score @p Timer matches 508 run setblock ~508 ~0 ~62 minecraft:air
+execute if score @p Timer matches 511 run setblock ~511 ~0 ~50 minecraft:air
+execute if score @p Timer matches 511 run setblock ~511 ~0 ~55 minecraft:air
+execute if score @p Timer matches 511 run setblock ~511 ~0 ~58 minecraft:air
+execute if score @p Timer matches 511 run setblock ~511 ~0 ~62 minecraft:air
+execute if score @p Timer matches 514 run setblock ~514 ~0 ~50 minecraft:air
+execute if score @p Timer matches 514 run setblock ~514 ~0 ~55 minecraft:air
+execute if score @p Timer matches 514 run setblock ~514 ~0 ~58 minecraft:air
+execute if score @p Timer matches 514 run setblock ~514 ~0 ~62 minecraft:air
+execute if score @p Timer matches 517 run setblock ~517 ~0 ~48 minecraft:air
+execute if score @p Timer matches 517 run setblock ~517 ~0 ~53 minecraft:air
+execute if score @p Timer matches 517 run setblock ~517 ~0 ~58 minecraft:air
+execute if score @p Timer matches 517 run setblock ~517 ~0 ~62 minecraft:air
+execute if score @p Timer matches 520 run setblock ~520 ~0 ~51 minecraft:air
+execute if score @p Timer matches 520 run setblock ~520 ~0 ~55 minecraft:air
+execute if score @p Timer matches 520 run setblock ~520 ~0 ~60 minecraft:air
+execute if score @p Timer matches 520 run setblock ~520 ~0 ~63 minecraft:air
+execute if score @p Timer matches 522 run setblock ~522 ~0 ~51 minecraft:air
+execute if score @p Timer matches 522 run setblock ~522 ~0 ~55 minecraft:air
+execute if score @p Timer matches 522 run setblock ~522 ~0 ~60 minecraft:air
+execute if score @p Timer matches 522 run setblock ~522 ~0 ~63 minecraft:air
+execute if score @p Timer matches 525 run setblock ~525 ~0 ~51 minecraft:air
+execute if score @p Timer matches 525 run setblock ~525 ~0 ~55 minecraft:air
+execute if score @p Timer matches 525 run setblock ~525 ~0 ~60 minecraft:air
+execute if score @p Timer matches 525 run setblock ~525 ~0 ~63 minecraft:air
+execute if score @p Timer matches 528 run setblock ~528 ~0 ~48 minecraft:air
+execute if score @p Timer matches 528 run setblock ~528 ~0 ~53 minecraft:air
+execute if score @p Timer matches 528 run setblock ~528 ~0 ~58 minecraft:air
+execute if score @p Timer matches 528 run setblock ~528 ~0 ~62 minecraft:air
+execute if score @p Timer matches 531 run setblock ~531 ~0 ~57 minecraft:air
+execute if score @p Timer matches 531 run setblock ~531 ~0 ~60 minecraft:air
+execute if score @p Timer matches 537 run setblock ~537 ~0 ~50 minecraft:air
+execute if score @p Timer matches 537 run setblock ~537 ~0 ~55 minecraft:air
+execute if score @p Timer matches 537 run setblock ~537 ~0 ~58 minecraft:air
+execute if score @p Timer matches 537 run setblock ~537 ~0 ~62 minecraft:air
+execute if score @p Timer matches 542 run setblock ~542 ~0 ~46 minecraft:air
+execute if score @p Timer matches 542 run setblock ~542 ~0 ~50 minecraft:air
+execute if score @p Timer matches 542 run setblock ~542 ~0 ~55 minecraft:air
+execute if score @p Timer matches 542 run setblock ~542 ~0 ~58 minecraft:air
+execute if score @p Timer matches 545 run setblock ~545 ~0 ~46 minecraft:air
+execute if score @p Timer matches 545 run setblock ~545 ~0 ~50 minecraft:air
+execute if score @p Timer matches 545 run setblock ~545 ~0 ~55 minecraft:air
+execute if score @p Timer matches 545 run setblock ~545 ~0 ~58 minecraft:air
+execute if score @p Timer matches 548 run setblock ~548 ~0 ~46 minecraft:air
+execute if score @p Timer matches 548 run setblock ~548 ~0 ~50 minecraft:air
+execute if score @p Timer matches 548 run setblock ~548 ~0 ~55 minecraft:air
+execute if score @p Timer matches 548 run setblock ~548 ~0 ~58 minecraft:air
+execute if score @p Timer matches 551 run setblock ~551 ~0 ~43 minecraft:air
+execute if score @p Timer matches 551 run setblock ~551 ~0 ~48 minecraft:air
+execute if score @p Timer matches 551 run setblock ~551 ~0 ~53 minecraft:air
+execute if score @p Timer matches 551 run setblock ~551 ~0 ~58 minecraft:air
+execute if score @p Timer matches 554 run setblock ~554 ~0 ~51 minecraft:air
+execute if score @p Timer matches 554 run setblock ~554 ~0 ~55 minecraft:air
+execute if score @p Timer matches 554 run setblock ~554 ~0 ~60 minecraft:air
+execute if score @p Timer matches 557 run setblock ~557 ~0 ~51 minecraft:air
+execute if score @p Timer matches 557 run setblock ~557 ~0 ~55 minecraft:air
+execute if score @p Timer matches 557 run setblock ~557 ~0 ~60 minecraft:air
+execute if score @p Timer matches 560 run setblock ~560 ~0 ~51 minecraft:air
+execute if score @p Timer matches 560 run setblock ~560 ~0 ~55 minecraft:air
+execute if score @p Timer matches 560 run setblock ~560 ~0 ~60 minecraft:air
+execute if score @p Timer matches 562 run setblock ~562 ~0 ~48 minecraft:air
+execute if score @p Timer matches 562 run setblock ~562 ~0 ~53 minecraft:air
+execute if score @p Timer matches 562 run setblock ~562 ~0 ~58 minecraft:air
+execute if score @p Timer matches 565 run setblock ~565 ~0 ~50 minecraft:air
+execute if score @p Timer matches 565 run setblock ~565 ~0 ~57 minecraft:air
+execute if score @p Timer matches 565 run setblock ~565 ~0 ~62 minecraft:air
+execute if score @p Timer matches 568 run setblock ~568 ~0 ~48 minecraft:air
+execute if score @p Timer matches 568 run setblock ~568 ~0 ~53 minecraft:air
+execute if score @p Timer matches 568 run setblock ~568 ~0 ~62 minecraft:air
+execute if score @p Timer matches 571 run setblock ~571 ~0 ~55 minecraft:air
+execute if score @p Timer matches 571 run setblock ~571 ~0 ~58 minecraft:air
+execute if score @p Timer matches 571 run setblock ~571 ~0 ~62 minecraft:air
+execute if score @p Timer matches 571 run setblock ~571 ~0 ~67 minecraft:air
+execute if score @p Timer matches 577 run setblock ~577 ~0 ~50 minecraft:air
+execute if score @p Timer matches 577 run setblock ~577 ~0 ~55 minecraft:air
+execute if score @p Timer matches 577 run setblock ~577 ~0 ~58 minecraft:air
+execute if score @p Timer matches 577 run setblock ~577 ~0 ~62 minecraft:air
+execute if score @p Timer matches 580 run setblock ~580 ~0 ~50 minecraft:air
+execute if score @p Timer matches 580 run setblock ~580 ~0 ~55 minecraft:air
+execute if score @p Timer matches 580 run setblock ~580 ~0 ~58 minecraft:air
+execute if score @p Timer matches 580 run setblock ~580 ~0 ~62 minecraft:air
+execute if score @p Timer matches 582 run setblock ~582 ~0 ~50 minecraft:air
+execute if score @p Timer matches 582 run setblock ~582 ~0 ~55 minecraft:air
+execute if score @p Timer matches 582 run setblock ~582 ~0 ~58 minecraft:air
+execute if score @p Timer matches 582 run setblock ~582 ~0 ~62 minecraft:air
+execute if score @p Timer matches 585 run setblock ~585 ~0 ~48 minecraft:air
+execute if score @p Timer matches 585 run setblock ~585 ~0 ~53 minecraft:air
+execute if score @p Timer matches 585 run setblock ~585 ~0 ~58 minecraft:air
+execute if score @p Timer matches 585 run setblock ~585 ~0 ~62 minecraft:air
+execute if score @p Timer matches 588 run setblock ~588 ~0 ~51 minecraft:air
+execute if score @p Timer matches 588 run setblock ~588 ~0 ~55 minecraft:air
+execute if score @p Timer matches 588 run setblock ~588 ~0 ~60 minecraft:air
+execute if score @p Timer matches 588 run setblock ~588 ~0 ~63 minecraft:air
+execute if score @p Timer matches 591 run setblock ~591 ~0 ~51 minecraft:air
+execute if score @p Timer matches 591 run setblock ~591 ~0 ~55 minecraft:air
+execute if score @p Timer matches 591 run setblock ~591 ~0 ~60 minecraft:air
+execute if score @p Timer matches 591 run setblock ~591 ~0 ~63 minecraft:air
+execute if score @p Timer matches 594 run setblock ~594 ~0 ~51 minecraft:air
+execute if score @p Timer matches 594 run setblock ~594 ~0 ~55 minecraft:air
+execute if score @p Timer matches 594 run setblock ~594 ~0 ~60 minecraft:air
+execute if score @p Timer matches 594 run setblock ~594 ~0 ~63 minecraft:air
+execute if score @p Timer matches 597 run setblock ~597 ~0 ~48 minecraft:air
+execute if score @p Timer matches 597 run setblock ~597 ~0 ~53 minecraft:air
+execute if score @p Timer matches 597 run setblock ~597 ~0 ~58 minecraft:air
+execute if score @p Timer matches 597 run setblock ~597 ~0 ~62 minecraft:air
+execute if score @p Timer matches 600 run setblock ~600 ~0 ~57 minecraft:air
+execute if score @p Timer matches 600 run setblock ~600 ~0 ~60 minecraft:air
+execute if score @p Timer matches 605 run setblock ~605 ~0 ~50 minecraft:air
+execute if score @p Timer matches 605 run setblock ~605 ~0 ~55 minecraft:air
+execute if score @p Timer matches 605 run setblock ~605 ~0 ~58 minecraft:air
+execute if score @p Timer matches 605 run setblock ~605 ~0 ~62 minecraft:air
+execute if score @p Timer matches 611 run setblock ~611 ~0 ~46 minecraft:air
+execute if score @p Timer matches 611 run setblock ~611 ~0 ~50 minecraft:air
+execute if score @p Timer matches 611 run setblock ~611 ~0 ~55 minecraft:air
+execute if score @p Timer matches 611 run setblock ~611 ~0 ~58 minecraft:air
+execute if score @p Timer matches 614 run setblock ~614 ~0 ~46 minecraft:air
+execute if score @p Timer matches 614 run setblock ~614 ~0 ~50 minecraft:air
+execute if score @p Timer matches 614 run setblock ~614 ~0 ~55 minecraft:air
+execute if score @p Timer matches 614 run setblock ~614 ~0 ~58 minecraft:air
+execute if score @p Timer matches 617 run setblock ~617 ~0 ~46 minecraft:air
+execute if score @p Timer matches 617 run setblock ~617 ~0 ~50 minecraft:air
+execute if score @p Timer matches 617 run setblock ~617 ~0 ~55 minecraft:air
+execute if score @p Timer matches 617 run setblock ~617 ~0 ~58 minecraft:air
+execute if score @p Timer matches 620 run setblock ~620 ~0 ~43 minecraft:air
+execute if score @p Timer matches 620 run setblock ~620 ~0 ~48 minecraft:air
+execute if score @p Timer matches 620 run setblock ~620 ~0 ~53 minecraft:air
+execute if score @p Timer matches 620 run setblock ~620 ~0 ~58 minecraft:air
+execute if score @p Timer matches 622 run setblock ~622 ~0 ~51 minecraft:air
+execute if score @p Timer matches 622 run setblock ~622 ~0 ~55 minecraft:air
+execute if score @p Timer matches 622 run setblock ~622 ~0 ~60 minecraft:air
+execute if score @p Timer matches 625 run setblock ~625 ~0 ~51 minecraft:air
+execute if score @p Timer matches 625 run setblock ~625 ~0 ~55 minecraft:air
+execute if score @p Timer matches 625 run setblock ~625 ~0 ~60 minecraft:air
+execute if score @p Timer matches 628 run setblock ~628 ~0 ~51 minecraft:air
+execute if score @p Timer matches 628 run setblock ~628 ~0 ~55 minecraft:air
+execute if score @p Timer matches 628 run setblock ~628 ~0 ~60 minecraft:air
+execute if score @p Timer matches 631 run setblock ~631 ~0 ~48 minecraft:air
+execute if score @p Timer matches 631 run setblock ~631 ~0 ~53 minecraft:air
+execute if score @p Timer matches 631 run setblock ~631 ~0 ~58 minecraft:air
+execute if score @p Timer matches 634 run setblock ~634 ~0 ~45 minecraft:air
+execute if score @p Timer matches 634 run setblock ~634 ~0 ~48 minecraft:air
+execute if score @p Timer matches 634 run setblock ~634 ~0 ~54 minecraft:air
+execute if score @p Timer matches 637 run setblock ~637 ~0 ~43 minecraft:air
+execute if score @p Timer matches 637 run setblock ~637 ~0 ~48 minecraft:air
+execute if score @p Timer matches 637 run setblock ~637 ~0 ~53 minecraft:air
+execute if score @p Timer matches 640 run setblock ~640 ~0 ~43 minecraft:air
+execute if score @p Timer matches 640 run setblock ~640 ~0 ~55 minecraft:air
+execute if score @p Timer matches 642 run setblock ~642 ~0 ~57 minecraft:air
+execute if score @p Timer matches 645 run setblock ~645 ~0 ~50 minecraft:air
+execute if score @p Timer matches 645 run setblock ~645 ~0 ~58 minecraft:air
+execute if score @p Timer matches 648 run setblock ~648 ~0 ~59 minecraft:air
+execute if score @p Timer matches 651 run setblock ~651 ~0 ~48 minecraft:air
+execute if score @p Timer matches 651 run setblock ~651 ~0 ~60 minecraft:air
+execute if score @p Timer matches 654 run setblock ~654 ~0 ~61 minecraft:air
+execute if score @p Timer matches 657 run setblock ~657 ~0 ~50 minecraft:air
+execute if score @p Timer matches 657 run setblock ~657 ~0 ~62 minecraft:air
+execute if score @p Timer matches 660 run setblock ~660 ~0 ~63 minecraft:air
+execute if score @p Timer matches 662 run setblock ~662 ~0 ~43 minecraft:air
+execute if score @p Timer matches 662 run setblock ~662 ~0 ~62 minecraft:air
+execute if score @p Timer matches 665 run setblock ~665 ~0 ~67 minecraft:air
+execute if score @p Timer matches 668 run setblock ~668 ~0 ~46 minecraft:air
+execute if score @p Timer matches 668 run setblock ~668 ~0 ~66 minecraft:air
+execute if score @p Timer matches 671 run setblock ~671 ~0 ~67 minecraft:air
+execute if score @p Timer matches 674 run setblock ~674 ~0 ~45 minecraft:air
+execute if score @p Timer matches 674 run setblock ~674 ~0 ~58 minecraft:air
+execute if score @p Timer matches 677 run setblock ~677 ~0 ~57 minecraft:air
+execute if score @p Timer matches 680 run setblock ~680 ~0 ~50 minecraft:air
+execute if score @p Timer matches 680 run setblock ~680 ~0 ~55 minecraft:air
+execute if score @p Timer matches 682 run setblock ~682 ~0 ~54 minecraft:air
+execute if score @p Timer matches 685 run setblock ~685 ~0 ~55 minecraft:air
+execute if score @p Timer matches 688 run setblock ~688 ~0 ~57 minecraft:air
+execute if score @p Timer matches 691 run setblock ~691 ~0 ~50 minecraft:air
+execute if score @p Timer matches 691 run setblock ~691 ~0 ~58 minecraft:air
+execute if score @p Timer matches 694 run setblock ~694 ~0 ~59 minecraft:air
+execute if score @p Timer matches 697 run setblock ~697 ~0 ~48 minecraft:air
+execute if score @p Timer matches 697 run setblock ~697 ~0 ~60 minecraft:air
+execute if score @p Timer matches 700 run setblock ~700 ~0 ~61 minecraft:air
+execute if score @p Timer matches 702 run setblock ~702 ~0 ~50 minecraft:air
+execute if score @p Timer matches 702 run setblock ~702 ~0 ~62 minecraft:air
+execute if score @p Timer matches 705 run setblock ~705 ~0 ~63 minecraft:air
+execute if score @p Timer matches 708 run setblock ~708 ~0 ~43 minecraft:air
+execute if score @p Timer matches 708 run setblock ~708 ~0 ~62 minecraft:air
+execute if score @p Timer matches 711 run setblock ~711 ~0 ~67 minecraft:air
+execute if score @p Timer matches 714 run setblock ~714 ~0 ~50 minecraft:air
+execute if score @p Timer matches 714 run setblock ~714 ~0 ~66 minecraft:air
+execute if score @p Timer matches 717 run setblock ~717 ~0 ~67 minecraft:air
+execute if score @p Timer matches 720 run setblock ~720 ~0 ~48 minecraft:air
+execute if score @p Timer matches 720 run setblock ~720 ~0 ~70 minecraft:air
+execute if score @p Timer matches 722 run setblock ~722 ~0 ~69 minecraft:air
+execute if score @p Timer matches 725 run setblock ~725 ~0 ~50 minecraft:air
+execute if score @p Timer matches 725 run setblock ~725 ~0 ~67 minecraft:air
+execute if score @p Timer matches 728 run setblock ~728 ~0 ~65 minecraft:air
+execute if score @p Timer matches 731 run setblock ~731 ~0 ~43 minecraft:air
+execute if score @p Timer matches 731 run setblock ~731 ~0 ~67 minecraft:air
+execute if score @p Timer matches 742 run setblock ~742 ~0 ~79 minecraft:air
+execute if score @p Timer matches 803 run setblock ~803 ~0 ~43 minecraft:air
+execute if score @p Timer matches 810 run setblock ~810 ~0 ~62 minecraft:air
+execute if score @p Timer matches 817 run setblock ~817 ~0 ~67 minecraft:air
+execute if score @p Timer matches 823 run setblock ~823 ~0 ~74 minecraft:air
+execute if score @p Timer matches 830 run setblock ~830 ~0 ~48 minecraft:air
+execute if score @p Timer matches 830 run setblock ~830 ~0 ~74 minecraft:air
+execute if score @p Timer matches 841 run setblock ~841 ~0 ~72 minecraft:air
+execute if score @p Timer matches 845 run setblock ~845 ~0 ~74 minecraft:air
+execute if score @p Timer matches 849 run setblock ~849 ~0 ~75 minecraft:air
+execute if score @p Timer matches 860 run setblock ~860 ~0 ~50 minecraft:air
+execute if score @p Timer matches 867 run setblock ~867 ~0 ~62 minecraft:air
+execute if score @p Timer matches 875 run setblock ~875 ~0 ~69 minecraft:air
+execute if score @p Timer matches 882 run setblock ~882 ~0 ~72 minecraft:air
+execute if score @p Timer matches 890 run setblock ~890 ~0 ~43 minecraft:air
+execute if score @p Timer matches 890 run setblock ~890 ~0 ~72 minecraft:air
+execute if score @p Timer matches 901 run setblock ~901 ~0 ~70 minecraft:air
+execute if score @p Timer matches 905 run setblock ~905 ~0 ~72 minecraft:air
+execute if score @p Timer matches 909 run setblock ~909 ~0 ~74 minecraft:air
+execute if score @p Timer matches 920 run setblock ~920 ~0 ~55 minecraft:air
+execute if score @p Timer matches 927 run setblock ~927 ~0 ~70 minecraft:air
+execute if score @p Timer matches 930 run setblock ~930 ~0 ~72 minecraft:air
+execute if score @p Timer matches 932 run setblock ~932 ~0 ~70 minecraft:air
+execute if score @p Timer matches 935 run setblock ~935 ~0 ~69 minecraft:air
+execute if score @p Timer matches 942 run setblock ~942 ~0 ~70 minecraft:air
+execute if score @p Timer matches 950 run setblock ~950 ~0 ~51 minecraft:air
+execute if score @p Timer matches 950 run setblock ~950 ~0 ~74 minecraft:air
+execute if score @p Timer matches 961 run setblock ~961 ~0 ~70 minecraft:air
+execute if score @p Timer matches 965 run setblock ~965 ~0 ~67 minecraft:air
+execute if score @p Timer matches 972 run setblock ~972 ~0 ~58 minecraft:air
+execute if score @p Timer matches 980 run setblock ~980 ~0 ~50 minecraft:air
+execute if score @p Timer matches 980 run setblock ~980 ~0 ~67 minecraft:air
+execute if score @p Timer matches 987 run setblock ~987 ~0 ~62 minecraft:air
+execute if score @p Timer matches 995 run setblock ~995 ~0 ~70 minecraft:air
+execute if score @p Timer matches 1006 run setblock ~1006 ~0 ~69 minecraft:air
+execute if score @p Timer matches 1010 run setblock ~1010 ~0 ~43 minecraft:air
+execute if score @p Timer matches 1010 run setblock ~1010 ~0 ~67 minecraft:air
+execute if score @p Timer matches 1017 run setblock ~1017 ~0 ~58 minecraft:air
+execute if score @p Timer matches 1021 run setblock ~1021 ~0 ~62 minecraft:air
+execute if score @p Timer matches 1025 run setblock ~1025 ~0 ~43 minecraft:air
+execute if score @p Timer matches 1029 run setblock ~1029 ~0 ~67 minecraft:air
+execute if score @p Timer matches 1032 run setblock ~1032 ~0 ~58 minecraft:air
+execute if score @p Timer matches 1036 run setblock ~1036 ~0 ~62 minecraft:air
+execute if score @p Timer matches 1040 run setblock ~1040 ~0 ~55 minecraft:air
+execute if score @p Timer matches 1040 run setblock ~1040 ~0 ~58 minecraft:air
+execute if score @p Timer matches 1040 run setblock ~1040 ~0 ~62 minecraft:air
+execute if score @p Timer matches 1040 run setblock ~1040 ~0 ~67 minecraft:air
+execute if score @p Timer matches 1055 run setblock ~1055 ~0 ~53 minecraft:air
+execute if score @p Timer matches 1055 run setblock ~1055 ~0 ~58 minecraft:air
+execute if score @p Timer matches 1055 run setblock ~1055 ~0 ~62 minecraft:air
+execute if score @p Timer matches 1055 run setblock ~1055 ~0 ~67 minecraft:air
+execute if score @p Timer matches 1066 run setblock ~1066 ~0 ~63 minecraft:air
+execute if score @p Timer matches 1070 run setblock ~1070 ~0 ~48 minecraft:air
+execute if score @p Timer matches 1070 run setblock ~1070 ~0 ~63 minecraft:air
+execute if score @p Timer matches 1074 run setblock ~1074 ~0 ~63 minecraft:air
+execute if score @p Timer matches 1077 run setblock ~1077 ~0 ~60 minecraft:air
+execute if score @p Timer matches 1081 run setblock ~1081 ~0 ~63 minecraft:air
+execute if score @p Timer matches 1085 run setblock ~1085 ~0 ~55 minecraft:air
+execute if score @p Timer matches 1085 run setblock ~1085 ~0 ~63 minecraft:air
+execute if score @p Timer matches 1089 run setblock ~1089 ~0 ~67 minecraft:air
+execute if score @p Timer matches 1092 run setblock ~1092 ~0 ~60 minecraft:air
+execute if score @p Timer matches 1096 run setblock ~1096 ~0 ~63 minecraft:air
+execute if score @p Timer matches 1100 run setblock ~1100 ~0 ~50 minecraft:air
+execute if score @p Timer matches 1100 run setblock ~1100 ~0 ~62 minecraft:air
+execute if score @p Timer matches 1104 run setblock ~1104 ~0 ~62 minecraft:air
+execute if score @p Timer matches 1107 run setblock ~1107 ~0 ~60 minecraft:air
+execute if score @p Timer matches 1111 run setblock ~1111 ~0 ~62 minecraft:air
+execute if score @p Timer matches 1115 run setblock ~1115 ~0 ~54 minecraft:air
+execute if score @p Timer matches 1115 run setblock ~1115 ~0 ~62 minecraft:air
+execute if score @p Timer matches 1119 run setblock ~1119 ~0 ~69 minecraft:air
+execute if score @p Timer matches 1122 run setblock ~1122 ~0 ~60 minecraft:air
+execute if score @p Timer matches 1126 run setblock ~1126 ~0 ~62 minecraft:air
+execute if score @p Timer matches 1130 run setblock ~1130 ~0 ~43 minecraft:air
+execute if score @p Timer matches 1130 run setblock ~1130 ~0 ~62 minecraft:air
+execute if score @p Timer matches 1134 run setblock ~1134 ~0 ~62 minecraft:air
+execute if score @p Timer matches 1137 run setblock ~1137 ~0 ~58 minecraft:air
+execute if score @p Timer matches 1141 run setblock ~1141 ~0 ~62 minecraft:air
+execute if score @p Timer matches 1145 run setblock ~1145 ~0 ~55 minecraft:air
+execute if score @p Timer matches 1145 run setblock ~1145 ~0 ~62 minecraft:air
+execute if score @p Timer matches 1149 run setblock ~1149 ~0 ~67 minecraft:air
+execute if score @p Timer matches 1152 run setblock ~1152 ~0 ~58 minecraft:air
+execute if score @p Timer matches 1156 run setblock ~1156 ~0 ~62 minecraft:air
+execute if score @p Timer matches 1160 run setblock ~1160 ~0 ~50 minecraft:air
+execute if score @p Timer matches 1160 run setblock ~1160 ~0 ~63 minecraft:air
+execute if score @p Timer matches 1164 run setblock ~1164 ~0 ~63 minecraft:air
+execute if score @p Timer matches 1167 run setblock ~1167 ~0 ~62 minecraft:air
+execute if score @p Timer matches 1171 run setblock ~1171 ~0 ~58 minecraft:air
+execute if score @p Timer matches 1175 run setblock ~1175 ~0 ~55 minecraft:air
+execute if score @p Timer matches 1175 run setblock ~1175 ~0 ~62 minecraft:air
+execute if score @p Timer matches 1179 run setblock ~1179 ~0 ~63 minecraft:air
+execute if score @p Timer matches 1180 run setblock ~1180 ~0 ~62 minecraft:air
+execute if score @p Timer matches 1182 run setblock ~1182 ~0 ~62 minecraft:air
+execute if score @p Timer matches 1186 run setblock ~1186 ~0 ~63 minecraft:air
+execute if score @p Timer matches 1190 run setblock ~1190 ~0 ~51 minecraft:air
+execute if score @p Timer matches 1190 run setblock ~1190 ~0 ~62 minecraft:air
+execute if score @p Timer matches 1194 run setblock ~1194 ~0 ~63 minecraft:air
+execute if score @p Timer matches 1197 run setblock ~1197 ~0 ~58 minecraft:air
+execute if score @p Timer matches 1201 run setblock ~1201 ~0 ~63 minecraft:air
+execute if score @p Timer matches 1205 run setblock ~1205 ~0 ~55 minecraft:air
+execute if score @p Timer matches 1205 run setblock ~1205 ~0 ~67 minecraft:air
+execute if score @p Timer matches 1209 run setblock ~1209 ~0 ~63 minecraft:air
+execute if score @p Timer matches 1212 run setblock ~1212 ~0 ~58 minecraft:air
+execute if score @p Timer matches 1216 run setblock ~1216 ~0 ~63 minecraft:air
+execute if score @p Timer matches 1220 run setblock ~1220 ~0 ~45 minecraft:air
+execute if score @p Timer matches 1220 run setblock ~1220 ~0 ~62 minecraft:air
+execute if score @p Timer matches 1224 run setblock ~1224 ~0 ~62 minecraft:air
+execute if score @p Timer matches 1227 run setblock ~1227 ~0 ~60 minecraft:air
+execute if score @p Timer matches 1231 run setblock ~1231 ~0 ~62 minecraft:air
+execute if score @p Timer matches 1235 run setblock ~1235 ~0 ~48 minecraft:air
+execute if score @p Timer matches 1235 run setblock ~1235 ~0 ~67 minecraft:air
+execute if score @p Timer matches 1239 run setblock ~1239 ~0 ~62 minecraft:air
+execute if score @p Timer matches 1242 run setblock ~1242 ~0 ~60 minecraft:air
+execute if score @p Timer matches 1246 run setblock ~1246 ~0 ~62 minecraft:air
+execute if score @p Timer matches 1250 run setblock ~1250 ~0 ~50 minecraft:air
+execute if score @p Timer matches 1250 run setblock ~1250 ~0 ~60 minecraft:air
+execute if score @p Timer matches 1254 run setblock ~1254 ~0 ~60 minecraft:air
+execute if score @p Timer matches 1257 run setblock ~1257 ~0 ~60 minecraft:air
+execute if score @p Timer matches 1261 run setblock ~1261 ~0 ~62 minecraft:air
+execute if score @p Timer matches 1265 run setblock ~1265 ~0 ~54 minecraft:air
+execute if score @p Timer matches 1265 run setblock ~1265 ~0 ~60 minecraft:air
+execute if score @p Timer matches 1269 run setblock ~1269 ~0 ~62 minecraft:air
+execute if score @p Timer matches 1272 run setblock ~1272 ~0 ~62 minecraft:air
+execute if score @p Timer matches 1276 run setblock ~1276 ~0 ~62 minecraft:air
+execute if score @p Timer matches 1280 run setblock ~1280 ~0 ~50 minecraft:air
+execute if score @p Timer matches 1280 run setblock ~1280 ~0 ~70 minecraft:air
+execute if score @p Timer matches 1284 run setblock ~1284 ~0 ~69 minecraft:air
+execute if score @p Timer matches 1287 run setblock ~1287 ~0 ~62 minecraft:air
+execute if score @p Timer matches 1291 run setblock ~1291 ~0 ~62 minecraft:air
+execute if score @p Timer matches 1295 run setblock ~1295 ~0 ~54 minecraft:air
+execute if score @p Timer matches 1295 run setblock ~1295 ~0 ~60 minecraft:air
+execute if score @p Timer matches 1306 run setblock ~1306 ~0 ~63 minecraft:air
+execute if score @p Timer matches 1310 run setblock ~1310 ~0 ~48 minecraft:air
+execute if score @p Timer matches 1310 run setblock ~1310 ~0 ~63 minecraft:air
+execute if score @p Timer matches 1314 run setblock ~1314 ~0 ~63 minecraft:air
+execute if score @p Timer matches 1317 run setblock ~1317 ~0 ~60 minecraft:air
+execute if score @p Timer matches 1321 run setblock ~1321 ~0 ~63 minecraft:air
+execute if score @p Timer matches 1325 run setblock ~1325 ~0 ~55 minecraft:air
+execute if score @p Timer matches 1325 run setblock ~1325 ~0 ~63 minecraft:air
+execute if score @p Timer matches 1329 run setblock ~1329 ~0 ~67 minecraft:air
+execute if score @p Timer matches 1332 run setblock ~1332 ~0 ~60 minecraft:air
+execute if score @p Timer matches 1336 run setblock ~1336 ~0 ~63 minecraft:air
+execute if score @p Timer matches 1340 run setblock ~1340 ~0 ~50 minecraft:air
+execute if score @p Timer matches 1340 run setblock ~1340 ~0 ~62 minecraft:air
+execute if score @p Timer matches 1344 run setblock ~1344 ~0 ~62 minecraft:air
+execute if score @p Timer matches 1347 run setblock ~1347 ~0 ~60 minecraft:air
+execute if score @p Timer matches 1351 run setblock ~1351 ~0 ~62 minecraft:air
+execute if score @p Timer matches 1355 run setblock ~1355 ~0 ~54 minecraft:air
+execute if score @p Timer matches 1355 run setblock ~1355 ~0 ~62 minecraft:air
+execute if score @p Timer matches 1359 run setblock ~1359 ~0 ~69 minecraft:air
+execute if score @p Timer matches 1362 run setblock ~1362 ~0 ~60 minecraft:air
+execute if score @p Timer matches 1366 run setblock ~1366 ~0 ~62 minecraft:air
+execute if score @p Timer matches 1370 run setblock ~1370 ~0 ~43 minecraft:air
+execute if score @p Timer matches 1370 run setblock ~1370 ~0 ~62 minecraft:air
+execute if score @p Timer matches 1374 run setblock ~1374 ~0 ~62 minecraft:air
+execute if score @p Timer matches 1377 run setblock ~1377 ~0 ~58 minecraft:air
+execute if score @p Timer matches 1381 run setblock ~1381 ~0 ~62 minecraft:air
+execute if score @p Timer matches 1385 run setblock ~1385 ~0 ~55 minecraft:air
+execute if score @p Timer matches 1385 run setblock ~1385 ~0 ~62 minecraft:air
+execute if score @p Timer matches 1389 run setblock ~1389 ~0 ~67 minecraft:air
+execute if score @p Timer matches 1392 run setblock ~1392 ~0 ~58 minecraft:air
+execute if score @p Timer matches 1396 run setblock ~1396 ~0 ~62 minecraft:air
+execute if score @p Timer matches 1400 run setblock ~1400 ~0 ~50 minecraft:air
+execute if score @p Timer matches 1400 run setblock ~1400 ~0 ~63 minecraft:air
+execute if score @p Timer matches 1404 run setblock ~1404 ~0 ~63 minecraft:air
+execute if score @p Timer matches 1407 run setblock ~1407 ~0 ~62 minecraft:air
+execute if score @p Timer matches 1411 run setblock ~1411 ~0 ~58 minecraft:air
+execute if score @p Timer matches 1415 run setblock ~1415 ~0 ~55 minecraft:air
+execute if score @p Timer matches 1415 run setblock ~1415 ~0 ~62 minecraft:air
+execute if score @p Timer matches 1419 run setblock ~1419 ~0 ~63 minecraft:air
+execute if score @p Timer matches 1420 run setblock ~1420 ~0 ~62 minecraft:air
+execute if score @p Timer matches 1422 run setblock ~1422 ~0 ~62 minecraft:air
+execute if score @p Timer matches 1426 run setblock ~1426 ~0 ~63 minecraft:air
+execute if score @p Timer matches 1430 run setblock ~1430 ~0 ~51 minecraft:air
+execute if score @p Timer matches 1430 run setblock ~1430 ~0 ~62 minecraft:air
+execute if score @p Timer matches 1434 run setblock ~1434 ~0 ~63 minecraft:air
+execute if score @p Timer matches 1437 run setblock ~1437 ~0 ~58 minecraft:air
+execute if score @p Timer matches 1441 run setblock ~1441 ~0 ~63 minecraft:air
+execute if score @p Timer matches 1445 run setblock ~1445 ~0 ~55 minecraft:air
+execute if score @p Timer matches 1445 run setblock ~1445 ~0 ~67 minecraft:air
+execute if score @p Timer matches 1449 run setblock ~1449 ~0 ~63 minecraft:air
+execute if score @p Timer matches 1452 run setblock ~1452 ~0 ~58 minecraft:air
+execute if score @p Timer matches 1456 run setblock ~1456 ~0 ~63 minecraft:air
+execute if score @p Timer matches 1460 run setblock ~1460 ~0 ~50 minecraft:air
+execute if score @p Timer matches 1460 run setblock ~1460 ~0 ~62 minecraft:air
+execute if score @p Timer matches 1464 run setblock ~1464 ~0 ~62 minecraft:air
+execute if score @p Timer matches 1467 run setblock ~1467 ~0 ~60 minecraft:air
+execute if score @p Timer matches 1471 run setblock ~1471 ~0 ~62 minecraft:air
+execute if score @p Timer matches 1475 run setblock ~1475 ~0 ~54 minecraft:air
+execute if score @p Timer matches 1475 run setblock ~1475 ~0 ~67 minecraft:air
+execute if score @p Timer matches 1479 run setblock ~1479 ~0 ~62 minecraft:air
+execute if score @p Timer matches 1482 run setblock ~1482 ~0 ~60 minecraft:air
+execute if score @p Timer matches 1486 run setblock ~1486 ~0 ~62 minecraft:air
+execute if score @p Timer matches 1490 run setblock ~1490 ~0 ~43 minecraft:air
+execute if score @p Timer matches 1490 run setblock ~1490 ~0 ~60 minecraft:air
+execute if score @p Timer matches 1494 run setblock ~1494 ~0 ~60 minecraft:air
+execute if score @p Timer matches 1497 run setblock ~1497 ~0 ~60 minecraft:air
+execute if score @p Timer matches 1501 run setblock ~1501 ~0 ~62 minecraft:air
+execute if score @p Timer matches 1505 run setblock ~1505 ~0 ~50 minecraft:air
+execute if score @p Timer matches 1505 run setblock ~1505 ~0 ~62 minecraft:air
+execute if score @p Timer matches 1509 run setblock ~1509 ~0 ~62 minecraft:air
+execute if score @p Timer matches 1512 run setblock ~1512 ~0 ~62 minecraft:air
+execute if score @p Timer matches 1516 run setblock ~1516 ~0 ~62 minecraft:air
+execute if score @p Timer matches 1520 run setblock ~1520 ~0 ~55 minecraft:air
+execute if score @p Timer matches 1520 run setblock ~1520 ~0 ~67 minecraft:air
+execute if score @p Timer matches 1524 run setblock ~1524 ~0 ~67 minecraft:air
+execute if score @p Timer matches 1527 run setblock ~1527 ~0 ~69 minecraft:air
+execute if score @p Timer matches 1531 run setblock ~1531 ~0 ~69 minecraft:air
+execute if score @p Timer matches 1535 run setblock ~1535 ~0 ~50 minecraft:air
+execute if score @p Timer matches 1535 run setblock ~1535 ~0 ~69 minecraft:air
+execute if score @p Timer matches 1550 run setblock ~1550 ~0 ~48 minecraft:air
+execute if score @p Timer matches 1550 run setblock ~1550 ~0 ~70 minecraft:air
+execute if score @p Timer matches 1554 run setblock ~1554 ~0 ~67 minecraft:air
+execute if score @p Timer matches 1557 run setblock ~1557 ~0 ~70 minecraft:air
+execute if score @p Timer matches 1561 run setblock ~1561 ~0 ~67 minecraft:air
+execute if score @p Timer matches 1565 run setblock ~1565 ~0 ~55 minecraft:air
+execute if score @p Timer matches 1565 run setblock ~1565 ~0 ~70 minecraft:air
+execute if score @p Timer matches 1569 run setblock ~1569 ~0 ~67 minecraft:air
+execute if score @p Timer matches 1572 run setblock ~1572 ~0 ~70 minecraft:air
+execute if score @p Timer matches 1576 run setblock ~1576 ~0 ~70 minecraft:air
+execute if score @p Timer matches 1580 run setblock ~1580 ~0 ~50 minecraft:air
+execute if score @p Timer matches 1580 run setblock ~1580 ~0 ~72 minecraft:air
+execute if score @p Timer matches 1591 run setblock ~1591 ~0 ~54 minecraft:air
+execute if score @p Timer matches 1595 run setblock ~1595 ~0 ~60 minecraft:air
+execute if score @p Timer matches 1599 run setblock ~1599 ~0 ~62 minecraft:air
+execute if score @p Timer matches 1602 run setblock ~1602 ~0 ~70 minecraft:air
+execute if score @p Timer matches 1606 run setblock ~1606 ~0 ~67 minecraft:air
+execute if score @p Timer matches 1610 run setblock ~1610 ~0 ~43 minecraft:air
+execute if score @p Timer matches 1610 run setblock ~1610 ~0 ~70 minecraft:air
+execute if score @p Timer matches 1614 run setblock ~1614 ~0 ~67 minecraft:air
+execute if score @p Timer matches 1617 run setblock ~1617 ~0 ~70 minecraft:air
+execute if score @p Timer matches 1621 run setblock ~1621 ~0 ~67 minecraft:air
+execute if score @p Timer matches 1625 run setblock ~1625 ~0 ~55 minecraft:air
+execute if score @p Timer matches 1625 run setblock ~1625 ~0 ~70 minecraft:air
+execute if score @p Timer matches 1629 run setblock ~1629 ~0 ~67 minecraft:air
+execute if score @p Timer matches 1632 run setblock ~1632 ~0 ~70 minecraft:air
+execute if score @p Timer matches 1636 run setblock ~1636 ~0 ~70 minecraft:air
+execute if score @p Timer matches 1640 run setblock ~1640 ~0 ~50 minecraft:air
+execute if score @p Timer matches 1640 run setblock ~1640 ~0 ~72 minecraft:air
+execute if score @p Timer matches 1647 run setblock ~1647 ~0 ~70 minecraft:air
+execute if score @p Timer matches 1655 run setblock ~1655 ~0 ~55 minecraft:air
+execute if score @p Timer matches 1655 run setblock ~1655 ~0 ~69 minecraft:air
+execute if score @p Timer matches 1659 run setblock ~1659 ~0 ~67 minecraft:air
+execute if score @p Timer matches 1662 run setblock ~1662 ~0 ~70 minecraft:air
+execute if score @p Timer matches 1666 run setblock ~1666 ~0 ~67 minecraft:air
+execute if score @p Timer matches 1670 run setblock ~1670 ~0 ~51 minecraft:air
+execute if score @p Timer matches 1670 run setblock ~1670 ~0 ~70 minecraft:air
+execute if score @p Timer matches 1674 run setblock ~1674 ~0 ~67 minecraft:air
+execute if score @p Timer matches 1677 run setblock ~1677 ~0 ~70 minecraft:air
+execute if score @p Timer matches 1681 run setblock ~1681 ~0 ~67 minecraft:air
+execute if score @p Timer matches 1685 run setblock ~1685 ~0 ~55 minecraft:air
+execute if score @p Timer matches 1685 run setblock ~1685 ~0 ~70 minecraft:air
+execute if score @p Timer matches 1689 run setblock ~1689 ~0 ~67 minecraft:air
+execute if score @p Timer matches 1692 run setblock ~1692 ~0 ~70 minecraft:air
+execute if score @p Timer matches 1696 run setblock ~1696 ~0 ~67 minecraft:air
+execute if score @p Timer matches 1700 run setblock ~1700 ~0 ~45 minecraft:air
+execute if score @p Timer matches 1700 run setblock ~1700 ~0 ~72 minecraft:air
+execute if score @p Timer matches 1715 run setblock ~1715 ~0 ~48 minecraft:air
+execute if score @p Timer matches 1722 run setblock ~1722 ~0 ~60 minecraft:air
+execute if score @p Timer matches 1726 run setblock ~1726 ~0 ~58 minecraft:air
+execute if score @p Timer matches 1730 run setblock ~1730 ~0 ~50 minecraft:air
+execute if score @p Timer matches 1730 run setblock ~1730 ~0 ~60 minecraft:air
+execute if score @p Timer matches 1734 run setblock ~1734 ~0 ~58 minecraft:air
+execute if score @p Timer matches 1737 run setblock ~1737 ~0 ~60 minecraft:air
+execute if score @p Timer matches 1741 run setblock ~1741 ~0 ~58 minecraft:air
+execute if score @p Timer matches 1745 run setblock ~1745 ~0 ~54 minecraft:air
+execute if score @p Timer matches 1745 run setblock ~1745 ~0 ~60 minecraft:air
+execute if score @p Timer matches 1749 run setblock ~1749 ~0 ~58 minecraft:air
+execute if score @p Timer matches 1752 run setblock ~1752 ~0 ~60 minecraft:air
+execute if score @p Timer matches 1756 run setblock ~1756 ~0 ~58 minecraft:air
+execute if score @p Timer matches 1760 run setblock ~1760 ~0 ~50 minecraft:air
+execute if score @p Timer matches 1760 run setblock ~1760 ~0 ~62 minecraft:air
+execute if score @p Timer matches 1775 run setblock ~1775 ~0 ~54 minecraft:air
+execute if score @p Timer matches 1790 run setblock ~1790 ~0 ~48 minecraft:air
+execute if score @p Timer matches 1790 run setblock ~1790 ~0 ~63 minecraft:air
+execute if score @p Timer matches 1794 run setblock ~1794 ~0 ~63 minecraft:air
+execute if score @p Timer matches 1797 run setblock ~1797 ~0 ~63 minecraft:air
+execute if score @p Timer matches 1801 run setblock ~1801 ~0 ~58 minecraft:air
+execute if score @p Timer matches 1805 run setblock ~1805 ~0 ~55 minecraft:air
+execute if score @p Timer matches 1809 run setblock ~1809 ~0 ~63 minecraft:air
+execute if score @p Timer matches 1812 run setblock ~1812 ~0 ~63 minecraft:air
+execute if score @p Timer matches 1816 run setblock ~1816 ~0 ~67 minecraft:air
+execute if score @p Timer matches 1820 run setblock ~1820 ~0 ~50 minecraft:air
+execute if score @p Timer matches 1820 run setblock ~1820 ~0 ~62 minecraft:air
+execute if score @p Timer matches 1824 run setblock ~1824 ~0 ~62 minecraft:air
+execute if score @p Timer matches 1827 run setblock ~1827 ~0 ~62 minecraft:air
+execute if score @p Timer matches 1831 run setblock ~1831 ~0 ~60 minecraft:air
+execute if score @p Timer matches 1835 run setblock ~1835 ~0 ~54 minecraft:air
+execute if score @p Timer matches 1839 run setblock ~1839 ~0 ~62 minecraft:air
+execute if score @p Timer matches 1842 run setblock ~1842 ~0 ~62 minecraft:air
+execute if score @p Timer matches 1846 run setblock ~1846 ~0 ~69 minecraft:air
+execute if score @p Timer matches 1850 run setblock ~1850 ~0 ~43 minecraft:air
+execute if score @p Timer matches 1850 run setblock ~1850 ~0 ~62 minecraft:air
+execute if score @p Timer matches 1854 run setblock ~1854 ~0 ~62 minecraft:air
+execute if score @p Timer matches 1857 run setblock ~1857 ~0 ~58 minecraft:air
+execute if score @p Timer matches 1861 run setblock ~1861 ~0 ~67 minecraft:air
+execute if score @p Timer matches 1865 run setblock ~1865 ~0 ~55 minecraft:air
+execute if score @p Timer matches 1865 run setblock ~1865 ~0 ~70 minecraft:air
+execute if score @p Timer matches 1869 run setblock ~1869 ~0 ~69 minecraft:air
+execute if score @p Timer matches 1872 run setblock ~1872 ~0 ~67 minecraft:air
+execute if score @p Timer matches 1876 run setblock ~1876 ~0 ~62 minecraft:air
+execute if score @p Timer matches 1880 run setblock ~1880 ~0 ~50 minecraft:air
+execute if score @p Timer matches 1880 run setblock ~1880 ~0 ~58 minecraft:air
+execute if score @p Timer matches 1884 run setblock ~1884 ~0 ~62 minecraft:air
+execute if score @p Timer matches 1887 run setblock ~1887 ~0 ~67 minecraft:air
+execute if score @p Timer matches 1891 run setblock ~1891 ~0 ~62 minecraft:air
+execute if score @p Timer matches 1895 run setblock ~1895 ~0 ~55 minecraft:air
+execute if score @p Timer matches 1899 run setblock ~1899 ~0 ~62 minecraft:air
+execute if score @p Timer matches 1902 run setblock ~1902 ~0 ~67 minecraft:air
+execute if score @p Timer matches 1906 run setblock ~1906 ~0 ~62 minecraft:air
+execute if score @p Timer matches 1910 run setblock ~1910 ~0 ~51 minecraft:air
+execute if score @p Timer matches 1910 run setblock ~1910 ~0 ~58 minecraft:air
+execute if score @p Timer matches 1914 run setblock ~1914 ~0 ~62 minecraft:air
+execute if score @p Timer matches 1917 run setblock ~1917 ~0 ~67 minecraft:air
+execute if score @p Timer matches 1921 run setblock ~1921 ~0 ~62 minecraft:air
+execute if score @p Timer matches 1925 run setblock ~1925 ~0 ~55 minecraft:air
+execute if score @p Timer matches 1925 run setblock ~1925 ~0 ~63 minecraft:air
+execute if score @p Timer matches 1929 run setblock ~1929 ~0 ~62 minecraft:air
+execute if score @p Timer matches 1932 run setblock ~1932 ~0 ~67 minecraft:air
+execute if score @p Timer matches 1936 run setblock ~1936 ~0 ~62 minecraft:air
+execute if score @p Timer matches 1940 run setblock ~1940 ~0 ~45 minecraft:air
+execute if score @p Timer matches 1940 run setblock ~1940 ~0 ~60 minecraft:air
+execute if score @p Timer matches 1944 run setblock ~1944 ~0 ~62 minecraft:air
+execute if score @p Timer matches 1947 run setblock ~1947 ~0 ~69 minecraft:air
+execute if score @p Timer matches 1951 run setblock ~1951 ~0 ~62 minecraft:air
+execute if score @p Timer matches 1955 run setblock ~1955 ~0 ~48 minecraft:air
+execute if score @p Timer matches 1955 run setblock ~1955 ~0 ~63 minecraft:air
+execute if score @p Timer matches 1959 run setblock ~1959 ~0 ~62 minecraft:air
+execute if score @p Timer matches 1962 run setblock ~1962 ~0 ~69 minecraft:air
+execute if score @p Timer matches 1966 run setblock ~1966 ~0 ~62 minecraft:air
+execute if score @p Timer matches 1970 run setblock ~1970 ~0 ~43 minecraft:air
+execute if score @p Timer matches 1970 run setblock ~1970 ~0 ~58 minecraft:air
+execute if score @p Timer matches 1973 run setblock ~1973 ~0 ~62 minecraft:air
+execute if score @p Timer matches 1976 run setblock ~1976 ~0 ~67 minecraft:air
+execute if score @p Timer matches 1979 run setblock ~1979 ~0 ~69 minecraft:air
+execute if score @p Timer matches 1982 run setblock ~1982 ~0 ~50 minecraft:air
+execute if score @p Timer matches 1982 run setblock ~1982 ~0 ~67 minecraft:air
+execute if score @p Timer matches 1985 run setblock ~1985 ~0 ~62 minecraft:air
+execute if score @p Timer matches 1988 run setblock ~1988 ~0 ~58 minecraft:air
+execute if score @p Timer matches 1991 run setblock ~1991 ~0 ~55 minecraft:air
+execute if score @p Timer matches 1994 run setblock ~1994 ~0 ~43 minecraft:air
+execute if score @p Timer matches 2000 run setblock ~2000 ~0 ~62 minecraft:air
+execute if score @p Timer matches 2006 run setblock ~2006 ~0 ~67 minecraft:air
+execute if score @p Timer matches 2012 run setblock ~2012 ~0 ~74 minecraft:air
+execute if score @p Timer matches 2018 run setblock ~2018 ~0 ~48 minecraft:air
+execute if score @p Timer matches 2018 run setblock ~2018 ~0 ~74 minecraft:air
+execute if score @p Timer matches 2027 run setblock ~2027 ~0 ~72 minecraft:air
+execute if score @p Timer matches 2030 run setblock ~2030 ~0 ~75 minecraft:air
+execute if score @p Timer matches 2042 run setblock ~2042 ~0 ~50 minecraft:air
+execute if score @p Timer matches 2048 run setblock ~2048 ~0 ~62 minecraft:air
+execute if score @p Timer matches 2054 run setblock ~2054 ~0 ~54 minecraft:air
+execute if score @p Timer matches 2054 run setblock ~2054 ~0 ~69 minecraft:air
+execute if score @p Timer matches 2060 run setblock ~2060 ~0 ~72 minecraft:air
+execute if score @p Timer matches 2066 run setblock ~2066 ~0 ~43 minecraft:air
+execute if score @p Timer matches 2066 run setblock ~2066 ~0 ~72 minecraft:air
+execute if score @p Timer matches 2075 run setblock ~2075 ~0 ~70 minecraft:air
+execute if score @p Timer matches 2078 run setblock ~2078 ~0 ~74 minecraft:air
+execute if score @p Timer matches 2090 run setblock ~2090 ~0 ~50 minecraft:air
+execute if score @p Timer matches 2096 run setblock ~2096 ~0 ~62 minecraft:air
+execute if score @p Timer matches 2102 run setblock ~2102 ~0 ~55 minecraft:air
+execute if score @p Timer matches 2102 run setblock ~2102 ~0 ~69 minecraft:air
+execute if score @p Timer matches 2108 run setblock ~2108 ~0 ~70 minecraft:air
+execute if score @p Timer matches 2114 run setblock ~2114 ~0 ~51 minecraft:air
+execute if score @p Timer matches 2114 run setblock ~2114 ~0 ~70 minecraft:air
+execute if score @p Timer matches 2123 run setblock ~2123 ~0 ~69 minecraft:air
+execute if score @p Timer matches 2126 run setblock ~2126 ~0 ~72 minecraft:air
+execute if score @p Timer matches 2138 run setblock ~2138 ~0 ~45 minecraft:air
+execute if score @p Timer matches 2144 run setblock ~2144 ~0 ~62 minecraft:air
+execute if score @p Timer matches 2150 run setblock ~2150 ~0 ~48 minecraft:air
+execute if score @p Timer matches 2150 run setblock ~2150 ~0 ~69 minecraft:air
+execute if score @p Timer matches 2156 run setblock ~2156 ~0 ~70 minecraft:air
+execute if score @p Timer matches 2162 run setblock ~2162 ~0 ~50 minecraft:air
+execute if score @p Timer matches 2162 run setblock ~2162 ~0 ~70 minecraft:air
+execute if score @p Timer matches 2171 run setblock ~2171 ~0 ~72 minecraft:air
+execute if score @p Timer matches 2174 run setblock ~2174 ~0 ~69 minecraft:air
+execute if score @p Timer matches 2186 run setblock ~2186 ~0 ~50 minecraft:air
+execute if score @p Timer matches 2192 run setblock ~2192 ~0 ~67 minecraft:air
+execute if score @p Timer matches 2198 run setblock ~2198 ~0 ~54 minecraft:air
+execute if score @p Timer matches 2198 run setblock ~2198 ~0 ~70 minecraft:air
+execute if score @p Timer matches 2204 run setblock ~2204 ~0 ~74 minecraft:air
+execute if score @p Timer matches 2210 run setblock ~2210 ~0 ~48 minecraft:air
+execute if score @p Timer matches 2210 run setblock ~2210 ~0 ~74 minecraft:air
+execute if score @p Timer matches 2219 run setblock ~2219 ~0 ~72 minecraft:air
+execute if score @p Timer matches 2222 run setblock ~2222 ~0 ~81 minecraft:air
+execute if score @p Timer matches 2234 run setblock ~2234 ~0 ~50 minecraft:air
+execute if score @p Timer matches 2240 run setblock ~2240 ~0 ~82 minecraft:air
+execute if score @p Timer matches 2246 run setblock ~2246 ~0 ~81 minecraft:air
+execute if score @p Timer matches 2252 run setblock ~2252 ~0 ~74 minecraft:air
+execute if score @p Timer matches 2258 run setblock ~2258 ~0 ~43 minecraft:air
+execute if score @p Timer matches 2258 run setblock ~2258 ~0 ~72 minecraft:air
+execute if score @p Timer matches 2267 run setblock ~2267 ~0 ~74 minecraft:air
+execute if score @p Timer matches 2270 run setblock ~2270 ~0 ~70 minecraft:air
+execute if score @p Timer matches 2282 run setblock ~2282 ~0 ~50 minecraft:air
+execute if score @p Timer matches 2288 run setblock ~2288 ~0 ~70 minecraft:air
+execute if score @p Timer matches 2294 run setblock ~2294 ~0 ~55 minecraft:air
+execute if score @p Timer matches 2294 run setblock ~2294 ~0 ~70 minecraft:air
+execute if score @p Timer matches 2300 run setblock ~2300 ~0 ~70 minecraft:air
+execute if score @p Timer matches 2306 run setblock ~2306 ~0 ~51 minecraft:air
+execute if score @p Timer matches 2306 run setblock ~2306 ~0 ~74 minecraft:air
+execute if score @p Timer matches 2315 run setblock ~2315 ~0 ~72 minecraft:air
+execute if score @p Timer matches 2318 run setblock ~2318 ~0 ~67 minecraft:air
+execute if score @p Timer matches 2330 run setblock ~2330 ~0 ~50 minecraft:air
+execute if score @p Timer matches 2336 run setblock ~2336 ~0 ~62 minecraft:air
+execute if score @p Timer matches 2342 run setblock ~2342 ~0 ~54 minecraft:air
+execute if score @p Timer matches 2342 run setblock ~2342 ~0 ~70 minecraft:air
+execute if score @p Timer matches 2351 run setblock ~2351 ~0 ~69 minecraft:air
+execute if score @p Timer matches 2354 run setblock ~2354 ~0 ~43 minecraft:air
+execute if score @p Timer matches 2354 run setblock ~2354 ~0 ~67 minecraft:air
+execute if score @p Timer matches 2378 run setblock ~2378 ~0 ~55 minecraft:air
+execute if score @p Timer matches 2384 run setblock ~2384 ~0 ~62 minecraft:air
+execute if score @p Timer matches 2390 run setblock ~2390 ~0 ~67 minecraft:air
+execute if score @p Timer matches 2396 run setblock ~2396 ~0 ~70 minecraft:air
+execute if score @p Timer matches 2402 run setblock ~2402 ~0 ~48 minecraft:air
+execute if score @p Timer matches 2402 run setblock ~2402 ~0 ~74 minecraft:air
+execute if score @p Timer matches 2411 run setblock ~2411 ~0 ~72 minecraft:air
+execute if score @p Timer matches 2414 run setblock ~2414 ~0 ~74 minecraft:air
+execute if score @p Timer matches 2417 run setblock ~2417 ~0 ~75 minecraft:air
+execute if score @p Timer matches 2426 run setblock ~2426 ~0 ~50 minecraft:air
+execute if score @p Timer matches 2432 run setblock ~2432 ~0 ~62 minecraft:air
+execute if score @p Timer matches 2438 run setblock ~2438 ~0 ~69 minecraft:air
+execute if score @p Timer matches 2444 run setblock ~2444 ~0 ~72 minecraft:air
+execute if score @p Timer matches 2450 run setblock ~2450 ~0 ~43 minecraft:air
+execute if score @p Timer matches 2450 run setblock ~2450 ~0 ~72 minecraft:air
+execute if score @p Timer matches 2459 run setblock ~2459 ~0 ~70 minecraft:air
+execute if score @p Timer matches 2462 run setblock ~2462 ~0 ~72 minecraft:air
+execute if score @p Timer matches 2465 run setblock ~2465 ~0 ~74 minecraft:air
+execute if score @p Timer matches 2474 run setblock ~2474 ~0 ~55 minecraft:air
+execute if score @p Timer matches 2480 run setblock ~2480 ~0 ~62 minecraft:air
+execute if score @p Timer matches 2486 run setblock ~2486 ~0 ~69 minecraft:air
+execute if score @p Timer matches 2492 run setblock ~2492 ~0 ~70 minecraft:air
+execute if score @p Timer matches 2498 run setblock ~2498 ~0 ~51 minecraft:air
+execute if score @p Timer matches 2498 run setblock ~2498 ~0 ~70 minecraft:air
+execute if score @p Timer matches 2507 run setblock ~2507 ~0 ~69 minecraft:air
+execute if score @p Timer matches 2510 run setblock ~2510 ~0 ~72 minecraft:air
+execute if score @p Timer matches 2522 run setblock ~2522 ~0 ~45 minecraft:air
+execute if score @p Timer matches 2528 run setblock ~2528 ~0 ~62 minecraft:air
+execute if score @p Timer matches 2534 run setblock ~2534 ~0 ~67 minecraft:air
+execute if score @p Timer matches 2540 run setblock ~2540 ~0 ~70 minecraft:air
+execute if score @p Timer matches 2546 run setblock ~2546 ~0 ~50 minecraft:air
+execute if score @p Timer matches 2546 run setblock ~2546 ~0 ~70 minecraft:air
+execute if score @p Timer matches 2555 run setblock ~2555 ~0 ~72 minecraft:air
+execute if score @p Timer matches 2558 run setblock ~2558 ~0 ~69 minecraft:air
+execute if score @p Timer matches 2570 run setblock ~2570 ~0 ~54 minecraft:air
+execute if score @p Timer matches 2576 run setblock ~2576 ~0 ~62 minecraft:air
+execute if score @p Timer matches 2582 run setblock ~2582 ~0 ~67 minecraft:air
+execute if score @p Timer matches 2585 run setblock ~2585 ~0 ~70 minecraft:air
+execute if score @p Timer matches 2588 run setblock ~2588 ~0 ~77 minecraft:air
+execute if score @p Timer matches 2591 run setblock ~2591 ~0 ~75 minecraft:air
+execute if score @p Timer matches 2594 run setblock ~2594 ~0 ~48 minecraft:air
+execute if score @p Timer matches 2594 run setblock ~2594 ~0 ~74 minecraft:air
+execute if score @p Timer matches 2603 run setblock ~2603 ~0 ~72 minecraft:air
+execute if score @p Timer matches 2606 run setblock ~2606 ~0 ~81 minecraft:air
+execute if score @p Timer matches 2618 run setblock ~2618 ~0 ~50 minecraft:air
+execute if score @p Timer matches 2624 run setblock ~2624 ~0 ~70 minecraft:air
+execute if score @p Timer matches 2630 run setblock ~2630 ~0 ~69 minecraft:air
+execute if score @p Timer matches 2636 run setblock ~2636 ~0 ~62 minecraft:air
+execute if score @p Timer matches 2642 run setblock ~2642 ~0 ~43 minecraft:air
+execute if score @p Timer matches 2642 run setblock ~2642 ~0 ~60 minecraft:air
+execute if score @p Timer matches 2651 run setblock ~2651 ~0 ~62 minecraft:air
+execute if score @p Timer matches 2654 run setblock ~2654 ~0 ~58 minecraft:air
+execute if score @p Timer matches 2666 run setblock ~2666 ~0 ~53 minecraft:air
+execute if score @p Timer matches 2672 run setblock ~2672 ~0 ~70 minecraft:air
+execute if score @p Timer matches 2675 run setblock ~2675 ~0 ~72 minecraft:air
+execute if score @p Timer matches 2678 run setblock ~2678 ~0 ~69 minecraft:air
+execute if score @p Timer matches 2684 run setblock ~2684 ~0 ~70 minecraft:air
+execute if score @p Timer matches 2690 run setblock ~2690 ~0 ~51 minecraft:air
+execute if score @p Timer matches 2690 run setblock ~2690 ~0 ~74 minecraft:air
+execute if score @p Timer matches 2699 run setblock ~2699 ~0 ~70 minecraft:air
+execute if score @p Timer matches 2702 run setblock ~2702 ~0 ~67 minecraft:air
+execute if score @p Timer matches 2714 run setblock ~2714 ~0 ~50 minecraft:air
+execute if score @p Timer matches 2720 run setblock ~2720 ~0 ~62 minecraft:air
+execute if score @p Timer matches 2726 run setblock ~2726 ~0 ~70 minecraft:air
+execute if score @p Timer matches 2735 run setblock ~2735 ~0 ~69 minecraft:air
+execute if score @p Timer matches 2738 run setblock ~2738 ~0 ~48 minecraft:air
+execute if score @p Timer matches 2738 run setblock ~2738 ~0 ~67 minecraft:air
+execute if score @p Timer matches 2762 run setblock ~2762 ~0 ~48 minecraft:air
+execute if score @p Timer matches 2762 run setblock ~2762 ~0 ~58 minecraft:air
+execute if score @p Timer matches 2762 run setblock ~2762 ~0 ~62 minecraft:air
+execute if score @p Timer matches 2762 run setblock ~2762 ~0 ~67 minecraft:air
+execute if score @p Timer matches 2786 run setblock ~2786 ~0 ~47 minecraft:air
+execute if score @p Timer matches 2786 run setblock ~2786 ~0 ~67 minecraft:air
+execute if score @p Timer matches 2789 run setblock ~2789 ~0 ~55 minecraft:air
+execute if score @p Timer matches 2792 run setblock ~2792 ~0 ~50 minecraft:air
+execute if score @p Timer matches 2795 run setblock ~2795 ~0 ~55 minecraft:air
+execute if score @p Timer matches 2798 run setblock ~2798 ~0 ~47 minecraft:air
+execute if score @p Timer matches 2801 run setblock ~2801 ~0 ~55 minecraft:air
+execute if score @p Timer matches 2804 run setblock ~2804 ~0 ~50 minecraft:air
+execute if score @p Timer matches 2807 run setblock ~2807 ~0 ~55 minecraft:air
+execute if score @p Timer matches 2810 run setblock ~2810 ~0 ~47 minecraft:air
+execute if score @p Timer matches 2810 run setblock ~2810 ~0 ~62 minecraft:air
+execute if score @p Timer matches 2813 run setblock ~2813 ~0 ~55 minecraft:air
+execute if score @p Timer matches 2816 run setblock ~2816 ~0 ~50 minecraft:air
+execute if score @p Timer matches 2819 run setblock ~2819 ~0 ~55 minecraft:air
+execute if score @p Timer matches 2822 run setblock ~2822 ~0 ~47 minecraft:air
+execute if score @p Timer matches 2825 run setblock ~2825 ~0 ~55 minecraft:air
+execute if score @p Timer matches 2828 run setblock ~2828 ~0 ~50 minecraft:air
+execute if score @p Timer matches 2828 run setblock ~2828 ~0 ~63 minecraft:air
+execute if score @p Timer matches 2831 run setblock ~2831 ~0 ~55 minecraft:air
+execute if score @p Timer matches 2831 run setblock ~2831 ~0 ~65 minecraft:air
+execute if score @p Timer matches 2834 run setblock ~2834 ~0 ~48 minecraft:air
+execute if score @p Timer matches 2834 run setblock ~2834 ~0 ~65 minecraft:air
+execute if score @p Timer matches 2840 run setblock ~2840 ~0 ~63 minecraft:air
+execute if score @p Timer matches 2841 run setblock ~2841 ~0 ~65 minecraft:air
+execute if score @p Timer matches 2843 run setblock ~2843 ~0 ~62 minecraft:air
+execute if score @p Timer matches 2846 run setblock ~2846 ~0 ~48 minecraft:air
+execute if score @p Timer matches 2846 run setblock ~2846 ~0 ~63 minecraft:air
+execute if score @p Timer matches 2849 run setblock ~2849 ~0 ~67 minecraft:air
+execute if score @p Timer matches 2852 run setblock ~2852 ~0 ~55 minecraft:air
+execute if score @p Timer matches 2852 run setblock ~2852 ~0 ~72 minecraft:air
+execute if score @p Timer matches 2855 run setblock ~2855 ~0 ~74 minecraft:air
+execute if score @p Timer matches 2858 run setblock ~2858 ~0 ~75 minecraft:air
+execute if score @p Timer matches 2906 run setblock ~2906 ~0 ~45 minecraft:air
+execute if score @p Timer matches 2906 run setblock ~2906 ~0 ~65 minecraft:air
+execute if score @p Timer matches 2909 run setblock ~2909 ~0 ~53 minecraft:air
+execute if score @p Timer matches 2912 run setblock ~2912 ~0 ~48 minecraft:air
+execute if score @p Timer matches 2915 run setblock ~2915 ~0 ~53 minecraft:air
+execute if score @p Timer matches 2918 run setblock ~2918 ~0 ~45 minecraft:air
+execute if score @p Timer matches 2918 run setblock ~2918 ~0 ~60 minecraft:air
+execute if score @p Timer matches 2920 run setblock ~2920 ~0 ~62 minecraft:air
+execute if score @p Timer matches 2922 run setblock ~2922 ~0 ~60 minecraft:air
+execute if score @p Timer matches 2924 run setblock ~2924 ~0 ~59 minecraft:air
+execute if score @p Timer matches 2927 run setblock ~2927 ~0 ~60 minecraft:air
+execute if score @p Timer matches 2930 run setblock ~2930 ~0 ~45 minecraft:air
+execute if score @p Timer matches 2930 run setblock ~2930 ~0 ~65 minecraft:air
+execute if score @p Timer matches 2933 run setblock ~2933 ~0 ~53 minecraft:air
+execute if score @p Timer matches 2933 run setblock ~2933 ~0 ~63 minecraft:air
+execute if score @p Timer matches 2936 run setblock ~2936 ~0 ~48 minecraft:air
+execute if score @p Timer matches 2936 run setblock ~2936 ~0 ~69 minecraft:air
+execute if score @p Timer matches 2939 run setblock ~2939 ~0 ~53 minecraft:air
+execute if score @p Timer matches 2939 run setblock ~2939 ~0 ~72 minecraft:air
+execute if score @p Timer matches 2942 run setblock ~2942 ~0 ~45 minecraft:air
+execute if score @p Timer matches 2942 run setblock ~2942 ~0 ~65 minecraft:air
+execute if score @p Timer matches 2945 run setblock ~2945 ~0 ~53 minecraft:air
+execute if score @p Timer matches 2945 run setblock ~2945 ~0 ~63 minecraft:air
+execute if score @p Timer matches 2948 run setblock ~2948 ~0 ~48 minecraft:air
+execute if score @p Timer matches 2948 run setblock ~2948 ~0 ~62 minecraft:air
+execute if score @p Timer matches 2951 run setblock ~2951 ~0 ~53 minecraft:air
+execute if score @p Timer matches 2951 run setblock ~2951 ~0 ~60 minecraft:air
+execute if score @p Timer matches 2954 run setblock ~2954 ~0 ~46 minecraft:air
+execute if score @p Timer matches 2954 run setblock ~2954 ~0 ~62 minecraft:air
+execute if score @p Timer matches 2957 run setblock ~2957 ~0 ~60 minecraft:air
+execute if score @p Timer matches 2960 run setblock ~2960 ~0 ~58 minecraft:air
+execute if score @p Timer matches 2963 run setblock ~2963 ~0 ~57 minecraft:air
+execute if score @p Timer matches 2966 run setblock ~2966 ~0 ~50 minecraft:air
+execute if score @p Timer matches 2966 run setblock ~2966 ~0 ~58 minecraft:air
+execute if score @p Timer matches 2969 run setblock ~2969 ~0 ~62 minecraft:air
+execute if score @p Timer matches 2972 run setblock ~2972 ~0 ~65 minecraft:air
+execute if score @p Timer matches 2975 run setblock ~2975 ~0 ~70 minecraft:air
+execute if score @p Timer matches 2978 run setblock ~2978 ~0 ~74 minecraft:air
+execute if score @p Timer matches 3026 run setblock ~3026 ~0 ~51 minecraft:air
+execute if score @p Timer matches 3026 run setblock ~3026 ~0 ~55 minecraft:air
+execute if score @p Timer matches 3029 run setblock ~3029 ~0 ~67 minecraft:air
+execute if score @p Timer matches 3032 run setblock ~3032 ~0 ~66 minecraft:air
+execute if score @p Timer matches 3035 run setblock ~3035 ~0 ~67 minecraft:air
+execute if score @p Timer matches 3038 run setblock ~3038 ~0 ~69 minecraft:air
+execute if score @p Timer matches 3041 run setblock ~3041 ~0 ~67 minecraft:air
+execute if score @p Timer matches 3044 run setblock ~3044 ~0 ~70 minecraft:air
+execute if score @p Timer matches 3047 run setblock ~3047 ~0 ~69 minecraft:air
+execute if score @p Timer matches 3050 run setblock ~3050 ~0 ~51 minecraft:air
+execute if score @p Timer matches 3050 run setblock ~3050 ~0 ~55 minecraft:air
+execute if score @p Timer matches 3053 run setblock ~3053 ~0 ~67 minecraft:air
+execute if score @p Timer matches 3056 run setblock ~3056 ~0 ~66 minecraft:air
+execute if score @p Timer matches 3059 run setblock ~3059 ~0 ~65 minecraft:air
+execute if score @p Timer matches 3062 run setblock ~3062 ~0 ~64 minecraft:air
+execute if score @p Timer matches 3065 run setblock ~3065 ~0 ~63 minecraft:air
+execute if score @p Timer matches 3068 run setblock ~3068 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3071 run setblock ~3071 ~0 ~61 minecraft:air
+execute if score @p Timer matches 3074 run setblock ~3074 ~0 ~50 minecraft:air
+execute if score @p Timer matches 3074 run setblock ~3074 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3077 run setblock ~3077 ~0 ~58 minecraft:air
+execute if score @p Timer matches 3080 run setblock ~3080 ~0 ~57 minecraft:air
+execute if score @p Timer matches 3083 run setblock ~3083 ~0 ~58 minecraft:air
+execute if score @p Timer matches 3086 run setblock ~3086 ~0 ~55 minecraft:air
+execute if score @p Timer matches 3089 run setblock ~3089 ~0 ~50 minecraft:air
+execute if score @p Timer matches 3092 run setblock ~3092 ~0 ~49 minecraft:air
+execute if score @p Timer matches 3095 run setblock ~3095 ~0 ~50 minecraft:air
+execute if score @p Timer matches 3098 run setblock ~3098 ~0 ~49 minecraft:air
+execute if score @p Timer matches 3100 run setblock ~3100 ~0 ~50 minecraft:air
+execute if score @p Timer matches 3102 run setblock ~3102 ~0 ~51 minecraft:air
+execute if score @p Timer matches 3104 run setblock ~3104 ~0 ~52 minecraft:air
+execute if score @p Timer matches 3106 run setblock ~3106 ~0 ~53 minecraft:air
+execute if score @p Timer matches 3108 run setblock ~3108 ~0 ~54 minecraft:air
+execute if score @p Timer matches 3110 run setblock ~3110 ~0 ~55 minecraft:air
+execute if score @p Timer matches 3114 run setblock ~3114 ~0 ~57 minecraft:air
+execute if score @p Timer matches 3116 run setblock ~3116 ~0 ~58 minecraft:air
+execute if score @p Timer matches 3118 run setblock ~3118 ~0 ~60 minecraft:air
+execute if score @p Timer matches 3120 run setblock ~3120 ~0 ~61 minecraft:air
+execute if score @p Timer matches 3122 run setblock ~3122 ~0 ~50 minecraft:air
+execute if score @p Timer matches 3122 run setblock ~3122 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3125 run setblock ~3125 ~0 ~58 minecraft:air
+execute if score @p Timer matches 3128 run setblock ~3128 ~0 ~55 minecraft:air
+execute if score @p Timer matches 3131 run setblock ~3131 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3134 run setblock ~3134 ~0 ~63 minecraft:air
+execute if score @p Timer matches 3137 run setblock ~3137 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3140 run setblock ~3140 ~0 ~61 minecraft:air
+execute if score @p Timer matches 3143 run setblock ~3143 ~0 ~63 minecraft:air
+execute if score @p Timer matches 3146 run setblock ~3146 ~0 ~50 minecraft:air
+execute if score @p Timer matches 3146 run setblock ~3146 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3149 run setblock ~3149 ~0 ~55 minecraft:air
+execute if score @p Timer matches 3152 run setblock ~3152 ~0 ~58 minecraft:air
+execute if score @p Timer matches 3155 run setblock ~3155 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3158 run setblock ~3158 ~0 ~63 minecraft:air
+execute if score @p Timer matches 3161 run setblock ~3161 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3164 run setblock ~3164 ~0 ~61 minecraft:air
+execute if score @p Timer matches 3167 run setblock ~3167 ~0 ~63 minecraft:air
+execute if score @p Timer matches 3170 run setblock ~3170 ~0 ~50 minecraft:air
+execute if score @p Timer matches 3170 run setblock ~3170 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3173 run setblock ~3173 ~0 ~58 minecraft:air
+execute if score @p Timer matches 3176 run setblock ~3176 ~0 ~55 minecraft:air
+execute if score @p Timer matches 3179 run setblock ~3179 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3182 run setblock ~3182 ~0 ~63 minecraft:air
+execute if score @p Timer matches 3185 run setblock ~3185 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3188 run setblock ~3188 ~0 ~61 minecraft:air
+execute if score @p Timer matches 3191 run setblock ~3191 ~0 ~63 minecraft:air
+execute if score @p Timer matches 3194 run setblock ~3194 ~0 ~50 minecraft:air
+execute if score @p Timer matches 3194 run setblock ~3194 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3197 run setblock ~3197 ~0 ~55 minecraft:air
+execute if score @p Timer matches 3200 run setblock ~3200 ~0 ~58 minecraft:air
+execute if score @p Timer matches 3203 run setblock ~3203 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3206 run setblock ~3206 ~0 ~63 minecraft:air
+execute if score @p Timer matches 3209 run setblock ~3209 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3212 run setblock ~3212 ~0 ~61 minecraft:air
+execute if score @p Timer matches 3215 run setblock ~3215 ~0 ~63 minecraft:air
+execute if score @p Timer matches 3218 run setblock ~3218 ~0 ~43 minecraft:air
+execute if score @p Timer matches 3218 run setblock ~3218 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3221 run setblock ~3221 ~0 ~63 minecraft:air
+execute if score @p Timer matches 3224 run setblock ~3224 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3227 run setblock ~3227 ~0 ~61 minecraft:air
+execute if score @p Timer matches 3230 run setblock ~3230 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3233 run setblock ~3233 ~0 ~58 minecraft:air
+execute if score @p Timer matches 3236 run setblock ~3236 ~0 ~55 minecraft:air
+execute if score @p Timer matches 3239 run setblock ~3239 ~0 ~67 minecraft:air
+execute if score @p Timer matches 3242 run setblock ~3242 ~0 ~43 minecraft:air
+execute if score @p Timer matches 3242 run setblock ~3242 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3245 run setblock ~3245 ~0 ~63 minecraft:air
+execute if score @p Timer matches 3248 run setblock ~3248 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3251 run setblock ~3251 ~0 ~61 minecraft:air
+execute if score @p Timer matches 3254 run setblock ~3254 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3257 run setblock ~3257 ~0 ~58 minecraft:air
+execute if score @p Timer matches 3260 run setblock ~3260 ~0 ~55 minecraft:air
+execute if score @p Timer matches 3263 run setblock ~3263 ~0 ~67 minecraft:air
+execute if score @p Timer matches 3266 run setblock ~3266 ~0 ~53 minecraft:air
+execute if score @p Timer matches 3266 run setblock ~3266 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3269 run setblock ~3269 ~0 ~63 minecraft:air
+execute if score @p Timer matches 3272 run setblock ~3272 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3275 run setblock ~3275 ~0 ~61 minecraft:air
+execute if score @p Timer matches 3278 run setblock ~3278 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3281 run setblock ~3281 ~0 ~58 minecraft:air
+execute if score @p Timer matches 3284 run setblock ~3284 ~0 ~55 minecraft:air
+execute if score @p Timer matches 3287 run setblock ~3287 ~0 ~67 minecraft:air
+execute if score @p Timer matches 3290 run setblock ~3290 ~0 ~53 minecraft:air
+execute if score @p Timer matches 3290 run setblock ~3290 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3293 run setblock ~3293 ~0 ~63 minecraft:air
+execute if score @p Timer matches 3296 run setblock ~3296 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3299 run setblock ~3299 ~0 ~61 minecraft:air
+execute if score @p Timer matches 3302 run setblock ~3302 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3305 run setblock ~3305 ~0 ~58 minecraft:air
+execute if score @p Timer matches 3308 run setblock ~3308 ~0 ~55 minecraft:air
+execute if score @p Timer matches 3311 run setblock ~3311 ~0 ~67 minecraft:air
+execute if score @p Timer matches 3314 run setblock ~3314 ~0 ~51 minecraft:air
+execute if score @p Timer matches 3314 run setblock ~3314 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3317 run setblock ~3317 ~0 ~63 minecraft:air
+execute if score @p Timer matches 3320 run setblock ~3320 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3323 run setblock ~3323 ~0 ~61 minecraft:air
+execute if score @p Timer matches 3326 run setblock ~3326 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3329 run setblock ~3329 ~0 ~58 minecraft:air
+execute if score @p Timer matches 3332 run setblock ~3332 ~0 ~55 minecraft:air
+execute if score @p Timer matches 3335 run setblock ~3335 ~0 ~67 minecraft:air
+execute if score @p Timer matches 3338 run setblock ~3338 ~0 ~51 minecraft:air
+execute if score @p Timer matches 3338 run setblock ~3338 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3341 run setblock ~3341 ~0 ~63 minecraft:air
+execute if score @p Timer matches 3344 run setblock ~3344 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3347 run setblock ~3347 ~0 ~61 minecraft:air
+execute if score @p Timer matches 3350 run setblock ~3350 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3353 run setblock ~3353 ~0 ~58 minecraft:air
+execute if score @p Timer matches 3356 run setblock ~3356 ~0 ~55 minecraft:air
+execute if score @p Timer matches 3359 run setblock ~3359 ~0 ~67 minecraft:air
+execute if score @p Timer matches 3362 run setblock ~3362 ~0 ~50 minecraft:air
+execute if score @p Timer matches 3362 run setblock ~3362 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3365 run setblock ~3365 ~0 ~63 minecraft:air
+execute if score @p Timer matches 3368 run setblock ~3368 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3371 run setblock ~3371 ~0 ~61 minecraft:air
+execute if score @p Timer matches 3374 run setblock ~3374 ~0 ~60 minecraft:air
+execute if score @p Timer matches 3377 run setblock ~3377 ~0 ~57 minecraft:air
+execute if score @p Timer matches 3380 run setblock ~3380 ~0 ~67 minecraft:air
+execute if score @p Timer matches 3383 run setblock ~3383 ~0 ~63 minecraft:air
+execute if score @p Timer matches 3386 run setblock ~3386 ~0 ~50 minecraft:air
+execute if score @p Timer matches 3386 run setblock ~3386 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3389 run setblock ~3389 ~0 ~63 minecraft:air
+execute if score @p Timer matches 3392 run setblock ~3392 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3395 run setblock ~3395 ~0 ~61 minecraft:air
+execute if score @p Timer matches 3398 run setblock ~3398 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3401 run setblock ~3401 ~0 ~60 minecraft:air
+execute if score @p Timer matches 3404 run setblock ~3404 ~0 ~58 minecraft:air
+execute if score @p Timer matches 3407 run setblock ~3407 ~0 ~60 minecraft:air
+execute if score @p Timer matches 3410 run setblock ~3410 ~0 ~43 minecraft:air
+execute if score @p Timer matches 3410 run setblock ~3410 ~0 ~74 minecraft:air
+execute if score @p Timer matches 3413 run setblock ~3413 ~0 ~70 minecraft:air
+execute if score @p Timer matches 3416 run setblock ~3416 ~0 ~67 minecraft:air
+execute if score @p Timer matches 3419 run setblock ~3419 ~0 ~70 minecraft:air
+execute if score @p Timer matches 3422 run setblock ~3422 ~0 ~74 minecraft:air
+execute if score @p Timer matches 3425 run setblock ~3425 ~0 ~70 minecraft:air
+execute if score @p Timer matches 3428 run setblock ~3428 ~0 ~67 minecraft:air
+execute if score @p Timer matches 3431 run setblock ~3431 ~0 ~70 minecraft:air
+execute if score @p Timer matches 3434 run setblock ~3434 ~0 ~43 minecraft:air
+execute if score @p Timer matches 3434 run setblock ~3434 ~0 ~74 minecraft:air
+execute if score @p Timer matches 3437 run setblock ~3437 ~0 ~70 minecraft:air
+execute if score @p Timer matches 3440 run setblock ~3440 ~0 ~67 minecraft:air
+execute if score @p Timer matches 3443 run setblock ~3443 ~0 ~70 minecraft:air
+execute if score @p Timer matches 3446 run setblock ~3446 ~0 ~74 minecraft:air
+execute if score @p Timer matches 3449 run setblock ~3449 ~0 ~70 minecraft:air
+execute if score @p Timer matches 3452 run setblock ~3452 ~0 ~67 minecraft:air
+execute if score @p Timer matches 3455 run setblock ~3455 ~0 ~70 minecraft:air
+execute if score @p Timer matches 3458 run setblock ~3458 ~0 ~53 minecraft:air
+execute if score @p Timer matches 3458 run setblock ~3458 ~0 ~74 minecraft:air
+execute if score @p Timer matches 3461 run setblock ~3461 ~0 ~70 minecraft:air
+execute if score @p Timer matches 3464 run setblock ~3464 ~0 ~69 minecraft:air
+execute if score @p Timer matches 3467 run setblock ~3467 ~0 ~70 minecraft:air
+execute if score @p Timer matches 3470 run setblock ~3470 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3473 run setblock ~3473 ~0 ~70 minecraft:air
+execute if score @p Timer matches 3476 run setblock ~3476 ~0 ~69 minecraft:air
+execute if score @p Timer matches 3479 run setblock ~3479 ~0 ~70 minecraft:air
+execute if score @p Timer matches 3482 run setblock ~3482 ~0 ~53 minecraft:air
+execute if score @p Timer matches 3482 run setblock ~3482 ~0 ~74 minecraft:air
+execute if score @p Timer matches 3485 run setblock ~3485 ~0 ~70 minecraft:air
+execute if score @p Timer matches 3488 run setblock ~3488 ~0 ~69 minecraft:air
+execute if score @p Timer matches 3491 run setblock ~3491 ~0 ~70 minecraft:air
+execute if score @p Timer matches 3494 run setblock ~3494 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3497 run setblock ~3497 ~0 ~70 minecraft:air
+execute if score @p Timer matches 3500 run setblock ~3500 ~0 ~69 minecraft:air
+execute if score @p Timer matches 3503 run setblock ~3503 ~0 ~70 minecraft:air
+execute if score @p Timer matches 3506 run setblock ~3506 ~0 ~51 minecraft:air
+execute if score @p Timer matches 3506 run setblock ~3506 ~0 ~74 minecraft:air
+execute if score @p Timer matches 3509 run setblock ~3509 ~0 ~70 minecraft:air
+execute if score @p Timer matches 3512 run setblock ~3512 ~0 ~67 minecraft:air
+execute if score @p Timer matches 3515 run setblock ~3515 ~0 ~70 minecraft:air
+execute if score @p Timer matches 3518 run setblock ~3518 ~0 ~74 minecraft:air
+execute if score @p Timer matches 3521 run setblock ~3521 ~0 ~70 minecraft:air
+execute if score @p Timer matches 3524 run setblock ~3524 ~0 ~67 minecraft:air
+execute if score @p Timer matches 3527 run setblock ~3527 ~0 ~70 minecraft:air
+execute if score @p Timer matches 3530 run setblock ~3530 ~0 ~51 minecraft:air
+execute if score @p Timer matches 3530 run setblock ~3530 ~0 ~74 minecraft:air
+execute if score @p Timer matches 3533 run setblock ~3533 ~0 ~70 minecraft:air
+execute if score @p Timer matches 3536 run setblock ~3536 ~0 ~67 minecraft:air
+execute if score @p Timer matches 3539 run setblock ~3539 ~0 ~70 minecraft:air
+execute if score @p Timer matches 3542 run setblock ~3542 ~0 ~74 minecraft:air
+execute if score @p Timer matches 3545 run setblock ~3545 ~0 ~70 minecraft:air
+execute if score @p Timer matches 3548 run setblock ~3548 ~0 ~67 minecraft:air
+execute if score @p Timer matches 3551 run setblock ~3551 ~0 ~70 minecraft:air
+execute if score @p Timer matches 3554 run setblock ~3554 ~0 ~50 minecraft:air
+execute if score @p Timer matches 3554 run setblock ~3554 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3557 run setblock ~3557 ~0 ~72 minecraft:air
+execute if score @p Timer matches 3560 run setblock ~3560 ~0 ~69 minecraft:air
+execute if score @p Timer matches 3563 run setblock ~3563 ~0 ~72 minecraft:air
+execute if score @p Timer matches 3566 run setblock ~3566 ~0 ~74 minecraft:air
+execute if score @p Timer matches 3569 run setblock ~3569 ~0 ~72 minecraft:air
+execute if score @p Timer matches 3572 run setblock ~3572 ~0 ~69 minecraft:air
+execute if score @p Timer matches 3575 run setblock ~3575 ~0 ~66 minecraft:air
+execute if score @p Timer matches 3578 run setblock ~3578 ~0 ~50 minecraft:air
+execute if score @p Timer matches 3578 run setblock ~3578 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3581 run setblock ~3581 ~0 ~72 minecraft:air
+execute if score @p Timer matches 3584 run setblock ~3584 ~0 ~69 minecraft:air
+execute if score @p Timer matches 3587 run setblock ~3587 ~0 ~72 minecraft:air
+execute if score @p Timer matches 3590 run setblock ~3590 ~0 ~74 minecraft:air
+execute if score @p Timer matches 3593 run setblock ~3593 ~0 ~72 minecraft:air
+execute if score @p Timer matches 3596 run setblock ~3596 ~0 ~69 minecraft:air
+execute if score @p Timer matches 3599 run setblock ~3599 ~0 ~67 minecraft:air
+execute if score @p Timer matches 3602 run setblock ~3602 ~0 ~54 minecraft:air
+execute if score @p Timer matches 3602 run setblock ~3602 ~0 ~57 minecraft:air
+execute if score @p Timer matches 3602 run setblock ~3602 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3602 run setblock ~3602 ~0 ~66 minecraft:air
+execute if score @p Timer matches 3650 run setblock ~3650 ~0 ~43 minecraft:air
+execute if score @p Timer matches 3656 run setblock ~3656 ~0 ~63 minecraft:air
+execute if score @p Timer matches 3659 run setblock ~3659 ~0 ~58 minecraft:air
+execute if score @p Timer matches 3662 run setblock ~3662 ~0 ~43 minecraft:air
+execute if score @p Timer matches 3662 run setblock ~3662 ~0 ~50 minecraft:air
+execute if score @p Timer matches 3662 run setblock ~3662 ~0 ~63 minecraft:air
+execute if score @p Timer matches 3665 run setblock ~3665 ~0 ~58 minecraft:air
+execute if score @p Timer matches 3668 run setblock ~3668 ~0 ~63 minecraft:air
+execute if score @p Timer matches 3671 run setblock ~3671 ~0 ~58 minecraft:air
+execute if score @p Timer matches 3674 run setblock ~3674 ~0 ~43 minecraft:air
+execute if score @p Timer matches 3674 run setblock ~3674 ~0 ~63 minecraft:air
+execute if score @p Timer matches 3680 run setblock ~3680 ~0 ~63 minecraft:air
+execute if score @p Timer matches 3683 run setblock ~3683 ~0 ~58 minecraft:air
+execute if score @p Timer matches 3686 run setblock ~3686 ~0 ~43 minecraft:air
+execute if score @p Timer matches 3686 run setblock ~3686 ~0 ~50 minecraft:air
+execute if score @p Timer matches 3686 run setblock ~3686 ~0 ~63 minecraft:air
+execute if score @p Timer matches 3689 run setblock ~3689 ~0 ~58 minecraft:air
+execute if score @p Timer matches 3692 run setblock ~3692 ~0 ~63 minecraft:air
+execute if score @p Timer matches 3695 run setblock ~3695 ~0 ~58 minecraft:air
+execute if score @p Timer matches 3698 run setblock ~3698 ~0 ~50 minecraft:air
+execute if score @p Timer matches 3698 run setblock ~3698 ~0 ~63 minecraft:air
+execute if score @p Timer matches 3704 run setblock ~3704 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3707 run setblock ~3707 ~0 ~58 minecraft:air
+execute if score @p Timer matches 3710 run setblock ~3710 ~0 ~48 minecraft:air
+execute if score @p Timer matches 3710 run setblock ~3710 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3713 run setblock ~3713 ~0 ~58 minecraft:air
+execute if score @p Timer matches 3716 run setblock ~3716 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3719 run setblock ~3719 ~0 ~58 minecraft:air
+execute if score @p Timer matches 3722 run setblock ~3722 ~0 ~50 minecraft:air
+execute if score @p Timer matches 3722 run setblock ~3722 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3728 run setblock ~3728 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3731 run setblock ~3731 ~0 ~58 minecraft:air
+execute if score @p Timer matches 3734 run setblock ~3734 ~0 ~48 minecraft:air
+execute if score @p Timer matches 3734 run setblock ~3734 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3737 run setblock ~3737 ~0 ~58 minecraft:air
+execute if score @p Timer matches 3740 run setblock ~3740 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3743 run setblock ~3743 ~0 ~58 minecraft:air
+execute if score @p Timer matches 3746 run setblock ~3746 ~0 ~51 minecraft:air
+execute if score @p Timer matches 3746 run setblock ~3746 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3752 run setblock ~3752 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3755 run setblock ~3755 ~0 ~58 minecraft:air
+execute if score @p Timer matches 3758 run setblock ~3758 ~0 ~48 minecraft:air
+execute if score @p Timer matches 3758 run setblock ~3758 ~0 ~55 minecraft:air
+execute if score @p Timer matches 3758 run setblock ~3758 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3761 run setblock ~3761 ~0 ~58 minecraft:air
+execute if score @p Timer matches 3764 run setblock ~3764 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3767 run setblock ~3767 ~0 ~58 minecraft:air
+execute if score @p Timer matches 3770 run setblock ~3770 ~0 ~51 minecraft:air
+execute if score @p Timer matches 3770 run setblock ~3770 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3776 run setblock ~3776 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3779 run setblock ~3779 ~0 ~58 minecraft:air
+execute if score @p Timer matches 3782 run setblock ~3782 ~0 ~48 minecraft:air
+execute if score @p Timer matches 3782 run setblock ~3782 ~0 ~55 minecraft:air
+execute if score @p Timer matches 3782 run setblock ~3782 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3785 run setblock ~3785 ~0 ~58 minecraft:air
+execute if score @p Timer matches 3788 run setblock ~3788 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3791 run setblock ~3791 ~0 ~58 minecraft:air
+execute if score @p Timer matches 3794 run setblock ~3794 ~0 ~50 minecraft:air
+execute if score @p Timer matches 3794 run setblock ~3794 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3800 run setblock ~3800 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3803 run setblock ~3803 ~0 ~60 minecraft:air
+execute if score @p Timer matches 3806 run setblock ~3806 ~0 ~48 minecraft:air
+execute if score @p Timer matches 3806 run setblock ~3806 ~0 ~54 minecraft:air
+execute if score @p Timer matches 3806 run setblock ~3806 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3809 run setblock ~3809 ~0 ~60 minecraft:air
+execute if score @p Timer matches 3812 run setblock ~3812 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3815 run setblock ~3815 ~0 ~60 minecraft:air
+execute if score @p Timer matches 3818 run setblock ~3818 ~0 ~50 minecraft:air
+execute if score @p Timer matches 3818 run setblock ~3818 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3824 run setblock ~3824 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3827 run setblock ~3827 ~0 ~60 minecraft:air
+execute if score @p Timer matches 3830 run setblock ~3830 ~0 ~48 minecraft:air
+execute if score @p Timer matches 3830 run setblock ~3830 ~0 ~54 minecraft:air
+execute if score @p Timer matches 3830 run setblock ~3830 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3833 run setblock ~3833 ~0 ~60 minecraft:air
+execute if score @p Timer matches 3836 run setblock ~3836 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3839 run setblock ~3839 ~0 ~60 minecraft:air
+execute if score @p Timer matches 3842 run setblock ~3842 ~0 ~43 minecraft:air
+execute if score @p Timer matches 3842 run setblock ~3842 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3848 run setblock ~3848 ~0 ~63 minecraft:air
+execute if score @p Timer matches 3850 run setblock ~3850 ~0 ~63 minecraft:air
+execute if score @p Timer matches 3852 run setblock ~3852 ~0 ~63 minecraft:air
+execute if score @p Timer matches 3854 run setblock ~3854 ~0 ~43 minecraft:air
+execute if score @p Timer matches 3854 run setblock ~3854 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3860 run setblock ~3860 ~0 ~63 minecraft:air
+execute if score @p Timer matches 3862 run setblock ~3862 ~0 ~63 minecraft:air
+execute if score @p Timer matches 3864 run setblock ~3864 ~0 ~63 minecraft:air
+execute if score @p Timer matches 3866 run setblock ~3866 ~0 ~43 minecraft:air
+execute if score @p Timer matches 3866 run setblock ~3866 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3872 run setblock ~3872 ~0 ~63 minecraft:air
+execute if score @p Timer matches 3874 run setblock ~3874 ~0 ~63 minecraft:air
+execute if score @p Timer matches 3876 run setblock ~3876 ~0 ~63 minecraft:air
+execute if score @p Timer matches 3878 run setblock ~3878 ~0 ~43 minecraft:air
+execute if score @p Timer matches 3878 run setblock ~3878 ~0 ~63 minecraft:air
+execute if score @p Timer matches 3881 run setblock ~3881 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3884 run setblock ~3884 ~0 ~63 minecraft:air
+execute if score @p Timer matches 3887 run setblock ~3887 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3890 run setblock ~3890 ~0 ~50 minecraft:air
+execute if score @p Timer matches 3890 run setblock ~3890 ~0 ~63 minecraft:air
+execute if score @p Timer matches 3896 run setblock ~3896 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3898 run setblock ~3898 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3900 run setblock ~3900 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3902 run setblock ~3902 ~0 ~48 minecraft:air
+execute if score @p Timer matches 3902 run setblock ~3902 ~0 ~60 minecraft:air
+execute if score @p Timer matches 3908 run setblock ~3908 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3910 run setblock ~3910 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3912 run setblock ~3912 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3914 run setblock ~3914 ~0 ~50 minecraft:air
+execute if score @p Timer matches 3914 run setblock ~3914 ~0 ~60 minecraft:air
+execute if score @p Timer matches 3920 run setblock ~3920 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3922 run setblock ~3922 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3924 run setblock ~3924 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3926 run setblock ~3926 ~0 ~48 minecraft:air
+execute if score @p Timer matches 3926 run setblock ~3926 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3929 run setblock ~3929 ~0 ~60 minecraft:air
+execute if score @p Timer matches 3932 run setblock ~3932 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3935 run setblock ~3935 ~0 ~60 minecraft:air
+execute if score @p Timer matches 3938 run setblock ~3938 ~0 ~51 minecraft:air
+execute if score @p Timer matches 3938 run setblock ~3938 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3944 run setblock ~3944 ~0 ~63 minecraft:air
+execute if score @p Timer matches 3946 run setblock ~3946 ~0 ~63 minecraft:air
+execute if score @p Timer matches 3948 run setblock ~3948 ~0 ~63 minecraft:air
+execute if score @p Timer matches 3950 run setblock ~3950 ~0 ~48 minecraft:air
+execute if score @p Timer matches 3950 run setblock ~3950 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3956 run setblock ~3956 ~0 ~63 minecraft:air
+execute if score @p Timer matches 3958 run setblock ~3958 ~0 ~63 minecraft:air
+execute if score @p Timer matches 3960 run setblock ~3960 ~0 ~63 minecraft:air
+execute if score @p Timer matches 3962 run setblock ~3962 ~0 ~51 minecraft:air
+execute if score @p Timer matches 3962 run setblock ~3962 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3968 run setblock ~3968 ~0 ~63 minecraft:air
+execute if score @p Timer matches 3970 run setblock ~3970 ~0 ~63 minecraft:air
+execute if score @p Timer matches 3972 run setblock ~3972 ~0 ~63 minecraft:air
+execute if score @p Timer matches 3974 run setblock ~3974 ~0 ~48 minecraft:air
+execute if score @p Timer matches 3974 run setblock ~3974 ~0 ~63 minecraft:air
+execute if score @p Timer matches 3977 run setblock ~3977 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3980 run setblock ~3980 ~0 ~63 minecraft:air
+execute if score @p Timer matches 3983 run setblock ~3983 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3986 run setblock ~3986 ~0 ~50 minecraft:air
+execute if score @p Timer matches 3986 run setblock ~3986 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3989 run setblock ~3989 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3990 run setblock ~3990 ~0 ~60 minecraft:air
+execute if score @p Timer matches 3992 run setblock ~3992 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3995 run setblock ~3995 ~0 ~62 minecraft:air
+execute if score @p Timer matches 3998 run setblock ~3998 ~0 ~48 minecraft:air
+execute if score @p Timer matches 3998 run setblock ~3998 ~0 ~62 minecraft:air
+execute if score @p Timer matches 4001 run setblock ~4001 ~0 ~62 minecraft:air
+execute if score @p Timer matches 4004 run setblock ~4004 ~0 ~62 minecraft:air
+execute if score @p Timer matches 4005 run setblock ~4005 ~0 ~63 minecraft:air
+execute if score @p Timer matches 4007 run setblock ~4007 ~0 ~62 minecraft:air
+execute if score @p Timer matches 4010 run setblock ~4010 ~0 ~50 minecraft:air
+execute if score @p Timer matches 4010 run setblock ~4010 ~0 ~62 minecraft:air
+execute if score @p Timer matches 4013 run setblock ~4013 ~0 ~60 minecraft:air
+execute if score @p Timer matches 4016 run setblock ~4016 ~0 ~62 minecraft:air
+execute if score @p Timer matches 4019 run setblock ~4019 ~0 ~60 minecraft:air
+execute if score @p Timer matches 4022 run setblock ~4022 ~0 ~48 minecraft:air
+execute if score @p Timer matches 4022 run setblock ~4022 ~0 ~62 minecraft:air
+execute if score @p Timer matches 4025 run setblock ~4025 ~0 ~62 minecraft:air
+execute if score @p Timer matches 4028 run setblock ~4028 ~0 ~62 minecraft:air
+execute if score @p Timer matches 4031 run setblock ~4031 ~0 ~60 minecraft:air
+execute if score @p Timer matches 4034 run setblock ~4034 ~0 ~43 minecraft:air
+execute if score @p Timer matches 4046 run setblock ~4046 ~0 ~43 minecraft:air
+execute if score @p Timer matches 4046 run setblock ~4046 ~0 ~62 minecraft:air
+execute if score @p Timer matches 4049 run setblock ~4049 ~0 ~62 minecraft:air
+execute if score @p Timer matches 4052 run setblock ~4052 ~0 ~62 minecraft:air
+execute if score @p Timer matches 4055 run setblock ~4055 ~0 ~62 minecraft:air
+execute if score @p Timer matches 4058 run setblock ~4058 ~0 ~43 minecraft:air
+execute if score @p Timer matches 4058 run setblock ~4058 ~0 ~62 minecraft:air
+execute if score @p Timer matches 4061 run setblock ~4061 ~0 ~62 minecraft:air
+execute if score @p Timer matches 4064 run setblock ~4064 ~0 ~62 minecraft:air
+execute if score @p Timer matches 4067 run setblock ~4067 ~0 ~62 minecraft:air
+execute if score @p Timer matches 4070 run setblock ~4070 ~0 ~43 minecraft:air
+execute if score @p Timer matches 4070 run setblock ~4070 ~0 ~65 minecraft:air
+execute if score @p Timer matches 4076 run setblock ~4076 ~0 ~62 minecraft:air
+execute if score @p Timer matches 4082 run setblock ~4082 ~0 ~50 minecraft:air
+execute if score @p Timer matches 4082 run setblock ~4082 ~0 ~60 minecraft:air
+execute if score @p Timer matches 4094 run setblock ~4094 ~0 ~48 minecraft:air
+execute if score @p Timer matches 4094 run setblock ~4094 ~0 ~60 minecraft:air
+execute if score @p Timer matches 4097 run setblock ~4097 ~0 ~60 minecraft:air
+execute if score @p Timer matches 4100 run setblock ~4100 ~0 ~60 minecraft:air
+execute if score @p Timer matches 4103 run setblock ~4103 ~0 ~60 minecraft:air
+execute if score @p Timer matches 4106 run setblock ~4106 ~0 ~50 minecraft:air
+execute if score @p Timer matches 4106 run setblock ~4106 ~0 ~60 minecraft:air
+execute if score @p Timer matches 4109 run setblock ~4109 ~0 ~60 minecraft:air
+execute if score @p Timer matches 4112 run setblock ~4112 ~0 ~60 minecraft:air
+execute if score @p Timer matches 4115 run setblock ~4115 ~0 ~58 minecraft:air
+execute if score @p Timer matches 4118 run setblock ~4118 ~0 ~48 minecraft:air
+execute if score @p Timer matches 4118 run setblock ~4118 ~0 ~60 minecraft:air
+execute if score @p Timer matches 4124 run setblock ~4124 ~0 ~62 minecraft:air
+execute if score @p Timer matches 4130 run setblock ~4130 ~0 ~51 minecraft:air
+execute if score @p Timer matches 4142 run setblock ~4142 ~0 ~48 minecraft:air
+execute if score @p Timer matches 4142 run setblock ~4142 ~0 ~62 minecraft:air
+execute if score @p Timer matches 4145 run setblock ~4145 ~0 ~62 minecraft:air
+execute if score @p Timer matches 4148 run setblock ~4148 ~0 ~62 minecraft:air
+execute if score @p Timer matches 4151 run setblock ~4151 ~0 ~62 minecraft:air
+execute if score @p Timer matches 4154 run setblock ~4154 ~0 ~51 minecraft:air
+execute if score @p Timer matches 4154 run setblock ~4154 ~0 ~62 minecraft:air
+execute if score @p Timer matches 4157 run setblock ~4157 ~0 ~62 minecraft:air
+execute if score @p Timer matches 4160 run setblock ~4160 ~0 ~62 minecraft:air
+execute if score @p Timer matches 4163 run setblock ~4163 ~0 ~62 minecraft:air
+execute if score @p Timer matches 4166 run setblock ~4166 ~0 ~48 minecraft:air
+execute if score @p Timer matches 4166 run setblock ~4166 ~0 ~65 minecraft:air
+execute if score @p Timer matches 4172 run setblock ~4172 ~0 ~62 minecraft:air
+execute if score @p Timer matches 4178 run setblock ~4178 ~0 ~50 minecraft:air
+execute if score @p Timer matches 4178 run setblock ~4178 ~0 ~60 minecraft:air
+execute if score @p Timer matches 4190 run setblock ~4190 ~0 ~48 minecraft:air
+execute if score @p Timer matches 4190 run setblock ~4190 ~0 ~60 minecraft:air
+execute if score @p Timer matches 4193 run setblock ~4193 ~0 ~60 minecraft:air
+execute if score @p Timer matches 4196 run setblock ~4196 ~0 ~60 minecraft:air
+execute if score @p Timer matches 4199 run setblock ~4199 ~0 ~60 minecraft:air
+execute if score @p Timer matches 4202 run setblock ~4202 ~0 ~50 minecraft:air
+execute if score @p Timer matches 4202 run setblock ~4202 ~0 ~60 minecraft:air
+execute if score @p Timer matches 4205 run setblock ~4205 ~0 ~60 minecraft:air
+execute if score @p Timer matches 4208 run setblock ~4208 ~0 ~60 minecraft:air
+execute if score @p Timer matches 4211 run setblock ~4211 ~0 ~58 minecraft:air
+execute if score @p Timer matches 4214 run setblock ~4214 ~0 ~48 minecraft:air
+execute if score @p Timer matches 4214 run setblock ~4214 ~0 ~62 minecraft:air
+execute if score @p Timer matches 4220 run setblock ~4220 ~0 ~55 minecraft:air
+execute if score @p Timer matches 4226 run setblock ~4226 ~0 ~43 minecraft:air
+execute if score @p Timer matches 4238 run setblock ~4238 ~0 ~43 minecraft:air
+execute if score @p Timer matches 4238 run setblock ~4238 ~0 ~62 minecraft:air
+execute if score @p Timer matches 4241 run setblock ~4241 ~0 ~62 minecraft:air
+execute if score @p Timer matches 4244 run setblock ~4244 ~0 ~62 minecraft:air
+execute if score @p Timer matches 4247 run setblock ~4247 ~0 ~62 minecraft:air
+execute if score @p Timer matches 4250 run setblock ~4250 ~0 ~43 minecraft:air
+execute if score @p Timer matches 4250 run setblock ~4250 ~0 ~62 minecraft:air
+execute if score @p Timer matches 4253 run setblock ~4253 ~0 ~62 minecraft:air
+execute if score @p Timer matches 4256 run setblock ~4256 ~0 ~62 minecraft:air
+execute if score @p Timer matches 4259 run setblock ~4259 ~0 ~62 minecraft:air
+execute if score @p Timer matches 4262 run setblock ~4262 ~0 ~43 minecraft:air
+execute if score @p Timer matches 4262 run setblock ~4262 ~0 ~65 minecraft:air
+execute if score @p Timer matches 4268 run setblock ~4268 ~0 ~62 minecraft:air
+execute if score @p Timer matches 4274 run setblock ~4274 ~0 ~50 minecraft:air
+execute if score @p Timer matches 4274 run setblock ~4274 ~0 ~60 minecraft:air
+execute if score @p Timer matches 4286 run setblock ~4286 ~0 ~48 minecraft:air
+execute if score @p Timer matches 4286 run setblock ~4286 ~0 ~60 minecraft:air
+execute if score @p Timer matches 4289 run setblock ~4289 ~0 ~60 minecraft:air
+execute if score @p Timer matches 4292 run setblock ~4292 ~0 ~60 minecraft:air
+execute if score @p Timer matches 4295 run setblock ~4295 ~0 ~60 minecraft:air
+execute if score @p Timer matches 4298 run setblock ~4298 ~0 ~50 minecraft:air
+execute if score @p Timer matches 4298 run setblock ~4298 ~0 ~60 minecraft:air
+execute if score @p Timer matches 4301 run setblock ~4301 ~0 ~60 minecraft:air
+execute if score @p Timer matches 4304 run setblock ~4304 ~0 ~60 minecraft:air
+execute if score @p Timer matches 4307 run setblock ~4307 ~0 ~58 minecraft:air
+execute if score @p Timer matches 4310 run setblock ~4310 ~0 ~48 minecraft:air
+execute if score @p Timer matches 4310 run setblock ~4310 ~0 ~60 minecraft:air
+execute if score @p Timer matches 4316 run setblock ~4316 ~0 ~62 minecraft:air
+execute if score @p Timer matches 4322 run setblock ~4322 ~0 ~51 minecraft:air
+execute if score @p Timer matches 4334 run setblock ~4334 ~0 ~48 minecraft:air
+execute if score @p Timer matches 4334 run setblock ~4334 ~0 ~62 minecraft:air
+execute if score @p Timer matches 4337 run setblock ~4337 ~0 ~62 minecraft:air
+execute if score @p Timer matches 4340 run setblock ~4340 ~0 ~62 minecraft:air
+execute if score @p Timer matches 4343 run setblock ~4343 ~0 ~62 minecraft:air
+execute if score @p Timer matches 4346 run setblock ~4346 ~0 ~51 minecraft:air
+execute if score @p Timer matches 4346 run setblock ~4346 ~0 ~62 minecraft:air
+execute if score @p Timer matches 4349 run setblock ~4349 ~0 ~62 minecraft:air
+execute if score @p Timer matches 4352 run setblock ~4352 ~0 ~62 minecraft:air
+execute if score @p Timer matches 4355 run setblock ~4355 ~0 ~62 minecraft:air
+execute if score @p Timer matches 4358 run setblock ~4358 ~0 ~48 minecraft:air
+execute if score @p Timer matches 4358 run setblock ~4358 ~0 ~65 minecraft:air
+execute if score @p Timer matches 4364 run setblock ~4364 ~0 ~62 minecraft:air
+execute if score @p Timer matches 4370 run setblock ~4370 ~0 ~50 minecraft:air
+execute if score @p Timer matches 4370 run setblock ~4370 ~0 ~60 minecraft:air
+execute if score @p Timer matches 4382 run setblock ~4382 ~0 ~48 minecraft:air
+execute if score @p Timer matches 4382 run setblock ~4382 ~0 ~60 minecraft:air
+execute if score @p Timer matches 4385 run setblock ~4385 ~0 ~60 minecraft:air
+execute if score @p Timer matches 4388 run setblock ~4388 ~0 ~60 minecraft:air
+execute if score @p Timer matches 4391 run setblock ~4391 ~0 ~60 minecraft:air
+execute if score @p Timer matches 4394 run setblock ~4394 ~0 ~50 minecraft:air
+execute if score @p Timer matches 4394 run setblock ~4394 ~0 ~60 minecraft:air
+execute if score @p Timer matches 4397 run setblock ~4397 ~0 ~60 minecraft:air
+execute if score @p Timer matches 4400 run setblock ~4400 ~0 ~60 minecraft:air
+execute if score @p Timer matches 4403 run setblock ~4403 ~0 ~58 minecraft:air
+execute if score @p Timer matches 4406 run setblock ~4406 ~0 ~48 minecraft:air
+execute if score @p Timer matches 4406 run setblock ~4406 ~0 ~62 minecraft:air
+execute if score @p Timer matches 4412 run setblock ~4412 ~0 ~55 minecraft:air
+execute if score @p Timer matches 4442 run setblock ~4442 ~0 ~43 minecraft:air
+execute if score @p Timer matches 4448 run setblock ~4448 ~0 ~62 minecraft:air
+execute if score @p Timer matches 4454 run setblock ~4454 ~0 ~67 minecraft:air
+execute if score @p Timer matches 4460 run setblock ~4460 ~0 ~74 minecraft:air
+execute if score @p Timer matches 4466 run setblock ~4466 ~0 ~48 minecraft:air
+execute if score @p Timer matches 4466 run setblock ~4466 ~0 ~74 minecraft:air
+execute if score @p Timer matches 4475 run setblock ~4475 ~0 ~72 minecraft:air
+execute if score @p Timer matches 4478 run setblock ~4478 ~0 ~75 minecraft:air
+execute if score @p Timer matches 4490 run setblock ~4490 ~0 ~50 minecraft:air
+execute if score @p Timer matches 4496 run setblock ~4496 ~0 ~62 minecraft:air
+execute if score @p Timer matches 4502 run setblock ~4502 ~0 ~54 minecraft:air
+execute if score @p Timer matches 4502 run setblock ~4502 ~0 ~69 minecraft:air
+execute if score @p Timer matches 4508 run setblock ~4508 ~0 ~72 minecraft:air
+execute if score @p Timer matches 4514 run setblock ~4514 ~0 ~43 minecraft:air
+execute if score @p Timer matches 4514 run setblock ~4514 ~0 ~72 minecraft:air
+execute if score @p Timer matches 4523 run setblock ~4523 ~0 ~70 minecraft:air
+execute if score @p Timer matches 4526 run setblock ~4526 ~0 ~74 minecraft:air
+execute if score @p Timer matches 4538 run setblock ~4538 ~0 ~50 minecraft:air
+execute if score @p Timer matches 4544 run setblock ~4544 ~0 ~62 minecraft:air
+execute if score @p Timer matches 4550 run setblock ~4550 ~0 ~55 minecraft:air
+execute if score @p Timer matches 4550 run setblock ~4550 ~0 ~69 minecraft:air
+execute if score @p Timer matches 4556 run setblock ~4556 ~0 ~70 minecraft:air
+execute if score @p Timer matches 4562 run setblock ~4562 ~0 ~51 minecraft:air
+execute if score @p Timer matches 4562 run setblock ~4562 ~0 ~70 minecraft:air
+execute if score @p Timer matches 4571 run setblock ~4571 ~0 ~69 minecraft:air
+execute if score @p Timer matches 4574 run setblock ~4574 ~0 ~72 minecraft:air
+execute if score @p Timer matches 4586 run setblock ~4586 ~0 ~45 minecraft:air
+execute if score @p Timer matches 4592 run setblock ~4592 ~0 ~62 minecraft:air
+execute if score @p Timer matches 4598 run setblock ~4598 ~0 ~48 minecraft:air
+execute if score @p Timer matches 4598 run setblock ~4598 ~0 ~69 minecraft:air
+execute if score @p Timer matches 4604 run setblock ~4604 ~0 ~70 minecraft:air
+execute if score @p Timer matches 4610 run setblock ~4610 ~0 ~50 minecraft:air
+execute if score @p Timer matches 4610 run setblock ~4610 ~0 ~70 minecraft:air
+execute if score @p Timer matches 4619 run setblock ~4619 ~0 ~72 minecraft:air
+execute if score @p Timer matches 4622 run setblock ~4622 ~0 ~69 minecraft:air
+execute if score @p Timer matches 4634 run setblock ~4634 ~0 ~50 minecraft:air
+execute if score @p Timer matches 4640 run setblock ~4640 ~0 ~67 minecraft:air
+execute if score @p Timer matches 4646 run setblock ~4646 ~0 ~54 minecraft:air
+execute if score @p Timer matches 4646 run setblock ~4646 ~0 ~70 minecraft:air
+execute if score @p Timer matches 4652 run setblock ~4652 ~0 ~74 minecraft:air
+execute if score @p Timer matches 4658 run setblock ~4658 ~0 ~48 minecraft:air
+execute if score @p Timer matches 4658 run setblock ~4658 ~0 ~74 minecraft:air
+execute if score @p Timer matches 4667 run setblock ~4667 ~0 ~72 minecraft:air
+execute if score @p Timer matches 4670 run setblock ~4670 ~0 ~81 minecraft:air
+execute if score @p Timer matches 4682 run setblock ~4682 ~0 ~50 minecraft:air
+execute if score @p Timer matches 4688 run setblock ~4688 ~0 ~82 minecraft:air
+execute if score @p Timer matches 4694 run setblock ~4694 ~0 ~81 minecraft:air
+execute if score @p Timer matches 4700 run setblock ~4700 ~0 ~74 minecraft:air
+execute if score @p Timer matches 4706 run setblock ~4706 ~0 ~43 minecraft:air
+execute if score @p Timer matches 4706 run setblock ~4706 ~0 ~72 minecraft:air
+execute if score @p Timer matches 4715 run setblock ~4715 ~0 ~74 minecraft:air
+execute if score @p Timer matches 4718 run setblock ~4718 ~0 ~70 minecraft:air
+execute if score @p Timer matches 4730 run setblock ~4730 ~0 ~50 minecraft:air
+execute if score @p Timer matches 4736 run setblock ~4736 ~0 ~70 minecraft:air
+execute if score @p Timer matches 4742 run setblock ~4742 ~0 ~55 minecraft:air
+execute if score @p Timer matches 4742 run setblock ~4742 ~0 ~70 minecraft:air
+execute if score @p Timer matches 4748 run setblock ~4748 ~0 ~70 minecraft:air
+execute if score @p Timer matches 4754 run setblock ~4754 ~0 ~51 minecraft:air
+execute if score @p Timer matches 4754 run setblock ~4754 ~0 ~74 minecraft:air
+execute if score @p Timer matches 4763 run setblock ~4763 ~0 ~72 minecraft:air
+execute if score @p Timer matches 4766 run setblock ~4766 ~0 ~67 minecraft:air
+execute if score @p Timer matches 4778 run setblock ~4778 ~0 ~50 minecraft:air
+execute if score @p Timer matches 4784 run setblock ~4784 ~0 ~62 minecraft:air
+execute if score @p Timer matches 4790 run setblock ~4790 ~0 ~54 minecraft:air
+execute if score @p Timer matches 4790 run setblock ~4790 ~0 ~70 minecraft:air
+execute if score @p Timer matches 4799 run setblock ~4799 ~0 ~69 minecraft:air
+execute if score @p Timer matches 4802 run setblock ~4802 ~0 ~43 minecraft:air
+execute if score @p Timer matches 4802 run setblock ~4802 ~0 ~55 minecraft:air
+execute if score @p Timer matches 4802 run setblock ~4802 ~0 ~67 minecraft:air
 execute if score @p Timer matches -30 run tp @p ~-50 ~10 ~60
 execute if score @p Timer matches -29 run tp @p ~-49 ~10 ~60
 execute if score @p Timer matches -28 run tp @p ~-48 ~10 ~60

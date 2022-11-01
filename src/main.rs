@@ -1,4 +1,5 @@
 use office::{DataType, Excel, Range};
+use rand::{thread_rng, Rng};
 use std::{
     collections::BTreeSet,
     fs::File,
@@ -40,6 +41,14 @@ struct Config {
     midi_xlsx_path: String,
     output_setblocks_path: String,
     output_play_path: String,
+    output_clear_path: String,
+}
+
+struct Color {
+    r: f64,
+    g: f64,
+    b: f64,
+    a: f64,
 }
 
 fn init_config() -> Config {
@@ -57,6 +66,7 @@ fn init_config() -> Config {
         midi_xlsx_path: r"H:\mc\mc粒子特效\midi_xlsx\最伟大的作品.xlsx".to_string(),
         output_setblocks_path: "./functions/setblocks.mcfunction".to_string(),
         output_play_path: "./functions/play.mcfunction".to_string(),
+        output_clear_path: "./functions/clear.mcfunction".to_string(),
     };
     config
 }
@@ -73,13 +83,14 @@ fn main() {
     // write_range(&mut dest, &range);
     let tick_node_list: Vec<TickNode> = get_tick_node_list(&range);
     // println!("{:#?}", tick_node_list);
-    create_setblocks_mcfunction(&tick_node_list, &config);
     let point_group_list = get_point_group_list(&tick_node_list, &config);
+    create_setblocks_mcfunction(&point_group_list, &config);
     // println!("{:#?}", point_group_list);
     let point_list = get_point_list(&tick_node_list, &config);
     // println!("{:?}", point_list);
-    let edge_list = get_edge_list(&point_list, &config);
+    let edge_list = get_edge_list(&point_group_list, &config);
     create_play_mcfunction(edge_list, &config);
+    create_clear_mcfunction(&tick_node_list, &config);
 }
 
 fn get_tick_node_list(range: &Range) -> Vec<TickNode> {
@@ -157,46 +168,154 @@ fn get_point_list(tick_node_list: &Vec<TickNode>, config: &Config) -> Vec<Point>
     point_list
 }
 
-fn get_edge_list(point_list: &Vec<Point>, config: &Config) -> Vec<Edge> {
+/**
+ *  边表生成主函数
+ */
+fn get_edge_list(point_group_list: &Vec<PointGroup>, config: &Config) -> Vec<Edge> {
+    let mut rng = thread_rng();
     let mut edge_list = Vec::new();
-    let mut point1 = Point {
+    let mut point_pre = Point {
         x: -20,
         y: config.height,
         z: config.mid_pitch,
     };
-    for point in point_list {
+    for point_group in point_group_list {
+        if point_group.z_list.len() > 1 {
+            for i in 0..point_group.z_list.len() - 1 {
+                let point1 = Point {
+                    x: point_group.x,
+                    y: config.height,
+                    z: point_group.z_list[i],
+                };
+                let point2 = Point {
+                    x: point_group.x,
+                    y: config.height,
+                    z: point_group.z_list[i + 1],
+                };
+                edge_list.push(Edge {
+                    point1: point1,
+                    point2: point2,
+                });
+            }
+        }
+        let index_nxt = rng.gen_range(0..point_group.z_list.len());
+        let point_nxt = Point {
+            x: point_group.x,
+            y: config.height,
+            z: point_group.z_list[index_nxt],
+        };
         edge_list.push(Edge {
-            point1: point1,
-            point2: *point,
+            point1: point_pre,
+            point2: point_nxt,
         });
-        point1 = *point;
+        point_pre = point_nxt;
     }
     edge_list
 }
 
-fn create_setblocks_mcfunction(tick_node_list: &Vec<TickNode>, config: &Config) {
+fn create_setblocks_mcfunction(point_group_list: &Vec<PointGroup>, config: &Config) {
     let mut dest = BufWriter::new(File::create(config.output_setblocks_path.as_str()).unwrap());
-    for tick_node in tick_node_list {
-        for (_, off_z) in tick_node.pitch_set.iter().enumerate() {
+    for point_group in point_group_list {
+        for (_, z) in point_group.z_list.iter().enumerate() {
             write!(
                 dest,
                 "setblock ~{} ~{} ~{} minecraft:redstone_lamp[lit=true]\r\n",
-                tick_node.tick_id, config.height, off_z
+                point_group.x, config.height, z
             )
             .unwrap();
-            // println!(
-            //     "setblock ~{} ~{} ~{} minecraft:redstone_lamp",
-            //     tick_node.tick_id, y, off_z
-            // );
         }
     }
     create_tp_mcfuntion(&mut dest, config);
 }
 
+/**
+ *  play.mcfunction文件生成主函数
+ */
 fn create_play_mcfunction(edge_list: Vec<Edge>, config: &Config) {
+    let mut rng = thread_rng();
+    let color_list: Vec<Color> = vec![
+        Color {
+            r: 1.0,
+            g: 1.0,
+            b: 1.0,
+            a: 1.0,
+        },
+        Color {
+            r: 1.0,
+            g: 0.0,
+            b: 0.0,
+            a: 1.0,
+        },
+        Color {
+            r: 1.0,
+            g: 0.644,
+            b: 0.0,
+            a: 1.0,
+        },
+        Color {
+            r: 1.0,
+            g: 1.0,
+            b: 0.0,
+            a: 1.0,
+        },
+        Color {
+            r: 0.0,
+            g: 1.0,
+            b: 0.0,
+            a: 1.0,
+        },
+        Color {
+            r: 0.0,
+            g: 1.0,
+            b: 1.0,
+            a: 1.0,
+        },
+        Color {
+            r: 0.0,
+            g: 0.0,
+            b: 1.0,
+            a: 1.0,
+        },
+        Color {
+            r: 0.542,
+            g: 0.0,
+            b: 1.0,
+            a: 1.0,
+        },
+    ];
     let mut dest = BufWriter::new(File::create(config.output_play_path.as_str()).unwrap());
     for edge in edge_list {
-        draw_line(&mut dest, edge.point1, edge.point2);
+        if edge.point1.x == edge.point2.x {
+            draw_line(
+                &mut dest,
+                edge.point1,
+                edge.point2,
+                color_list.get(0).unwrap(),
+            );
+        } else {
+            let index_color = rng.gen_range(1..8);
+            draw_line(
+                &mut dest,
+                edge.point1,
+                edge.point2,
+                color_list.get(index_color).unwrap(),
+            );
+        }
+    }
+    create_tp_mcfuntion(&mut dest, config);
+}
+
+fn create_clear_mcfunction(tick_node_list: &Vec<TickNode>, config: &Config) {
+    let mut dest = BufWriter::new(File::create(config.output_clear_path.as_str()).unwrap());
+    for tick_node in tick_node_list {
+        for (_, off_z) in tick_node.pitch_set.iter().enumerate() {
+            write!(
+                dest,
+                "execute if score @p Timer matches {} run setblock ~{} ~{} ~{} minecraft:air\r\n",
+                tick_node.tick_id, tick_node.tick_id, config.height, off_z
+            )
+            .unwrap();
+        }
     }
     create_tp_mcfuntion(&mut dest, config);
 }
@@ -215,7 +334,7 @@ fn create_tp_mcfuntion(dest: &mut dyn Write, config: &Config) {
     }
 }
 
-fn draw_line(dest: &mut dyn Write, point1: Point, point2: Point) {
+fn draw_line(dest: &mut dyn Write, point1: Point, point2: Point, color: &Color) {
     let off_x = point2.x - point1.x;
     let off_y = point2.y - point1.y;
     let off_z = point2.z - point1.z;
@@ -237,9 +356,9 @@ fn draw_line(dest: &mut dyn Write, point1: Point, point2: Point) {
     }
     let num_sep: f64 = 1.0 / (num_cpt as f64);
     if off_x != 0 {
-        write!(dest,"execute if score @p Timer matches {} run particleex tickparameter minecraft:end_rod ~{} ~{} ~{} 0.8 0.8 0 1 0 0 0 0 {} \"x={}*t;y={:.5}*t;z={:.5}*t;\" {:.5} {} 25\r\n",point1.x,point1.x,point1.y,point1.z,off_x,k_x,k_y,k_z,num_sep,num_cpt).unwrap();
+        write!(dest,"execute if score @p Timer matches {} run particleex tickparameter minecraft:end_rod ~{} ~{} ~{} {:.3} {:.3} {:.3} {:.3} 0 0 0 0 {} \"x={}*t;y={:.5}*t;z={:.5}*t;\" {:.5} {} 25\r\n",point1.x,point1.x,point1.y,point1.z,color.r,color.g,color.b,color.a,off_x,k_x,k_y,k_z,num_sep,num_cpt).unwrap();
     } else {
-        write!(dest,"execute if score @p Timer matches {} run particleex parameter minecraft:end_rod ~{} ~{} ~{} 0.8 0.8 0 1 0 0 0 0 {:.5} \"x={}*t;y={:.5}*t;z={:.5}*t;\" {:.5} {} 25\r\n",point1.x,point1.x,point1.y,point1.z,dist,k_x,k_y,k_z,num_sep,num_cpt).unwrap();
+        write!(dest,"execute if score @p Timer matches {} run particleex parameter minecraft:end_rod ~{} ~{} ~{} {:.3} {:.3} {:.3} {:.3} 0 0 0 0 {:.5} \"x={}*t;y={:.5}*t;z={:.5}*t;\" {:.5} 25\r\n",point1.x,point1.x,point1.y,point1.z,color.r,color.g,color.b,color.a,dist,k_x,k_y,k_z,num_sep).unwrap();
     }
 }
 

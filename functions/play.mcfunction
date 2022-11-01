@@ -1,1552 +1,1552 @@
-execute if score @p Timer matches -20 run particleex tickparameter minecraft:end_rod ~-20 ~0 ~60 0.8 0.8 0 1 0 0 0 0 20 "x=1*t;y=0.00000*t;z=-0.85000*t;" 0.10000 10 25
-execute if score @p Timer matches 0 run particleex parameter minecraft:end_rod ~0 ~0 ~43 0.8 0.8 0 1 0 0 0 0 19.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 0 run particleex tickparameter minecraft:end_rod ~0 ~0 ~62 0.8 0.8 0 1 0 0 0 0 2 "x=1*t;y=0.00000*t;z=-2.00000*t;" 0.05000 20 25
-execute if score @p Timer matches 2 run particleex tickparameter minecraft:end_rod ~2 ~0 ~58 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 5 run particleex tickparameter minecraft:end_rod ~5 ~0 ~55 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=4.00000*t;" 0.02500 40 25
-execute if score @p Timer matches 8 run particleex tickparameter minecraft:end_rod ~8 ~0 ~67 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 11 run particleex tickparameter minecraft:end_rod ~11 ~0 ~70 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-4.00000*t;" 0.02500 40 25
-execute if score @p Timer matches 14 run particleex tickparameter minecraft:end_rod ~14 ~0 ~58 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 17 run particleex tickparameter minecraft:end_rod ~17 ~0 ~55 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=4.00000*t;" 0.02500 40 25
-execute if score @p Timer matches 20 run particleex tickparameter minecraft:end_rod ~20 ~0 ~67 0.8 0.8 0 1 0 0 0 0 2 "x=1*t;y=0.00000*t;z=-12.00000*t;" 0.00833 120 25
-execute if score @p Timer matches 22 run particleex parameter minecraft:end_rod ~22 ~0 ~43 0.8 0.8 0 1 0 0 0 0 19.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 22 run particleex tickparameter minecraft:end_rod ~22 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 25 run particleex tickparameter minecraft:end_rod ~25 ~0 ~58 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 28 run particleex tickparameter minecraft:end_rod ~28 ~0 ~55 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=4.00000*t;" 0.02500 40 25
-execute if score @p Timer matches 31 run particleex tickparameter minecraft:end_rod ~31 ~0 ~67 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 34 run particleex tickparameter minecraft:end_rod ~34 ~0 ~70 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-4.00000*t;" 0.02500 40 25
-execute if score @p Timer matches 37 run particleex tickparameter minecraft:end_rod ~37 ~0 ~58 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 40 run particleex tickparameter minecraft:end_rod ~40 ~0 ~55 0.8 0.8 0 1 0 0 0 0 2 "x=1*t;y=0.00000*t;z=6.00000*t;" 0.01667 60 25
-execute if score @p Timer matches 42 run particleex tickparameter minecraft:end_rod ~42 ~0 ~67 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-4.66667*t;" 0.02500 40 25
-execute if score @p Timer matches 45 run particleex parameter minecraft:end_rod ~45 ~0 ~53 0.8 0.8 0 1 0 0 0 0 9.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 45 run particleex tickparameter minecraft:end_rod ~45 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 48 run particleex tickparameter minecraft:end_rod ~48 ~0 ~58 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 51 run particleex tickparameter minecraft:end_rod ~51 ~0 ~57 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=4.00000*t;" 0.02500 40 25
-execute if score @p Timer matches 54 run particleex tickparameter minecraft:end_rod ~54 ~0 ~69 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 57 run particleex tickparameter minecraft:end_rod ~57 ~0 ~70 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-4.00000*t;" 0.02500 40 25
-execute if score @p Timer matches 60 run particleex tickparameter minecraft:end_rod ~60 ~0 ~58 0.8 0.8 0 1 0 0 0 0 2 "x=1*t;y=0.00000*t;z=-0.50000*t;" 0.10000 10 25
-execute if score @p Timer matches 62 run particleex tickparameter minecraft:end_rod ~62 ~0 ~57 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=4.00000*t;" 0.02500 40 25
-execute if score @p Timer matches 65 run particleex tickparameter minecraft:end_rod ~65 ~0 ~69 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-5.33333*t;" 0.02000 50 25
-execute if score @p Timer matches 68 run particleex parameter minecraft:end_rod ~68 ~0 ~53 0.8 0.8 0 1 0 0 0 0 9.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 68 run particleex tickparameter minecraft:end_rod ~68 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 71 run particleex tickparameter minecraft:end_rod ~71 ~0 ~58 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 74 run particleex tickparameter minecraft:end_rod ~74 ~0 ~57 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=4.00000*t;" 0.02500 40 25
-execute if score @p Timer matches 77 run particleex tickparameter minecraft:end_rod ~77 ~0 ~69 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 80 run particleex tickparameter minecraft:end_rod ~80 ~0 ~70 0.8 0.8 0 1 0 0 0 0 2 "x=1*t;y=0.00000*t;z=-6.00000*t;" 0.01667 60 25
-execute if score @p Timer matches 82 run particleex tickparameter minecraft:end_rod ~82 ~0 ~58 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 85 run particleex tickparameter minecraft:end_rod ~85 ~0 ~57 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=4.00000*t;" 0.02500 40 25
-execute if score @p Timer matches 88 run particleex tickparameter minecraft:end_rod ~88 ~0 ~69 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-6.00000*t;" 0.01667 60 25
-execute if score @p Timer matches 91 run particleex parameter minecraft:end_rod ~91 ~0 ~51 0.8 0.8 0 1 0 0 0 0 11.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 91 run particleex tickparameter minecraft:end_rod ~91 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 94 run particleex tickparameter minecraft:end_rod ~94 ~0 ~58 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 97 run particleex tickparameter minecraft:end_rod ~97 ~0 ~55 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=4.00000*t;" 0.02500 40 25
-execute if score @p Timer matches 100 run particleex tickparameter minecraft:end_rod ~100 ~0 ~67 0.8 0.8 0 1 0 0 0 0 2 "x=1*t;y=0.00000*t;z=1.50000*t;" 0.10000 10 25
-execute if score @p Timer matches 102 run particleex tickparameter minecraft:end_rod ~102 ~0 ~70 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-4.00000*t;" 0.02500 40 25
-execute if score @p Timer matches 105 run particleex tickparameter minecraft:end_rod ~105 ~0 ~58 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 108 run particleex tickparameter minecraft:end_rod ~108 ~0 ~55 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=4.00000*t;" 0.02500 40 25
-execute if score @p Timer matches 111 run particleex tickparameter minecraft:end_rod ~111 ~0 ~67 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-5.33333*t;" 0.02000 50 25
-execute if score @p Timer matches 114 run particleex parameter minecraft:end_rod ~114 ~0 ~51 0.8 0.8 0 1 0 0 0 0 11.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 114 run particleex tickparameter minecraft:end_rod ~114 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 117 run particleex tickparameter minecraft:end_rod ~117 ~0 ~58 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 120 run particleex tickparameter minecraft:end_rod ~120 ~0 ~55 0.8 0.8 0 1 0 0 0 0 2 "x=1*t;y=0.00000*t;z=6.00000*t;" 0.01667 60 25
-execute if score @p Timer matches 122 run particleex tickparameter minecraft:end_rod ~122 ~0 ~67 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 125 run particleex tickparameter minecraft:end_rod ~125 ~0 ~70 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-4.00000*t;" 0.02500 40 25
-execute if score @p Timer matches 128 run particleex tickparameter minecraft:end_rod ~128 ~0 ~58 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 131 run particleex tickparameter minecraft:end_rod ~131 ~0 ~55 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=4.00000*t;" 0.02500 40 25
-execute if score @p Timer matches 134 run particleex tickparameter minecraft:end_rod ~134 ~0 ~67 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-5.66667*t;" 0.02000 50 25
-execute if score @p Timer matches 137 run particleex parameter minecraft:end_rod ~137 ~0 ~50 0.8 0.8 0 1 0 0 0 0 12.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 137 run particleex tickparameter minecraft:end_rod ~137 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 140 run particleex tickparameter minecraft:end_rod ~140 ~0 ~58 0.8 0.8 0 1 0 0 0 0 2 "x=1*t;y=0.00000*t;z=-0.50000*t;" 0.10000 10 25
-execute if score @p Timer matches 142 run particleex tickparameter minecraft:end_rod ~142 ~0 ~57 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=4.00000*t;" 0.02500 40 25
-execute if score @p Timer matches 145 run particleex tickparameter minecraft:end_rod ~145 ~0 ~69 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 148 run particleex tickparameter minecraft:end_rod ~148 ~0 ~72 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-4.66667*t;" 0.02500 40 25
-execute if score @p Timer matches 151 run particleex tickparameter minecraft:end_rod ~151 ~0 ~58 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 154 run particleex tickparameter minecraft:end_rod ~154 ~0 ~57 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=4.33333*t;" 0.02500 40 25
-execute if score @p Timer matches 157 run particleex tickparameter minecraft:end_rod ~157 ~0 ~70 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-6.66667*t;" 0.01667 60 25
-execute if score @p Timer matches 160 run particleex parameter minecraft:end_rod ~160 ~0 ~50 0.8 0.8 0 1 0 0 0 0 12.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 160 run particleex tickparameter minecraft:end_rod ~160 ~0 ~62 0.8 0.8 0 1 0 0 0 0 2 "x=1*t;y=0.00000*t;z=-2.00000*t;" 0.05000 20 25
-execute if score @p Timer matches 162 run particleex tickparameter minecraft:end_rod ~162 ~0 ~58 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 165 run particleex tickparameter minecraft:end_rod ~165 ~0 ~57 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=3.33333*t;" 0.03333 30 25
-execute if score @p Timer matches 168 run particleex tickparameter minecraft:end_rod ~168 ~0 ~67 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 171 run particleex tickparameter minecraft:end_rod ~171 ~0 ~66 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-2.66667*t;" 0.05000 20 25
-execute if score @p Timer matches 174 run particleex tickparameter minecraft:end_rod ~174 ~0 ~58 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 177 run particleex tickparameter minecraft:end_rod ~177 ~0 ~57 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=3.00000*t;" 0.03333 30 25
-execute if score @p Timer matches 180 run particleex tickparameter minecraft:end_rod ~180 ~0 ~66 0.8 0.8 0 1 0 0 0 0 2 "x=1*t;y=0.00000*t;z=-11.50000*t;" 0.00909 110 25
-execute if score @p Timer matches 182 run particleex parameter minecraft:end_rod ~182 ~0 ~43 0.8 0.8 0 1 0 0 0 0 19.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 182 run particleex tickparameter minecraft:end_rod ~182 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 185 run particleex tickparameter minecraft:end_rod ~185 ~0 ~58 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 188 run particleex tickparameter minecraft:end_rod ~188 ~0 ~55 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=4.00000*t;" 0.02500 40 25
-execute if score @p Timer matches 191 run particleex tickparameter minecraft:end_rod ~191 ~0 ~67 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 194 run particleex tickparameter minecraft:end_rod ~194 ~0 ~70 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-4.00000*t;" 0.02500 40 25
-execute if score @p Timer matches 197 run particleex tickparameter minecraft:end_rod ~197 ~0 ~58 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 200 run particleex tickparameter minecraft:end_rod ~200 ~0 ~55 0.8 0.8 0 1 0 0 0 0 2 "x=1*t;y=0.00000*t;z=6.00000*t;" 0.01667 60 25
-execute if score @p Timer matches 202 run particleex tickparameter minecraft:end_rod ~202 ~0 ~67 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-8.00000*t;" 0.01250 80 25
-execute if score @p Timer matches 205 run particleex parameter minecraft:end_rod ~205 ~0 ~43 0.8 0.8 0 1 0 0 0 0 19.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 205 run particleex tickparameter minecraft:end_rod ~205 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 208 run particleex tickparameter minecraft:end_rod ~208 ~0 ~58 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 211 run particleex tickparameter minecraft:end_rod ~211 ~0 ~55 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=4.00000*t;" 0.02500 40 25
-execute if score @p Timer matches 214 run particleex tickparameter minecraft:end_rod ~214 ~0 ~67 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 217 run particleex tickparameter minecraft:end_rod ~217 ~0 ~70 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-4.00000*t;" 0.02500 40 25
-execute if score @p Timer matches 220 run particleex tickparameter minecraft:end_rod ~220 ~0 ~58 0.8 0.8 0 1 0 0 0 0 2 "x=1*t;y=0.00000*t;z=-1.50000*t;" 0.10000 10 25
-execute if score @p Timer matches 222 run particleex tickparameter minecraft:end_rod ~222 ~0 ~55 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=4.00000*t;" 0.02500 40 25
-execute if score @p Timer matches 225 run particleex tickparameter minecraft:end_rod ~225 ~0 ~67 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-4.66667*t;" 0.02500 40 25
-execute if score @p Timer matches 228 run particleex parameter minecraft:end_rod ~228 ~0 ~53 0.8 0.8 0 1 0 0 0 0 9.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 228 run particleex tickparameter minecraft:end_rod ~228 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 231 run particleex tickparameter minecraft:end_rod ~231 ~0 ~58 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 234 run particleex tickparameter minecraft:end_rod ~234 ~0 ~57 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=4.00000*t;" 0.02500 40 25
-execute if score @p Timer matches 237 run particleex tickparameter minecraft:end_rod ~237 ~0 ~69 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 240 run particleex tickparameter minecraft:end_rod ~240 ~0 ~70 0.8 0.8 0 1 0 0 0 0 2 "x=1*t;y=0.00000*t;z=-6.00000*t;" 0.01667 60 25
-execute if score @p Timer matches 242 run particleex tickparameter minecraft:end_rod ~242 ~0 ~58 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 245 run particleex tickparameter minecraft:end_rod ~245 ~0 ~57 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=4.00000*t;" 0.02500 40 25
-execute if score @p Timer matches 248 run particleex tickparameter minecraft:end_rod ~248 ~0 ~69 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-5.33333*t;" 0.02000 50 25
-execute if score @p Timer matches 251 run particleex parameter minecraft:end_rod ~251 ~0 ~53 0.8 0.8 0 1 0 0 0 0 9.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 251 run particleex tickparameter minecraft:end_rod ~251 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 254 run particleex tickparameter minecraft:end_rod ~254 ~0 ~58 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 257 run particleex tickparameter minecraft:end_rod ~257 ~0 ~57 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=4.00000*t;" 0.02500 40 25
-execute if score @p Timer matches 260 run particleex tickparameter minecraft:end_rod ~260 ~0 ~69 0.8 0.8 0 1 0 0 0 0 2 "x=1*t;y=0.00000*t;z=0.50000*t;" 0.10000 10 25
-execute if score @p Timer matches 262 run particleex tickparameter minecraft:end_rod ~262 ~0 ~70 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-4.00000*t;" 0.02500 40 25
-execute if score @p Timer matches 265 run particleex tickparameter minecraft:end_rod ~265 ~0 ~58 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 268 run particleex tickparameter minecraft:end_rod ~268 ~0 ~57 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=4.00000*t;" 0.02500 40 25
-execute if score @p Timer matches 271 run particleex tickparameter minecraft:end_rod ~271 ~0 ~69 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-6.00000*t;" 0.01667 60 25
-execute if score @p Timer matches 274 run particleex parameter minecraft:end_rod ~274 ~0 ~51 0.8 0.8 0 1 0 0 0 0 11.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 274 run particleex tickparameter minecraft:end_rod ~274 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 277 run particleex tickparameter minecraft:end_rod ~277 ~0 ~58 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 280 run particleex tickparameter minecraft:end_rod ~280 ~0 ~55 0.8 0.8 0 1 0 0 0 0 2 "x=1*t;y=0.00000*t;z=6.00000*t;" 0.01667 60 25
-execute if score @p Timer matches 282 run particleex tickparameter minecraft:end_rod ~282 ~0 ~67 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 285 run particleex tickparameter minecraft:end_rod ~285 ~0 ~70 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-4.00000*t;" 0.02500 40 25
-execute if score @p Timer matches 288 run particleex tickparameter minecraft:end_rod ~288 ~0 ~58 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 291 run particleex tickparameter minecraft:end_rod ~291 ~0 ~55 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=4.00000*t;" 0.02500 40 25
-execute if score @p Timer matches 294 run particleex tickparameter minecraft:end_rod ~294 ~0 ~67 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-5.33333*t;" 0.02000 50 25
-execute if score @p Timer matches 297 run particleex parameter minecraft:end_rod ~297 ~0 ~51 0.8 0.8 0 1 0 0 0 0 11.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 297 run particleex tickparameter minecraft:end_rod ~297 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 300 run particleex tickparameter minecraft:end_rod ~300 ~0 ~58 0.8 0.8 0 1 0 0 0 0 2 "x=1*t;y=0.00000*t;z=-1.50000*t;" 0.10000 10 25
-execute if score @p Timer matches 302 run particleex tickparameter minecraft:end_rod ~302 ~0 ~55 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=4.00000*t;" 0.02500 40 25
-execute if score @p Timer matches 305 run particleex tickparameter minecraft:end_rod ~305 ~0 ~67 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 308 run particleex tickparameter minecraft:end_rod ~308 ~0 ~70 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-4.00000*t;" 0.02500 40 25
-execute if score @p Timer matches 311 run particleex tickparameter minecraft:end_rod ~311 ~0 ~58 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 314 run particleex tickparameter minecraft:end_rod ~314 ~0 ~55 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=4.00000*t;" 0.02500 40 25
-execute if score @p Timer matches 317 run particleex tickparameter minecraft:end_rod ~317 ~0 ~67 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-5.66667*t;" 0.02000 50 25
-execute if score @p Timer matches 320 run particleex parameter minecraft:end_rod ~320 ~0 ~50 0.8 0.8 0 1 0 0 0 0 12.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 320 run particleex tickparameter minecraft:end_rod ~320 ~0 ~62 0.8 0.8 0 1 0 0 0 0 2 "x=1*t;y=0.00000*t;z=-2.00000*t;" 0.05000 20 25
-execute if score @p Timer matches 322 run particleex tickparameter minecraft:end_rod ~322 ~0 ~58 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 325 run particleex tickparameter minecraft:end_rod ~325 ~0 ~57 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=4.00000*t;" 0.02500 40 25
-execute if score @p Timer matches 328 run particleex tickparameter minecraft:end_rod ~328 ~0 ~69 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 331 run particleex tickparameter minecraft:end_rod ~331 ~0 ~72 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-4.66667*t;" 0.02500 40 25
-execute if score @p Timer matches 334 run particleex tickparameter minecraft:end_rod ~334 ~0 ~58 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 337 run particleex tickparameter minecraft:end_rod ~337 ~0 ~57 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=4.33333*t;" 0.02500 40 25
-execute if score @p Timer matches 340 run particleex tickparameter minecraft:end_rod ~340 ~0 ~70 0.8 0.8 0 1 0 0 0 0 2 "x=1*t;y=0.00000*t;z=-10.00000*t;" 0.01000 100 25
-execute if score @p Timer matches 342 run particleex parameter minecraft:end_rod ~342 ~0 ~50 0.8 0.8 0 1 0 0 0 0 12.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 342 run particleex tickparameter minecraft:end_rod ~342 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 345 run particleex tickparameter minecraft:end_rod ~345 ~0 ~58 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 348 run particleex tickparameter minecraft:end_rod ~348 ~0 ~57 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=3.33333*t;" 0.03333 30 25
-execute if score @p Timer matches 351 run particleex tickparameter minecraft:end_rod ~351 ~0 ~67 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 354 run particleex tickparameter minecraft:end_rod ~354 ~0 ~66 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-2.66667*t;" 0.05000 20 25
-execute if score @p Timer matches 357 run particleex tickparameter minecraft:end_rod ~357 ~0 ~58 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 360 run particleex tickparameter minecraft:end_rod ~360 ~0 ~57 0.8 0.8 0 1 0 0 0 0 2 "x=1*t;y=0.00000*t;z=4.50000*t;" 0.02500 40 25
-execute if score @p Timer matches 362 run particleex tickparameter minecraft:end_rod ~362 ~0 ~66 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-7.66667*t;" 0.01429 70 25
-execute if score @p Timer matches 365 run particleex parameter minecraft:end_rod ~365 ~0 ~43 0.8 0.8 0 1 0 0 0 0 31.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 365 run particleex parameter minecraft:end_rod ~365 ~0 ~74 0.8 0.8 0 1 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 365 run particleex tickparameter minecraft:end_rod ~365 ~0 ~79 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-1.50000*t;" 0.10000 10 25
-execute if score @p Timer matches 371 run particleex parameter minecraft:end_rod ~371 ~0 ~70 0.8 0.8 0 1 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 371 run particleex tickparameter minecraft:end_rod ~371 ~0 ~74 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 374 run particleex parameter minecraft:end_rod ~374 ~0 ~70 0.8 0.8 0 1 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 374 run particleex tickparameter minecraft:end_rod ~374 ~0 ~74 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 377 run particleex parameter minecraft:end_rod ~377 ~0 ~70 0.8 0.8 0 1 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 377 run particleex tickparameter minecraft:end_rod ~377 ~0 ~74 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-5.33333*t;" 0.02000 50 25
-execute if score @p Timer matches 380 run particleex parameter minecraft:end_rod ~380 ~0 ~58 0.8 0.8 0 1 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 380 run particleex tickparameter minecraft:end_rod ~380 ~0 ~62 0.8 0.8 0 1 0 0 0 0 2 "x=1*t;y=0.00000*t;z=-9.50000*t;" 0.01111 90 25
-execute if score @p Timer matches 382 run particleex parameter minecraft:end_rod ~382 ~0 ~43 0.8 0.8 0 1 0 0 0 0 29.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 382 run particleex parameter minecraft:end_rod ~382 ~0 ~72 0.8 0.8 0 1 0 0 0 0 3.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 382 run particleex tickparameter minecraft:end_rod ~382 ~0 ~75 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 385 run particleex parameter minecraft:end_rod ~385 ~0 ~72 0.8 0.8 0 1 0 0 0 0 3.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 385 run particleex tickparameter minecraft:end_rod ~385 ~0 ~75 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 388 run particleex parameter minecraft:end_rod ~388 ~0 ~72 0.8 0.8 0 1 0 0 0 0 3.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 388 run particleex tickparameter minecraft:end_rod ~388 ~0 ~75 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-4.33333*t;" 0.02500 40 25
-execute if score @p Timer matches 391 run particleex parameter minecraft:end_rod ~391 ~0 ~62 0.8 0.8 0 1 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 391 run particleex tickparameter minecraft:end_rod ~391 ~0 ~67 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 394 run particleex parameter minecraft:end_rod ~394 ~0 ~69 0.8 0.8 0 1 0 0 0 0 3.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 394 run particleex tickparameter minecraft:end_rod ~394 ~0 ~72 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-3.16667*t;" 0.03333 30 25
-execute if score @p Timer matches 400 run particleex parameter minecraft:end_rod ~400 ~0 ~53 0.8 0.8 0 1 0 0 0 0 17.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 400 run particleex parameter minecraft:end_rod ~400 ~0 ~70 0.8 0.8 0 1 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 400 run particleex tickparameter minecraft:end_rod ~400 ~0 ~74 0.8 0.8 0 1 0 0 0 0 5 "x=1*t;y=0.00000*t;z=-1.40000*t;" 0.10000 10 25
-execute if score @p Timer matches 405 run particleex parameter minecraft:end_rod ~405 ~0 ~67 0.8 0.8 0 1 0 0 0 0 3.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 405 run particleex tickparameter minecraft:end_rod ~405 ~0 ~70 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 408 run particleex parameter minecraft:end_rod ~408 ~0 ~67 0.8 0.8 0 1 0 0 0 0 3.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 408 run particleex tickparameter minecraft:end_rod ~408 ~0 ~70 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 411 run particleex parameter minecraft:end_rod ~411 ~0 ~67 0.8 0.8 0 1 0 0 0 0 3.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 411 run particleex tickparameter minecraft:end_rod ~411 ~0 ~70 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-4.00000*t;" 0.02500 40 25
-execute if score @p Timer matches 414 run particleex parameter minecraft:end_rod ~414 ~0 ~58 0.8 0.8 0 1 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 414 run particleex tickparameter minecraft:end_rod ~414 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-3.00000*t;" 0.03333 30 25
-execute if score @p Timer matches 417 run particleex parameter minecraft:end_rod ~417 ~0 ~53 0.8 0.8 0 1 0 0 0 0 14.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 417 run particleex parameter minecraft:end_rod ~417 ~0 ~67 0.8 0.8 0 1 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 417 run particleex tickparameter minecraft:end_rod ~417 ~0 ~72 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 420 run particleex parameter minecraft:end_rod ~420 ~0 ~67 0.8 0.8 0 1 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 420 run particleex tickparameter minecraft:end_rod ~420 ~0 ~72 0.8 0.8 0 1 0 0 0 0 2 "x=1*t;y=0.00000*t;z=-2.50000*t;" 0.05000 20 25
-execute if score @p Timer matches 422 run particleex parameter minecraft:end_rod ~422 ~0 ~67 0.8 0.8 0 1 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 422 run particleex tickparameter minecraft:end_rod ~422 ~0 ~72 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-3.33333*t;" 0.03333 30 25
-execute if score @p Timer matches 425 run particleex parameter minecraft:end_rod ~425 ~0 ~62 0.8 0.8 0 1 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 425 run particleex tickparameter minecraft:end_rod ~425 ~0 ~67 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 428 run particleex parameter minecraft:end_rod ~428 ~0 ~69 0.8 0.8 0 1 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 428 run particleex tickparameter minecraft:end_rod ~428 ~0 ~74 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-3.83333*t;" 0.03333 30 25
-execute if score @p Timer matches 434 run particleex parameter minecraft:end_rod ~434 ~0 ~51 0.8 0.8 0 1 0 0 0 0 23.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 434 run particleex parameter minecraft:end_rod ~434 ~0 ~74 0.8 0.8 0 1 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 434 run particleex tickparameter minecraft:end_rod ~434 ~0 ~79 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-1.50000*t;" 0.10000 10 25
-execute if score @p Timer matches 440 run particleex parameter minecraft:end_rod ~440 ~0 ~70 0.8 0.8 0 1 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 440 run particleex tickparameter minecraft:end_rod ~440 ~0 ~74 0.8 0.8 0 1 0 0 0 0 2 "x=1*t;y=0.00000*t;z=-2.00000*t;" 0.05000 20 25
-execute if score @p Timer matches 442 run particleex parameter minecraft:end_rod ~442 ~0 ~70 0.8 0.8 0 1 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 442 run particleex tickparameter minecraft:end_rod ~442 ~0 ~74 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 445 run particleex parameter minecraft:end_rod ~445 ~0 ~70 0.8 0.8 0 1 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 445 run particleex tickparameter minecraft:end_rod ~445 ~0 ~74 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-5.33333*t;" 0.02000 50 25
-execute if score @p Timer matches 448 run particleex parameter minecraft:end_rod ~448 ~0 ~58 0.8 0.8 0 1 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 448 run particleex tickparameter minecraft:end_rod ~448 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-3.66667*t;" 0.03333 30 25
-execute if score @p Timer matches 451 run particleex parameter minecraft:end_rod ~451 ~0 ~51 0.8 0.8 0 1 0 0 0 0 21.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 451 run particleex parameter minecraft:end_rod ~451 ~0 ~72 0.8 0.8 0 1 0 0 0 0 3.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 451 run particleex tickparameter minecraft:end_rod ~451 ~0 ~75 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 454 run particleex parameter minecraft:end_rod ~454 ~0 ~72 0.8 0.8 0 1 0 0 0 0 3.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 454 run particleex tickparameter minecraft:end_rod ~454 ~0 ~75 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 457 run particleex parameter minecraft:end_rod ~457 ~0 ~72 0.8 0.8 0 1 0 0 0 0 3.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 457 run particleex tickparameter minecraft:end_rod ~457 ~0 ~75 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-4.33333*t;" 0.02500 40 25
-execute if score @p Timer matches 460 run particleex parameter minecraft:end_rod ~460 ~0 ~62 0.8 0.8 0 1 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 460 run particleex tickparameter minecraft:end_rod ~460 ~0 ~67 0.8 0.8 0 1 0 0 0 0 2 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 462 run particleex parameter minecraft:end_rod ~462 ~0 ~69 0.8 0.8 0 1 0 0 0 0 3.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 462 run particleex tickparameter minecraft:end_rod ~462 ~0 ~72 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-3.66667*t;" 0.03333 30 25
-execute if score @p Timer matches 468 run particleex parameter minecraft:end_rod ~468 ~0 ~50 0.8 0.8 0 1 0 0 0 0 20.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 468 run particleex parameter minecraft:end_rod ~468 ~0 ~70 0.8 0.8 0 1 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 468 run particleex tickparameter minecraft:end_rod ~468 ~0 ~74 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-1.16667*t;" 0.10000 10 25
-execute if score @p Timer matches 474 run particleex parameter minecraft:end_rod ~474 ~0 ~67 0.8 0.8 0 1 0 0 0 0 3.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 474 run particleex tickparameter minecraft:end_rod ~474 ~0 ~70 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 477 run particleex parameter minecraft:end_rod ~477 ~0 ~67 0.8 0.8 0 1 0 0 0 0 3.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 477 run particleex tickparameter minecraft:end_rod ~477 ~0 ~70 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 480 run particleex parameter minecraft:end_rod ~480 ~0 ~67 0.8 0.8 0 1 0 0 0 0 3.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 480 run particleex tickparameter minecraft:end_rod ~480 ~0 ~70 0.8 0.8 0 1 0 0 0 0 2 "x=1*t;y=0.00000*t;z=-6.00000*t;" 0.01667 60 25
-execute if score @p Timer matches 482 run particleex parameter minecraft:end_rod ~482 ~0 ~58 0.8 0.8 0 1 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 482 run particleex tickparameter minecraft:end_rod ~482 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-4.00000*t;" 0.02500 40 25
-execute if score @p Timer matches 485 run particleex parameter minecraft:end_rod ~485 ~0 ~50 0.8 0.8 0 1 0 0 0 0 17.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 485 run particleex parameter minecraft:end_rod ~485 ~0 ~67 0.8 0.8 0 1 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 485 run particleex tickparameter minecraft:end_rod ~485 ~0 ~72 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 488 run particleex parameter minecraft:end_rod ~488 ~0 ~67 0.8 0.8 0 1 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 488 run particleex tickparameter minecraft:end_rod ~488 ~0 ~72 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 491 run particleex parameter minecraft:end_rod ~491 ~0 ~67 0.8 0.8 0 1 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 491 run particleex tickparameter minecraft:end_rod ~491 ~0 ~72 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-3.33333*t;" 0.03333 30 25
-execute if score @p Timer matches 494 run particleex parameter minecraft:end_rod ~494 ~0 ~62 0.8 0.8 0 1 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 494 run particleex tickparameter minecraft:end_rod ~494 ~0 ~67 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 497 run particleex parameter minecraft:end_rod ~497 ~0 ~66 0.8 0.8 0 1 0 0 0 0 3.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 497 run particleex tickparameter minecraft:end_rod ~497 ~0 ~69 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-2.33333*t;" 0.05000 20 25
-execute if score @p Timer matches 500 run particleex parameter minecraft:end_rod ~500 ~0 ~62 0.8 0.8 0 1 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 500 run particleex tickparameter minecraft:end_rod ~500 ~0 ~67 0.8 0.8 0 1 0 0 0 0 2 "x=1*t;y=0.00000*t;z=-6.00000*t;" 0.01667 60 25
-execute if score @p Timer matches 502 run particleex parameter minecraft:end_rod ~502 ~0 ~55 0.8 0.8 0 1 0 0 0 0 3.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 502 run particleex parameter minecraft:end_rod ~502 ~0 ~58 0.8 0.8 0 1 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 502 run particleex parameter minecraft:end_rod ~502 ~0 ~62 0.8 0.8 0 1 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 502 run particleex tickparameter minecraft:end_rod ~502 ~0 ~67 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-2.83333*t;" 0.03333 30 25
-execute if score @p Timer matches 508 run particleex parameter minecraft:end_rod ~508 ~0 ~50 0.8 0.8 0 1 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 508 run particleex parameter minecraft:end_rod ~508 ~0 ~55 0.8 0.8 0 1 0 0 0 0 3.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 508 run particleex parameter minecraft:end_rod ~508 ~0 ~58 0.8 0.8 0 1 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 508 run particleex tickparameter minecraft:end_rod ~508 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-4.00000*t;" 0.02500 40 25
-execute if score @p Timer matches 511 run particleex parameter minecraft:end_rod ~511 ~0 ~50 0.8 0.8 0 1 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 511 run particleex parameter minecraft:end_rod ~511 ~0 ~55 0.8 0.8 0 1 0 0 0 0 3.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 511 run particleex parameter minecraft:end_rod ~511 ~0 ~58 0.8 0.8 0 1 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 511 run particleex tickparameter minecraft:end_rod ~511 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-4.00000*t;" 0.02500 40 25
-execute if score @p Timer matches 514 run particleex parameter minecraft:end_rod ~514 ~0 ~50 0.8 0.8 0 1 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 514 run particleex parameter minecraft:end_rod ~514 ~0 ~55 0.8 0.8 0 1 0 0 0 0 3.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 514 run particleex parameter minecraft:end_rod ~514 ~0 ~58 0.8 0.8 0 1 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 514 run particleex tickparameter minecraft:end_rod ~514 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-4.66667*t;" 0.02500 40 25
-execute if score @p Timer matches 517 run particleex parameter minecraft:end_rod ~517 ~0 ~48 0.8 0.8 0 1 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 517 run particleex parameter minecraft:end_rod ~517 ~0 ~53 0.8 0.8 0 1 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 517 run particleex parameter minecraft:end_rod ~517 ~0 ~58 0.8 0.8 0 1 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 517 run particleex tickparameter minecraft:end_rod ~517 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-3.66667*t;" 0.03333 30 25
-execute if score @p Timer matches 520 run particleex parameter minecraft:end_rod ~520 ~0 ~51 0.8 0.8 0 1 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 520 run particleex parameter minecraft:end_rod ~520 ~0 ~55 0.8 0.8 0 1 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 520 run particleex parameter minecraft:end_rod ~520 ~0 ~60 0.8 0.8 0 1 0 0 0 0 3.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 520 run particleex tickparameter minecraft:end_rod ~520 ~0 ~63 0.8 0.8 0 1 0 0 0 0 2 "x=1*t;y=0.00000*t;z=-6.00000*t;" 0.01667 60 25
-execute if score @p Timer matches 522 run particleex parameter minecraft:end_rod ~522 ~0 ~51 0.8 0.8 0 1 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 522 run particleex parameter minecraft:end_rod ~522 ~0 ~55 0.8 0.8 0 1 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 522 run particleex parameter minecraft:end_rod ~522 ~0 ~60 0.8 0.8 0 1 0 0 0 0 3.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 522 run particleex tickparameter minecraft:end_rod ~522 ~0 ~63 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-4.00000*t;" 0.02500 40 25
-execute if score @p Timer matches 525 run particleex parameter minecraft:end_rod ~525 ~0 ~51 0.8 0.8 0 1 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 525 run particleex parameter minecraft:end_rod ~525 ~0 ~55 0.8 0.8 0 1 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 525 run particleex parameter minecraft:end_rod ~525 ~0 ~60 0.8 0.8 0 1 0 0 0 0 3.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 525 run particleex tickparameter minecraft:end_rod ~525 ~0 ~63 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-5.00000*t;" 0.02000 50 25
-execute if score @p Timer matches 528 run particleex parameter minecraft:end_rod ~528 ~0 ~48 0.8 0.8 0 1 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 528 run particleex parameter minecraft:end_rod ~528 ~0 ~53 0.8 0.8 0 1 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 528 run particleex parameter minecraft:end_rod ~528 ~0 ~58 0.8 0.8 0 1 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 528 run particleex tickparameter minecraft:end_rod ~528 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 531 run particleex parameter minecraft:end_rod ~531 ~0 ~57 0.8 0.8 0 1 0 0 0 0 3.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 531 run particleex tickparameter minecraft:end_rod ~531 ~0 ~60 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-1.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 537 run particleex parameter minecraft:end_rod ~537 ~0 ~50 0.8 0.8 0 1 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 537 run particleex parameter minecraft:end_rod ~537 ~0 ~55 0.8 0.8 0 1 0 0 0 0 3.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 537 run particleex parameter minecraft:end_rod ~537 ~0 ~58 0.8 0.8 0 1 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 537 run particleex tickparameter minecraft:end_rod ~537 ~0 ~62 0.8 0.8 0 1 0 0 0 0 5 "x=1*t;y=0.00000*t;z=-3.20000*t;" 0.03333 30 25
-execute if score @p Timer matches 542 run particleex parameter minecraft:end_rod ~542 ~0 ~46 0.8 0.8 0 1 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 542 run particleex parameter minecraft:end_rod ~542 ~0 ~50 0.8 0.8 0 1 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 542 run particleex parameter minecraft:end_rod ~542 ~0 ~55 0.8 0.8 0 1 0 0 0 0 3.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 542 run particleex tickparameter minecraft:end_rod ~542 ~0 ~58 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-4.00000*t;" 0.02500 40 25
-execute if score @p Timer matches 545 run particleex parameter minecraft:end_rod ~545 ~0 ~46 0.8 0.8 0 1 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 545 run particleex parameter minecraft:end_rod ~545 ~0 ~50 0.8 0.8 0 1 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 545 run particleex parameter minecraft:end_rod ~545 ~0 ~55 0.8 0.8 0 1 0 0 0 0 3.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 545 run particleex tickparameter minecraft:end_rod ~545 ~0 ~58 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-4.00000*t;" 0.02500 40 25
-execute if score @p Timer matches 548 run particleex parameter minecraft:end_rod ~548 ~0 ~46 0.8 0.8 0 1 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 548 run particleex parameter minecraft:end_rod ~548 ~0 ~50 0.8 0.8 0 1 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 548 run particleex parameter minecraft:end_rod ~548 ~0 ~55 0.8 0.8 0 1 0 0 0 0 3.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 548 run particleex tickparameter minecraft:end_rod ~548 ~0 ~58 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-5.00000*t;" 0.02000 50 25
-execute if score @p Timer matches 551 run particleex parameter minecraft:end_rod ~551 ~0 ~43 0.8 0.8 0 1 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 551 run particleex parameter minecraft:end_rod ~551 ~0 ~48 0.8 0.8 0 1 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 551 run particleex parameter minecraft:end_rod ~551 ~0 ~53 0.8 0.8 0 1 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 551 run particleex tickparameter minecraft:end_rod ~551 ~0 ~58 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-2.33333*t;" 0.05000 20 25
-execute if score @p Timer matches 554 run particleex parameter minecraft:end_rod ~554 ~0 ~51 0.8 0.8 0 1 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 554 run particleex parameter minecraft:end_rod ~554 ~0 ~55 0.8 0.8 0 1 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 554 run particleex tickparameter minecraft:end_rod ~554 ~0 ~60 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-3.00000*t;" 0.03333 30 25
-execute if score @p Timer matches 557 run particleex parameter minecraft:end_rod ~557 ~0 ~51 0.8 0.8 0 1 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 557 run particleex parameter minecraft:end_rod ~557 ~0 ~55 0.8 0.8 0 1 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 557 run particleex tickparameter minecraft:end_rod ~557 ~0 ~60 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-3.00000*t;" 0.03333 30 25
-execute if score @p Timer matches 560 run particleex parameter minecraft:end_rod ~560 ~0 ~51 0.8 0.8 0 1 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 560 run particleex parameter minecraft:end_rod ~560 ~0 ~55 0.8 0.8 0 1 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 560 run particleex tickparameter minecraft:end_rod ~560 ~0 ~60 0.8 0.8 0 1 0 0 0 0 2 "x=1*t;y=0.00000*t;z=-6.00000*t;" 0.01667 60 25
-execute if score @p Timer matches 562 run particleex parameter minecraft:end_rod ~562 ~0 ~48 0.8 0.8 0 1 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 562 run particleex parameter minecraft:end_rod ~562 ~0 ~53 0.8 0.8 0 1 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 562 run particleex tickparameter minecraft:end_rod ~562 ~0 ~58 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-2.66667*t;" 0.05000 20 25
-execute if score @p Timer matches 565 run particleex parameter minecraft:end_rod ~565 ~0 ~50 0.8 0.8 0 1 0 0 0 0 7.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 565 run particleex parameter minecraft:end_rod ~565 ~0 ~57 0.8 0.8 0 1 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 565 run particleex tickparameter minecraft:end_rod ~565 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-4.66667*t;" 0.02500 40 25
-execute if score @p Timer matches 568 run particleex parameter minecraft:end_rod ~568 ~0 ~48 0.8 0.8 0 1 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 568 run particleex parameter minecraft:end_rod ~568 ~0 ~53 0.8 0.8 0 1 0 0 0 0 9.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 568 run particleex tickparameter minecraft:end_rod ~568 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-2.33333*t;" 0.05000 20 25
-execute if score @p Timer matches 571 run particleex parameter minecraft:end_rod ~571 ~0 ~55 0.8 0.8 0 1 0 0 0 0 3.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 571 run particleex parameter minecraft:end_rod ~571 ~0 ~58 0.8 0.8 0 1 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 571 run particleex parameter minecraft:end_rod ~571 ~0 ~62 0.8 0.8 0 1 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 571 run particleex tickparameter minecraft:end_rod ~571 ~0 ~67 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-2.83333*t;" 0.03333 30 25
-execute if score @p Timer matches 577 run particleex parameter minecraft:end_rod ~577 ~0 ~50 0.8 0.8 0 1 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 577 run particleex parameter minecraft:end_rod ~577 ~0 ~55 0.8 0.8 0 1 0 0 0 0 3.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 577 run particleex parameter minecraft:end_rod ~577 ~0 ~58 0.8 0.8 0 1 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 577 run particleex tickparameter minecraft:end_rod ~577 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-4.00000*t;" 0.02500 40 25
-execute if score @p Timer matches 580 run particleex parameter minecraft:end_rod ~580 ~0 ~50 0.8 0.8 0 1 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 580 run particleex parameter minecraft:end_rod ~580 ~0 ~55 0.8 0.8 0 1 0 0 0 0 3.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 580 run particleex parameter minecraft:end_rod ~580 ~0 ~58 0.8 0.8 0 1 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 580 run particleex tickparameter minecraft:end_rod ~580 ~0 ~62 0.8 0.8 0 1 0 0 0 0 2 "x=1*t;y=0.00000*t;z=-6.00000*t;" 0.01667 60 25
-execute if score @p Timer matches 582 run particleex parameter minecraft:end_rod ~582 ~0 ~50 0.8 0.8 0 1 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 582 run particleex parameter minecraft:end_rod ~582 ~0 ~55 0.8 0.8 0 1 0 0 0 0 3.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 582 run particleex parameter minecraft:end_rod ~582 ~0 ~58 0.8 0.8 0 1 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 582 run particleex tickparameter minecraft:end_rod ~582 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-4.66667*t;" 0.02500 40 25
-execute if score @p Timer matches 585 run particleex parameter minecraft:end_rod ~585 ~0 ~48 0.8 0.8 0 1 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 585 run particleex parameter minecraft:end_rod ~585 ~0 ~53 0.8 0.8 0 1 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 585 run particleex parameter minecraft:end_rod ~585 ~0 ~58 0.8 0.8 0 1 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 585 run particleex tickparameter minecraft:end_rod ~585 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-3.66667*t;" 0.03333 30 25
-execute if score @p Timer matches 588 run particleex parameter minecraft:end_rod ~588 ~0 ~51 0.8 0.8 0 1 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 588 run particleex parameter minecraft:end_rod ~588 ~0 ~55 0.8 0.8 0 1 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 588 run particleex parameter minecraft:end_rod ~588 ~0 ~60 0.8 0.8 0 1 0 0 0 0 3.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 588 run particleex tickparameter minecraft:end_rod ~588 ~0 ~63 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-4.00000*t;" 0.02500 40 25
-execute if score @p Timer matches 591 run particleex parameter minecraft:end_rod ~591 ~0 ~51 0.8 0.8 0 1 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 591 run particleex parameter minecraft:end_rod ~591 ~0 ~55 0.8 0.8 0 1 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 591 run particleex parameter minecraft:end_rod ~591 ~0 ~60 0.8 0.8 0 1 0 0 0 0 3.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 591 run particleex tickparameter minecraft:end_rod ~591 ~0 ~63 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-4.00000*t;" 0.02500 40 25
-execute if score @p Timer matches 594 run particleex parameter minecraft:end_rod ~594 ~0 ~51 0.8 0.8 0 1 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 594 run particleex parameter minecraft:end_rod ~594 ~0 ~55 0.8 0.8 0 1 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 594 run particleex parameter minecraft:end_rod ~594 ~0 ~60 0.8 0.8 0 1 0 0 0 0 3.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 594 run particleex tickparameter minecraft:end_rod ~594 ~0 ~63 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-5.00000*t;" 0.02000 50 25
-execute if score @p Timer matches 597 run particleex parameter minecraft:end_rod ~597 ~0 ~48 0.8 0.8 0 1 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 597 run particleex parameter minecraft:end_rod ~597 ~0 ~53 0.8 0.8 0 1 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 597 run particleex parameter minecraft:end_rod ~597 ~0 ~58 0.8 0.8 0 1 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 597 run particleex tickparameter minecraft:end_rod ~597 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 600 run particleex parameter minecraft:end_rod ~600 ~0 ~57 0.8 0.8 0 1 0 0 0 0 3.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 600 run particleex tickparameter minecraft:end_rod ~600 ~0 ~60 0.8 0.8 0 1 0 0 0 0 5 "x=1*t;y=0.00000*t;z=-2.00000*t;" 0.05000 20 25
-execute if score @p Timer matches 605 run particleex parameter minecraft:end_rod ~605 ~0 ~50 0.8 0.8 0 1 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 605 run particleex parameter minecraft:end_rod ~605 ~0 ~55 0.8 0.8 0 1 0 0 0 0 3.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 605 run particleex parameter minecraft:end_rod ~605 ~0 ~58 0.8 0.8 0 1 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 605 run particleex tickparameter minecraft:end_rod ~605 ~0 ~62 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-2.66667*t;" 0.05000 20 25
-execute if score @p Timer matches 611 run particleex parameter minecraft:end_rod ~611 ~0 ~46 0.8 0.8 0 1 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 611 run particleex parameter minecraft:end_rod ~611 ~0 ~50 0.8 0.8 0 1 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 611 run particleex parameter minecraft:end_rod ~611 ~0 ~55 0.8 0.8 0 1 0 0 0 0 3.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 611 run particleex tickparameter minecraft:end_rod ~611 ~0 ~58 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-4.00000*t;" 0.02500 40 25
-execute if score @p Timer matches 614 run particleex parameter minecraft:end_rod ~614 ~0 ~46 0.8 0.8 0 1 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 614 run particleex parameter minecraft:end_rod ~614 ~0 ~50 0.8 0.8 0 1 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 614 run particleex parameter minecraft:end_rod ~614 ~0 ~55 0.8 0.8 0 1 0 0 0 0 3.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 614 run particleex tickparameter minecraft:end_rod ~614 ~0 ~58 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-4.00000*t;" 0.02500 40 25
-execute if score @p Timer matches 617 run particleex parameter minecraft:end_rod ~617 ~0 ~46 0.8 0.8 0 1 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 617 run particleex parameter minecraft:end_rod ~617 ~0 ~50 0.8 0.8 0 1 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 617 run particleex parameter minecraft:end_rod ~617 ~0 ~55 0.8 0.8 0 1 0 0 0 0 3.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 617 run particleex tickparameter minecraft:end_rod ~617 ~0 ~58 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-5.00000*t;" 0.02000 50 25
-execute if score @p Timer matches 620 run particleex parameter minecraft:end_rod ~620 ~0 ~43 0.8 0.8 0 1 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 620 run particleex parameter minecraft:end_rod ~620 ~0 ~48 0.8 0.8 0 1 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 620 run particleex parameter minecraft:end_rod ~620 ~0 ~53 0.8 0.8 0 1 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 620 run particleex tickparameter minecraft:end_rod ~620 ~0 ~58 0.8 0.8 0 1 0 0 0 0 2 "x=1*t;y=0.00000*t;z=-3.50000*t;" 0.03333 30 25
-execute if score @p Timer matches 622 run particleex parameter minecraft:end_rod ~622 ~0 ~51 0.8 0.8 0 1 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 622 run particleex parameter minecraft:end_rod ~622 ~0 ~55 0.8 0.8 0 1 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 622 run particleex tickparameter minecraft:end_rod ~622 ~0 ~60 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-3.00000*t;" 0.03333 30 25
-execute if score @p Timer matches 625 run particleex parameter minecraft:end_rod ~625 ~0 ~51 0.8 0.8 0 1 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 625 run particleex parameter minecraft:end_rod ~625 ~0 ~55 0.8 0.8 0 1 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 625 run particleex tickparameter minecraft:end_rod ~625 ~0 ~60 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-3.00000*t;" 0.03333 30 25
-execute if score @p Timer matches 628 run particleex parameter minecraft:end_rod ~628 ~0 ~51 0.8 0.8 0 1 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 628 run particleex parameter minecraft:end_rod ~628 ~0 ~55 0.8 0.8 0 1 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 628 run particleex tickparameter minecraft:end_rod ~628 ~0 ~60 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-4.00000*t;" 0.02500 40 25
-execute if score @p Timer matches 631 run particleex parameter minecraft:end_rod ~631 ~0 ~48 0.8 0.8 0 1 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 631 run particleex parameter minecraft:end_rod ~631 ~0 ~53 0.8 0.8 0 1 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 631 run particleex tickparameter minecraft:end_rod ~631 ~0 ~58 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-4.33333*t;" 0.02500 40 25
-execute if score @p Timer matches 634 run particleex parameter minecraft:end_rod ~634 ~0 ~45 0.8 0.8 0 1 0 0 0 0 3.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 634 run particleex parameter minecraft:end_rod ~634 ~0 ~48 0.8 0.8 0 1 0 0 0 0 6.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 634 run particleex tickparameter minecraft:end_rod ~634 ~0 ~54 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-3.66667*t;" 0.03333 30 25
-execute if score @p Timer matches 637 run particleex parameter minecraft:end_rod ~637 ~0 ~43 0.8 0.8 0 1 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 637 run particleex parameter minecraft:end_rod ~637 ~0 ~48 0.8 0.8 0 1 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 637 run particleex tickparameter minecraft:end_rod ~637 ~0 ~53 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-3.33333*t;" 0.03333 30 25
-execute if score @p Timer matches 640 run particleex parameter minecraft:end_rod ~640 ~0 ~43 0.8 0.8 0 1 0 0 0 0 12.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 640 run particleex tickparameter minecraft:end_rod ~640 ~0 ~55 0.8 0.8 0 1 0 0 0 0 2 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 642 run particleex tickparameter minecraft:end_rod ~642 ~0 ~57 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-2.33333*t;" 0.05000 20 25
-execute if score @p Timer matches 645 run particleex parameter minecraft:end_rod ~645 ~0 ~50 0.8 0.8 0 1 0 0 0 0 8.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 645 run particleex tickparameter minecraft:end_rod ~645 ~0 ~58 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 648 run particleex tickparameter minecraft:end_rod ~648 ~0 ~59 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-3.66667*t;" 0.03333 30 25
-execute if score @p Timer matches 651 run particleex parameter minecraft:end_rod ~651 ~0 ~48 0.8 0.8 0 1 0 0 0 0 12.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 651 run particleex tickparameter minecraft:end_rod ~651 ~0 ~60 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 654 run particleex tickparameter minecraft:end_rod ~654 ~0 ~61 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-3.66667*t;" 0.03333 30 25
-execute if score @p Timer matches 657 run particleex parameter minecraft:end_rod ~657 ~0 ~50 0.8 0.8 0 1 0 0 0 0 12.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 657 run particleex tickparameter minecraft:end_rod ~657 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 660 run particleex tickparameter minecraft:end_rod ~660 ~0 ~63 0.8 0.8 0 1 0 0 0 0 2 "x=1*t;y=0.00000*t;z=-10.00000*t;" 0.01000 100 25
-execute if score @p Timer matches 662 run particleex parameter minecraft:end_rod ~662 ~0 ~43 0.8 0.8 0 1 0 0 0 0 19.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 662 run particleex tickparameter minecraft:end_rod ~662 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 665 run particleex tickparameter minecraft:end_rod ~665 ~0 ~67 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-7.00000*t;" 0.01429 70 25
-execute if score @p Timer matches 668 run particleex parameter minecraft:end_rod ~668 ~0 ~46 0.8 0.8 0 1 0 0 0 0 20.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 668 run particleex tickparameter minecraft:end_rod ~668 ~0 ~66 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 671 run particleex tickparameter minecraft:end_rod ~671 ~0 ~67 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-7.33333*t;" 0.01429 70 25
-execute if score @p Timer matches 674 run particleex parameter minecraft:end_rod ~674 ~0 ~45 0.8 0.8 0 1 0 0 0 0 13.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 674 run particleex tickparameter minecraft:end_rod ~674 ~0 ~58 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 677 run particleex tickparameter minecraft:end_rod ~677 ~0 ~57 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-2.33333*t;" 0.05000 20 25
-execute if score @p Timer matches 680 run particleex parameter minecraft:end_rod ~680 ~0 ~50 0.8 0.8 0 1 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 680 run particleex tickparameter minecraft:end_rod ~680 ~0 ~55 0.8 0.8 0 1 0 0 0 0 2 "x=1*t;y=0.00000*t;z=-0.50000*t;" 0.10000 10 25
-execute if score @p Timer matches 682 run particleex tickparameter minecraft:end_rod ~682 ~0 ~54 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 685 run particleex tickparameter minecraft:end_rod ~685 ~0 ~55 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 688 run particleex tickparameter minecraft:end_rod ~688 ~0 ~57 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-2.33333*t;" 0.05000 20 25
-execute if score @p Timer matches 691 run particleex parameter minecraft:end_rod ~691 ~0 ~50 0.8 0.8 0 1 0 0 0 0 8.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 691 run particleex tickparameter minecraft:end_rod ~691 ~0 ~58 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 694 run particleex tickparameter minecraft:end_rod ~694 ~0 ~59 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-3.66667*t;" 0.03333 30 25
-execute if score @p Timer matches 697 run particleex parameter minecraft:end_rod ~697 ~0 ~48 0.8 0.8 0 1 0 0 0 0 12.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 697 run particleex tickparameter minecraft:end_rod ~697 ~0 ~60 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 700 run particleex tickparameter minecraft:end_rod ~700 ~0 ~61 0.8 0.8 0 1 0 0 0 0 2 "x=1*t;y=0.00000*t;z=-5.50000*t;" 0.02000 50 25
-execute if score @p Timer matches 702 run particleex parameter minecraft:end_rod ~702 ~0 ~50 0.8 0.8 0 1 0 0 0 0 12.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 702 run particleex tickparameter minecraft:end_rod ~702 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 705 run particleex tickparameter minecraft:end_rod ~705 ~0 ~63 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-6.66667*t;" 0.01667 60 25
-execute if score @p Timer matches 708 run particleex parameter minecraft:end_rod ~708 ~0 ~43 0.8 0.8 0 1 0 0 0 0 19.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 708 run particleex tickparameter minecraft:end_rod ~708 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 711 run particleex tickparameter minecraft:end_rod ~711 ~0 ~67 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-5.66667*t;" 0.02000 50 25
-execute if score @p Timer matches 714 run particleex parameter minecraft:end_rod ~714 ~0 ~50 0.8 0.8 0 1 0 0 0 0 16.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 714 run particleex tickparameter minecraft:end_rod ~714 ~0 ~66 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 717 run particleex tickparameter minecraft:end_rod ~717 ~0 ~67 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-6.33333*t;" 0.01667 60 25
-execute if score @p Timer matches 720 run particleex parameter minecraft:end_rod ~720 ~0 ~48 0.8 0.8 0 1 0 0 0 0 22.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 720 run particleex tickparameter minecraft:end_rod ~720 ~0 ~70 0.8 0.8 0 1 0 0 0 0 2 "x=1*t;y=0.00000*t;z=-0.50000*t;" 0.10000 10 25
-execute if score @p Timer matches 722 run particleex tickparameter minecraft:end_rod ~722 ~0 ~69 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-6.33333*t;" 0.01667 60 25
-execute if score @p Timer matches 725 run particleex parameter minecraft:end_rod ~725 ~0 ~50 0.8 0.8 0 1 0 0 0 0 17.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 725 run particleex tickparameter minecraft:end_rod ~725 ~0 ~67 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 728 run particleex tickparameter minecraft:end_rod ~728 ~0 ~65 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-7.33333*t;" 0.01429 70 25
-execute if score @p Timer matches 731 run particleex parameter minecraft:end_rod ~731 ~0 ~43 0.8 0.8 0 1 0 0 0 0 24.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 731 run particleex tickparameter minecraft:end_rod ~731 ~0 ~67 0.8 0.8 0 1 0 0 0 0 11 "x=1*t;y=0.00000*t;z=1.09091*t;" 0.10000 10 25
-execute if score @p Timer matches 742 run particleex tickparameter minecraft:end_rod ~742 ~0 ~79 0.8 0.8 0 1 0 0 0 0 61 "x=1*t;y=0.00000*t;z=-0.59016*t;" 0.10000 10 25
-execute if score @p Timer matches 803 run particleex tickparameter minecraft:end_rod ~803 ~0 ~43 0.8 0.8 0 1 0 0 0 0 7 "x=1*t;y=0.00000*t;z=2.71429*t;" 0.05000 20 25
-execute if score @p Timer matches 810 run particleex tickparameter minecraft:end_rod ~810 ~0 ~62 0.8 0.8 0 1 0 0 0 0 7 "x=1*t;y=0.00000*t;z=0.71429*t;" 0.10000 10 25
-execute if score @p Timer matches 817 run particleex tickparameter minecraft:end_rod ~817 ~0 ~67 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=1.16667*t;" 0.10000 10 25
-execute if score @p Timer matches 823 run particleex tickparameter minecraft:end_rod ~823 ~0 ~74 0.8 0.8 0 1 0 0 0 0 7 "x=1*t;y=0.00000*t;z=-3.71429*t;" 0.03333 30 25
-execute if score @p Timer matches 830 run particleex parameter minecraft:end_rod ~830 ~0 ~48 0.8 0.8 0 1 0 0 0 0 26.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 830 run particleex tickparameter minecraft:end_rod ~830 ~0 ~74 0.8 0.8 0 1 0 0 0 0 11 "x=1*t;y=0.00000*t;z=-0.18182*t;" 0.10000 10 25
-execute if score @p Timer matches 841 run particleex tickparameter minecraft:end_rod ~841 ~0 ~72 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.50000*t;" 0.10000 10 25
-execute if score @p Timer matches 845 run particleex tickparameter minecraft:end_rod ~845 ~0 ~74 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.25000*t;" 0.10000 10 25
-execute if score @p Timer matches 849 run particleex tickparameter minecraft:end_rod ~849 ~0 ~75 0.8 0.8 0 1 0 0 0 0 11 "x=1*t;y=0.00000*t;z=-2.27273*t;" 0.05000 20 25
-execute if score @p Timer matches 860 run particleex tickparameter minecraft:end_rod ~860 ~0 ~50 0.8 0.8 0 1 0 0 0 0 7 "x=1*t;y=0.00000*t;z=1.71429*t;" 0.10000 10 25
-execute if score @p Timer matches 867 run particleex tickparameter minecraft:end_rod ~867 ~0 ~62 0.8 0.8 0 1 0 0 0 0 8 "x=1*t;y=0.00000*t;z=0.87500*t;" 0.10000 10 25
-execute if score @p Timer matches 875 run particleex tickparameter minecraft:end_rod ~875 ~0 ~69 0.8 0.8 0 1 0 0 0 0 7 "x=1*t;y=0.00000*t;z=0.42857*t;" 0.10000 10 25
-execute if score @p Timer matches 882 run particleex tickparameter minecraft:end_rod ~882 ~0 ~72 0.8 0.8 0 1 0 0 0 0 8 "x=1*t;y=0.00000*t;z=-3.62500*t;" 0.03333 30 25
-execute if score @p Timer matches 890 run particleex parameter minecraft:end_rod ~890 ~0 ~43 0.8 0.8 0 1 0 0 0 0 29.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 890 run particleex tickparameter minecraft:end_rod ~890 ~0 ~72 0.8 0.8 0 1 0 0 0 0 11 "x=1*t;y=0.00000*t;z=-0.18182*t;" 0.10000 10 25
-execute if score @p Timer matches 901 run particleex tickparameter minecraft:end_rod ~901 ~0 ~70 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.50000*t;" 0.10000 10 25
-execute if score @p Timer matches 905 run particleex tickparameter minecraft:end_rod ~905 ~0 ~72 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.50000*t;" 0.10000 10 25
-execute if score @p Timer matches 909 run particleex tickparameter minecraft:end_rod ~909 ~0 ~74 0.8 0.8 0 1 0 0 0 0 11 "x=1*t;y=0.00000*t;z=-1.72727*t;" 0.10000 10 25
-execute if score @p Timer matches 920 run particleex tickparameter minecraft:end_rod ~920 ~0 ~55 0.8 0.8 0 1 0 0 0 0 7 "x=1*t;y=0.00000*t;z=2.14286*t;" 0.05000 20 25
-execute if score @p Timer matches 927 run particleex tickparameter minecraft:end_rod ~927 ~0 ~70 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 930 run particleex tickparameter minecraft:end_rod ~930 ~0 ~72 0.8 0.8 0 1 0 0 0 0 2 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 932 run particleex tickparameter minecraft:end_rod ~932 ~0 ~70 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 935 run particleex tickparameter minecraft:end_rod ~935 ~0 ~69 0.8 0.8 0 1 0 0 0 0 7 "x=1*t;y=0.00000*t;z=0.14286*t;" 0.10000 10 25
-execute if score @p Timer matches 942 run particleex tickparameter minecraft:end_rod ~942 ~0 ~70 0.8 0.8 0 1 0 0 0 0 8 "x=1*t;y=0.00000*t;z=-2.37500*t;" 0.05000 20 25
-execute if score @p Timer matches 950 run particleex parameter minecraft:end_rod ~950 ~0 ~51 0.8 0.8 0 1 0 0 0 0 23.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 950 run particleex tickparameter minecraft:end_rod ~950 ~0 ~74 0.8 0.8 0 1 0 0 0 0 11 "x=1*t;y=0.00000*t;z=-0.36364*t;" 0.10000 10 25
-execute if score @p Timer matches 961 run particleex tickparameter minecraft:end_rod ~961 ~0 ~70 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-0.75000*t;" 0.10000 10 25
-execute if score @p Timer matches 965 run particleex tickparameter minecraft:end_rod ~965 ~0 ~67 0.8 0.8 0 1 0 0 0 0 7 "x=1*t;y=0.00000*t;z=-1.28571*t;" 0.10000 10 25
-execute if score @p Timer matches 972 run particleex tickparameter minecraft:end_rod ~972 ~0 ~58 0.8 0.8 0 1 0 0 0 0 8 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 980 run particleex parameter minecraft:end_rod ~980 ~0 ~50 0.8 0.8 0 1 0 0 0 0 17.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 980 run particleex tickparameter minecraft:end_rod ~980 ~0 ~67 0.8 0.8 0 1 0 0 0 0 7 "x=1*t;y=0.00000*t;z=-0.71429*t;" 0.10000 10 25
-execute if score @p Timer matches 987 run particleex tickparameter minecraft:end_rod ~987 ~0 ~62 0.8 0.8 0 1 0 0 0 0 8 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 995 run particleex tickparameter minecraft:end_rod ~995 ~0 ~70 0.8 0.8 0 1 0 0 0 0 11 "x=1*t;y=0.00000*t;z=-0.09091*t;" 0.10000 10 25
-execute if score @p Timer matches 1006 run particleex tickparameter minecraft:end_rod ~1006 ~0 ~69 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-6.50000*t;" 0.01667 60 25
-execute if score @p Timer matches 1010 run particleex parameter minecraft:end_rod ~1010 ~0 ~43 0.8 0.8 0 1 0 0 0 0 24.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1010 run particleex tickparameter minecraft:end_rod ~1010 ~0 ~67 0.8 0.8 0 1 0 0 0 0 7 "x=1*t;y=0.00000*t;z=-1.28571*t;" 0.10000 10 25
-execute if score @p Timer matches 1017 run particleex tickparameter minecraft:end_rod ~1017 ~0 ~58 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1021 run particleex tickparameter minecraft:end_rod ~1021 ~0 ~62 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-4.75000*t;" 0.02500 40 25
-execute if score @p Timer matches 1025 run particleex tickparameter minecraft:end_rod ~1025 ~0 ~43 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=6.00000*t;" 0.01667 60 25
-execute if score @p Timer matches 1029 run particleex tickparameter minecraft:end_rod ~1029 ~0 ~67 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-3.00000*t;" 0.03333 30 25
-execute if score @p Timer matches 1032 run particleex tickparameter minecraft:end_rod ~1032 ~0 ~58 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1036 run particleex tickparameter minecraft:end_rod ~1036 ~0 ~62 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-1.75000*t;" 0.05000 20 25
-execute if score @p Timer matches 1040 run particleex parameter minecraft:end_rod ~1040 ~0 ~55 0.8 0.8 0 1 0 0 0 0 3.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1040 run particleex parameter minecraft:end_rod ~1040 ~0 ~58 0.8 0.8 0 1 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1040 run particleex parameter minecraft:end_rod ~1040 ~0 ~62 0.8 0.8 0 1 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1040 run particleex tickparameter minecraft:end_rod ~1040 ~0 ~67 0.8 0.8 0 1 0 0 0 0 15 "x=1*t;y=0.00000*t;z=-0.93333*t;" 0.10000 10 25
-execute if score @p Timer matches 1055 run particleex parameter minecraft:end_rod ~1055 ~0 ~53 0.8 0.8 0 1 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1055 run particleex parameter minecraft:end_rod ~1055 ~0 ~58 0.8 0.8 0 1 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1055 run particleex parameter minecraft:end_rod ~1055 ~0 ~62 0.8 0.8 0 1 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1055 run particleex tickparameter minecraft:end_rod ~1055 ~0 ~67 0.8 0.8 0 1 0 0 0 0 11 "x=1*t;y=0.00000*t;z=-0.36364*t;" 0.10000 10 25
-execute if score @p Timer matches 1066 run particleex tickparameter minecraft:end_rod ~1066 ~0 ~63 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-3.75000*t;" 0.03333 30 25
-execute if score @p Timer matches 1070 run particleex parameter minecraft:end_rod ~1070 ~0 ~48 0.8 0.8 0 1 0 0 0 0 15.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1070 run particleex tickparameter minecraft:end_rod ~1070 ~0 ~63 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1074 run particleex tickparameter minecraft:end_rod ~1074 ~0 ~63 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1077 run particleex tickparameter minecraft:end_rod ~1077 ~0 ~60 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.75000*t;" 0.10000 10 25
-execute if score @p Timer matches 1081 run particleex tickparameter minecraft:end_rod ~1081 ~0 ~63 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-2.00000*t;" 0.05000 20 25
-execute if score @p Timer matches 1085 run particleex parameter minecraft:end_rod ~1085 ~0 ~55 0.8 0.8 0 1 0 0 0 0 8.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1085 run particleex tickparameter minecraft:end_rod ~1085 ~0 ~63 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1089 run particleex tickparameter minecraft:end_rod ~1089 ~0 ~67 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-2.33333*t;" 0.05000 20 25
-execute if score @p Timer matches 1092 run particleex tickparameter minecraft:end_rod ~1092 ~0 ~60 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.75000*t;" 0.10000 10 25
-execute if score @p Timer matches 1096 run particleex tickparameter minecraft:end_rod ~1096 ~0 ~63 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-3.25000*t;" 0.03333 30 25
-execute if score @p Timer matches 1100 run particleex parameter minecraft:end_rod ~1100 ~0 ~50 0.8 0.8 0 1 0 0 0 0 12.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1100 run particleex tickparameter minecraft:end_rod ~1100 ~0 ~62 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1104 run particleex tickparameter minecraft:end_rod ~1104 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 1107 run particleex tickparameter minecraft:end_rod ~1107 ~0 ~60 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.50000*t;" 0.10000 10 25
-execute if score @p Timer matches 1111 run particleex tickparameter minecraft:end_rod ~1111 ~0 ~62 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-2.00000*t;" 0.05000 20 25
-execute if score @p Timer matches 1115 run particleex parameter minecraft:end_rod ~1115 ~0 ~54 0.8 0.8 0 1 0 0 0 0 8.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1115 run particleex tickparameter minecraft:end_rod ~1115 ~0 ~62 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=1.75000*t;" 0.05000 20 25
-execute if score @p Timer matches 1119 run particleex tickparameter minecraft:end_rod ~1119 ~0 ~69 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-3.00000*t;" 0.03333 30 25
-execute if score @p Timer matches 1122 run particleex tickparameter minecraft:end_rod ~1122 ~0 ~60 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.50000*t;" 0.10000 10 25
-execute if score @p Timer matches 1126 run particleex tickparameter minecraft:end_rod ~1126 ~0 ~62 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-4.75000*t;" 0.02500 40 25
-execute if score @p Timer matches 1130 run particleex parameter minecraft:end_rod ~1130 ~0 ~43 0.8 0.8 0 1 0 0 0 0 19.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1130 run particleex tickparameter minecraft:end_rod ~1130 ~0 ~62 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1134 run particleex tickparameter minecraft:end_rod ~1134 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 1137 run particleex tickparameter minecraft:end_rod ~1137 ~0 ~58 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1141 run particleex tickparameter minecraft:end_rod ~1141 ~0 ~62 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-1.75000*t;" 0.05000 20 25
-execute if score @p Timer matches 1145 run particleex parameter minecraft:end_rod ~1145 ~0 ~55 0.8 0.8 0 1 0 0 0 0 7.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1145 run particleex tickparameter minecraft:end_rod ~1145 ~0 ~62 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=1.25000*t;" 0.10000 10 25
-execute if score @p Timer matches 1149 run particleex tickparameter minecraft:end_rod ~1149 ~0 ~67 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-3.00000*t;" 0.03333 30 25
-execute if score @p Timer matches 1152 run particleex tickparameter minecraft:end_rod ~1152 ~0 ~58 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1156 run particleex tickparameter minecraft:end_rod ~1156 ~0 ~62 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-3.00000*t;" 0.03333 30 25
-execute if score @p Timer matches 1160 run particleex parameter minecraft:end_rod ~1160 ~0 ~50 0.8 0.8 0 1 0 0 0 0 13.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1160 run particleex tickparameter minecraft:end_rod ~1160 ~0 ~63 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1164 run particleex tickparameter minecraft:end_rod ~1164 ~0 ~63 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 1167 run particleex tickparameter minecraft:end_rod ~1167 ~0 ~62 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1171 run particleex tickparameter minecraft:end_rod ~1171 ~0 ~58 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-0.75000*t;" 0.10000 10 25
-execute if score @p Timer matches 1175 run particleex parameter minecraft:end_rod ~1175 ~0 ~55 0.8 0.8 0 1 0 0 0 0 7.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1175 run particleex tickparameter minecraft:end_rod ~1175 ~0 ~62 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.25000*t;" 0.10000 10 25
-execute if score @p Timer matches 1179 run particleex tickparameter minecraft:end_rod ~1179 ~0 ~63 0.8 0.8 0 1 0 0 0 0 1 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1180 run particleex tickparameter minecraft:end_rod ~1180 ~0 ~62 0.8 0.8 0 1 0 0 0 0 2 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1182 run particleex tickparameter minecraft:end_rod ~1182 ~0 ~62 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.25000*t;" 0.10000 10 25
-execute if score @p Timer matches 1186 run particleex tickparameter minecraft:end_rod ~1186 ~0 ~63 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-3.00000*t;" 0.03333 30 25
-execute if score @p Timer matches 1190 run particleex parameter minecraft:end_rod ~1190 ~0 ~51 0.8 0.8 0 1 0 0 0 0 11.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1190 run particleex tickparameter minecraft:end_rod ~1190 ~0 ~62 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.25000*t;" 0.10000 10 25
-execute if score @p Timer matches 1194 run particleex tickparameter minecraft:end_rod ~1194 ~0 ~63 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 1197 run particleex tickparameter minecraft:end_rod ~1197 ~0 ~58 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=1.25000*t;" 0.10000 10 25
-execute if score @p Timer matches 1201 run particleex tickparameter minecraft:end_rod ~1201 ~0 ~63 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-2.00000*t;" 0.05000 20 25
-execute if score @p Timer matches 1205 run particleex parameter minecraft:end_rod ~1205 ~0 ~55 0.8 0.8 0 1 0 0 0 0 12.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1205 run particleex tickparameter minecraft:end_rod ~1205 ~0 ~67 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1209 run particleex tickparameter minecraft:end_rod ~1209 ~0 ~63 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 1212 run particleex tickparameter minecraft:end_rod ~1212 ~0 ~58 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=1.25000*t;" 0.10000 10 25
-execute if score @p Timer matches 1216 run particleex tickparameter minecraft:end_rod ~1216 ~0 ~63 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-4.50000*t;" 0.02500 40 25
-execute if score @p Timer matches 1220 run particleex parameter minecraft:end_rod ~1220 ~0 ~45 0.8 0.8 0 1 0 0 0 0 17.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1220 run particleex tickparameter minecraft:end_rod ~1220 ~0 ~62 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1224 run particleex tickparameter minecraft:end_rod ~1224 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 1227 run particleex tickparameter minecraft:end_rod ~1227 ~0 ~60 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.50000*t;" 0.10000 10 25
-execute if score @p Timer matches 1231 run particleex tickparameter minecraft:end_rod ~1231 ~0 ~62 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-3.50000*t;" 0.03333 30 25
-execute if score @p Timer matches 1235 run particleex parameter minecraft:end_rod ~1235 ~0 ~48 0.8 0.8 0 1 0 0 0 0 19.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1235 run particleex tickparameter minecraft:end_rod ~1235 ~0 ~67 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-1.25000*t;" 0.10000 10 25
-execute if score @p Timer matches 1239 run particleex tickparameter minecraft:end_rod ~1239 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 1242 run particleex tickparameter minecraft:end_rod ~1242 ~0 ~60 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.50000*t;" 0.10000 10 25
-execute if score @p Timer matches 1246 run particleex tickparameter minecraft:end_rod ~1246 ~0 ~62 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-3.00000*t;" 0.03333 30 25
-execute if score @p Timer matches 1250 run particleex parameter minecraft:end_rod ~1250 ~0 ~50 0.8 0.8 0 1 0 0 0 0 10.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1250 run particleex tickparameter minecraft:end_rod ~1250 ~0 ~60 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1254 run particleex tickparameter minecraft:end_rod ~1254 ~0 ~60 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1257 run particleex tickparameter minecraft:end_rod ~1257 ~0 ~60 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.50000*t;" 0.10000 10 25
-execute if score @p Timer matches 1261 run particleex tickparameter minecraft:end_rod ~1261 ~0 ~62 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-2.00000*t;" 0.05000 20 25
-execute if score @p Timer matches 1265 run particleex parameter minecraft:end_rod ~1265 ~0 ~54 0.8 0.8 0 1 0 0 0 0 6.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1265 run particleex tickparameter minecraft:end_rod ~1265 ~0 ~60 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.50000*t;" 0.10000 10 25
-execute if score @p Timer matches 1269 run particleex tickparameter minecraft:end_rod ~1269 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1272 run particleex tickparameter minecraft:end_rod ~1272 ~0 ~62 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1276 run particleex tickparameter minecraft:end_rod ~1276 ~0 ~62 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-3.00000*t;" 0.03333 30 25
-execute if score @p Timer matches 1280 run particleex parameter minecraft:end_rod ~1280 ~0 ~50 0.8 0.8 0 1 0 0 0 0 20.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1280 run particleex tickparameter minecraft:end_rod ~1280 ~0 ~70 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-0.25000*t;" 0.10000 10 25
-execute if score @p Timer matches 1284 run particleex tickparameter minecraft:end_rod ~1284 ~0 ~69 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-2.33333*t;" 0.05000 20 25
-execute if score @p Timer matches 1287 run particleex tickparameter minecraft:end_rod ~1287 ~0 ~62 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1291 run particleex tickparameter minecraft:end_rod ~1291 ~0 ~62 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-2.00000*t;" 0.05000 20 25
-execute if score @p Timer matches 1295 run particleex parameter minecraft:end_rod ~1295 ~0 ~54 0.8 0.8 0 1 0 0 0 0 6.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1295 run particleex tickparameter minecraft:end_rod ~1295 ~0 ~60 0.8 0.8 0 1 0 0 0 0 11 "x=1*t;y=0.00000*t;z=0.27273*t;" 0.10000 10 25
-execute if score @p Timer matches 1306 run particleex tickparameter minecraft:end_rod ~1306 ~0 ~63 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-3.75000*t;" 0.03333 30 25
-execute if score @p Timer matches 1310 run particleex parameter minecraft:end_rod ~1310 ~0 ~48 0.8 0.8 0 1 0 0 0 0 15.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1310 run particleex tickparameter minecraft:end_rod ~1310 ~0 ~63 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1314 run particleex tickparameter minecraft:end_rod ~1314 ~0 ~63 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1317 run particleex tickparameter minecraft:end_rod ~1317 ~0 ~60 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.75000*t;" 0.10000 10 25
-execute if score @p Timer matches 1321 run particleex tickparameter minecraft:end_rod ~1321 ~0 ~63 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-2.00000*t;" 0.05000 20 25
-execute if score @p Timer matches 1325 run particleex parameter minecraft:end_rod ~1325 ~0 ~55 0.8 0.8 0 1 0 0 0 0 8.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1325 run particleex tickparameter minecraft:end_rod ~1325 ~0 ~63 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1329 run particleex tickparameter minecraft:end_rod ~1329 ~0 ~67 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-2.33333*t;" 0.05000 20 25
-execute if score @p Timer matches 1332 run particleex tickparameter minecraft:end_rod ~1332 ~0 ~60 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.75000*t;" 0.10000 10 25
-execute if score @p Timer matches 1336 run particleex tickparameter minecraft:end_rod ~1336 ~0 ~63 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-3.25000*t;" 0.03333 30 25
-execute if score @p Timer matches 1340 run particleex parameter minecraft:end_rod ~1340 ~0 ~50 0.8 0.8 0 1 0 0 0 0 12.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1340 run particleex tickparameter minecraft:end_rod ~1340 ~0 ~62 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1344 run particleex tickparameter minecraft:end_rod ~1344 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 1347 run particleex tickparameter minecraft:end_rod ~1347 ~0 ~60 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.50000*t;" 0.10000 10 25
-execute if score @p Timer matches 1351 run particleex tickparameter minecraft:end_rod ~1351 ~0 ~62 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-2.00000*t;" 0.05000 20 25
-execute if score @p Timer matches 1355 run particleex parameter minecraft:end_rod ~1355 ~0 ~54 0.8 0.8 0 1 0 0 0 0 8.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1355 run particleex tickparameter minecraft:end_rod ~1355 ~0 ~62 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=1.75000*t;" 0.05000 20 25
-execute if score @p Timer matches 1359 run particleex tickparameter minecraft:end_rod ~1359 ~0 ~69 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-3.00000*t;" 0.03333 30 25
-execute if score @p Timer matches 1362 run particleex tickparameter minecraft:end_rod ~1362 ~0 ~60 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.50000*t;" 0.10000 10 25
-execute if score @p Timer matches 1366 run particleex tickparameter minecraft:end_rod ~1366 ~0 ~62 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-4.75000*t;" 0.02500 40 25
-execute if score @p Timer matches 1370 run particleex parameter minecraft:end_rod ~1370 ~0 ~43 0.8 0.8 0 1 0 0 0 0 19.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1370 run particleex tickparameter minecraft:end_rod ~1370 ~0 ~62 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1374 run particleex tickparameter minecraft:end_rod ~1374 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 1377 run particleex tickparameter minecraft:end_rod ~1377 ~0 ~58 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1381 run particleex tickparameter minecraft:end_rod ~1381 ~0 ~62 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-1.75000*t;" 0.05000 20 25
-execute if score @p Timer matches 1385 run particleex parameter minecraft:end_rod ~1385 ~0 ~55 0.8 0.8 0 1 0 0 0 0 7.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1385 run particleex tickparameter minecraft:end_rod ~1385 ~0 ~62 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=1.25000*t;" 0.10000 10 25
-execute if score @p Timer matches 1389 run particleex tickparameter minecraft:end_rod ~1389 ~0 ~67 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-3.00000*t;" 0.03333 30 25
-execute if score @p Timer matches 1392 run particleex tickparameter minecraft:end_rod ~1392 ~0 ~58 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1396 run particleex tickparameter minecraft:end_rod ~1396 ~0 ~62 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-3.00000*t;" 0.03333 30 25
-execute if score @p Timer matches 1400 run particleex parameter minecraft:end_rod ~1400 ~0 ~50 0.8 0.8 0 1 0 0 0 0 13.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1400 run particleex tickparameter minecraft:end_rod ~1400 ~0 ~63 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1404 run particleex tickparameter minecraft:end_rod ~1404 ~0 ~63 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 1407 run particleex tickparameter minecraft:end_rod ~1407 ~0 ~62 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1411 run particleex tickparameter minecraft:end_rod ~1411 ~0 ~58 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-0.75000*t;" 0.10000 10 25
-execute if score @p Timer matches 1415 run particleex parameter minecraft:end_rod ~1415 ~0 ~55 0.8 0.8 0 1 0 0 0 0 7.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1415 run particleex tickparameter minecraft:end_rod ~1415 ~0 ~62 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.25000*t;" 0.10000 10 25
-execute if score @p Timer matches 1419 run particleex tickparameter minecraft:end_rod ~1419 ~0 ~63 0.8 0.8 0 1 0 0 0 0 1 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1420 run particleex tickparameter minecraft:end_rod ~1420 ~0 ~62 0.8 0.8 0 1 0 0 0 0 2 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1422 run particleex tickparameter minecraft:end_rod ~1422 ~0 ~62 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.25000*t;" 0.10000 10 25
-execute if score @p Timer matches 1426 run particleex tickparameter minecraft:end_rod ~1426 ~0 ~63 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-3.00000*t;" 0.03333 30 25
-execute if score @p Timer matches 1430 run particleex parameter minecraft:end_rod ~1430 ~0 ~51 0.8 0.8 0 1 0 0 0 0 11.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1430 run particleex tickparameter minecraft:end_rod ~1430 ~0 ~62 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.25000*t;" 0.10000 10 25
-execute if score @p Timer matches 1434 run particleex tickparameter minecraft:end_rod ~1434 ~0 ~63 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 1437 run particleex tickparameter minecraft:end_rod ~1437 ~0 ~58 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=1.25000*t;" 0.10000 10 25
-execute if score @p Timer matches 1441 run particleex tickparameter minecraft:end_rod ~1441 ~0 ~63 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-2.00000*t;" 0.05000 20 25
-execute if score @p Timer matches 1445 run particleex parameter minecraft:end_rod ~1445 ~0 ~55 0.8 0.8 0 1 0 0 0 0 12.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1445 run particleex tickparameter minecraft:end_rod ~1445 ~0 ~67 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1449 run particleex tickparameter minecraft:end_rod ~1449 ~0 ~63 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 1452 run particleex tickparameter minecraft:end_rod ~1452 ~0 ~58 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=1.25000*t;" 0.10000 10 25
-execute if score @p Timer matches 1456 run particleex tickparameter minecraft:end_rod ~1456 ~0 ~63 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-3.25000*t;" 0.03333 30 25
-execute if score @p Timer matches 1460 run particleex parameter minecraft:end_rod ~1460 ~0 ~50 0.8 0.8 0 1 0 0 0 0 12.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1460 run particleex tickparameter minecraft:end_rod ~1460 ~0 ~62 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1464 run particleex tickparameter minecraft:end_rod ~1464 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 1467 run particleex tickparameter minecraft:end_rod ~1467 ~0 ~60 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.50000*t;" 0.10000 10 25
-execute if score @p Timer matches 1471 run particleex tickparameter minecraft:end_rod ~1471 ~0 ~62 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-2.00000*t;" 0.05000 20 25
-execute if score @p Timer matches 1475 run particleex parameter minecraft:end_rod ~1475 ~0 ~54 0.8 0.8 0 1 0 0 0 0 13.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1475 run particleex tickparameter minecraft:end_rod ~1475 ~0 ~67 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-1.25000*t;" 0.10000 10 25
-execute if score @p Timer matches 1479 run particleex tickparameter minecraft:end_rod ~1479 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 1482 run particleex tickparameter minecraft:end_rod ~1482 ~0 ~60 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.50000*t;" 0.10000 10 25
-execute if score @p Timer matches 1486 run particleex tickparameter minecraft:end_rod ~1486 ~0 ~62 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-4.75000*t;" 0.02500 40 25
-execute if score @p Timer matches 1490 run particleex parameter minecraft:end_rod ~1490 ~0 ~43 0.8 0.8 0 1 0 0 0 0 17.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1490 run particleex tickparameter minecraft:end_rod ~1490 ~0 ~60 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1494 run particleex tickparameter minecraft:end_rod ~1494 ~0 ~60 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1497 run particleex tickparameter minecraft:end_rod ~1497 ~0 ~60 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.50000*t;" 0.10000 10 25
-execute if score @p Timer matches 1501 run particleex tickparameter minecraft:end_rod ~1501 ~0 ~62 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-3.00000*t;" 0.03333 30 25
-execute if score @p Timer matches 1505 run particleex parameter minecraft:end_rod ~1505 ~0 ~50 0.8 0.8 0 1 0 0 0 0 12.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1505 run particleex tickparameter minecraft:end_rod ~1505 ~0 ~62 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1509 run particleex tickparameter minecraft:end_rod ~1509 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1512 run particleex tickparameter minecraft:end_rod ~1512 ~0 ~62 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1516 run particleex tickparameter minecraft:end_rod ~1516 ~0 ~62 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-1.75000*t;" 0.05000 20 25
-execute if score @p Timer matches 1520 run particleex parameter minecraft:end_rod ~1520 ~0 ~55 0.8 0.8 0 1 0 0 0 0 12.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1520 run particleex tickparameter minecraft:end_rod ~1520 ~0 ~67 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1524 run particleex tickparameter minecraft:end_rod ~1524 ~0 ~67 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 1527 run particleex tickparameter minecraft:end_rod ~1527 ~0 ~69 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1531 run particleex tickparameter minecraft:end_rod ~1531 ~0 ~69 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-4.75000*t;" 0.02500 40 25
-execute if score @p Timer matches 1535 run particleex parameter minecraft:end_rod ~1535 ~0 ~50 0.8 0.8 0 1 0 0 0 0 19.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1535 run particleex tickparameter minecraft:end_rod ~1535 ~0 ~69 0.8 0.8 0 1 0 0 0 0 15 "x=1*t;y=0.00000*t;z=-1.40000*t;" 0.10000 10 25
-execute if score @p Timer matches 1550 run particleex parameter minecraft:end_rod ~1550 ~0 ~48 0.8 0.8 0 1 0 0 0 0 22.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1550 run particleex tickparameter minecraft:end_rod ~1550 ~0 ~70 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-0.75000*t;" 0.10000 10 25
-execute if score @p Timer matches 1554 run particleex tickparameter minecraft:end_rod ~1554 ~0 ~67 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1557 run particleex tickparameter minecraft:end_rod ~1557 ~0 ~70 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-0.75000*t;" 0.10000 10 25
-execute if score @p Timer matches 1561 run particleex tickparameter minecraft:end_rod ~1561 ~0 ~67 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-3.00000*t;" 0.03333 30 25
-execute if score @p Timer matches 1565 run particleex parameter minecraft:end_rod ~1565 ~0 ~55 0.8 0.8 0 1 0 0 0 0 15.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1565 run particleex tickparameter minecraft:end_rod ~1565 ~0 ~70 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-0.75000*t;" 0.10000 10 25
-execute if score @p Timer matches 1569 run particleex tickparameter minecraft:end_rod ~1569 ~0 ~67 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1572 run particleex tickparameter minecraft:end_rod ~1572 ~0 ~70 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1576 run particleex tickparameter minecraft:end_rod ~1576 ~0 ~70 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-5.00000*t;" 0.02000 50 25
-execute if score @p Timer matches 1580 run particleex parameter minecraft:end_rod ~1580 ~0 ~50 0.8 0.8 0 1 0 0 0 0 22.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1580 run particleex tickparameter minecraft:end_rod ~1580 ~0 ~72 0.8 0.8 0 1 0 0 0 0 11 "x=1*t;y=0.00000*t;z=-1.63636*t;" 0.10000 10 25
-execute if score @p Timer matches 1591 run particleex tickparameter minecraft:end_rod ~1591 ~0 ~54 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=1.50000*t;" 0.10000 10 25
-execute if score @p Timer matches 1595 run particleex tickparameter minecraft:end_rod ~1595 ~0 ~60 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.50000*t;" 0.10000 10 25
-execute if score @p Timer matches 1599 run particleex tickparameter minecraft:end_rod ~1599 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=2.66667*t;" 0.05000 20 25
-execute if score @p Timer matches 1602 run particleex tickparameter minecraft:end_rod ~1602 ~0 ~70 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-0.75000*t;" 0.10000 10 25
-execute if score @p Timer matches 1606 run particleex tickparameter minecraft:end_rod ~1606 ~0 ~67 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-6.00000*t;" 0.01667 60 25
-execute if score @p Timer matches 1610 run particleex parameter minecraft:end_rod ~1610 ~0 ~43 0.8 0.8 0 1 0 0 0 0 27.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1610 run particleex tickparameter minecraft:end_rod ~1610 ~0 ~70 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-0.75000*t;" 0.10000 10 25
-execute if score @p Timer matches 1614 run particleex tickparameter minecraft:end_rod ~1614 ~0 ~67 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1617 run particleex tickparameter minecraft:end_rod ~1617 ~0 ~70 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-0.75000*t;" 0.10000 10 25
-execute if score @p Timer matches 1621 run particleex tickparameter minecraft:end_rod ~1621 ~0 ~67 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-3.00000*t;" 0.03333 30 25
-execute if score @p Timer matches 1625 run particleex parameter minecraft:end_rod ~1625 ~0 ~55 0.8 0.8 0 1 0 0 0 0 15.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1625 run particleex tickparameter minecraft:end_rod ~1625 ~0 ~70 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-0.75000*t;" 0.10000 10 25
-execute if score @p Timer matches 1629 run particleex tickparameter minecraft:end_rod ~1629 ~0 ~67 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1632 run particleex tickparameter minecraft:end_rod ~1632 ~0 ~70 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1636 run particleex tickparameter minecraft:end_rod ~1636 ~0 ~70 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-5.00000*t;" 0.02000 50 25
-execute if score @p Timer matches 1640 run particleex parameter minecraft:end_rod ~1640 ~0 ~50 0.8 0.8 0 1 0 0 0 0 22.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1640 run particleex tickparameter minecraft:end_rod ~1640 ~0 ~72 0.8 0.8 0 1 0 0 0 0 7 "x=1*t;y=0.00000*t;z=-0.28571*t;" 0.10000 10 25
-execute if score @p Timer matches 1647 run particleex tickparameter minecraft:end_rod ~1647 ~0 ~70 0.8 0.8 0 1 0 0 0 0 8 "x=1*t;y=0.00000*t;z=-1.87500*t;" 0.05000 20 25
-execute if score @p Timer matches 1655 run particleex parameter minecraft:end_rod ~1655 ~0 ~55 0.8 0.8 0 1 0 0 0 0 14.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1655 run particleex tickparameter minecraft:end_rod ~1655 ~0 ~69 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-0.50000*t;" 0.10000 10 25
-execute if score @p Timer matches 1659 run particleex tickparameter minecraft:end_rod ~1659 ~0 ~67 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1662 run particleex tickparameter minecraft:end_rod ~1662 ~0 ~70 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-0.75000*t;" 0.10000 10 25
-execute if score @p Timer matches 1666 run particleex tickparameter minecraft:end_rod ~1666 ~0 ~67 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-4.00000*t;" 0.02500 40 25
-execute if score @p Timer matches 1670 run particleex parameter minecraft:end_rod ~1670 ~0 ~51 0.8 0.8 0 1 0 0 0 0 19.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1670 run particleex tickparameter minecraft:end_rod ~1670 ~0 ~70 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-0.75000*t;" 0.10000 10 25
-execute if score @p Timer matches 1674 run particleex tickparameter minecraft:end_rod ~1674 ~0 ~67 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1677 run particleex tickparameter minecraft:end_rod ~1677 ~0 ~70 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-0.75000*t;" 0.10000 10 25
-execute if score @p Timer matches 1681 run particleex tickparameter minecraft:end_rod ~1681 ~0 ~67 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-3.00000*t;" 0.03333 30 25
-execute if score @p Timer matches 1685 run particleex parameter minecraft:end_rod ~1685 ~0 ~55 0.8 0.8 0 1 0 0 0 0 15.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1685 run particleex tickparameter minecraft:end_rod ~1685 ~0 ~70 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-0.75000*t;" 0.10000 10 25
-execute if score @p Timer matches 1689 run particleex tickparameter minecraft:end_rod ~1689 ~0 ~67 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1692 run particleex tickparameter minecraft:end_rod ~1692 ~0 ~70 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-0.75000*t;" 0.10000 10 25
-execute if score @p Timer matches 1696 run particleex tickparameter minecraft:end_rod ~1696 ~0 ~67 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-5.50000*t;" 0.02000 50 25
-execute if score @p Timer matches 1700 run particleex parameter minecraft:end_rod ~1700 ~0 ~45 0.8 0.8 0 1 0 0 0 0 27.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1700 run particleex tickparameter minecraft:end_rod ~1700 ~0 ~72 0.8 0.8 0 1 0 0 0 0 15 "x=1*t;y=0.00000*t;z=-1.60000*t;" 0.10000 10 25
-execute if score @p Timer matches 1715 run particleex tickparameter minecraft:end_rod ~1715 ~0 ~48 0.8 0.8 0 1 0 0 0 0 7 "x=1*t;y=0.00000*t;z=1.71429*t;" 0.10000 10 25
-execute if score @p Timer matches 1722 run particleex tickparameter minecraft:end_rod ~1722 ~0 ~60 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-0.50000*t;" 0.10000 10 25
-execute if score @p Timer matches 1726 run particleex tickparameter minecraft:end_rod ~1726 ~0 ~58 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-2.00000*t;" 0.05000 20 25
-execute if score @p Timer matches 1730 run particleex parameter minecraft:end_rod ~1730 ~0 ~50 0.8 0.8 0 1 0 0 0 0 10.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1730 run particleex tickparameter minecraft:end_rod ~1730 ~0 ~60 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-0.50000*t;" 0.10000 10 25
-execute if score @p Timer matches 1734 run particleex tickparameter minecraft:end_rod ~1734 ~0 ~58 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 1737 run particleex tickparameter minecraft:end_rod ~1737 ~0 ~60 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-0.50000*t;" 0.10000 10 25
-execute if score @p Timer matches 1741 run particleex tickparameter minecraft:end_rod ~1741 ~0 ~58 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1745 run particleex parameter minecraft:end_rod ~1745 ~0 ~54 0.8 0.8 0 1 0 0 0 0 6.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1745 run particleex tickparameter minecraft:end_rod ~1745 ~0 ~60 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-0.50000*t;" 0.10000 10 25
-execute if score @p Timer matches 1749 run particleex tickparameter minecraft:end_rod ~1749 ~0 ~58 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 1752 run particleex tickparameter minecraft:end_rod ~1752 ~0 ~60 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-0.50000*t;" 0.10000 10 25
-execute if score @p Timer matches 1756 run particleex tickparameter minecraft:end_rod ~1756 ~0 ~58 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-2.00000*t;" 0.05000 20 25
-execute if score @p Timer matches 1760 run particleex parameter minecraft:end_rod ~1760 ~0 ~50 0.8 0.8 0 1 0 0 0 0 12.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1760 run particleex tickparameter minecraft:end_rod ~1760 ~0 ~62 0.8 0.8 0 1 0 0 0 0 15 "x=1*t;y=0.00000*t;z=-0.53333*t;" 0.10000 10 25
-execute if score @p Timer matches 1775 run particleex tickparameter minecraft:end_rod ~1775 ~0 ~54 0.8 0.8 0 1 0 0 0 0 15 "x=1*t;y=0.00000*t;z=-0.40000*t;" 0.10000 10 25
-execute if score @p Timer matches 1790 run particleex parameter minecraft:end_rod ~1790 ~0 ~48 0.8 0.8 0 1 0 0 0 0 15.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1790 run particleex tickparameter minecraft:end_rod ~1790 ~0 ~63 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1794 run particleex tickparameter minecraft:end_rod ~1794 ~0 ~63 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1797 run particleex tickparameter minecraft:end_rod ~1797 ~0 ~63 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-1.25000*t;" 0.10000 10 25
-execute if score @p Timer matches 1801 run particleex tickparameter minecraft:end_rod ~1801 ~0 ~58 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-0.75000*t;" 0.10000 10 25
-execute if score @p Timer matches 1805 run particleex tickparameter minecraft:end_rod ~1805 ~0 ~55 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=2.00000*t;" 0.05000 20 25
-execute if score @p Timer matches 1809 run particleex tickparameter minecraft:end_rod ~1809 ~0 ~63 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1812 run particleex tickparameter minecraft:end_rod ~1812 ~0 ~63 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1816 run particleex tickparameter minecraft:end_rod ~1816 ~0 ~67 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-4.25000*t;" 0.02500 40 25
-execute if score @p Timer matches 1820 run particleex parameter minecraft:end_rod ~1820 ~0 ~50 0.8 0.8 0 1 0 0 0 0 12.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1820 run particleex tickparameter minecraft:end_rod ~1820 ~0 ~62 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1824 run particleex tickparameter minecraft:end_rod ~1824 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1827 run particleex tickparameter minecraft:end_rod ~1827 ~0 ~62 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-0.50000*t;" 0.10000 10 25
-execute if score @p Timer matches 1831 run particleex tickparameter minecraft:end_rod ~1831 ~0 ~60 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-1.50000*t;" 0.10000 10 25
-execute if score @p Timer matches 1835 run particleex tickparameter minecraft:end_rod ~1835 ~0 ~54 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=2.00000*t;" 0.05000 20 25
-execute if score @p Timer matches 1839 run particleex tickparameter minecraft:end_rod ~1839 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1842 run particleex tickparameter minecraft:end_rod ~1842 ~0 ~62 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=1.75000*t;" 0.05000 20 25
-execute if score @p Timer matches 1846 run particleex tickparameter minecraft:end_rod ~1846 ~0 ~69 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-6.50000*t;" 0.01667 60 25
-execute if score @p Timer matches 1850 run particleex parameter minecraft:end_rod ~1850 ~0 ~43 0.8 0.8 0 1 0 0 0 0 19.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1850 run particleex tickparameter minecraft:end_rod ~1850 ~0 ~62 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1854 run particleex tickparameter minecraft:end_rod ~1854 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 1857 run particleex tickparameter minecraft:end_rod ~1857 ~0 ~58 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=2.25000*t;" 0.05000 20 25
-execute if score @p Timer matches 1861 run particleex tickparameter minecraft:end_rod ~1861 ~0 ~67 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-3.00000*t;" 0.03333 30 25
-execute if score @p Timer matches 1865 run particleex parameter minecraft:end_rod ~1865 ~0 ~55 0.8 0.8 0 1 0 0 0 0 15.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1865 run particleex tickparameter minecraft:end_rod ~1865 ~0 ~70 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-0.25000*t;" 0.10000 10 25
-execute if score @p Timer matches 1869 run particleex tickparameter minecraft:end_rod ~1869 ~0 ~69 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 1872 run particleex tickparameter minecraft:end_rod ~1872 ~0 ~67 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-1.25000*t;" 0.10000 10 25
-execute if score @p Timer matches 1876 run particleex tickparameter minecraft:end_rod ~1876 ~0 ~62 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-3.00000*t;" 0.03333 30 25
-execute if score @p Timer matches 1880 run particleex parameter minecraft:end_rod ~1880 ~0 ~50 0.8 0.8 0 1 0 0 0 0 8.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1880 run particleex tickparameter minecraft:end_rod ~1880 ~0 ~58 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1884 run particleex tickparameter minecraft:end_rod ~1884 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 1887 run particleex tickparameter minecraft:end_rod ~1887 ~0 ~67 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-1.25000*t;" 0.10000 10 25
-execute if score @p Timer matches 1891 run particleex tickparameter minecraft:end_rod ~1891 ~0 ~62 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-1.75000*t;" 0.05000 20 25
-execute if score @p Timer matches 1895 run particleex tickparameter minecraft:end_rod ~1895 ~0 ~55 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=1.75000*t;" 0.05000 20 25
-execute if score @p Timer matches 1899 run particleex tickparameter minecraft:end_rod ~1899 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 1902 run particleex tickparameter minecraft:end_rod ~1902 ~0 ~67 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-1.25000*t;" 0.10000 10 25
-execute if score @p Timer matches 1906 run particleex tickparameter minecraft:end_rod ~1906 ~0 ~62 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-2.75000*t;" 0.05000 20 25
-execute if score @p Timer matches 1910 run particleex parameter minecraft:end_rod ~1910 ~0 ~51 0.8 0.8 0 1 0 0 0 0 7.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1910 run particleex tickparameter minecraft:end_rod ~1910 ~0 ~58 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1914 run particleex tickparameter minecraft:end_rod ~1914 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 1917 run particleex tickparameter minecraft:end_rod ~1917 ~0 ~67 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-1.25000*t;" 0.10000 10 25
-execute if score @p Timer matches 1921 run particleex tickparameter minecraft:end_rod ~1921 ~0 ~62 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-1.75000*t;" 0.05000 20 25
-execute if score @p Timer matches 1925 run particleex parameter minecraft:end_rod ~1925 ~0 ~55 0.8 0.8 0 1 0 0 0 0 8.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1925 run particleex tickparameter minecraft:end_rod ~1925 ~0 ~63 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-0.25000*t;" 0.10000 10 25
-execute if score @p Timer matches 1929 run particleex tickparameter minecraft:end_rod ~1929 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 1932 run particleex tickparameter minecraft:end_rod ~1932 ~0 ~67 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-1.25000*t;" 0.10000 10 25
-execute if score @p Timer matches 1936 run particleex tickparameter minecraft:end_rod ~1936 ~0 ~62 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-4.25000*t;" 0.02500 40 25
-execute if score @p Timer matches 1940 run particleex parameter minecraft:end_rod ~1940 ~0 ~45 0.8 0.8 0 1 0 0 0 0 15.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1940 run particleex tickparameter minecraft:end_rod ~1940 ~0 ~60 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.50000*t;" 0.10000 10 25
-execute if score @p Timer matches 1944 run particleex tickparameter minecraft:end_rod ~1944 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=2.33333*t;" 0.05000 20 25
-execute if score @p Timer matches 1947 run particleex tickparameter minecraft:end_rod ~1947 ~0 ~69 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-1.75000*t;" 0.05000 20 25
-execute if score @p Timer matches 1951 run particleex tickparameter minecraft:end_rod ~1951 ~0 ~62 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-3.50000*t;" 0.03333 30 25
-execute if score @p Timer matches 1955 run particleex parameter minecraft:end_rod ~1955 ~0 ~48 0.8 0.8 0 1 0 0 0 0 15.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1955 run particleex tickparameter minecraft:end_rod ~1955 ~0 ~63 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-0.25000*t;" 0.10000 10 25
-execute if score @p Timer matches 1959 run particleex tickparameter minecraft:end_rod ~1959 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=2.33333*t;" 0.05000 20 25
-execute if score @p Timer matches 1962 run particleex tickparameter minecraft:end_rod ~1962 ~0 ~69 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-1.75000*t;" 0.05000 20 25
-execute if score @p Timer matches 1966 run particleex tickparameter minecraft:end_rod ~1966 ~0 ~62 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-4.75000*t;" 0.02500 40 25
-execute if score @p Timer matches 1970 run particleex parameter minecraft:end_rod ~1970 ~0 ~43 0.8 0.8 0 1 0 0 0 0 15.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1970 run particleex tickparameter minecraft:end_rod ~1970 ~0 ~58 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 1973 run particleex tickparameter minecraft:end_rod ~1973 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 1976 run particleex tickparameter minecraft:end_rod ~1976 ~0 ~67 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 1979 run particleex tickparameter minecraft:end_rod ~1979 ~0 ~69 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-6.33333*t;" 0.01667 60 25
-execute if score @p Timer matches 1982 run particleex parameter minecraft:end_rod ~1982 ~0 ~50 0.8 0.8 0 1 0 0 0 0 17.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1982 run particleex tickparameter minecraft:end_rod ~1982 ~0 ~67 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 1985 run particleex tickparameter minecraft:end_rod ~1985 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 1988 run particleex tickparameter minecraft:end_rod ~1988 ~0 ~58 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 1991 run particleex tickparameter minecraft:end_rod ~1991 ~0 ~55 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-4.00000*t;" 0.02500 40 25
-execute if score @p Timer matches 1994 run particleex tickparameter minecraft:end_rod ~1994 ~0 ~43 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=3.16667*t;" 0.03333 30 25
-execute if score @p Timer matches 2000 run particleex tickparameter minecraft:end_rod ~2000 ~0 ~62 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=0.83333*t;" 0.10000 10 25
-execute if score @p Timer matches 2006 run particleex tickparameter minecraft:end_rod ~2006 ~0 ~67 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=1.16667*t;" 0.10000 10 25
-execute if score @p Timer matches 2012 run particleex tickparameter minecraft:end_rod ~2012 ~0 ~74 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-4.33333*t;" 0.02500 40 25
-execute if score @p Timer matches 2018 run particleex parameter minecraft:end_rod ~2018 ~0 ~48 0.8 0.8 0 1 0 0 0 0 26.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 2018 run particleex tickparameter minecraft:end_rod ~2018 ~0 ~74 0.8 0.8 0 1 0 0 0 0 9 "x=1*t;y=0.00000*t;z=-0.22222*t;" 0.10000 10 25
-execute if score @p Timer matches 2027 run particleex tickparameter minecraft:end_rod ~2027 ~0 ~72 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 2030 run particleex tickparameter minecraft:end_rod ~2030 ~0 ~75 0.8 0.8 0 1 0 0 0 0 12 "x=1*t;y=0.00000*t;z=-2.08333*t;" 0.05000 20 25
-execute if score @p Timer matches 2042 run particleex tickparameter minecraft:end_rod ~2042 ~0 ~50 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=2.00000*t;" 0.05000 20 25
-execute if score @p Timer matches 2048 run particleex tickparameter minecraft:end_rod ~2048 ~0 ~62 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 2054 run particleex parameter minecraft:end_rod ~2054 ~0 ~54 0.8 0.8 0 1 0 0 0 0 15.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 2054 run particleex tickparameter minecraft:end_rod ~2054 ~0 ~69 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=0.50000*t;" 0.10000 10 25
-execute if score @p Timer matches 2060 run particleex tickparameter minecraft:end_rod ~2060 ~0 ~72 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-4.83333*t;" 0.02500 40 25
-execute if score @p Timer matches 2066 run particleex parameter minecraft:end_rod ~2066 ~0 ~43 0.8 0.8 0 1 0 0 0 0 29.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 2066 run particleex tickparameter minecraft:end_rod ~2066 ~0 ~72 0.8 0.8 0 1 0 0 0 0 9 "x=1*t;y=0.00000*t;z=-0.22222*t;" 0.10000 10 25
-execute if score @p Timer matches 2075 run particleex tickparameter minecraft:end_rod ~2075 ~0 ~70 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 2078 run particleex tickparameter minecraft:end_rod ~2078 ~0 ~74 0.8 0.8 0 1 0 0 0 0 12 "x=1*t;y=0.00000*t;z=-2.00000*t;" 0.05000 20 25
-execute if score @p Timer matches 2090 run particleex tickparameter minecraft:end_rod ~2090 ~0 ~50 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=2.00000*t;" 0.05000 20 25
-execute if score @p Timer matches 2096 run particleex tickparameter minecraft:end_rod ~2096 ~0 ~62 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-1.16667*t;" 0.10000 10 25
-execute if score @p Timer matches 2102 run particleex parameter minecraft:end_rod ~2102 ~0 ~55 0.8 0.8 0 1 0 0 0 0 14.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 2102 run particleex tickparameter minecraft:end_rod ~2102 ~0 ~69 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=0.16667*t;" 0.10000 10 25
-execute if score @p Timer matches 2108 run particleex tickparameter minecraft:end_rod ~2108 ~0 ~70 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-3.16667*t;" 0.03333 30 25
-execute if score @p Timer matches 2114 run particleex parameter minecraft:end_rod ~2114 ~0 ~51 0.8 0.8 0 1 0 0 0 0 19.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 2114 run particleex tickparameter minecraft:end_rod ~2114 ~0 ~70 0.8 0.8 0 1 0 0 0 0 9 "x=1*t;y=0.00000*t;z=-0.11111*t;" 0.10000 10 25
-execute if score @p Timer matches 2123 run particleex tickparameter minecraft:end_rod ~2123 ~0 ~69 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 2126 run particleex tickparameter minecraft:end_rod ~2126 ~0 ~72 0.8 0.8 0 1 0 0 0 0 12 "x=1*t;y=0.00000*t;z=-2.25000*t;" 0.05000 20 25
-execute if score @p Timer matches 2138 run particleex tickparameter minecraft:end_rod ~2138 ~0 ~45 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=2.83333*t;" 0.03333 30 25
-execute if score @p Timer matches 2144 run particleex tickparameter minecraft:end_rod ~2144 ~0 ~62 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-2.33333*t;" 0.05000 20 25
-execute if score @p Timer matches 2150 run particleex parameter minecraft:end_rod ~2150 ~0 ~48 0.8 0.8 0 1 0 0 0 0 21.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 2150 run particleex tickparameter minecraft:end_rod ~2150 ~0 ~69 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=0.16667*t;" 0.10000 10 25
-execute if score @p Timer matches 2156 run particleex tickparameter minecraft:end_rod ~2156 ~0 ~70 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-3.33333*t;" 0.03333 30 25
-execute if score @p Timer matches 2162 run particleex parameter minecraft:end_rod ~2162 ~0 ~50 0.8 0.8 0 1 0 0 0 0 20.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 2162 run particleex tickparameter minecraft:end_rod ~2162 ~0 ~70 0.8 0.8 0 1 0 0 0 0 9 "x=1*t;y=0.00000*t;z=0.22222*t;" 0.10000 10 25
-execute if score @p Timer matches 2171 run particleex tickparameter minecraft:end_rod ~2171 ~0 ~72 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 2174 run particleex tickparameter minecraft:end_rod ~2174 ~0 ~69 0.8 0.8 0 1 0 0 0 0 12 "x=1*t;y=0.00000*t;z=-1.58333*t;" 0.10000 10 25
-execute if score @p Timer matches 2186 run particleex tickparameter minecraft:end_rod ~2186 ~0 ~50 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=2.83333*t;" 0.03333 30 25
-execute if score @p Timer matches 2192 run particleex tickparameter minecraft:end_rod ~2192 ~0 ~67 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-2.16667*t;" 0.05000 20 25
-execute if score @p Timer matches 2198 run particleex parameter minecraft:end_rod ~2198 ~0 ~54 0.8 0.8 0 1 0 0 0 0 16.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 2198 run particleex tickparameter minecraft:end_rod ~2198 ~0 ~70 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=0.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 2204 run particleex tickparameter minecraft:end_rod ~2204 ~0 ~74 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-4.33333*t;" 0.02500 40 25
-execute if score @p Timer matches 2210 run particleex parameter minecraft:end_rod ~2210 ~0 ~48 0.8 0.8 0 1 0 0 0 0 26.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 2210 run particleex tickparameter minecraft:end_rod ~2210 ~0 ~74 0.8 0.8 0 1 0 0 0 0 9 "x=1*t;y=0.00000*t;z=-0.22222*t;" 0.10000 10 25
-execute if score @p Timer matches 2219 run particleex tickparameter minecraft:end_rod ~2219 ~0 ~72 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=3.00000*t;" 0.03333 30 25
-execute if score @p Timer matches 2222 run particleex tickparameter minecraft:end_rod ~2222 ~0 ~81 0.8 0.8 0 1 0 0 0 0 12 "x=1*t;y=0.00000*t;z=-2.58333*t;" 0.05000 20 25
-execute if score @p Timer matches 2234 run particleex tickparameter minecraft:end_rod ~2234 ~0 ~50 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=5.33333*t;" 0.02000 50 25
-execute if score @p Timer matches 2240 run particleex tickparameter minecraft:end_rod ~2240 ~0 ~82 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-0.16667*t;" 0.10000 10 25
-execute if score @p Timer matches 2246 run particleex tickparameter minecraft:end_rod ~2246 ~0 ~81 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-1.16667*t;" 0.10000 10 25
-execute if score @p Timer matches 2252 run particleex tickparameter minecraft:end_rod ~2252 ~0 ~74 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-5.16667*t;" 0.02000 50 25
-execute if score @p Timer matches 2258 run particleex parameter minecraft:end_rod ~2258 ~0 ~43 0.8 0.8 0 1 0 0 0 0 29.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 2258 run particleex tickparameter minecraft:end_rod ~2258 ~0 ~72 0.8 0.8 0 1 0 0 0 0 9 "x=1*t;y=0.00000*t;z=0.22222*t;" 0.10000 10 25
-execute if score @p Timer matches 2267 run particleex tickparameter minecraft:end_rod ~2267 ~0 ~74 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 2270 run particleex tickparameter minecraft:end_rod ~2270 ~0 ~70 0.8 0.8 0 1 0 0 0 0 12 "x=1*t;y=0.00000*t;z=-1.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 2282 run particleex tickparameter minecraft:end_rod ~2282 ~0 ~50 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=3.33333*t;" 0.03333 30 25
-execute if score @p Timer matches 2288 run particleex tickparameter minecraft:end_rod ~2288 ~0 ~70 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-2.50000*t;" 0.05000 20 25
-execute if score @p Timer matches 2294 run particleex parameter minecraft:end_rod ~2294 ~0 ~55 0.8 0.8 0 1 0 0 0 0 15.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 2294 run particleex tickparameter minecraft:end_rod ~2294 ~0 ~70 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 2300 run particleex tickparameter minecraft:end_rod ~2300 ~0 ~70 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-3.16667*t;" 0.03333 30 25
-execute if score @p Timer matches 2306 run particleex parameter minecraft:end_rod ~2306 ~0 ~51 0.8 0.8 0 1 0 0 0 0 23.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 2306 run particleex tickparameter minecraft:end_rod ~2306 ~0 ~74 0.8 0.8 0 1 0 0 0 0 9 "x=1*t;y=0.00000*t;z=-0.22222*t;" 0.10000 10 25
-execute if score @p Timer matches 2315 run particleex tickparameter minecraft:end_rod ~2315 ~0 ~72 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 2318 run particleex tickparameter minecraft:end_rod ~2318 ~0 ~67 0.8 0.8 0 1 0 0 0 0 12 "x=1*t;y=0.00000*t;z=-1.41667*t;" 0.10000 10 25
-execute if score @p Timer matches 2330 run particleex tickparameter minecraft:end_rod ~2330 ~0 ~50 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=2.00000*t;" 0.05000 20 25
-execute if score @p Timer matches 2336 run particleex tickparameter minecraft:end_rod ~2336 ~0 ~62 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 2342 run particleex parameter minecraft:end_rod ~2342 ~0 ~54 0.8 0.8 0 1 0 0 0 0 16.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 2342 run particleex tickparameter minecraft:end_rod ~2342 ~0 ~70 0.8 0.8 0 1 0 0 0 0 9 "x=1*t;y=0.00000*t;z=-0.11111*t;" 0.10000 10 25
-execute if score @p Timer matches 2351 run particleex tickparameter minecraft:end_rod ~2351 ~0 ~69 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-8.66667*t;" 0.01250 80 25
-execute if score @p Timer matches 2354 run particleex parameter minecraft:end_rod ~2354 ~0 ~43 0.8 0.8 0 1 0 0 0 0 24.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 2354 run particleex tickparameter minecraft:end_rod ~2354 ~0 ~67 0.8 0.8 0 1 0 0 0 0 24 "x=1*t;y=0.00000*t;z=-0.50000*t;" 0.10000 10 25
-execute if score @p Timer matches 2378 run particleex tickparameter minecraft:end_rod ~2378 ~0 ~55 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=1.16667*t;" 0.10000 10 25
-execute if score @p Timer matches 2384 run particleex tickparameter minecraft:end_rod ~2384 ~0 ~62 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=0.83333*t;" 0.10000 10 25
-execute if score @p Timer matches 2390 run particleex tickparameter minecraft:end_rod ~2390 ~0 ~67 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=0.50000*t;" 0.10000 10 25
-execute if score @p Timer matches 2396 run particleex tickparameter minecraft:end_rod ~2396 ~0 ~70 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-3.66667*t;" 0.03333 30 25
-execute if score @p Timer matches 2402 run particleex parameter minecraft:end_rod ~2402 ~0 ~48 0.8 0.8 0 1 0 0 0 0 26.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 2402 run particleex tickparameter minecraft:end_rod ~2402 ~0 ~74 0.8 0.8 0 1 0 0 0 0 9 "x=1*t;y=0.00000*t;z=-0.22222*t;" 0.10000 10 25
-execute if score @p Timer matches 2411 run particleex tickparameter minecraft:end_rod ~2411 ~0 ~72 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 2414 run particleex tickparameter minecraft:end_rod ~2414 ~0 ~74 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 2417 run particleex tickparameter minecraft:end_rod ~2417 ~0 ~75 0.8 0.8 0 1 0 0 0 0 9 "x=1*t;y=0.00000*t;z=-2.77778*t;" 0.05000 20 25
-execute if score @p Timer matches 2426 run particleex tickparameter minecraft:end_rod ~2426 ~0 ~50 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=2.00000*t;" 0.05000 20 25
-execute if score @p Timer matches 2432 run particleex tickparameter minecraft:end_rod ~2432 ~0 ~62 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=1.16667*t;" 0.10000 10 25
-execute if score @p Timer matches 2438 run particleex tickparameter minecraft:end_rod ~2438 ~0 ~69 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=0.50000*t;" 0.10000 10 25
-execute if score @p Timer matches 2444 run particleex tickparameter minecraft:end_rod ~2444 ~0 ~72 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-4.83333*t;" 0.02500 40 25
-execute if score @p Timer matches 2450 run particleex parameter minecraft:end_rod ~2450 ~0 ~43 0.8 0.8 0 1 0 0 0 0 29.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 2450 run particleex tickparameter minecraft:end_rod ~2450 ~0 ~72 0.8 0.8 0 1 0 0 0 0 9 "x=1*t;y=0.00000*t;z=-0.22222*t;" 0.10000 10 25
-execute if score @p Timer matches 2459 run particleex tickparameter minecraft:end_rod ~2459 ~0 ~70 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 2462 run particleex tickparameter minecraft:end_rod ~2462 ~0 ~72 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 2465 run particleex tickparameter minecraft:end_rod ~2465 ~0 ~74 0.8 0.8 0 1 0 0 0 0 9 "x=1*t;y=0.00000*t;z=-2.11111*t;" 0.05000 20 25
-execute if score @p Timer matches 2474 run particleex tickparameter minecraft:end_rod ~2474 ~0 ~55 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=1.16667*t;" 0.10000 10 25
-execute if score @p Timer matches 2480 run particleex tickparameter minecraft:end_rod ~2480 ~0 ~62 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=1.16667*t;" 0.10000 10 25
-execute if score @p Timer matches 2486 run particleex tickparameter minecraft:end_rod ~2486 ~0 ~69 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=0.16667*t;" 0.10000 10 25
-execute if score @p Timer matches 2492 run particleex tickparameter minecraft:end_rod ~2492 ~0 ~70 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-3.16667*t;" 0.03333 30 25
-execute if score @p Timer matches 2498 run particleex parameter minecraft:end_rod ~2498 ~0 ~51 0.8 0.8 0 1 0 0 0 0 19.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 2498 run particleex tickparameter minecraft:end_rod ~2498 ~0 ~70 0.8 0.8 0 1 0 0 0 0 9 "x=1*t;y=0.00000*t;z=-0.11111*t;" 0.10000 10 25
-execute if score @p Timer matches 2507 run particleex tickparameter minecraft:end_rod ~2507 ~0 ~69 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 2510 run particleex tickparameter minecraft:end_rod ~2510 ~0 ~72 0.8 0.8 0 1 0 0 0 0 12 "x=1*t;y=0.00000*t;z=-2.25000*t;" 0.05000 20 25
-execute if score @p Timer matches 2522 run particleex tickparameter minecraft:end_rod ~2522 ~0 ~45 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=2.83333*t;" 0.03333 30 25
-execute if score @p Timer matches 2528 run particleex tickparameter minecraft:end_rod ~2528 ~0 ~62 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=0.83333*t;" 0.10000 10 25
-execute if score @p Timer matches 2534 run particleex tickparameter minecraft:end_rod ~2534 ~0 ~67 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=0.50000*t;" 0.10000 10 25
-execute if score @p Timer matches 2540 run particleex tickparameter minecraft:end_rod ~2540 ~0 ~70 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-3.33333*t;" 0.03333 30 25
-execute if score @p Timer matches 2546 run particleex parameter minecraft:end_rod ~2546 ~0 ~50 0.8 0.8 0 1 0 0 0 0 20.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 2546 run particleex tickparameter minecraft:end_rod ~2546 ~0 ~70 0.8 0.8 0 1 0 0 0 0 9 "x=1*t;y=0.00000*t;z=0.22222*t;" 0.10000 10 25
-execute if score @p Timer matches 2555 run particleex tickparameter minecraft:end_rod ~2555 ~0 ~72 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 2558 run particleex tickparameter minecraft:end_rod ~2558 ~0 ~69 0.8 0.8 0 1 0 0 0 0 12 "x=1*t;y=0.00000*t;z=-1.25000*t;" 0.10000 10 25
-execute if score @p Timer matches 2570 run particleex tickparameter minecraft:end_rod ~2570 ~0 ~54 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=1.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 2576 run particleex tickparameter minecraft:end_rod ~2576 ~0 ~62 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=0.83333*t;" 0.10000 10 25
-execute if score @p Timer matches 2582 run particleex tickparameter minecraft:end_rod ~2582 ~0 ~67 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 2585 run particleex tickparameter minecraft:end_rod ~2585 ~0 ~70 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=2.33333*t;" 0.05000 20 25
-execute if score @p Timer matches 2588 run particleex tickparameter minecraft:end_rod ~2588 ~0 ~77 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 2591 run particleex tickparameter minecraft:end_rod ~2591 ~0 ~75 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-9.00000*t;" 0.01111 90 25
-execute if score @p Timer matches 2594 run particleex parameter minecraft:end_rod ~2594 ~0 ~48 0.8 0.8 0 1 0 0 0 0 26.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 2594 run particleex tickparameter minecraft:end_rod ~2594 ~0 ~74 0.8 0.8 0 1 0 0 0 0 9 "x=1*t;y=0.00000*t;z=-0.22222*t;" 0.10000 10 25
-execute if score @p Timer matches 2603 run particleex tickparameter minecraft:end_rod ~2603 ~0 ~72 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=3.00000*t;" 0.03333 30 25
-execute if score @p Timer matches 2606 run particleex tickparameter minecraft:end_rod ~2606 ~0 ~81 0.8 0.8 0 1 0 0 0 0 12 "x=1*t;y=0.00000*t;z=-2.58333*t;" 0.05000 20 25
-execute if score @p Timer matches 2618 run particleex tickparameter minecraft:end_rod ~2618 ~0 ~50 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=3.33333*t;" 0.03333 30 25
-execute if score @p Timer matches 2624 run particleex tickparameter minecraft:end_rod ~2624 ~0 ~70 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-0.16667*t;" 0.10000 10 25
-execute if score @p Timer matches 2630 run particleex tickparameter minecraft:end_rod ~2630 ~0 ~69 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-1.16667*t;" 0.10000 10 25
-execute if score @p Timer matches 2636 run particleex tickparameter minecraft:end_rod ~2636 ~0 ~62 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-3.16667*t;" 0.03333 30 25
-execute if score @p Timer matches 2642 run particleex parameter minecraft:end_rod ~2642 ~0 ~43 0.8 0.8 0 1 0 0 0 0 17.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 2642 run particleex tickparameter minecraft:end_rod ~2642 ~0 ~60 0.8 0.8 0 1 0 0 0 0 9 "x=1*t;y=0.00000*t;z=0.22222*t;" 0.10000 10 25
-execute if score @p Timer matches 2651 run particleex tickparameter minecraft:end_rod ~2651 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 2654 run particleex tickparameter minecraft:end_rod ~2654 ~0 ~58 0.8 0.8 0 1 0 0 0 0 12 "x=1*t;y=0.00000*t;z=-0.41667*t;" 0.10000 10 25
-execute if score @p Timer matches 2666 run particleex tickparameter minecraft:end_rod ~2666 ~0 ~53 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=2.83333*t;" 0.03333 30 25
-execute if score @p Timer matches 2672 run particleex tickparameter minecraft:end_rod ~2672 ~0 ~70 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 2675 run particleex tickparameter minecraft:end_rod ~2675 ~0 ~72 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 2678 run particleex tickparameter minecraft:end_rod ~2678 ~0 ~69 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=0.16667*t;" 0.10000 10 25
-execute if score @p Timer matches 2684 run particleex tickparameter minecraft:end_rod ~2684 ~0 ~70 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-3.16667*t;" 0.03333 30 25
-execute if score @p Timer matches 2690 run particleex parameter minecraft:end_rod ~2690 ~0 ~51 0.8 0.8 0 1 0 0 0 0 23.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 2690 run particleex tickparameter minecraft:end_rod ~2690 ~0 ~74 0.8 0.8 0 1 0 0 0 0 9 "x=1*t;y=0.00000*t;z=-0.44444*t;" 0.10000 10 25
-execute if score @p Timer matches 2699 run particleex tickparameter minecraft:end_rod ~2699 ~0 ~70 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 2702 run particleex tickparameter minecraft:end_rod ~2702 ~0 ~67 0.8 0.8 0 1 0 0 0 0 12 "x=1*t;y=0.00000*t;z=-1.41667*t;" 0.10000 10 25
-execute if score @p Timer matches 2714 run particleex tickparameter minecraft:end_rod ~2714 ~0 ~50 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=2.00000*t;" 0.05000 20 25
-execute if score @p Timer matches 2720 run particleex tickparameter minecraft:end_rod ~2720 ~0 ~62 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=1.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 2726 run particleex tickparameter minecraft:end_rod ~2726 ~0 ~70 0.8 0.8 0 1 0 0 0 0 9 "x=1*t;y=0.00000*t;z=-0.11111*t;" 0.10000 10 25
-execute if score @p Timer matches 2735 run particleex tickparameter minecraft:end_rod ~2735 ~0 ~69 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-7.00000*t;" 0.01429 70 25
-execute if score @p Timer matches 2738 run particleex parameter minecraft:end_rod ~2738 ~0 ~48 0.8 0.8 0 1 0 0 0 0 19.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 2738 run particleex tickparameter minecraft:end_rod ~2738 ~0 ~67 0.8 0.8 0 1 0 0 0 0 24 "x=1*t;y=0.00000*t;z=-0.79167*t;" 0.10000 10 25
-execute if score @p Timer matches 2762 run particleex parameter minecraft:end_rod ~2762 ~0 ~48 0.8 0.8 0 1 0 0 0 0 10.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 2762 run particleex parameter minecraft:end_rod ~2762 ~0 ~58 0.8 0.8 0 1 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 2762 run particleex parameter minecraft:end_rod ~2762 ~0 ~62 0.8 0.8 0 1 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 2762 run particleex tickparameter minecraft:end_rod ~2762 ~0 ~67 0.8 0.8 0 1 0 0 0 0 24 "x=1*t;y=0.00000*t;z=-0.83333*t;" 0.10000 10 25
-execute if score @p Timer matches 2786 run particleex parameter minecraft:end_rod ~2786 ~0 ~47 0.8 0.8 0 1 0 0 0 0 20.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 2786 run particleex tickparameter minecraft:end_rod ~2786 ~0 ~67 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-4.00000*t;" 0.02500 40 25
-execute if score @p Timer matches 2789 run particleex tickparameter minecraft:end_rod ~2789 ~0 ~55 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 2792 run particleex tickparameter minecraft:end_rod ~2792 ~0 ~50 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 2795 run particleex tickparameter minecraft:end_rod ~2795 ~0 ~55 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-2.66667*t;" 0.05000 20 25
-execute if score @p Timer matches 2798 run particleex tickparameter minecraft:end_rod ~2798 ~0 ~47 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=2.66667*t;" 0.05000 20 25
-execute if score @p Timer matches 2801 run particleex tickparameter minecraft:end_rod ~2801 ~0 ~55 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 2804 run particleex tickparameter minecraft:end_rod ~2804 ~0 ~50 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 2807 run particleex tickparameter minecraft:end_rod ~2807 ~0 ~55 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-2.66667*t;" 0.05000 20 25
-execute if score @p Timer matches 2810 run particleex parameter minecraft:end_rod ~2810 ~0 ~47 0.8 0.8 0 1 0 0 0 0 15.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 2810 run particleex tickparameter minecraft:end_rod ~2810 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-2.33333*t;" 0.05000 20 25
-execute if score @p Timer matches 2813 run particleex tickparameter minecraft:end_rod ~2813 ~0 ~55 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 2816 run particleex tickparameter minecraft:end_rod ~2816 ~0 ~50 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 2819 run particleex tickparameter minecraft:end_rod ~2819 ~0 ~55 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-2.66667*t;" 0.05000 20 25
-execute if score @p Timer matches 2822 run particleex tickparameter minecraft:end_rod ~2822 ~0 ~47 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=2.66667*t;" 0.05000 20 25
-execute if score @p Timer matches 2825 run particleex tickparameter minecraft:end_rod ~2825 ~0 ~55 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 2828 run particleex parameter minecraft:end_rod ~2828 ~0 ~50 0.8 0.8 0 1 0 0 0 0 13.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 2828 run particleex tickparameter minecraft:end_rod ~2828 ~0 ~63 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-2.66667*t;" 0.05000 20 25
-execute if score @p Timer matches 2831 run particleex parameter minecraft:end_rod ~2831 ~0 ~55 0.8 0.8 0 1 0 0 0 0 10.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 2831 run particleex tickparameter minecraft:end_rod ~2831 ~0 ~65 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-5.66667*t;" 0.02000 50 25
-execute if score @p Timer matches 2834 run particleex parameter minecraft:end_rod ~2834 ~0 ~48 0.8 0.8 0 1 0 0 0 0 17.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 2834 run particleex tickparameter minecraft:end_rod ~2834 ~0 ~65 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 2840 run particleex tickparameter minecraft:end_rod ~2840 ~0 ~63 0.8 0.8 0 1 0 0 0 0 1 "x=1*t;y=0.00000*t;z=2.00000*t;" 0.05000 20 25
-execute if score @p Timer matches 2841 run particleex tickparameter minecraft:end_rod ~2841 ~0 ~65 0.8 0.8 0 1 0 0 0 0 2 "x=1*t;y=0.00000*t;z=-1.50000*t;" 0.10000 10 25
-execute if score @p Timer matches 2843 run particleex tickparameter minecraft:end_rod ~2843 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-4.66667*t;" 0.02500 40 25
-execute if score @p Timer matches 2846 run particleex parameter minecraft:end_rod ~2846 ~0 ~48 0.8 0.8 0 1 0 0 0 0 15.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 2846 run particleex tickparameter minecraft:end_rod ~2846 ~0 ~63 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 2849 run particleex tickparameter minecraft:end_rod ~2849 ~0 ~67 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-4.00000*t;" 0.02500 40 25
-execute if score @p Timer matches 2852 run particleex parameter minecraft:end_rod ~2852 ~0 ~55 0.8 0.8 0 1 0 0 0 0 17.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 2852 run particleex tickparameter minecraft:end_rod ~2852 ~0 ~72 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 2855 run particleex tickparameter minecraft:end_rod ~2855 ~0 ~74 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 2858 run particleex tickparameter minecraft:end_rod ~2858 ~0 ~75 0.8 0.8 0 1 0 0 0 0 48 "x=1*t;y=0.00000*t;z=-0.62500*t;" 0.10000 10 25
-execute if score @p Timer matches 2906 run particleex parameter minecraft:end_rod ~2906 ~0 ~45 0.8 0.8 0 1 0 0 0 0 20.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 2906 run particleex tickparameter minecraft:end_rod ~2906 ~0 ~65 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-4.00000*t;" 0.02500 40 25
-execute if score @p Timer matches 2909 run particleex tickparameter minecraft:end_rod ~2909 ~0 ~53 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 2912 run particleex tickparameter minecraft:end_rod ~2912 ~0 ~48 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 2915 run particleex tickparameter minecraft:end_rod ~2915 ~0 ~53 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-2.66667*t;" 0.05000 20 25
-execute if score @p Timer matches 2918 run particleex parameter minecraft:end_rod ~2918 ~0 ~45 0.8 0.8 0 1 0 0 0 0 15.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 2918 run particleex tickparameter minecraft:end_rod ~2918 ~0 ~60 0.8 0.8 0 1 0 0 0 0 2 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 2920 run particleex tickparameter minecraft:end_rod ~2920 ~0 ~62 0.8 0.8 0 1 0 0 0 0 2 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 2922 run particleex tickparameter minecraft:end_rod ~2922 ~0 ~60 0.8 0.8 0 1 0 0 0 0 2 "x=1*t;y=0.00000*t;z=-0.50000*t;" 0.10000 10 25
-execute if score @p Timer matches 2924 run particleex tickparameter minecraft:end_rod ~2924 ~0 ~59 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 2927 run particleex tickparameter minecraft:end_rod ~2927 ~0 ~60 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-5.00000*t;" 0.02000 50 25
-execute if score @p Timer matches 2930 run particleex parameter minecraft:end_rod ~2930 ~0 ~45 0.8 0.8 0 1 0 0 0 0 20.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 2930 run particleex tickparameter minecraft:end_rod ~2930 ~0 ~65 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-4.00000*t;" 0.02500 40 25
-execute if score @p Timer matches 2933 run particleex parameter minecraft:end_rod ~2933 ~0 ~53 0.8 0.8 0 1 0 0 0 0 10.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 2933 run particleex tickparameter minecraft:end_rod ~2933 ~0 ~63 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-5.00000*t;" 0.02000 50 25
-execute if score @p Timer matches 2936 run particleex parameter minecraft:end_rod ~2936 ~0 ~48 0.8 0.8 0 1 0 0 0 0 21.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 2936 run particleex tickparameter minecraft:end_rod ~2936 ~0 ~69 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-5.33333*t;" 0.02000 50 25
-execute if score @p Timer matches 2939 run particleex parameter minecraft:end_rod ~2939 ~0 ~53 0.8 0.8 0 1 0 0 0 0 19.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 2939 run particleex tickparameter minecraft:end_rod ~2939 ~0 ~72 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-9.00000*t;" 0.01111 90 25
-execute if score @p Timer matches 2942 run particleex parameter minecraft:end_rod ~2942 ~0 ~45 0.8 0.8 0 1 0 0 0 0 20.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 2942 run particleex tickparameter minecraft:end_rod ~2942 ~0 ~65 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-4.00000*t;" 0.02500 40 25
-execute if score @p Timer matches 2945 run particleex parameter minecraft:end_rod ~2945 ~0 ~53 0.8 0.8 0 1 0 0 0 0 10.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 2945 run particleex tickparameter minecraft:end_rod ~2945 ~0 ~63 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-5.00000*t;" 0.02000 50 25
-execute if score @p Timer matches 2948 run particleex parameter minecraft:end_rod ~2948 ~0 ~48 0.8 0.8 0 1 0 0 0 0 14.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 2948 run particleex tickparameter minecraft:end_rod ~2948 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-3.00000*t;" 0.03333 30 25
-execute if score @p Timer matches 2951 run particleex parameter minecraft:end_rod ~2951 ~0 ~53 0.8 0.8 0 1 0 0 0 0 7.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 2951 run particleex tickparameter minecraft:end_rod ~2951 ~0 ~60 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-4.66667*t;" 0.02500 40 25
-execute if score @p Timer matches 2954 run particleex parameter minecraft:end_rod ~2954 ~0 ~46 0.8 0.8 0 1 0 0 0 0 16.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 2954 run particleex tickparameter minecraft:end_rod ~2954 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 2957 run particleex tickparameter minecraft:end_rod ~2957 ~0 ~60 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 2960 run particleex tickparameter minecraft:end_rod ~2960 ~0 ~58 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 2963 run particleex tickparameter minecraft:end_rod ~2963 ~0 ~57 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-2.33333*t;" 0.05000 20 25
-execute if score @p Timer matches 2966 run particleex parameter minecraft:end_rod ~2966 ~0 ~50 0.8 0.8 0 1 0 0 0 0 8.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 2966 run particleex tickparameter minecraft:end_rod ~2966 ~0 ~58 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 2969 run particleex tickparameter minecraft:end_rod ~2969 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 2972 run particleex tickparameter minecraft:end_rod ~2972 ~0 ~65 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 2975 run particleex tickparameter minecraft:end_rod ~2975 ~0 ~70 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 2978 run particleex tickparameter minecraft:end_rod ~2978 ~0 ~74 0.8 0.8 0 1 0 0 0 0 48 "x=1*t;y=0.00000*t;z=-0.47917*t;" 0.10000 10 25
-execute if score @p Timer matches 3026 run particleex parameter minecraft:end_rod ~3026 ~0 ~51 0.8 0.8 0 1 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3026 run particleex tickparameter minecraft:end_rod ~3026 ~0 ~55 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=4.00000*t;" 0.02500 40 25
-execute if score @p Timer matches 3029 run particleex tickparameter minecraft:end_rod ~3029 ~0 ~67 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3032 run particleex tickparameter minecraft:end_rod ~3032 ~0 ~66 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3035 run particleex tickparameter minecraft:end_rod ~3035 ~0 ~67 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 3038 run particleex tickparameter minecraft:end_rod ~3038 ~0 ~69 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 3041 run particleex tickparameter minecraft:end_rod ~3041 ~0 ~67 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3044 run particleex tickparameter minecraft:end_rod ~3044 ~0 ~70 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3047 run particleex tickparameter minecraft:end_rod ~3047 ~0 ~69 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-6.00000*t;" 0.01667 60 25
-execute if score @p Timer matches 3050 run particleex parameter minecraft:end_rod ~3050 ~0 ~51 0.8 0.8 0 1 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3050 run particleex tickparameter minecraft:end_rod ~3050 ~0 ~55 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=4.00000*t;" 0.02500 40 25
-execute if score @p Timer matches 3053 run particleex tickparameter minecraft:end_rod ~3053 ~0 ~67 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3056 run particleex tickparameter minecraft:end_rod ~3056 ~0 ~66 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3059 run particleex tickparameter minecraft:end_rod ~3059 ~0 ~65 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3062 run particleex tickparameter minecraft:end_rod ~3062 ~0 ~64 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3065 run particleex tickparameter minecraft:end_rod ~3065 ~0 ~63 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3068 run particleex tickparameter minecraft:end_rod ~3068 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3071 run particleex tickparameter minecraft:end_rod ~3071 ~0 ~61 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-3.66667*t;" 0.03333 30 25
-execute if score @p Timer matches 3074 run particleex parameter minecraft:end_rod ~3074 ~0 ~50 0.8 0.8 0 1 0 0 0 0 12.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3074 run particleex tickparameter minecraft:end_rod ~3074 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3077 run particleex tickparameter minecraft:end_rod ~3077 ~0 ~58 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3080 run particleex tickparameter minecraft:end_rod ~3080 ~0 ~57 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3083 run particleex tickparameter minecraft:end_rod ~3083 ~0 ~58 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3086 run particleex tickparameter minecraft:end_rod ~3086 ~0 ~55 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 3089 run particleex tickparameter minecraft:end_rod ~3089 ~0 ~50 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3092 run particleex tickparameter minecraft:end_rod ~3092 ~0 ~49 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3095 run particleex tickparameter minecraft:end_rod ~3095 ~0 ~50 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3098 run particleex tickparameter minecraft:end_rod ~3098 ~0 ~49 0.8 0.8 0 1 0 0 0 0 2 "x=1*t;y=0.00000*t;z=0.50000*t;" 0.10000 10 25
-execute if score @p Timer matches 3100 run particleex tickparameter minecraft:end_rod ~3100 ~0 ~50 0.8 0.8 0 1 0 0 0 0 2 "x=1*t;y=0.00000*t;z=0.50000*t;" 0.10000 10 25
-execute if score @p Timer matches 3102 run particleex tickparameter minecraft:end_rod ~3102 ~0 ~51 0.8 0.8 0 1 0 0 0 0 2 "x=1*t;y=0.00000*t;z=0.50000*t;" 0.10000 10 25
-execute if score @p Timer matches 3104 run particleex tickparameter minecraft:end_rod ~3104 ~0 ~52 0.8 0.8 0 1 0 0 0 0 2 "x=1*t;y=0.00000*t;z=0.50000*t;" 0.10000 10 25
-execute if score @p Timer matches 3106 run particleex tickparameter minecraft:end_rod ~3106 ~0 ~53 0.8 0.8 0 1 0 0 0 0 2 "x=1*t;y=0.00000*t;z=0.50000*t;" 0.10000 10 25
-execute if score @p Timer matches 3108 run particleex tickparameter minecraft:end_rod ~3108 ~0 ~54 0.8 0.8 0 1 0 0 0 0 2 "x=1*t;y=0.00000*t;z=0.50000*t;" 0.10000 10 25
-execute if score @p Timer matches 3110 run particleex tickparameter minecraft:end_rod ~3110 ~0 ~55 0.8 0.8 0 1 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.50000*t;" 0.10000 10 25
-execute if score @p Timer matches 3114 run particleex tickparameter minecraft:end_rod ~3114 ~0 ~57 0.8 0.8 0 1 0 0 0 0 2 "x=1*t;y=0.00000*t;z=0.50000*t;" 0.10000 10 25
-execute if score @p Timer matches 3116 run particleex tickparameter minecraft:end_rod ~3116 ~0 ~58 0.8 0.8 0 1 0 0 0 0 2 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3118 run particleex tickparameter minecraft:end_rod ~3118 ~0 ~60 0.8 0.8 0 1 0 0 0 0 2 "x=1*t;y=0.00000*t;z=0.50000*t;" 0.10000 10 25
-execute if score @p Timer matches 3120 run particleex tickparameter minecraft:end_rod ~3120 ~0 ~61 0.8 0.8 0 1 0 0 0 0 2 "x=1*t;y=0.00000*t;z=-5.50000*t;" 0.02000 50 25
-execute if score @p Timer matches 3122 run particleex parameter minecraft:end_rod ~3122 ~0 ~50 0.8 0.8 0 1 0 0 0 0 12.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3122 run particleex tickparameter minecraft:end_rod ~3122 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3125 run particleex tickparameter minecraft:end_rod ~3125 ~0 ~58 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3128 run particleex tickparameter minecraft:end_rod ~3128 ~0 ~55 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=2.33333*t;" 0.05000 20 25
-execute if score @p Timer matches 3131 run particleex tickparameter minecraft:end_rod ~3131 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3134 run particleex tickparameter minecraft:end_rod ~3134 ~0 ~63 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3137 run particleex tickparameter minecraft:end_rod ~3137 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3140 run particleex tickparameter minecraft:end_rod ~3140 ~0 ~61 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 3143 run particleex tickparameter minecraft:end_rod ~3143 ~0 ~63 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-4.33333*t;" 0.02500 40 25
-execute if score @p Timer matches 3146 run particleex parameter minecraft:end_rod ~3146 ~0 ~50 0.8 0.8 0 1 0 0 0 0 12.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3146 run particleex tickparameter minecraft:end_rod ~3146 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-2.33333*t;" 0.05000 20 25
-execute if score @p Timer matches 3149 run particleex tickparameter minecraft:end_rod ~3149 ~0 ~55 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3152 run particleex tickparameter minecraft:end_rod ~3152 ~0 ~58 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3155 run particleex tickparameter minecraft:end_rod ~3155 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3158 run particleex tickparameter minecraft:end_rod ~3158 ~0 ~63 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3161 run particleex tickparameter minecraft:end_rod ~3161 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3164 run particleex tickparameter minecraft:end_rod ~3164 ~0 ~61 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 3167 run particleex tickparameter minecraft:end_rod ~3167 ~0 ~63 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-4.33333*t;" 0.02500 40 25
-execute if score @p Timer matches 3170 run particleex parameter minecraft:end_rod ~3170 ~0 ~50 0.8 0.8 0 1 0 0 0 0 12.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3170 run particleex tickparameter minecraft:end_rod ~3170 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3173 run particleex tickparameter minecraft:end_rod ~3173 ~0 ~58 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3176 run particleex tickparameter minecraft:end_rod ~3176 ~0 ~55 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=2.33333*t;" 0.05000 20 25
-execute if score @p Timer matches 3179 run particleex tickparameter minecraft:end_rod ~3179 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3182 run particleex tickparameter minecraft:end_rod ~3182 ~0 ~63 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3185 run particleex tickparameter minecraft:end_rod ~3185 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3188 run particleex tickparameter minecraft:end_rod ~3188 ~0 ~61 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 3191 run particleex tickparameter minecraft:end_rod ~3191 ~0 ~63 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-4.33333*t;" 0.02500 40 25
-execute if score @p Timer matches 3194 run particleex parameter minecraft:end_rod ~3194 ~0 ~50 0.8 0.8 0 1 0 0 0 0 12.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3194 run particleex tickparameter minecraft:end_rod ~3194 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-2.33333*t;" 0.05000 20 25
-execute if score @p Timer matches 3197 run particleex tickparameter minecraft:end_rod ~3197 ~0 ~55 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3200 run particleex tickparameter minecraft:end_rod ~3200 ~0 ~58 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3203 run particleex tickparameter minecraft:end_rod ~3203 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3206 run particleex tickparameter minecraft:end_rod ~3206 ~0 ~63 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3209 run particleex tickparameter minecraft:end_rod ~3209 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3212 run particleex tickparameter minecraft:end_rod ~3212 ~0 ~61 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 3215 run particleex tickparameter minecraft:end_rod ~3215 ~0 ~63 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-6.66667*t;" 0.01667 60 25
-execute if score @p Timer matches 3218 run particleex parameter minecraft:end_rod ~3218 ~0 ~43 0.8 0.8 0 1 0 0 0 0 19.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3218 run particleex tickparameter minecraft:end_rod ~3218 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3221 run particleex tickparameter minecraft:end_rod ~3221 ~0 ~63 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3224 run particleex tickparameter minecraft:end_rod ~3224 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3227 run particleex tickparameter minecraft:end_rod ~3227 ~0 ~61 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3230 run particleex tickparameter minecraft:end_rod ~3230 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3233 run particleex tickparameter minecraft:end_rod ~3233 ~0 ~58 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3236 run particleex tickparameter minecraft:end_rod ~3236 ~0 ~55 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=4.00000*t;" 0.02500 40 25
-execute if score @p Timer matches 3239 run particleex tickparameter minecraft:end_rod ~3239 ~0 ~67 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-8.00000*t;" 0.01250 80 25
-execute if score @p Timer matches 3242 run particleex parameter minecraft:end_rod ~3242 ~0 ~43 0.8 0.8 0 1 0 0 0 0 19.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3242 run particleex tickparameter minecraft:end_rod ~3242 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3245 run particleex tickparameter minecraft:end_rod ~3245 ~0 ~63 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3248 run particleex tickparameter minecraft:end_rod ~3248 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3251 run particleex tickparameter minecraft:end_rod ~3251 ~0 ~61 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3254 run particleex tickparameter minecraft:end_rod ~3254 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3257 run particleex tickparameter minecraft:end_rod ~3257 ~0 ~58 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3260 run particleex tickparameter minecraft:end_rod ~3260 ~0 ~55 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=4.00000*t;" 0.02500 40 25
-execute if score @p Timer matches 3263 run particleex tickparameter minecraft:end_rod ~3263 ~0 ~67 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-4.66667*t;" 0.02500 40 25
-execute if score @p Timer matches 3266 run particleex parameter minecraft:end_rod ~3266 ~0 ~53 0.8 0.8 0 1 0 0 0 0 9.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3266 run particleex tickparameter minecraft:end_rod ~3266 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3269 run particleex tickparameter minecraft:end_rod ~3269 ~0 ~63 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3272 run particleex tickparameter minecraft:end_rod ~3272 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3275 run particleex tickparameter minecraft:end_rod ~3275 ~0 ~61 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3278 run particleex tickparameter minecraft:end_rod ~3278 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3281 run particleex tickparameter minecraft:end_rod ~3281 ~0 ~58 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3284 run particleex tickparameter minecraft:end_rod ~3284 ~0 ~55 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=4.00000*t;" 0.02500 40 25
-execute if score @p Timer matches 3287 run particleex tickparameter minecraft:end_rod ~3287 ~0 ~67 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-4.66667*t;" 0.02500 40 25
-execute if score @p Timer matches 3290 run particleex parameter minecraft:end_rod ~3290 ~0 ~53 0.8 0.8 0 1 0 0 0 0 9.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3290 run particleex tickparameter minecraft:end_rod ~3290 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3293 run particleex tickparameter minecraft:end_rod ~3293 ~0 ~63 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3296 run particleex tickparameter minecraft:end_rod ~3296 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3299 run particleex tickparameter minecraft:end_rod ~3299 ~0 ~61 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3302 run particleex tickparameter minecraft:end_rod ~3302 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3305 run particleex tickparameter minecraft:end_rod ~3305 ~0 ~58 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3308 run particleex tickparameter minecraft:end_rod ~3308 ~0 ~55 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=4.00000*t;" 0.02500 40 25
-execute if score @p Timer matches 3311 run particleex tickparameter minecraft:end_rod ~3311 ~0 ~67 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-5.33333*t;" 0.02000 50 25
-execute if score @p Timer matches 3314 run particleex parameter minecraft:end_rod ~3314 ~0 ~51 0.8 0.8 0 1 0 0 0 0 11.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3314 run particleex tickparameter minecraft:end_rod ~3314 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3317 run particleex tickparameter minecraft:end_rod ~3317 ~0 ~63 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3320 run particleex tickparameter minecraft:end_rod ~3320 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3323 run particleex tickparameter minecraft:end_rod ~3323 ~0 ~61 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3326 run particleex tickparameter minecraft:end_rod ~3326 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3329 run particleex tickparameter minecraft:end_rod ~3329 ~0 ~58 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3332 run particleex tickparameter minecraft:end_rod ~3332 ~0 ~55 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=4.00000*t;" 0.02500 40 25
-execute if score @p Timer matches 3335 run particleex tickparameter minecraft:end_rod ~3335 ~0 ~67 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-5.33333*t;" 0.02000 50 25
-execute if score @p Timer matches 3338 run particleex parameter minecraft:end_rod ~3338 ~0 ~51 0.8 0.8 0 1 0 0 0 0 11.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3338 run particleex tickparameter minecraft:end_rod ~3338 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3341 run particleex tickparameter minecraft:end_rod ~3341 ~0 ~63 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3344 run particleex tickparameter minecraft:end_rod ~3344 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3347 run particleex tickparameter minecraft:end_rod ~3347 ~0 ~61 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3350 run particleex tickparameter minecraft:end_rod ~3350 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3353 run particleex tickparameter minecraft:end_rod ~3353 ~0 ~58 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3356 run particleex tickparameter minecraft:end_rod ~3356 ~0 ~55 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=4.00000*t;" 0.02500 40 25
-execute if score @p Timer matches 3359 run particleex tickparameter minecraft:end_rod ~3359 ~0 ~67 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-5.66667*t;" 0.02000 50 25
-execute if score @p Timer matches 3362 run particleex parameter minecraft:end_rod ~3362 ~0 ~50 0.8 0.8 0 1 0 0 0 0 12.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3362 run particleex tickparameter minecraft:end_rod ~3362 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3365 run particleex tickparameter minecraft:end_rod ~3365 ~0 ~63 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3368 run particleex tickparameter minecraft:end_rod ~3368 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3371 run particleex tickparameter minecraft:end_rod ~3371 ~0 ~61 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3374 run particleex tickparameter minecraft:end_rod ~3374 ~0 ~60 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3377 run particleex tickparameter minecraft:end_rod ~3377 ~0 ~57 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=3.33333*t;" 0.03333 30 25
-execute if score @p Timer matches 3380 run particleex tickparameter minecraft:end_rod ~3380 ~0 ~67 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3383 run particleex tickparameter minecraft:end_rod ~3383 ~0 ~63 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-4.33333*t;" 0.02500 40 25
-execute if score @p Timer matches 3386 run particleex parameter minecraft:end_rod ~3386 ~0 ~50 0.8 0.8 0 1 0 0 0 0 12.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3386 run particleex tickparameter minecraft:end_rod ~3386 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3389 run particleex tickparameter minecraft:end_rod ~3389 ~0 ~63 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3392 run particleex tickparameter minecraft:end_rod ~3392 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3395 run particleex tickparameter minecraft:end_rod ~3395 ~0 ~61 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3398 run particleex tickparameter minecraft:end_rod ~3398 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 3401 run particleex tickparameter minecraft:end_rod ~3401 ~0 ~60 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 3404 run particleex tickparameter minecraft:end_rod ~3404 ~0 ~58 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 3407 run particleex tickparameter minecraft:end_rod ~3407 ~0 ~60 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-5.66667*t;" 0.02000 50 25
-execute if score @p Timer matches 3410 run particleex parameter minecraft:end_rod ~3410 ~0 ~43 0.8 0.8 0 1 0 0 0 0 31.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3410 run particleex tickparameter minecraft:end_rod ~3410 ~0 ~74 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3413 run particleex tickparameter minecraft:end_rod ~3413 ~0 ~70 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3416 run particleex tickparameter minecraft:end_rod ~3416 ~0 ~67 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3419 run particleex tickparameter minecraft:end_rod ~3419 ~0 ~70 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3422 run particleex tickparameter minecraft:end_rod ~3422 ~0 ~74 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3425 run particleex tickparameter minecraft:end_rod ~3425 ~0 ~70 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3428 run particleex tickparameter minecraft:end_rod ~3428 ~0 ~67 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3431 run particleex tickparameter minecraft:end_rod ~3431 ~0 ~70 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-9.00000*t;" 0.01111 90 25
-execute if score @p Timer matches 3434 run particleex parameter minecraft:end_rod ~3434 ~0 ~43 0.8 0.8 0 1 0 0 0 0 31.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3434 run particleex tickparameter minecraft:end_rod ~3434 ~0 ~74 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3437 run particleex tickparameter minecraft:end_rod ~3437 ~0 ~70 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3440 run particleex tickparameter minecraft:end_rod ~3440 ~0 ~67 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3443 run particleex tickparameter minecraft:end_rod ~3443 ~0 ~70 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3446 run particleex tickparameter minecraft:end_rod ~3446 ~0 ~74 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3449 run particleex tickparameter minecraft:end_rod ~3449 ~0 ~70 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3452 run particleex tickparameter minecraft:end_rod ~3452 ~0 ~67 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3455 run particleex tickparameter minecraft:end_rod ~3455 ~0 ~70 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-5.66667*t;" 0.02000 50 25
-execute if score @p Timer matches 3458 run particleex parameter minecraft:end_rod ~3458 ~0 ~53 0.8 0.8 0 1 0 0 0 0 21.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3458 run particleex tickparameter minecraft:end_rod ~3458 ~0 ~74 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3461 run particleex tickparameter minecraft:end_rod ~3461 ~0 ~70 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3464 run particleex tickparameter minecraft:end_rod ~3464 ~0 ~69 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3467 run particleex tickparameter minecraft:end_rod ~3467 ~0 ~70 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-2.66667*t;" 0.05000 20 25
-execute if score @p Timer matches 3470 run particleex tickparameter minecraft:end_rod ~3470 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=2.66667*t;" 0.05000 20 25
-execute if score @p Timer matches 3473 run particleex tickparameter minecraft:end_rod ~3473 ~0 ~70 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3476 run particleex tickparameter minecraft:end_rod ~3476 ~0 ~69 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3479 run particleex tickparameter minecraft:end_rod ~3479 ~0 ~70 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-5.66667*t;" 0.02000 50 25
-execute if score @p Timer matches 3482 run particleex parameter minecraft:end_rod ~3482 ~0 ~53 0.8 0.8 0 1 0 0 0 0 21.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3482 run particleex tickparameter minecraft:end_rod ~3482 ~0 ~74 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3485 run particleex tickparameter minecraft:end_rod ~3485 ~0 ~70 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3488 run particleex tickparameter minecraft:end_rod ~3488 ~0 ~69 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3491 run particleex tickparameter minecraft:end_rod ~3491 ~0 ~70 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-2.66667*t;" 0.05000 20 25
-execute if score @p Timer matches 3494 run particleex tickparameter minecraft:end_rod ~3494 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=2.66667*t;" 0.05000 20 25
-execute if score @p Timer matches 3497 run particleex tickparameter minecraft:end_rod ~3497 ~0 ~70 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3500 run particleex tickparameter minecraft:end_rod ~3500 ~0 ~69 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3503 run particleex tickparameter minecraft:end_rod ~3503 ~0 ~70 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-6.33333*t;" 0.01667 60 25
-execute if score @p Timer matches 3506 run particleex parameter minecraft:end_rod ~3506 ~0 ~51 0.8 0.8 0 1 0 0 0 0 23.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3506 run particleex tickparameter minecraft:end_rod ~3506 ~0 ~74 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3509 run particleex tickparameter minecraft:end_rod ~3509 ~0 ~70 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3512 run particleex tickparameter minecraft:end_rod ~3512 ~0 ~67 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3515 run particleex tickparameter minecraft:end_rod ~3515 ~0 ~70 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3518 run particleex tickparameter minecraft:end_rod ~3518 ~0 ~74 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3521 run particleex tickparameter minecraft:end_rod ~3521 ~0 ~70 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3524 run particleex tickparameter minecraft:end_rod ~3524 ~0 ~67 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3527 run particleex tickparameter minecraft:end_rod ~3527 ~0 ~70 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-6.33333*t;" 0.01667 60 25
-execute if score @p Timer matches 3530 run particleex parameter minecraft:end_rod ~3530 ~0 ~51 0.8 0.8 0 1 0 0 0 0 23.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3530 run particleex tickparameter minecraft:end_rod ~3530 ~0 ~74 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3533 run particleex tickparameter minecraft:end_rod ~3533 ~0 ~70 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3536 run particleex tickparameter minecraft:end_rod ~3536 ~0 ~67 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3539 run particleex tickparameter minecraft:end_rod ~3539 ~0 ~70 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3542 run particleex tickparameter minecraft:end_rod ~3542 ~0 ~74 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3545 run particleex tickparameter minecraft:end_rod ~3545 ~0 ~70 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3548 run particleex tickparameter minecraft:end_rod ~3548 ~0 ~67 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3551 run particleex tickparameter minecraft:end_rod ~3551 ~0 ~70 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-6.66667*t;" 0.01667 60 25
-execute if score @p Timer matches 3554 run particleex parameter minecraft:end_rod ~3554 ~0 ~50 0.8 0.8 0 1 0 0 0 0 12.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3554 run particleex tickparameter minecraft:end_rod ~3554 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=3.33333*t;" 0.03333 30 25
-execute if score @p Timer matches 3557 run particleex tickparameter minecraft:end_rod ~3557 ~0 ~72 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3560 run particleex tickparameter minecraft:end_rod ~3560 ~0 ~69 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3563 run particleex tickparameter minecraft:end_rod ~3563 ~0 ~72 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 3566 run particleex tickparameter minecraft:end_rod ~3566 ~0 ~74 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 3569 run particleex tickparameter minecraft:end_rod ~3569 ~0 ~72 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3572 run particleex tickparameter minecraft:end_rod ~3572 ~0 ~69 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3575 run particleex tickparameter minecraft:end_rod ~3575 ~0 ~66 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-5.33333*t;" 0.02000 50 25
-execute if score @p Timer matches 3578 run particleex parameter minecraft:end_rod ~3578 ~0 ~50 0.8 0.8 0 1 0 0 0 0 12.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3578 run particleex tickparameter minecraft:end_rod ~3578 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=3.33333*t;" 0.03333 30 25
-execute if score @p Timer matches 3581 run particleex tickparameter minecraft:end_rod ~3581 ~0 ~72 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3584 run particleex tickparameter minecraft:end_rod ~3584 ~0 ~69 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3587 run particleex tickparameter minecraft:end_rod ~3587 ~0 ~72 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 3590 run particleex tickparameter minecraft:end_rod ~3590 ~0 ~74 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 3593 run particleex tickparameter minecraft:end_rod ~3593 ~0 ~72 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3596 run particleex tickparameter minecraft:end_rod ~3596 ~0 ~69 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 3599 run particleex tickparameter minecraft:end_rod ~3599 ~0 ~67 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-4.33333*t;" 0.02500 40 25
-execute if score @p Timer matches 3602 run particleex parameter minecraft:end_rod ~3602 ~0 ~54 0.8 0.8 0 1 0 0 0 0 3.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3602 run particleex parameter minecraft:end_rod ~3602 ~0 ~57 0.8 0.8 0 1 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3602 run particleex parameter minecraft:end_rod ~3602 ~0 ~62 0.8 0.8 0 1 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3602 run particleex tickparameter minecraft:end_rod ~3602 ~0 ~66 0.8 0.8 0 1 0 0 0 0 48 "x=1*t;y=0.00000*t;z=-0.47917*t;" 0.10000 10 25
-execute if score @p Timer matches 3650 run particleex tickparameter minecraft:end_rod ~3650 ~0 ~43 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=3.33333*t;" 0.03333 30 25
-execute if score @p Timer matches 3656 run particleex tickparameter minecraft:end_rod ~3656 ~0 ~63 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 3659 run particleex tickparameter minecraft:end_rod ~3659 ~0 ~58 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-5.00000*t;" 0.02000 50 25
-execute if score @p Timer matches 3662 run particleex parameter minecraft:end_rod ~3662 ~0 ~43 0.8 0.8 0 1 0 0 0 0 7.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3662 run particleex parameter minecraft:end_rod ~3662 ~0 ~50 0.8 0.8 0 1 0 0 0 0 13.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3662 run particleex tickparameter minecraft:end_rod ~3662 ~0 ~63 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 3665 run particleex tickparameter minecraft:end_rod ~3665 ~0 ~58 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 3668 run particleex tickparameter minecraft:end_rod ~3668 ~0 ~63 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 3671 run particleex tickparameter minecraft:end_rod ~3671 ~0 ~58 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-5.00000*t;" 0.02000 50 25
-execute if score @p Timer matches 3674 run particleex parameter minecraft:end_rod ~3674 ~0 ~43 0.8 0.8 0 1 0 0 0 0 20.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3674 run particleex tickparameter minecraft:end_rod ~3674 ~0 ~63 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3680 run particleex tickparameter minecraft:end_rod ~3680 ~0 ~63 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 3683 run particleex tickparameter minecraft:end_rod ~3683 ~0 ~58 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-5.00000*t;" 0.02000 50 25
-execute if score @p Timer matches 3686 run particleex parameter minecraft:end_rod ~3686 ~0 ~43 0.8 0.8 0 1 0 0 0 0 7.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3686 run particleex parameter minecraft:end_rod ~3686 ~0 ~50 0.8 0.8 0 1 0 0 0 0 13.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3686 run particleex tickparameter minecraft:end_rod ~3686 ~0 ~63 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 3689 run particleex tickparameter minecraft:end_rod ~3689 ~0 ~58 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 3692 run particleex tickparameter minecraft:end_rod ~3692 ~0 ~63 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 3695 run particleex tickparameter minecraft:end_rod ~3695 ~0 ~58 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-2.66667*t;" 0.05000 20 25
-execute if score @p Timer matches 3698 run particleex parameter minecraft:end_rod ~3698 ~0 ~50 0.8 0.8 0 1 0 0 0 0 13.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3698 run particleex tickparameter minecraft:end_rod ~3698 ~0 ~63 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-0.16667*t;" 0.10000 10 25
-execute if score @p Timer matches 3704 run particleex tickparameter minecraft:end_rod ~3704 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3707 run particleex tickparameter minecraft:end_rod ~3707 ~0 ~58 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-3.33333*t;" 0.03333 30 25
-execute if score @p Timer matches 3710 run particleex parameter minecraft:end_rod ~3710 ~0 ~48 0.8 0.8 0 1 0 0 0 0 14.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3710 run particleex tickparameter minecraft:end_rod ~3710 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3713 run particleex tickparameter minecraft:end_rod ~3713 ~0 ~58 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3716 run particleex tickparameter minecraft:end_rod ~3716 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3719 run particleex tickparameter minecraft:end_rod ~3719 ~0 ~58 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-2.66667*t;" 0.05000 20 25
-execute if score @p Timer matches 3722 run particleex parameter minecraft:end_rod ~3722 ~0 ~50 0.8 0.8 0 1 0 0 0 0 12.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3722 run particleex tickparameter minecraft:end_rod ~3722 ~0 ~62 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3728 run particleex tickparameter minecraft:end_rod ~3728 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3731 run particleex tickparameter minecraft:end_rod ~3731 ~0 ~58 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-3.33333*t;" 0.03333 30 25
-execute if score @p Timer matches 3734 run particleex parameter minecraft:end_rod ~3734 ~0 ~48 0.8 0.8 0 1 0 0 0 0 14.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3734 run particleex tickparameter minecraft:end_rod ~3734 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3737 run particleex tickparameter minecraft:end_rod ~3737 ~0 ~58 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3740 run particleex tickparameter minecraft:end_rod ~3740 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3743 run particleex tickparameter minecraft:end_rod ~3743 ~0 ~58 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-2.33333*t;" 0.05000 20 25
-execute if score @p Timer matches 3746 run particleex parameter minecraft:end_rod ~3746 ~0 ~51 0.8 0.8 0 1 0 0 0 0 11.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3746 run particleex tickparameter minecraft:end_rod ~3746 ~0 ~62 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3752 run particleex tickparameter minecraft:end_rod ~3752 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3755 run particleex tickparameter minecraft:end_rod ~3755 ~0 ~58 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-3.33333*t;" 0.03333 30 25
-execute if score @p Timer matches 3758 run particleex parameter minecraft:end_rod ~3758 ~0 ~48 0.8 0.8 0 1 0 0 0 0 7.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3758 run particleex parameter minecraft:end_rod ~3758 ~0 ~55 0.8 0.8 0 1 0 0 0 0 7.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3758 run particleex tickparameter minecraft:end_rod ~3758 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3761 run particleex tickparameter minecraft:end_rod ~3761 ~0 ~58 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3764 run particleex tickparameter minecraft:end_rod ~3764 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3767 run particleex tickparameter minecraft:end_rod ~3767 ~0 ~58 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-2.33333*t;" 0.05000 20 25
-execute if score @p Timer matches 3770 run particleex parameter minecraft:end_rod ~3770 ~0 ~51 0.8 0.8 0 1 0 0 0 0 11.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3770 run particleex tickparameter minecraft:end_rod ~3770 ~0 ~62 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3776 run particleex tickparameter minecraft:end_rod ~3776 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3779 run particleex tickparameter minecraft:end_rod ~3779 ~0 ~58 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-3.33333*t;" 0.03333 30 25
-execute if score @p Timer matches 3782 run particleex parameter minecraft:end_rod ~3782 ~0 ~48 0.8 0.8 0 1 0 0 0 0 7.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3782 run particleex parameter minecraft:end_rod ~3782 ~0 ~55 0.8 0.8 0 1 0 0 0 0 7.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3782 run particleex tickparameter minecraft:end_rod ~3782 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3785 run particleex tickparameter minecraft:end_rod ~3785 ~0 ~58 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3788 run particleex tickparameter minecraft:end_rod ~3788 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3791 run particleex tickparameter minecraft:end_rod ~3791 ~0 ~58 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-2.66667*t;" 0.05000 20 25
-execute if score @p Timer matches 3794 run particleex parameter minecraft:end_rod ~3794 ~0 ~50 0.8 0.8 0 1 0 0 0 0 12.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3794 run particleex tickparameter minecraft:end_rod ~3794 ~0 ~62 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3800 run particleex tickparameter minecraft:end_rod ~3800 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 3803 run particleex tickparameter minecraft:end_rod ~3803 ~0 ~60 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-4.00000*t;" 0.02500 40 25
-execute if score @p Timer matches 3806 run particleex parameter minecraft:end_rod ~3806 ~0 ~48 0.8 0.8 0 1 0 0 0 0 6.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3806 run particleex parameter minecraft:end_rod ~3806 ~0 ~54 0.8 0.8 0 1 0 0 0 0 8.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3806 run particleex tickparameter minecraft:end_rod ~3806 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 3809 run particleex tickparameter minecraft:end_rod ~3809 ~0 ~60 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 3812 run particleex tickparameter minecraft:end_rod ~3812 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 3815 run particleex tickparameter minecraft:end_rod ~3815 ~0 ~60 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-3.33333*t;" 0.03333 30 25
-execute if score @p Timer matches 3818 run particleex parameter minecraft:end_rod ~3818 ~0 ~50 0.8 0.8 0 1 0 0 0 0 12.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3818 run particleex tickparameter minecraft:end_rod ~3818 ~0 ~62 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3824 run particleex tickparameter minecraft:end_rod ~3824 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 3827 run particleex tickparameter minecraft:end_rod ~3827 ~0 ~60 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-4.00000*t;" 0.02500 40 25
-execute if score @p Timer matches 3830 run particleex parameter minecraft:end_rod ~3830 ~0 ~48 0.8 0.8 0 1 0 0 0 0 6.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3830 run particleex parameter minecraft:end_rod ~3830 ~0 ~54 0.8 0.8 0 1 0 0 0 0 8.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3830 run particleex tickparameter minecraft:end_rod ~3830 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 3833 run particleex tickparameter minecraft:end_rod ~3833 ~0 ~60 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 3836 run particleex tickparameter minecraft:end_rod ~3836 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 3839 run particleex tickparameter minecraft:end_rod ~3839 ~0 ~60 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-5.66667*t;" 0.02000 50 25
-execute if score @p Timer matches 3842 run particleex parameter minecraft:end_rod ~3842 ~0 ~43 0.8 0.8 0 1 0 0 0 0 19.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3842 run particleex tickparameter minecraft:end_rod ~3842 ~0 ~62 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=0.16667*t;" 0.10000 10 25
-execute if score @p Timer matches 3848 run particleex tickparameter minecraft:end_rod ~3848 ~0 ~63 0.8 0.8 0 1 0 0 0 0 2 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3850 run particleex tickparameter minecraft:end_rod ~3850 ~0 ~63 0.8 0.8 0 1 0 0 0 0 2 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3852 run particleex tickparameter minecraft:end_rod ~3852 ~0 ~63 0.8 0.8 0 1 0 0 0 0 2 "x=1*t;y=0.00000*t;z=-10.00000*t;" 0.01000 100 25
-execute if score @p Timer matches 3854 run particleex parameter minecraft:end_rod ~3854 ~0 ~43 0.8 0.8 0 1 0 0 0 0 19.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3854 run particleex tickparameter minecraft:end_rod ~3854 ~0 ~62 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=0.16667*t;" 0.10000 10 25
-execute if score @p Timer matches 3860 run particleex tickparameter minecraft:end_rod ~3860 ~0 ~63 0.8 0.8 0 1 0 0 0 0 2 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3862 run particleex tickparameter minecraft:end_rod ~3862 ~0 ~63 0.8 0.8 0 1 0 0 0 0 2 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3864 run particleex tickparameter minecraft:end_rod ~3864 ~0 ~63 0.8 0.8 0 1 0 0 0 0 2 "x=1*t;y=0.00000*t;z=-10.00000*t;" 0.01000 100 25
-execute if score @p Timer matches 3866 run particleex parameter minecraft:end_rod ~3866 ~0 ~43 0.8 0.8 0 1 0 0 0 0 19.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3866 run particleex tickparameter minecraft:end_rod ~3866 ~0 ~62 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=0.16667*t;" 0.10000 10 25
-execute if score @p Timer matches 3872 run particleex tickparameter minecraft:end_rod ~3872 ~0 ~63 0.8 0.8 0 1 0 0 0 0 2 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3874 run particleex tickparameter minecraft:end_rod ~3874 ~0 ~63 0.8 0.8 0 1 0 0 0 0 2 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3876 run particleex tickparameter minecraft:end_rod ~3876 ~0 ~63 0.8 0.8 0 1 0 0 0 0 2 "x=1*t;y=0.00000*t;z=-10.00000*t;" 0.01000 100 25
-execute if score @p Timer matches 3878 run particleex parameter minecraft:end_rod ~3878 ~0 ~43 0.8 0.8 0 1 0 0 0 0 20.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3878 run particleex tickparameter minecraft:end_rod ~3878 ~0 ~63 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3881 run particleex tickparameter minecraft:end_rod ~3881 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3884 run particleex tickparameter minecraft:end_rod ~3884 ~0 ~63 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3887 run particleex tickparameter minecraft:end_rod ~3887 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-4.00000*t;" 0.02500 40 25
-execute if score @p Timer matches 3890 run particleex parameter minecraft:end_rod ~3890 ~0 ~50 0.8 0.8 0 1 0 0 0 0 13.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3890 run particleex tickparameter minecraft:end_rod ~3890 ~0 ~63 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-0.16667*t;" 0.10000 10 25
-execute if score @p Timer matches 3896 run particleex tickparameter minecraft:end_rod ~3896 ~0 ~62 0.8 0.8 0 1 0 0 0 0 2 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3898 run particleex tickparameter minecraft:end_rod ~3898 ~0 ~62 0.8 0.8 0 1 0 0 0 0 2 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3900 run particleex tickparameter minecraft:end_rod ~3900 ~0 ~62 0.8 0.8 0 1 0 0 0 0 2 "x=1*t;y=0.00000*t;z=-7.00000*t;" 0.01429 70 25
-execute if score @p Timer matches 3902 run particleex parameter minecraft:end_rod ~3902 ~0 ~48 0.8 0.8 0 1 0 0 0 0 12.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3902 run particleex tickparameter minecraft:end_rod ~3902 ~0 ~60 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3908 run particleex tickparameter minecraft:end_rod ~3908 ~0 ~62 0.8 0.8 0 1 0 0 0 0 2 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3910 run particleex tickparameter minecraft:end_rod ~3910 ~0 ~62 0.8 0.8 0 1 0 0 0 0 2 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3912 run particleex tickparameter minecraft:end_rod ~3912 ~0 ~62 0.8 0.8 0 1 0 0 0 0 2 "x=1*t;y=0.00000*t;z=-6.00000*t;" 0.01667 60 25
-execute if score @p Timer matches 3914 run particleex parameter minecraft:end_rod ~3914 ~0 ~50 0.8 0.8 0 1 0 0 0 0 10.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3914 run particleex tickparameter minecraft:end_rod ~3914 ~0 ~60 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3920 run particleex tickparameter minecraft:end_rod ~3920 ~0 ~62 0.8 0.8 0 1 0 0 0 0 2 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3922 run particleex tickparameter minecraft:end_rod ~3922 ~0 ~62 0.8 0.8 0 1 0 0 0 0 2 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3924 run particleex tickparameter minecraft:end_rod ~3924 ~0 ~62 0.8 0.8 0 1 0 0 0 0 2 "x=1*t;y=0.00000*t;z=-7.00000*t;" 0.01429 70 25
-execute if score @p Timer matches 3926 run particleex parameter minecraft:end_rod ~3926 ~0 ~48 0.8 0.8 0 1 0 0 0 0 14.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3926 run particleex tickparameter minecraft:end_rod ~3926 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 3929 run particleex tickparameter minecraft:end_rod ~3929 ~0 ~60 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 3932 run particleex tickparameter minecraft:end_rod ~3932 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 3935 run particleex tickparameter minecraft:end_rod ~3935 ~0 ~60 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-3.00000*t;" 0.03333 30 25
-execute if score @p Timer matches 3938 run particleex parameter minecraft:end_rod ~3938 ~0 ~51 0.8 0.8 0 1 0 0 0 0 11.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3938 run particleex tickparameter minecraft:end_rod ~3938 ~0 ~62 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=0.16667*t;" 0.10000 10 25
-execute if score @p Timer matches 3944 run particleex tickparameter minecraft:end_rod ~3944 ~0 ~63 0.8 0.8 0 1 0 0 0 0 2 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3946 run particleex tickparameter minecraft:end_rod ~3946 ~0 ~63 0.8 0.8 0 1 0 0 0 0 2 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3948 run particleex tickparameter minecraft:end_rod ~3948 ~0 ~63 0.8 0.8 0 1 0 0 0 0 2 "x=1*t;y=0.00000*t;z=-7.50000*t;" 0.01429 70 25
-execute if score @p Timer matches 3950 run particleex parameter minecraft:end_rod ~3950 ~0 ~48 0.8 0.8 0 1 0 0 0 0 14.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3950 run particleex tickparameter minecraft:end_rod ~3950 ~0 ~62 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=0.16667*t;" 0.10000 10 25
-execute if score @p Timer matches 3956 run particleex tickparameter minecraft:end_rod ~3956 ~0 ~63 0.8 0.8 0 1 0 0 0 0 2 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3958 run particleex tickparameter minecraft:end_rod ~3958 ~0 ~63 0.8 0.8 0 1 0 0 0 0 2 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3960 run particleex tickparameter minecraft:end_rod ~3960 ~0 ~63 0.8 0.8 0 1 0 0 0 0 2 "x=1*t;y=0.00000*t;z=-6.00000*t;" 0.01667 60 25
-execute if score @p Timer matches 3962 run particleex parameter minecraft:end_rod ~3962 ~0 ~51 0.8 0.8 0 1 0 0 0 0 11.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3962 run particleex tickparameter minecraft:end_rod ~3962 ~0 ~62 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=0.16667*t;" 0.10000 10 25
-execute if score @p Timer matches 3968 run particleex tickparameter minecraft:end_rod ~3968 ~0 ~63 0.8 0.8 0 1 0 0 0 0 2 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3970 run particleex tickparameter minecraft:end_rod ~3970 ~0 ~63 0.8 0.8 0 1 0 0 0 0 2 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3972 run particleex tickparameter minecraft:end_rod ~3972 ~0 ~63 0.8 0.8 0 1 0 0 0 0 2 "x=1*t;y=0.00000*t;z=-7.50000*t;" 0.01429 70 25
-execute if score @p Timer matches 3974 run particleex parameter minecraft:end_rod ~3974 ~0 ~48 0.8 0.8 0 1 0 0 0 0 15.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3974 run particleex tickparameter minecraft:end_rod ~3974 ~0 ~63 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3977 run particleex tickparameter minecraft:end_rod ~3977 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3980 run particleex tickparameter minecraft:end_rod ~3980 ~0 ~63 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 3983 run particleex tickparameter minecraft:end_rod ~3983 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-4.00000*t;" 0.02500 40 25
-execute if score @p Timer matches 3986 run particleex parameter minecraft:end_rod ~3986 ~0 ~50 0.8 0.8 0 1 0 0 0 0 12.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3986 run particleex tickparameter minecraft:end_rod ~3986 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3989 run particleex tickparameter minecraft:end_rod ~3989 ~0 ~62 0.8 0.8 0 1 0 0 0 0 1 "x=1*t;y=0.00000*t;z=-2.00000*t;" 0.05000 20 25
-execute if score @p Timer matches 3990 run particleex tickparameter minecraft:end_rod ~3990 ~0 ~60 0.8 0.8 0 1 0 0 0 0 2 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3992 run particleex tickparameter minecraft:end_rod ~3992 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3995 run particleex tickparameter minecraft:end_rod ~3995 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-4.66667*t;" 0.02500 40 25
-execute if score @p Timer matches 3998 run particleex parameter minecraft:end_rod ~3998 ~0 ~48 0.8 0.8 0 1 0 0 0 0 14.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 3998 run particleex tickparameter minecraft:end_rod ~3998 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4001 run particleex tickparameter minecraft:end_rod ~4001 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4004 run particleex tickparameter minecraft:end_rod ~4004 ~0 ~62 0.8 0.8 0 1 0 0 0 0 1 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4005 run particleex tickparameter minecraft:end_rod ~4005 ~0 ~63 0.8 0.8 0 1 0 0 0 0 2 "x=1*t;y=0.00000*t;z=-0.50000*t;" 0.10000 10 25
-execute if score @p Timer matches 4007 run particleex tickparameter minecraft:end_rod ~4007 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-4.00000*t;" 0.02500 40 25
-execute if score @p Timer matches 4010 run particleex parameter minecraft:end_rod ~4010 ~0 ~50 0.8 0.8 0 1 0 0 0 0 12.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4010 run particleex tickparameter minecraft:end_rod ~4010 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 4013 run particleex tickparameter minecraft:end_rod ~4013 ~0 ~60 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 4016 run particleex tickparameter minecraft:end_rod ~4016 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 4019 run particleex tickparameter minecraft:end_rod ~4019 ~0 ~60 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-4.00000*t;" 0.02500 40 25
-execute if score @p Timer matches 4022 run particleex parameter minecraft:end_rod ~4022 ~0 ~48 0.8 0.8 0 1 0 0 0 0 14.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4022 run particleex tickparameter minecraft:end_rod ~4022 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4025 run particleex tickparameter minecraft:end_rod ~4025 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4028 run particleex tickparameter minecraft:end_rod ~4028 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 4031 run particleex tickparameter minecraft:end_rod ~4031 ~0 ~60 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-5.66667*t;" 0.02000 50 25
-execute if score @p Timer matches 4034 run particleex tickparameter minecraft:end_rod ~4034 ~0 ~43 0.8 0.8 0 1 0 0 0 0 12 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4046 run particleex parameter minecraft:end_rod ~4046 ~0 ~43 0.8 0.8 0 1 0 0 0 0 19.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4046 run particleex tickparameter minecraft:end_rod ~4046 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4049 run particleex tickparameter minecraft:end_rod ~4049 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4052 run particleex tickparameter minecraft:end_rod ~4052 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4055 run particleex tickparameter minecraft:end_rod ~4055 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-6.33333*t;" 0.01667 60 25
-execute if score @p Timer matches 4058 run particleex parameter minecraft:end_rod ~4058 ~0 ~43 0.8 0.8 0 1 0 0 0 0 19.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4058 run particleex tickparameter minecraft:end_rod ~4058 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4061 run particleex tickparameter minecraft:end_rod ~4061 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4064 run particleex tickparameter minecraft:end_rod ~4064 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4067 run particleex tickparameter minecraft:end_rod ~4067 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-6.33333*t;" 0.01667 60 25
-execute if score @p Timer matches 4070 run particleex parameter minecraft:end_rod ~4070 ~0 ~43 0.8 0.8 0 1 0 0 0 0 22.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4070 run particleex tickparameter minecraft:end_rod ~4070 ~0 ~65 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-0.50000*t;" 0.10000 10 25
-execute if score @p Timer matches 4076 run particleex tickparameter minecraft:end_rod ~4076 ~0 ~62 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-2.00000*t;" 0.05000 20 25
-execute if score @p Timer matches 4082 run particleex parameter minecraft:end_rod ~4082 ~0 ~50 0.8 0.8 0 1 0 0 0 0 10.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4082 run particleex tickparameter minecraft:end_rod ~4082 ~0 ~60 0.8 0.8 0 1 0 0 0 0 12 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4094 run particleex parameter minecraft:end_rod ~4094 ~0 ~48 0.8 0.8 0 1 0 0 0 0 12.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4094 run particleex tickparameter minecraft:end_rod ~4094 ~0 ~60 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4097 run particleex tickparameter minecraft:end_rod ~4097 ~0 ~60 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4100 run particleex tickparameter minecraft:end_rod ~4100 ~0 ~60 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4103 run particleex tickparameter minecraft:end_rod ~4103 ~0 ~60 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-3.33333*t;" 0.03333 30 25
-execute if score @p Timer matches 4106 run particleex parameter minecraft:end_rod ~4106 ~0 ~50 0.8 0.8 0 1 0 0 0 0 10.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4106 run particleex tickparameter minecraft:end_rod ~4106 ~0 ~60 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4109 run particleex tickparameter minecraft:end_rod ~4109 ~0 ~60 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4112 run particleex tickparameter minecraft:end_rod ~4112 ~0 ~60 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 4115 run particleex tickparameter minecraft:end_rod ~4115 ~0 ~58 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-3.33333*t;" 0.03333 30 25
-execute if score @p Timer matches 4118 run particleex parameter minecraft:end_rod ~4118 ~0 ~48 0.8 0.8 0 1 0 0 0 0 12.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4118 run particleex tickparameter minecraft:end_rod ~4118 ~0 ~60 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 4124 run particleex tickparameter minecraft:end_rod ~4124 ~0 ~62 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-1.83333*t;" 0.05000 20 25
-execute if score @p Timer matches 4130 run particleex tickparameter minecraft:end_rod ~4130 ~0 ~51 0.8 0.8 0 1 0 0 0 0 12 "x=1*t;y=0.00000*t;z=-0.25000*t;" 0.10000 10 25
-execute if score @p Timer matches 4142 run particleex parameter minecraft:end_rod ~4142 ~0 ~48 0.8 0.8 0 1 0 0 0 0 14.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4142 run particleex tickparameter minecraft:end_rod ~4142 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4145 run particleex tickparameter minecraft:end_rod ~4145 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4148 run particleex tickparameter minecraft:end_rod ~4148 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4151 run particleex tickparameter minecraft:end_rod ~4151 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-3.66667*t;" 0.03333 30 25
-execute if score @p Timer matches 4154 run particleex parameter minecraft:end_rod ~4154 ~0 ~51 0.8 0.8 0 1 0 0 0 0 11.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4154 run particleex tickparameter minecraft:end_rod ~4154 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4157 run particleex tickparameter minecraft:end_rod ~4157 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4160 run particleex tickparameter minecraft:end_rod ~4160 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4163 run particleex tickparameter minecraft:end_rod ~4163 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-4.66667*t;" 0.02500 40 25
-execute if score @p Timer matches 4166 run particleex parameter minecraft:end_rod ~4166 ~0 ~48 0.8 0.8 0 1 0 0 0 0 17.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4166 run particleex tickparameter minecraft:end_rod ~4166 ~0 ~65 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-0.50000*t;" 0.10000 10 25
-execute if score @p Timer matches 4172 run particleex tickparameter minecraft:end_rod ~4172 ~0 ~62 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-2.00000*t;" 0.05000 20 25
-execute if score @p Timer matches 4178 run particleex parameter minecraft:end_rod ~4178 ~0 ~50 0.8 0.8 0 1 0 0 0 0 10.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4178 run particleex tickparameter minecraft:end_rod ~4178 ~0 ~60 0.8 0.8 0 1 0 0 0 0 12 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4190 run particleex parameter minecraft:end_rod ~4190 ~0 ~48 0.8 0.8 0 1 0 0 0 0 12.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4190 run particleex tickparameter minecraft:end_rod ~4190 ~0 ~60 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4193 run particleex tickparameter minecraft:end_rod ~4193 ~0 ~60 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4196 run particleex tickparameter minecraft:end_rod ~4196 ~0 ~60 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4199 run particleex tickparameter minecraft:end_rod ~4199 ~0 ~60 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-3.33333*t;" 0.03333 30 25
-execute if score @p Timer matches 4202 run particleex parameter minecraft:end_rod ~4202 ~0 ~50 0.8 0.8 0 1 0 0 0 0 10.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4202 run particleex tickparameter minecraft:end_rod ~4202 ~0 ~60 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4205 run particleex tickparameter minecraft:end_rod ~4205 ~0 ~60 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4208 run particleex tickparameter minecraft:end_rod ~4208 ~0 ~60 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 4211 run particleex tickparameter minecraft:end_rod ~4211 ~0 ~58 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-3.33333*t;" 0.03333 30 25
-execute if score @p Timer matches 4214 run particleex parameter minecraft:end_rod ~4214 ~0 ~48 0.8 0.8 0 1 0 0 0 0 14.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4214 run particleex tickparameter minecraft:end_rod ~4214 ~0 ~62 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-1.16667*t;" 0.10000 10 25
-execute if score @p Timer matches 4220 run particleex tickparameter minecraft:end_rod ~4220 ~0 ~55 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-2.00000*t;" 0.05000 20 25
-execute if score @p Timer matches 4226 run particleex tickparameter minecraft:end_rod ~4226 ~0 ~43 0.8 0.8 0 1 0 0 0 0 12 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4238 run particleex parameter minecraft:end_rod ~4238 ~0 ~43 0.8 0.8 0 1 0 0 0 0 19.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4238 run particleex tickparameter minecraft:end_rod ~4238 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4241 run particleex tickparameter minecraft:end_rod ~4241 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4244 run particleex tickparameter minecraft:end_rod ~4244 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4247 run particleex tickparameter minecraft:end_rod ~4247 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-6.33333*t;" 0.01667 60 25
-execute if score @p Timer matches 4250 run particleex parameter minecraft:end_rod ~4250 ~0 ~43 0.8 0.8 0 1 0 0 0 0 19.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4250 run particleex tickparameter minecraft:end_rod ~4250 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4253 run particleex tickparameter minecraft:end_rod ~4253 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4256 run particleex tickparameter minecraft:end_rod ~4256 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4259 run particleex tickparameter minecraft:end_rod ~4259 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-6.33333*t;" 0.01667 60 25
-execute if score @p Timer matches 4262 run particleex parameter minecraft:end_rod ~4262 ~0 ~43 0.8 0.8 0 1 0 0 0 0 22.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4262 run particleex tickparameter minecraft:end_rod ~4262 ~0 ~65 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-0.50000*t;" 0.10000 10 25
-execute if score @p Timer matches 4268 run particleex tickparameter minecraft:end_rod ~4268 ~0 ~62 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-2.00000*t;" 0.05000 20 25
-execute if score @p Timer matches 4274 run particleex parameter minecraft:end_rod ~4274 ~0 ~50 0.8 0.8 0 1 0 0 0 0 10.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4274 run particleex tickparameter minecraft:end_rod ~4274 ~0 ~60 0.8 0.8 0 1 0 0 0 0 12 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4286 run particleex parameter minecraft:end_rod ~4286 ~0 ~48 0.8 0.8 0 1 0 0 0 0 12.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4286 run particleex tickparameter minecraft:end_rod ~4286 ~0 ~60 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4289 run particleex tickparameter minecraft:end_rod ~4289 ~0 ~60 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4292 run particleex tickparameter minecraft:end_rod ~4292 ~0 ~60 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4295 run particleex tickparameter minecraft:end_rod ~4295 ~0 ~60 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-3.33333*t;" 0.03333 30 25
-execute if score @p Timer matches 4298 run particleex parameter minecraft:end_rod ~4298 ~0 ~50 0.8 0.8 0 1 0 0 0 0 10.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4298 run particleex tickparameter minecraft:end_rod ~4298 ~0 ~60 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4301 run particleex tickparameter minecraft:end_rod ~4301 ~0 ~60 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4304 run particleex tickparameter minecraft:end_rod ~4304 ~0 ~60 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 4307 run particleex tickparameter minecraft:end_rod ~4307 ~0 ~58 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-3.33333*t;" 0.03333 30 25
-execute if score @p Timer matches 4310 run particleex parameter minecraft:end_rod ~4310 ~0 ~48 0.8 0.8 0 1 0 0 0 0 12.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4310 run particleex tickparameter minecraft:end_rod ~4310 ~0 ~60 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 4316 run particleex tickparameter minecraft:end_rod ~4316 ~0 ~62 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-1.83333*t;" 0.05000 20 25
-execute if score @p Timer matches 4322 run particleex tickparameter minecraft:end_rod ~4322 ~0 ~51 0.8 0.8 0 1 0 0 0 0 12 "x=1*t;y=0.00000*t;z=-0.25000*t;" 0.10000 10 25
-execute if score @p Timer matches 4334 run particleex parameter minecraft:end_rod ~4334 ~0 ~48 0.8 0.8 0 1 0 0 0 0 14.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4334 run particleex tickparameter minecraft:end_rod ~4334 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4337 run particleex tickparameter minecraft:end_rod ~4337 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4340 run particleex tickparameter minecraft:end_rod ~4340 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4343 run particleex tickparameter minecraft:end_rod ~4343 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-3.66667*t;" 0.03333 30 25
-execute if score @p Timer matches 4346 run particleex parameter minecraft:end_rod ~4346 ~0 ~51 0.8 0.8 0 1 0 0 0 0 11.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4346 run particleex tickparameter minecraft:end_rod ~4346 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4349 run particleex tickparameter minecraft:end_rod ~4349 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4352 run particleex tickparameter minecraft:end_rod ~4352 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4355 run particleex tickparameter minecraft:end_rod ~4355 ~0 ~62 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-4.66667*t;" 0.02500 40 25
-execute if score @p Timer matches 4358 run particleex parameter minecraft:end_rod ~4358 ~0 ~48 0.8 0.8 0 1 0 0 0 0 17.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4358 run particleex tickparameter minecraft:end_rod ~4358 ~0 ~65 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-0.50000*t;" 0.10000 10 25
-execute if score @p Timer matches 4364 run particleex tickparameter minecraft:end_rod ~4364 ~0 ~62 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-2.00000*t;" 0.05000 20 25
-execute if score @p Timer matches 4370 run particleex parameter minecraft:end_rod ~4370 ~0 ~50 0.8 0.8 0 1 0 0 0 0 10.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4370 run particleex tickparameter minecraft:end_rod ~4370 ~0 ~60 0.8 0.8 0 1 0 0 0 0 12 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4382 run particleex parameter minecraft:end_rod ~4382 ~0 ~48 0.8 0.8 0 1 0 0 0 0 12.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4382 run particleex tickparameter minecraft:end_rod ~4382 ~0 ~60 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4385 run particleex tickparameter minecraft:end_rod ~4385 ~0 ~60 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4388 run particleex tickparameter minecraft:end_rod ~4388 ~0 ~60 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4391 run particleex tickparameter minecraft:end_rod ~4391 ~0 ~60 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-3.33333*t;" 0.03333 30 25
-execute if score @p Timer matches 4394 run particleex parameter minecraft:end_rod ~4394 ~0 ~50 0.8 0.8 0 1 0 0 0 0 10.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4394 run particleex tickparameter minecraft:end_rod ~4394 ~0 ~60 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4397 run particleex tickparameter minecraft:end_rod ~4397 ~0 ~60 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4400 run particleex tickparameter minecraft:end_rod ~4400 ~0 ~60 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 4403 run particleex tickparameter minecraft:end_rod ~4403 ~0 ~58 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-3.33333*t;" 0.03333 30 25
-execute if score @p Timer matches 4406 run particleex parameter minecraft:end_rod ~4406 ~0 ~48 0.8 0.8 0 1 0 0 0 0 14.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4406 run particleex tickparameter minecraft:end_rod ~4406 ~0 ~62 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-1.16667*t;" 0.10000 10 25
-execute if score @p Timer matches 4412 run particleex tickparameter minecraft:end_rod ~4412 ~0 ~55 0.8 0.8 0 1 0 0 0 0 30 "x=1*t;y=0.00000*t;z=-0.40000*t;" 0.10000 10 25
-execute if score @p Timer matches 4442 run particleex tickparameter minecraft:end_rod ~4442 ~0 ~43 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=3.16667*t;" 0.03333 30 25
-execute if score @p Timer matches 4448 run particleex tickparameter minecraft:end_rod ~4448 ~0 ~62 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=0.83333*t;" 0.10000 10 25
-execute if score @p Timer matches 4454 run particleex tickparameter minecraft:end_rod ~4454 ~0 ~67 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=1.16667*t;" 0.10000 10 25
-execute if score @p Timer matches 4460 run particleex tickparameter minecraft:end_rod ~4460 ~0 ~74 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-4.33333*t;" 0.02500 40 25
-execute if score @p Timer matches 4466 run particleex parameter minecraft:end_rod ~4466 ~0 ~48 0.8 0.8 0 1 0 0 0 0 26.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4466 run particleex tickparameter minecraft:end_rod ~4466 ~0 ~74 0.8 0.8 0 1 0 0 0 0 9 "x=1*t;y=0.00000*t;z=-0.22222*t;" 0.10000 10 25
-execute if score @p Timer matches 4475 run particleex tickparameter minecraft:end_rod ~4475 ~0 ~72 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4478 run particleex tickparameter minecraft:end_rod ~4478 ~0 ~75 0.8 0.8 0 1 0 0 0 0 12 "x=1*t;y=0.00000*t;z=-2.08333*t;" 0.05000 20 25
-execute if score @p Timer matches 4490 run particleex tickparameter minecraft:end_rod ~4490 ~0 ~50 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=2.00000*t;" 0.05000 20 25
-execute if score @p Timer matches 4496 run particleex tickparameter minecraft:end_rod ~4496 ~0 ~62 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 4502 run particleex parameter minecraft:end_rod ~4502 ~0 ~54 0.8 0.8 0 1 0 0 0 0 15.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4502 run particleex tickparameter minecraft:end_rod ~4502 ~0 ~69 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=0.50000*t;" 0.10000 10 25
-execute if score @p Timer matches 4508 run particleex tickparameter minecraft:end_rod ~4508 ~0 ~72 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-4.83333*t;" 0.02500 40 25
-execute if score @p Timer matches 4514 run particleex parameter minecraft:end_rod ~4514 ~0 ~43 0.8 0.8 0 1 0 0 0 0 29.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4514 run particleex tickparameter minecraft:end_rod ~4514 ~0 ~72 0.8 0.8 0 1 0 0 0 0 9 "x=1*t;y=0.00000*t;z=-0.22222*t;" 0.10000 10 25
-execute if score @p Timer matches 4523 run particleex tickparameter minecraft:end_rod ~4523 ~0 ~70 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 4526 run particleex tickparameter minecraft:end_rod ~4526 ~0 ~74 0.8 0.8 0 1 0 0 0 0 12 "x=1*t;y=0.00000*t;z=-2.00000*t;" 0.05000 20 25
-execute if score @p Timer matches 4538 run particleex tickparameter minecraft:end_rod ~4538 ~0 ~50 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=2.00000*t;" 0.05000 20 25
-execute if score @p Timer matches 4544 run particleex tickparameter minecraft:end_rod ~4544 ~0 ~62 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-1.16667*t;" 0.10000 10 25
-execute if score @p Timer matches 4550 run particleex parameter minecraft:end_rod ~4550 ~0 ~55 0.8 0.8 0 1 0 0 0 0 14.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4550 run particleex tickparameter minecraft:end_rod ~4550 ~0 ~69 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=0.16667*t;" 0.10000 10 25
-execute if score @p Timer matches 4556 run particleex tickparameter minecraft:end_rod ~4556 ~0 ~70 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-3.16667*t;" 0.03333 30 25
-execute if score @p Timer matches 4562 run particleex parameter minecraft:end_rod ~4562 ~0 ~51 0.8 0.8 0 1 0 0 0 0 19.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4562 run particleex tickparameter minecraft:end_rod ~4562 ~0 ~70 0.8 0.8 0 1 0 0 0 0 9 "x=1*t;y=0.00000*t;z=-0.11111*t;" 0.10000 10 25
-execute if score @p Timer matches 4571 run particleex tickparameter minecraft:end_rod ~4571 ~0 ~69 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4574 run particleex tickparameter minecraft:end_rod ~4574 ~0 ~72 0.8 0.8 0 1 0 0 0 0 12 "x=1*t;y=0.00000*t;z=-2.25000*t;" 0.05000 20 25
-execute if score @p Timer matches 4586 run particleex tickparameter minecraft:end_rod ~4586 ~0 ~45 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=2.83333*t;" 0.03333 30 25
-execute if score @p Timer matches 4592 run particleex tickparameter minecraft:end_rod ~4592 ~0 ~62 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-2.33333*t;" 0.05000 20 25
-execute if score @p Timer matches 4598 run particleex parameter minecraft:end_rod ~4598 ~0 ~48 0.8 0.8 0 1 0 0 0 0 21.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4598 run particleex tickparameter minecraft:end_rod ~4598 ~0 ~69 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=0.16667*t;" 0.10000 10 25
-execute if score @p Timer matches 4604 run particleex tickparameter minecraft:end_rod ~4604 ~0 ~70 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-3.33333*t;" 0.03333 30 25
-execute if score @p Timer matches 4610 run particleex parameter minecraft:end_rod ~4610 ~0 ~50 0.8 0.8 0 1 0 0 0 0 20.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4610 run particleex tickparameter minecraft:end_rod ~4610 ~0 ~70 0.8 0.8 0 1 0 0 0 0 9 "x=1*t;y=0.00000*t;z=0.22222*t;" 0.10000 10 25
-execute if score @p Timer matches 4619 run particleex tickparameter minecraft:end_rod ~4619 ~0 ~72 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4622 run particleex tickparameter minecraft:end_rod ~4622 ~0 ~69 0.8 0.8 0 1 0 0 0 0 12 "x=1*t;y=0.00000*t;z=-1.58333*t;" 0.10000 10 25
-execute if score @p Timer matches 4634 run particleex tickparameter minecraft:end_rod ~4634 ~0 ~50 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=2.83333*t;" 0.03333 30 25
-execute if score @p Timer matches 4640 run particleex tickparameter minecraft:end_rod ~4640 ~0 ~67 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-2.16667*t;" 0.05000 20 25
-execute if score @p Timer matches 4646 run particleex parameter minecraft:end_rod ~4646 ~0 ~54 0.8 0.8 0 1 0 0 0 0 16.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4646 run particleex tickparameter minecraft:end_rod ~4646 ~0 ~70 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=0.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 4652 run particleex tickparameter minecraft:end_rod ~4652 ~0 ~74 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-4.33333*t;" 0.02500 40 25
-execute if score @p Timer matches 4658 run particleex parameter minecraft:end_rod ~4658 ~0 ~48 0.8 0.8 0 1 0 0 0 0 26.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4658 run particleex tickparameter minecraft:end_rod ~4658 ~0 ~74 0.8 0.8 0 1 0 0 0 0 9 "x=1*t;y=0.00000*t;z=-0.22222*t;" 0.10000 10 25
-execute if score @p Timer matches 4667 run particleex tickparameter minecraft:end_rod ~4667 ~0 ~72 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=3.00000*t;" 0.03333 30 25
-execute if score @p Timer matches 4670 run particleex tickparameter minecraft:end_rod ~4670 ~0 ~81 0.8 0.8 0 1 0 0 0 0 12 "x=1*t;y=0.00000*t;z=-2.58333*t;" 0.05000 20 25
-execute if score @p Timer matches 4682 run particleex tickparameter minecraft:end_rod ~4682 ~0 ~50 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=5.33333*t;" 0.02000 50 25
-execute if score @p Timer matches 4688 run particleex tickparameter minecraft:end_rod ~4688 ~0 ~82 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-0.16667*t;" 0.10000 10 25
-execute if score @p Timer matches 4694 run particleex tickparameter minecraft:end_rod ~4694 ~0 ~81 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-1.16667*t;" 0.10000 10 25
-execute if score @p Timer matches 4700 run particleex tickparameter minecraft:end_rod ~4700 ~0 ~74 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-5.16667*t;" 0.02000 50 25
-execute if score @p Timer matches 4706 run particleex parameter minecraft:end_rod ~4706 ~0 ~43 0.8 0.8 0 1 0 0 0 0 29.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4706 run particleex tickparameter minecraft:end_rod ~4706 ~0 ~72 0.8 0.8 0 1 0 0 0 0 9 "x=1*t;y=0.00000*t;z=0.22222*t;" 0.10000 10 25
-execute if score @p Timer matches 4715 run particleex tickparameter minecraft:end_rod ~4715 ~0 ~74 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 4718 run particleex tickparameter minecraft:end_rod ~4718 ~0 ~70 0.8 0.8 0 1 0 0 0 0 12 "x=1*t;y=0.00000*t;z=-1.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 4730 run particleex tickparameter minecraft:end_rod ~4730 ~0 ~50 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=3.33333*t;" 0.03333 30 25
-execute if score @p Timer matches 4736 run particleex tickparameter minecraft:end_rod ~4736 ~0 ~70 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-2.50000*t;" 0.05000 20 25
-execute if score @p Timer matches 4742 run particleex parameter minecraft:end_rod ~4742 ~0 ~55 0.8 0.8 0 1 0 0 0 0 15.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4742 run particleex tickparameter minecraft:end_rod ~4742 ~0 ~70 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4748 run particleex tickparameter minecraft:end_rod ~4748 ~0 ~70 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-3.16667*t;" 0.03333 30 25
-execute if score @p Timer matches 4754 run particleex parameter minecraft:end_rod ~4754 ~0 ~51 0.8 0.8 0 1 0 0 0 0 23.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4754 run particleex tickparameter minecraft:end_rod ~4754 ~0 ~74 0.8 0.8 0 1 0 0 0 0 9 "x=1*t;y=0.00000*t;z=-0.22222*t;" 0.10000 10 25
-execute if score @p Timer matches 4763 run particleex tickparameter minecraft:end_rod ~4763 ~0 ~72 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.66667*t;" 0.10000 10 25
-execute if score @p Timer matches 4766 run particleex tickparameter minecraft:end_rod ~4766 ~0 ~67 0.8 0.8 0 1 0 0 0 0 12 "x=1*t;y=0.00000*t;z=-1.41667*t;" 0.10000 10 25
-execute if score @p Timer matches 4778 run particleex tickparameter minecraft:end_rod ~4778 ~0 ~50 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=2.00000*t;" 0.05000 20 25
-execute if score @p Timer matches 4784 run particleex tickparameter minecraft:end_rod ~4784 ~0 ~62 0.8 0.8 0 1 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
-execute if score @p Timer matches 4790 run particleex parameter minecraft:end_rod ~4790 ~0 ~54 0.8 0.8 0 1 0 0 0 0 16.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4790 run particleex tickparameter minecraft:end_rod ~4790 ~0 ~70 0.8 0.8 0 1 0 0 0 0 9 "x=1*t;y=0.00000*t;z=-0.11111*t;" 0.10000 10 25
-execute if score @p Timer matches 4799 run particleex tickparameter minecraft:end_rod ~4799 ~0 ~69 0.8 0.8 0 1 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-8.66667*t;" 0.01250 80 25
-execute if score @p Timer matches 4802 run particleex parameter minecraft:end_rod ~4802 ~0 ~43 0.8 0.8 0 1 0 0 0 0 12.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
-execute if score @p Timer matches 4802 run particleex parameter minecraft:end_rod ~4802 ~0 ~55 0.8 0.8 0 1 0 0 0 0 12.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 0 run particleex parameter minecraft:end_rod ~0 ~0 ~43 1.000 1.000 1.000 1.000 0 0 0 0 19.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches -20 run particleex tickparameter minecraft:end_rod ~-20 ~0 ~60 0.542 0.000 1.000 1.000 0 0 0 0 20 "x=1*t;y=0.00000*t;z=-0.85000*t;" 0.10000 10 25
+execute if score @p Timer matches 0 run particleex tickparameter minecraft:end_rod ~0 ~0 ~43 0.000 0.000 1.000 1.000 0 0 0 0 2 "x=1*t;y=0.00000*t;z=7.50000*t;" 0.01429 70 25
+execute if score @p Timer matches 2 run particleex tickparameter minecraft:end_rod ~2 ~0 ~58 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 5 run particleex tickparameter minecraft:end_rod ~5 ~0 ~55 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=4.00000*t;" 0.02500 40 25
+execute if score @p Timer matches 8 run particleex tickparameter minecraft:end_rod ~8 ~0 ~67 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 11 run particleex tickparameter minecraft:end_rod ~11 ~0 ~70 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-4.00000*t;" 0.02500 40 25
+execute if score @p Timer matches 14 run particleex tickparameter minecraft:end_rod ~14 ~0 ~58 1.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 17 run particleex tickparameter minecraft:end_rod ~17 ~0 ~55 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=4.00000*t;" 0.02500 40 25
+execute if score @p Timer matches 22 run particleex parameter minecraft:end_rod ~22 ~0 ~43 1.000 1.000 1.000 1.000 0 0 0 0 19.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 20 run particleex tickparameter minecraft:end_rod ~20 ~0 ~67 1.000 0.000 0.000 1.000 0 0 0 0 2 "x=1*t;y=0.00000*t;z=-12.00000*t;" 0.00833 120 25
+execute if score @p Timer matches 22 run particleex tickparameter minecraft:end_rod ~22 ~0 ~43 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=5.00000*t;" 0.02000 50 25
+execute if score @p Timer matches 25 run particleex tickparameter minecraft:end_rod ~25 ~0 ~58 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 28 run particleex tickparameter minecraft:end_rod ~28 ~0 ~55 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=4.00000*t;" 0.02500 40 25
+execute if score @p Timer matches 31 run particleex tickparameter minecraft:end_rod ~31 ~0 ~67 0.000 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 34 run particleex tickparameter minecraft:end_rod ~34 ~0 ~70 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-4.00000*t;" 0.02500 40 25
+execute if score @p Timer matches 37 run particleex tickparameter minecraft:end_rod ~37 ~0 ~58 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 40 run particleex tickparameter minecraft:end_rod ~40 ~0 ~55 1.000 0.000 0.000 1.000 0 0 0 0 2 "x=1*t;y=0.00000*t;z=6.00000*t;" 0.01667 60 25
+execute if score @p Timer matches 45 run particleex parameter minecraft:end_rod ~45 ~0 ~53 1.000 1.000 1.000 1.000 0 0 0 0 9.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 42 run particleex tickparameter minecraft:end_rod ~42 ~0 ~67 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-4.66667*t;" 0.02500 40 25
+execute if score @p Timer matches 45 run particleex tickparameter minecraft:end_rod ~45 ~0 ~53 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 48 run particleex tickparameter minecraft:end_rod ~48 ~0 ~58 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 51 run particleex tickparameter minecraft:end_rod ~51 ~0 ~57 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=4.00000*t;" 0.02500 40 25
+execute if score @p Timer matches 54 run particleex tickparameter minecraft:end_rod ~54 ~0 ~69 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 57 run particleex tickparameter minecraft:end_rod ~57 ~0 ~70 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-4.00000*t;" 0.02500 40 25
+execute if score @p Timer matches 60 run particleex tickparameter minecraft:end_rod ~60 ~0 ~58 0.000 1.000 0.000 1.000 0 0 0 0 2 "x=1*t;y=0.00000*t;z=-0.50000*t;" 0.10000 10 25
+execute if score @p Timer matches 62 run particleex tickparameter minecraft:end_rod ~62 ~0 ~57 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=4.00000*t;" 0.02500 40 25
+execute if score @p Timer matches 68 run particleex parameter minecraft:end_rod ~68 ~0 ~53 1.000 1.000 1.000 1.000 0 0 0 0 9.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 65 run particleex tickparameter minecraft:end_rod ~65 ~0 ~69 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-2.33333*t;" 0.05000 20 25
+execute if score @p Timer matches 68 run particleex tickparameter minecraft:end_rod ~68 ~0 ~62 1.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 71 run particleex tickparameter minecraft:end_rod ~71 ~0 ~58 0.000 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 74 run particleex tickparameter minecraft:end_rod ~74 ~0 ~57 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=4.00000*t;" 0.02500 40 25
+execute if score @p Timer matches 77 run particleex tickparameter minecraft:end_rod ~77 ~0 ~69 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 80 run particleex tickparameter minecraft:end_rod ~80 ~0 ~70 0.542 0.000 1.000 1.000 0 0 0 0 2 "x=1*t;y=0.00000*t;z=-6.00000*t;" 0.01667 60 25
+execute if score @p Timer matches 82 run particleex tickparameter minecraft:end_rod ~82 ~0 ~58 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 85 run particleex tickparameter minecraft:end_rod ~85 ~0 ~57 1.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=4.00000*t;" 0.02500 40 25
+execute if score @p Timer matches 91 run particleex parameter minecraft:end_rod ~91 ~0 ~51 1.000 1.000 1.000 1.000 0 0 0 0 11.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 88 run particleex tickparameter minecraft:end_rod ~88 ~0 ~69 0.000 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-6.00000*t;" 0.01667 60 25
+execute if score @p Timer matches 91 run particleex tickparameter minecraft:end_rod ~91 ~0 ~51 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=2.33333*t;" 0.05000 20 25
+execute if score @p Timer matches 94 run particleex tickparameter minecraft:end_rod ~94 ~0 ~58 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 97 run particleex tickparameter minecraft:end_rod ~97 ~0 ~55 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=4.00000*t;" 0.02500 40 25
+execute if score @p Timer matches 100 run particleex tickparameter minecraft:end_rod ~100 ~0 ~67 0.542 0.000 1.000 1.000 0 0 0 0 2 "x=1*t;y=0.00000*t;z=1.50000*t;" 0.10000 10 25
+execute if score @p Timer matches 102 run particleex tickparameter minecraft:end_rod ~102 ~0 ~70 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-4.00000*t;" 0.02500 40 25
+execute if score @p Timer matches 105 run particleex tickparameter minecraft:end_rod ~105 ~0 ~58 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 108 run particleex tickparameter minecraft:end_rod ~108 ~0 ~55 0.000 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=4.00000*t;" 0.02500 40 25
+execute if score @p Timer matches 114 run particleex parameter minecraft:end_rod ~114 ~0 ~51 1.000 1.000 1.000 1.000 0 0 0 0 11.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 111 run particleex tickparameter minecraft:end_rod ~111 ~0 ~67 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-5.33333*t;" 0.02000 50 25
+execute if score @p Timer matches 114 run particleex tickparameter minecraft:end_rod ~114 ~0 ~51 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=2.33333*t;" 0.05000 20 25
+execute if score @p Timer matches 117 run particleex tickparameter minecraft:end_rod ~117 ~0 ~58 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 120 run particleex tickparameter minecraft:end_rod ~120 ~0 ~55 1.000 1.000 0.000 1.000 0 0 0 0 2 "x=1*t;y=0.00000*t;z=6.00000*t;" 0.01667 60 25
+execute if score @p Timer matches 122 run particleex tickparameter minecraft:end_rod ~122 ~0 ~67 0.000 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 125 run particleex tickparameter minecraft:end_rod ~125 ~0 ~70 0.000 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-4.00000*t;" 0.02500 40 25
+execute if score @p Timer matches 128 run particleex tickparameter minecraft:end_rod ~128 ~0 ~58 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 131 run particleex tickparameter minecraft:end_rod ~131 ~0 ~55 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=4.00000*t;" 0.02500 40 25
+execute if score @p Timer matches 137 run particleex parameter minecraft:end_rod ~137 ~0 ~50 1.000 1.000 1.000 1.000 0 0 0 0 12.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 134 run particleex tickparameter minecraft:end_rod ~134 ~0 ~67 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-5.66667*t;" 0.02000 50 25
+execute if score @p Timer matches 137 run particleex tickparameter minecraft:end_rod ~137 ~0 ~50 0.000 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=2.66667*t;" 0.05000 20 25
+execute if score @p Timer matches 140 run particleex tickparameter minecraft:end_rod ~140 ~0 ~58 0.542 0.000 1.000 1.000 0 0 0 0 2 "x=1*t;y=0.00000*t;z=-0.50000*t;" 0.10000 10 25
+execute if score @p Timer matches 142 run particleex tickparameter minecraft:end_rod ~142 ~0 ~57 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=4.00000*t;" 0.02500 40 25
+execute if score @p Timer matches 145 run particleex tickparameter minecraft:end_rod ~145 ~0 ~69 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 148 run particleex tickparameter minecraft:end_rod ~148 ~0 ~72 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-4.66667*t;" 0.02500 40 25
+execute if score @p Timer matches 151 run particleex tickparameter minecraft:end_rod ~151 ~0 ~58 1.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 154 run particleex tickparameter minecraft:end_rod ~154 ~0 ~57 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=4.33333*t;" 0.02500 40 25
+execute if score @p Timer matches 160 run particleex parameter minecraft:end_rod ~160 ~0 ~50 1.000 1.000 1.000 1.000 0 0 0 0 12.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 157 run particleex tickparameter minecraft:end_rod ~157 ~0 ~70 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-2.66667*t;" 0.05000 20 25
+execute if score @p Timer matches 160 run particleex tickparameter minecraft:end_rod ~160 ~0 ~62 1.000 1.000 0.000 1.000 0 0 0 0 2 "x=1*t;y=0.00000*t;z=-2.00000*t;" 0.05000 20 25
+execute if score @p Timer matches 162 run particleex tickparameter minecraft:end_rod ~162 ~0 ~58 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 165 run particleex tickparameter minecraft:end_rod ~165 ~0 ~57 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=3.33333*t;" 0.03333 30 25
+execute if score @p Timer matches 168 run particleex tickparameter minecraft:end_rod ~168 ~0 ~67 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 171 run particleex tickparameter minecraft:end_rod ~171 ~0 ~66 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-2.66667*t;" 0.05000 20 25
+execute if score @p Timer matches 174 run particleex tickparameter minecraft:end_rod ~174 ~0 ~58 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 177 run particleex tickparameter minecraft:end_rod ~177 ~0 ~57 0.000 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=3.00000*t;" 0.03333 30 25
+execute if score @p Timer matches 182 run particleex parameter minecraft:end_rod ~182 ~0 ~43 1.000 1.000 1.000 1.000 0 0 0 0 19.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 180 run particleex tickparameter minecraft:end_rod ~180 ~0 ~66 1.000 0.644 0.000 1.000 0 0 0 0 2 "x=1*t;y=0.00000*t;z=-11.50000*t;" 0.00909 110 25
+execute if score @p Timer matches 182 run particleex tickparameter minecraft:end_rod ~182 ~0 ~43 1.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=5.00000*t;" 0.02000 50 25
+execute if score @p Timer matches 185 run particleex tickparameter minecraft:end_rod ~185 ~0 ~58 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 188 run particleex tickparameter minecraft:end_rod ~188 ~0 ~55 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=4.00000*t;" 0.02500 40 25
+execute if score @p Timer matches 191 run particleex tickparameter minecraft:end_rod ~191 ~0 ~67 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 194 run particleex tickparameter minecraft:end_rod ~194 ~0 ~70 0.000 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-4.00000*t;" 0.02500 40 25
+execute if score @p Timer matches 197 run particleex tickparameter minecraft:end_rod ~197 ~0 ~58 0.000 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 200 run particleex tickparameter minecraft:end_rod ~200 ~0 ~55 1.000 0.644 0.000 1.000 0 0 0 0 2 "x=1*t;y=0.00000*t;z=6.00000*t;" 0.01667 60 25
+execute if score @p Timer matches 205 run particleex parameter minecraft:end_rod ~205 ~0 ~43 1.000 1.000 1.000 1.000 0 0 0 0 19.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 202 run particleex tickparameter minecraft:end_rod ~202 ~0 ~67 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 205 run particleex tickparameter minecraft:end_rod ~205 ~0 ~62 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 208 run particleex tickparameter minecraft:end_rod ~208 ~0 ~58 1.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 211 run particleex tickparameter minecraft:end_rod ~211 ~0 ~55 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=4.00000*t;" 0.02500 40 25
+execute if score @p Timer matches 214 run particleex tickparameter minecraft:end_rod ~214 ~0 ~67 1.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 217 run particleex tickparameter minecraft:end_rod ~217 ~0 ~70 0.000 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-4.00000*t;" 0.02500 40 25
+execute if score @p Timer matches 220 run particleex tickparameter minecraft:end_rod ~220 ~0 ~58 0.000 1.000 1.000 1.000 0 0 0 0 2 "x=1*t;y=0.00000*t;z=-1.50000*t;" 0.10000 10 25
+execute if score @p Timer matches 222 run particleex tickparameter minecraft:end_rod ~222 ~0 ~55 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=4.00000*t;" 0.02500 40 25
+execute if score @p Timer matches 228 run particleex parameter minecraft:end_rod ~228 ~0 ~53 1.000 1.000 1.000 1.000 0 0 0 0 9.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 225 run particleex tickparameter minecraft:end_rod ~225 ~0 ~67 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-4.66667*t;" 0.02500 40 25
+execute if score @p Timer matches 228 run particleex tickparameter minecraft:end_rod ~228 ~0 ~53 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 231 run particleex tickparameter minecraft:end_rod ~231 ~0 ~58 0.000 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 234 run particleex tickparameter minecraft:end_rod ~234 ~0 ~57 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=4.00000*t;" 0.02500 40 25
+execute if score @p Timer matches 237 run particleex tickparameter minecraft:end_rod ~237 ~0 ~69 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 240 run particleex tickparameter minecraft:end_rod ~240 ~0 ~70 1.000 0.000 0.000 1.000 0 0 0 0 2 "x=1*t;y=0.00000*t;z=-6.00000*t;" 0.01667 60 25
+execute if score @p Timer matches 242 run particleex tickparameter minecraft:end_rod ~242 ~0 ~58 1.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 245 run particleex tickparameter minecraft:end_rod ~245 ~0 ~57 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=4.00000*t;" 0.02500 40 25
+execute if score @p Timer matches 251 run particleex parameter minecraft:end_rod ~251 ~0 ~53 1.000 1.000 1.000 1.000 0 0 0 0 9.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 248 run particleex tickparameter minecraft:end_rod ~248 ~0 ~69 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-2.33333*t;" 0.05000 20 25
+execute if score @p Timer matches 251 run particleex tickparameter minecraft:end_rod ~251 ~0 ~62 1.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 254 run particleex tickparameter minecraft:end_rod ~254 ~0 ~58 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 257 run particleex tickparameter minecraft:end_rod ~257 ~0 ~57 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=4.00000*t;" 0.02500 40 25
+execute if score @p Timer matches 260 run particleex tickparameter minecraft:end_rod ~260 ~0 ~69 1.000 0.644 0.000 1.000 0 0 0 0 2 "x=1*t;y=0.00000*t;z=0.50000*t;" 0.10000 10 25
+execute if score @p Timer matches 262 run particleex tickparameter minecraft:end_rod ~262 ~0 ~70 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-4.00000*t;" 0.02500 40 25
+execute if score @p Timer matches 265 run particleex tickparameter minecraft:end_rod ~265 ~0 ~58 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 268 run particleex tickparameter minecraft:end_rod ~268 ~0 ~57 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=4.00000*t;" 0.02500 40 25
+execute if score @p Timer matches 274 run particleex parameter minecraft:end_rod ~274 ~0 ~51 1.000 1.000 1.000 1.000 0 0 0 0 11.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 271 run particleex tickparameter minecraft:end_rod ~271 ~0 ~69 1.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-6.00000*t;" 0.01667 60 25
+execute if score @p Timer matches 274 run particleex tickparameter minecraft:end_rod ~274 ~0 ~51 0.000 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=2.33333*t;" 0.05000 20 25
+execute if score @p Timer matches 277 run particleex tickparameter minecraft:end_rod ~277 ~0 ~58 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 280 run particleex tickparameter minecraft:end_rod ~280 ~0 ~55 1.000 0.644 0.000 1.000 0 0 0 0 2 "x=1*t;y=0.00000*t;z=6.00000*t;" 0.01667 60 25
+execute if score @p Timer matches 282 run particleex tickparameter minecraft:end_rod ~282 ~0 ~67 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 285 run particleex tickparameter minecraft:end_rod ~285 ~0 ~70 1.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-4.00000*t;" 0.02500 40 25
+execute if score @p Timer matches 288 run particleex tickparameter minecraft:end_rod ~288 ~0 ~58 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 291 run particleex tickparameter minecraft:end_rod ~291 ~0 ~55 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=4.00000*t;" 0.02500 40 25
+execute if score @p Timer matches 297 run particleex parameter minecraft:end_rod ~297 ~0 ~51 1.000 1.000 1.000 1.000 0 0 0 0 11.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 294 run particleex tickparameter minecraft:end_rod ~294 ~0 ~67 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 297 run particleex tickparameter minecraft:end_rod ~297 ~0 ~62 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 300 run particleex tickparameter minecraft:end_rod ~300 ~0 ~58 0.542 0.000 1.000 1.000 0 0 0 0 2 "x=1*t;y=0.00000*t;z=-1.50000*t;" 0.10000 10 25
+execute if score @p Timer matches 302 run particleex tickparameter minecraft:end_rod ~302 ~0 ~55 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=4.00000*t;" 0.02500 40 25
+execute if score @p Timer matches 305 run particleex tickparameter minecraft:end_rod ~305 ~0 ~67 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 308 run particleex tickparameter minecraft:end_rod ~308 ~0 ~70 1.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-4.00000*t;" 0.02500 40 25
+execute if score @p Timer matches 311 run particleex tickparameter minecraft:end_rod ~311 ~0 ~58 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 314 run particleex tickparameter minecraft:end_rod ~314 ~0 ~55 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=4.00000*t;" 0.02500 40 25
+execute if score @p Timer matches 320 run particleex parameter minecraft:end_rod ~320 ~0 ~50 1.000 1.000 1.000 1.000 0 0 0 0 12.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 317 run particleex tickparameter minecraft:end_rod ~317 ~0 ~67 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-5.66667*t;" 0.02000 50 25
+execute if score @p Timer matches 320 run particleex tickparameter minecraft:end_rod ~320 ~0 ~50 1.000 0.000 0.000 1.000 0 0 0 0 2 "x=1*t;y=0.00000*t;z=4.00000*t;" 0.02500 40 25
+execute if score @p Timer matches 322 run particleex tickparameter minecraft:end_rod ~322 ~0 ~58 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 325 run particleex tickparameter minecraft:end_rod ~325 ~0 ~57 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=4.00000*t;" 0.02500 40 25
+execute if score @p Timer matches 328 run particleex tickparameter minecraft:end_rod ~328 ~0 ~69 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 331 run particleex tickparameter minecraft:end_rod ~331 ~0 ~72 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-4.66667*t;" 0.02500 40 25
+execute if score @p Timer matches 334 run particleex tickparameter minecraft:end_rod ~334 ~0 ~58 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 337 run particleex tickparameter minecraft:end_rod ~337 ~0 ~57 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=4.33333*t;" 0.02500 40 25
+execute if score @p Timer matches 342 run particleex parameter minecraft:end_rod ~342 ~0 ~50 1.000 1.000 1.000 1.000 0 0 0 0 12.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 340 run particleex tickparameter minecraft:end_rod ~340 ~0 ~70 0.000 1.000 1.000 1.000 0 0 0 0 2 "x=1*t;y=0.00000*t;z=-4.00000*t;" 0.02500 40 25
+execute if score @p Timer matches 342 run particleex tickparameter minecraft:end_rod ~342 ~0 ~62 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 345 run particleex tickparameter minecraft:end_rod ~345 ~0 ~58 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 348 run particleex tickparameter minecraft:end_rod ~348 ~0 ~57 0.000 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=3.33333*t;" 0.03333 30 25
+execute if score @p Timer matches 351 run particleex tickparameter minecraft:end_rod ~351 ~0 ~67 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 354 run particleex tickparameter minecraft:end_rod ~354 ~0 ~66 0.000 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-2.66667*t;" 0.05000 20 25
+execute if score @p Timer matches 357 run particleex tickparameter minecraft:end_rod ~357 ~0 ~58 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 360 run particleex tickparameter minecraft:end_rod ~360 ~0 ~57 1.000 0.644 0.000 1.000 0 0 0 0 2 "x=1*t;y=0.00000*t;z=4.50000*t;" 0.02500 40 25
+execute if score @p Timer matches 365 run particleex parameter minecraft:end_rod ~365 ~0 ~43 1.000 1.000 1.000 1.000 0 0 0 0 31.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 365 run particleex parameter minecraft:end_rod ~365 ~0 ~74 1.000 1.000 1.000 1.000 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 362 run particleex tickparameter minecraft:end_rod ~362 ~0 ~66 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=2.66667*t;" 0.05000 20 25
+execute if score @p Timer matches 371 run particleex parameter minecraft:end_rod ~371 ~0 ~70 1.000 1.000 1.000 1.000 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 365 run particleex tickparameter minecraft:end_rod ~365 ~0 ~74 0.000 1.000 0.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 374 run particleex parameter minecraft:end_rod ~374 ~0 ~70 1.000 1.000 1.000 1.000 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 371 run particleex tickparameter minecraft:end_rod ~371 ~0 ~74 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 377 run particleex parameter minecraft:end_rod ~377 ~0 ~70 1.000 1.000 1.000 1.000 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 374 run particleex tickparameter minecraft:end_rod ~374 ~0 ~70 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 380 run particleex parameter minecraft:end_rod ~380 ~0 ~58 1.000 1.000 1.000 1.000 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 377 run particleex tickparameter minecraft:end_rod ~377 ~0 ~74 0.000 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-4.00000*t;" 0.02500 40 25
+execute if score @p Timer matches 382 run particleex parameter minecraft:end_rod ~382 ~0 ~43 1.000 1.000 1.000 1.000 0 0 0 0 29.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 382 run particleex parameter minecraft:end_rod ~382 ~0 ~72 1.000 1.000 1.000 1.000 0 0 0 0 3.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 380 run particleex tickparameter minecraft:end_rod ~380 ~0 ~62 1.000 1.000 0.000 1.000 0 0 0 0 2 "x=1*t;y=0.00000*t;z=5.00000*t;" 0.02000 50 25
+execute if score @p Timer matches 385 run particleex parameter minecraft:end_rod ~385 ~0 ~72 1.000 1.000 1.000 1.000 0 0 0 0 3.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 382 run particleex tickparameter minecraft:end_rod ~382 ~0 ~72 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 388 run particleex parameter minecraft:end_rod ~388 ~0 ~72 1.000 1.000 1.000 1.000 0 0 0 0 3.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 385 run particleex tickparameter minecraft:end_rod ~385 ~0 ~72 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 391 run particleex parameter minecraft:end_rod ~391 ~0 ~62 1.000 1.000 1.000 1.000 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 388 run particleex tickparameter minecraft:end_rod ~388 ~0 ~75 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-2.66667*t;" 0.05000 20 25
+execute if score @p Timer matches 394 run particleex parameter minecraft:end_rod ~394 ~0 ~69 1.000 1.000 1.000 1.000 0 0 0 0 3.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 391 run particleex tickparameter minecraft:end_rod ~391 ~0 ~67 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 400 run particleex parameter minecraft:end_rod ~400 ~0 ~53 1.000 1.000 1.000 1.000 0 0 0 0 17.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 400 run particleex parameter minecraft:end_rod ~400 ~0 ~70 1.000 1.000 1.000 1.000 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 394 run particleex tickparameter minecraft:end_rod ~394 ~0 ~69 1.000 0.000 0.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=0.83333*t;" 0.10000 10 25
+execute if score @p Timer matches 405 run particleex parameter minecraft:end_rod ~405 ~0 ~67 1.000 1.000 1.000 1.000 0 0 0 0 3.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 400 run particleex tickparameter minecraft:end_rod ~400 ~0 ~74 1.000 0.644 0.000 1.000 0 0 0 0 5 "x=1*t;y=0.00000*t;z=-0.80000*t;" 0.10000 10 25
+execute if score @p Timer matches 408 run particleex parameter minecraft:end_rod ~408 ~0 ~67 1.000 1.000 1.000 1.000 0 0 0 0 3.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 405 run particleex tickparameter minecraft:end_rod ~405 ~0 ~70 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 411 run particleex parameter minecraft:end_rod ~411 ~0 ~67 1.000 1.000 1.000 1.000 0 0 0 0 3.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 408 run particleex tickparameter minecraft:end_rod ~408 ~0 ~70 1.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 414 run particleex parameter minecraft:end_rod ~414 ~0 ~58 1.000 1.000 1.000 1.000 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 411 run particleex tickparameter minecraft:end_rod ~411 ~0 ~67 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 417 run particleex parameter minecraft:end_rod ~417 ~0 ~53 1.000 1.000 1.000 1.000 0 0 0 0 14.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 417 run particleex parameter minecraft:end_rod ~417 ~0 ~67 1.000 1.000 1.000 1.000 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 414 run particleex tickparameter minecraft:end_rod ~414 ~0 ~62 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=3.33333*t;" 0.03333 30 25
+execute if score @p Timer matches 420 run particleex parameter minecraft:end_rod ~420 ~0 ~67 1.000 1.000 1.000 1.000 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 417 run particleex tickparameter minecraft:end_rod ~417 ~0 ~72 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 422 run particleex parameter minecraft:end_rod ~422 ~0 ~67 1.000 1.000 1.000 1.000 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 420 run particleex tickparameter minecraft:end_rod ~420 ~0 ~72 0.000 1.000 1.000 1.000 0 0 0 0 2 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 425 run particleex parameter minecraft:end_rod ~425 ~0 ~62 1.000 1.000 1.000 1.000 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 422 run particleex tickparameter minecraft:end_rod ~422 ~0 ~72 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-3.33333*t;" 0.03333 30 25
+execute if score @p Timer matches 428 run particleex parameter minecraft:end_rod ~428 ~0 ~69 1.000 1.000 1.000 1.000 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 425 run particleex tickparameter minecraft:end_rod ~425 ~0 ~62 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=4.00000*t;" 0.02500 40 25
+execute if score @p Timer matches 434 run particleex parameter minecraft:end_rod ~434 ~0 ~51 1.000 1.000 1.000 1.000 0 0 0 0 23.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 434 run particleex parameter minecraft:end_rod ~434 ~0 ~74 1.000 1.000 1.000 1.000 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 428 run particleex tickparameter minecraft:end_rod ~428 ~0 ~74 0.000 0.000 1.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-3.83333*t;" 0.03333 30 25
+execute if score @p Timer matches 440 run particleex parameter minecraft:end_rod ~440 ~0 ~70 1.000 1.000 1.000 1.000 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 434 run particleex tickparameter minecraft:end_rod ~434 ~0 ~51 0.542 0.000 1.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=3.83333*t;" 0.03333 30 25
+execute if score @p Timer matches 442 run particleex parameter minecraft:end_rod ~442 ~0 ~70 1.000 1.000 1.000 1.000 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 440 run particleex tickparameter minecraft:end_rod ~440 ~0 ~74 0.542 0.000 1.000 1.000 0 0 0 0 2 "x=1*t;y=0.00000*t;z=-2.00000*t;" 0.05000 20 25
+execute if score @p Timer matches 445 run particleex parameter minecraft:end_rod ~445 ~0 ~70 1.000 1.000 1.000 1.000 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 442 run particleex tickparameter minecraft:end_rod ~442 ~0 ~70 1.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 448 run particleex parameter minecraft:end_rod ~448 ~0 ~58 1.000 1.000 1.000 1.000 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 445 run particleex tickparameter minecraft:end_rod ~445 ~0 ~74 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-5.33333*t;" 0.02000 50 25
+execute if score @p Timer matches 451 run particleex parameter minecraft:end_rod ~451 ~0 ~51 1.000 1.000 1.000 1.000 0 0 0 0 21.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 451 run particleex parameter minecraft:end_rod ~451 ~0 ~72 1.000 1.000 1.000 1.000 0 0 0 0 3.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 448 run particleex tickparameter minecraft:end_rod ~448 ~0 ~58 0.000 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-2.33333*t;" 0.05000 20 25
+execute if score @p Timer matches 454 run particleex parameter minecraft:end_rod ~454 ~0 ~72 1.000 1.000 1.000 1.000 0 0 0 0 3.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 451 run particleex tickparameter minecraft:end_rod ~451 ~0 ~51 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=8.00000*t;" 0.01250 80 25
+execute if score @p Timer matches 457 run particleex parameter minecraft:end_rod ~457 ~0 ~72 1.000 1.000 1.000 1.000 0 0 0 0 3.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 454 run particleex tickparameter minecraft:end_rod ~454 ~0 ~75 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 460 run particleex parameter minecraft:end_rod ~460 ~0 ~62 1.000 1.000 1.000 1.000 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 457 run particleex tickparameter minecraft:end_rod ~457 ~0 ~72 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 462 run particleex parameter minecraft:end_rod ~462 ~0 ~69 1.000 1.000 1.000 1.000 0 0 0 0 3.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 460 run particleex tickparameter minecraft:end_rod ~460 ~0 ~67 0.000 0.000 1.000 1.000 0 0 0 0 2 "x=1*t;y=0.00000*t;z=2.50000*t;" 0.05000 20 25
+execute if score @p Timer matches 468 run particleex parameter minecraft:end_rod ~468 ~0 ~50 1.000 1.000 1.000 1.000 0 0 0 0 20.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 468 run particleex parameter minecraft:end_rod ~468 ~0 ~70 1.000 1.000 1.000 1.000 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 462 run particleex tickparameter minecraft:end_rod ~462 ~0 ~72 0.000 1.000 1.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-3.66667*t;" 0.03333 30 25
+execute if score @p Timer matches 474 run particleex parameter minecraft:end_rod ~474 ~0 ~67 1.000 1.000 1.000 1.000 0 0 0 0 3.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 468 run particleex tickparameter minecraft:end_rod ~468 ~0 ~50 0.542 0.000 1.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=3.33333*t;" 0.03333 30 25
+execute if score @p Timer matches 477 run particleex parameter minecraft:end_rod ~477 ~0 ~67 1.000 1.000 1.000 1.000 0 0 0 0 3.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 474 run particleex tickparameter minecraft:end_rod ~474 ~0 ~70 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 480 run particleex parameter minecraft:end_rod ~480 ~0 ~67 1.000 1.000 1.000 1.000 0 0 0 0 3.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 477 run particleex tickparameter minecraft:end_rod ~477 ~0 ~67 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 482 run particleex parameter minecraft:end_rod ~482 ~0 ~58 1.000 1.000 1.000 1.000 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 480 run particleex tickparameter minecraft:end_rod ~480 ~0 ~70 0.542 0.000 1.000 1.000 0 0 0 0 2 "x=1*t;y=0.00000*t;z=-4.00000*t;" 0.02500 40 25
+execute if score @p Timer matches 485 run particleex parameter minecraft:end_rod ~485 ~0 ~50 1.000 1.000 1.000 1.000 0 0 0 0 17.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 485 run particleex parameter minecraft:end_rod ~485 ~0 ~67 1.000 1.000 1.000 1.000 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 482 run particleex tickparameter minecraft:end_rod ~482 ~0 ~62 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 488 run particleex parameter minecraft:end_rod ~488 ~0 ~67 1.000 1.000 1.000 1.000 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 485 run particleex tickparameter minecraft:end_rod ~485 ~0 ~67 1.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 491 run particleex parameter minecraft:end_rod ~491 ~0 ~67 1.000 1.000 1.000 1.000 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 488 run particleex tickparameter minecraft:end_rod ~488 ~0 ~72 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 494 run particleex parameter minecraft:end_rod ~494 ~0 ~62 1.000 1.000 1.000 1.000 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 491 run particleex tickparameter minecraft:end_rod ~491 ~0 ~72 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 497 run particleex parameter minecraft:end_rod ~497 ~0 ~66 1.000 1.000 1.000 1.000 0 0 0 0 3.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 494 run particleex tickparameter minecraft:end_rod ~494 ~0 ~67 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 500 run particleex parameter minecraft:end_rod ~500 ~0 ~62 1.000 1.000 1.000 1.000 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 497 run particleex tickparameter minecraft:end_rod ~497 ~0 ~66 1.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 502 run particleex parameter minecraft:end_rod ~502 ~0 ~55 1.000 1.000 1.000 1.000 0 0 0 0 3.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 502 run particleex parameter minecraft:end_rod ~502 ~0 ~58 1.000 1.000 1.000 1.000 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 502 run particleex parameter minecraft:end_rod ~502 ~0 ~62 1.000 1.000 1.000 1.000 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 500 run particleex tickparameter minecraft:end_rod ~500 ~0 ~67 0.000 1.000 1.000 1.000 0 0 0 0 2 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 508 run particleex parameter minecraft:end_rod ~508 ~0 ~50 1.000 1.000 1.000 1.000 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 508 run particleex parameter minecraft:end_rod ~508 ~0 ~55 1.000 1.000 1.000 1.000 0 0 0 0 3.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 508 run particleex parameter minecraft:end_rod ~508 ~0 ~58 1.000 1.000 1.000 1.000 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 502 run particleex tickparameter minecraft:end_rod ~502 ~0 ~67 1.000 0.000 0.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-0.83333*t;" 0.10000 10 25
+execute if score @p Timer matches 511 run particleex parameter minecraft:end_rod ~511 ~0 ~50 1.000 1.000 1.000 1.000 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 511 run particleex parameter minecraft:end_rod ~511 ~0 ~55 1.000 1.000 1.000 1.000 0 0 0 0 3.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 511 run particleex parameter minecraft:end_rod ~511 ~0 ~58 1.000 1.000 1.000 1.000 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 508 run particleex tickparameter minecraft:end_rod ~508 ~0 ~62 0.000 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 514 run particleex parameter minecraft:end_rod ~514 ~0 ~50 1.000 1.000 1.000 1.000 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 514 run particleex parameter minecraft:end_rod ~514 ~0 ~55 1.000 1.000 1.000 1.000 0 0 0 0 3.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 514 run particleex parameter minecraft:end_rod ~514 ~0 ~58 1.000 1.000 1.000 1.000 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 511 run particleex tickparameter minecraft:end_rod ~511 ~0 ~62 1.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 517 run particleex parameter minecraft:end_rod ~517 ~0 ~48 1.000 1.000 1.000 1.000 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 517 run particleex parameter minecraft:end_rod ~517 ~0 ~53 1.000 1.000 1.000 1.000 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 517 run particleex parameter minecraft:end_rod ~517 ~0 ~58 1.000 1.000 1.000 1.000 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 514 run particleex tickparameter minecraft:end_rod ~514 ~0 ~58 1.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 520 run particleex parameter minecraft:end_rod ~520 ~0 ~51 1.000 1.000 1.000 1.000 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 520 run particleex parameter minecraft:end_rod ~520 ~0 ~55 1.000 1.000 1.000 1.000 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 520 run particleex parameter minecraft:end_rod ~520 ~0 ~60 1.000 1.000 1.000 1.000 0 0 0 0 3.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 517 run particleex tickparameter minecraft:end_rod ~517 ~0 ~58 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 522 run particleex parameter minecraft:end_rod ~522 ~0 ~51 1.000 1.000 1.000 1.000 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 522 run particleex parameter minecraft:end_rod ~522 ~0 ~55 1.000 1.000 1.000 1.000 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 522 run particleex parameter minecraft:end_rod ~522 ~0 ~60 1.000 1.000 1.000 1.000 0 0 0 0 3.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 520 run particleex tickparameter minecraft:end_rod ~520 ~0 ~55 0.000 1.000 0.000 1.000 0 0 0 0 2 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 525 run particleex parameter minecraft:end_rod ~525 ~0 ~51 1.000 1.000 1.000 1.000 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 525 run particleex parameter minecraft:end_rod ~525 ~0 ~55 1.000 1.000 1.000 1.000 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 525 run particleex parameter minecraft:end_rod ~525 ~0 ~60 1.000 1.000 1.000 1.000 0 0 0 0 3.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 522 run particleex tickparameter minecraft:end_rod ~522 ~0 ~55 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 528 run particleex parameter minecraft:end_rod ~528 ~0 ~48 1.000 1.000 1.000 1.000 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 528 run particleex parameter minecraft:end_rod ~528 ~0 ~53 1.000 1.000 1.000 1.000 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 528 run particleex parameter minecraft:end_rod ~528 ~0 ~58 1.000 1.000 1.000 1.000 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 525 run particleex tickparameter minecraft:end_rod ~525 ~0 ~60 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-4.00000*t;" 0.02500 40 25
+execute if score @p Timer matches 531 run particleex parameter minecraft:end_rod ~531 ~0 ~57 1.000 1.000 1.000 1.000 0 0 0 0 3.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 528 run particleex tickparameter minecraft:end_rod ~528 ~0 ~48 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=4.00000*t;" 0.02500 40 25
+execute if score @p Timer matches 537 run particleex parameter minecraft:end_rod ~537 ~0 ~50 1.000 1.000 1.000 1.000 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 537 run particleex parameter minecraft:end_rod ~537 ~0 ~55 1.000 1.000 1.000 1.000 0 0 0 0 3.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 537 run particleex parameter minecraft:end_rod ~537 ~0 ~58 1.000 1.000 1.000 1.000 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 531 run particleex tickparameter minecraft:end_rod ~531 ~0 ~60 1.000 1.000 0.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-0.83333*t;" 0.10000 10 25
+execute if score @p Timer matches 542 run particleex parameter minecraft:end_rod ~542 ~0 ~46 1.000 1.000 1.000 1.000 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 542 run particleex parameter minecraft:end_rod ~542 ~0 ~50 1.000 1.000 1.000 1.000 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 542 run particleex parameter minecraft:end_rod ~542 ~0 ~55 1.000 1.000 1.000 1.000 0 0 0 0 3.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 537 run particleex tickparameter minecraft:end_rod ~537 ~0 ~55 1.000 1.000 0.000 1.000 0 0 0 0 5 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 545 run particleex parameter minecraft:end_rod ~545 ~0 ~46 1.000 1.000 1.000 1.000 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 545 run particleex parameter minecraft:end_rod ~545 ~0 ~50 1.000 1.000 1.000 1.000 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 545 run particleex parameter minecraft:end_rod ~545 ~0 ~55 1.000 1.000 1.000 1.000 0 0 0 0 3.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 542 run particleex tickparameter minecraft:end_rod ~542 ~0 ~55 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 548 run particleex parameter minecraft:end_rod ~548 ~0 ~46 1.000 1.000 1.000 1.000 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 548 run particleex parameter minecraft:end_rod ~548 ~0 ~50 1.000 1.000 1.000 1.000 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 548 run particleex parameter minecraft:end_rod ~548 ~0 ~55 1.000 1.000 1.000 1.000 0 0 0 0 3.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 545 run particleex tickparameter minecraft:end_rod ~545 ~0 ~50 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 551 run particleex parameter minecraft:end_rod ~551 ~0 ~43 1.000 1.000 1.000 1.000 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 551 run particleex parameter minecraft:end_rod ~551 ~0 ~48 1.000 1.000 1.000 1.000 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 551 run particleex parameter minecraft:end_rod ~551 ~0 ~53 1.000 1.000 1.000 1.000 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 548 run particleex tickparameter minecraft:end_rod ~548 ~0 ~55 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 554 run particleex parameter minecraft:end_rod ~554 ~0 ~51 1.000 1.000 1.000 1.000 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 554 run particleex parameter minecraft:end_rod ~554 ~0 ~55 1.000 1.000 1.000 1.000 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 551 run particleex tickparameter minecraft:end_rod ~551 ~0 ~58 1.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-2.33333*t;" 0.05000 20 25
+execute if score @p Timer matches 557 run particleex parameter minecraft:end_rod ~557 ~0 ~51 1.000 1.000 1.000 1.000 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 557 run particleex parameter minecraft:end_rod ~557 ~0 ~55 1.000 1.000 1.000 1.000 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 554 run particleex tickparameter minecraft:end_rod ~554 ~0 ~51 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 560 run particleex parameter minecraft:end_rod ~560 ~0 ~51 1.000 1.000 1.000 1.000 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 560 run particleex parameter minecraft:end_rod ~560 ~0 ~55 1.000 1.000 1.000 1.000 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 557 run particleex tickparameter minecraft:end_rod ~557 ~0 ~51 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=3.00000*t;" 0.03333 30 25
+execute if score @p Timer matches 562 run particleex parameter minecraft:end_rod ~562 ~0 ~48 1.000 1.000 1.000 1.000 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 562 run particleex parameter minecraft:end_rod ~562 ~0 ~53 1.000 1.000 1.000 1.000 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 560 run particleex tickparameter minecraft:end_rod ~560 ~0 ~60 1.000 0.644 0.000 1.000 0 0 0 0 2 "x=1*t;y=0.00000*t;z=-6.00000*t;" 0.01667 60 25
+execute if score @p Timer matches 565 run particleex parameter minecraft:end_rod ~565 ~0 ~50 1.000 1.000 1.000 1.000 0 0 0 0 7.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 565 run particleex parameter minecraft:end_rod ~565 ~0 ~57 1.000 1.000 1.000 1.000 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 562 run particleex tickparameter minecraft:end_rod ~562 ~0 ~48 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 568 run particleex parameter minecraft:end_rod ~568 ~0 ~48 1.000 1.000 1.000 1.000 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 568 run particleex parameter minecraft:end_rod ~568 ~0 ~53 1.000 1.000 1.000 1.000 0 0 0 0 9.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 565 run particleex tickparameter minecraft:end_rod ~565 ~0 ~50 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 571 run particleex parameter minecraft:end_rod ~571 ~0 ~55 1.000 1.000 1.000 1.000 0 0 0 0 3.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 571 run particleex parameter minecraft:end_rod ~571 ~0 ~58 1.000 1.000 1.000 1.000 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 571 run particleex parameter minecraft:end_rod ~571 ~0 ~62 1.000 1.000 1.000 1.000 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 568 run particleex tickparameter minecraft:end_rod ~568 ~0 ~48 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=4.66667*t;" 0.02500 40 25
+execute if score @p Timer matches 577 run particleex parameter minecraft:end_rod ~577 ~0 ~50 1.000 1.000 1.000 1.000 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 577 run particleex parameter minecraft:end_rod ~577 ~0 ~55 1.000 1.000 1.000 1.000 0 0 0 0 3.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 577 run particleex parameter minecraft:end_rod ~577 ~0 ~58 1.000 1.000 1.000 1.000 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 571 run particleex tickparameter minecraft:end_rod ~571 ~0 ~62 0.000 1.000 1.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-0.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 580 run particleex parameter minecraft:end_rod ~580 ~0 ~50 1.000 1.000 1.000 1.000 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 580 run particleex parameter minecraft:end_rod ~580 ~0 ~55 1.000 1.000 1.000 1.000 0 0 0 0 3.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 580 run particleex parameter minecraft:end_rod ~580 ~0 ~58 1.000 1.000 1.000 1.000 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 577 run particleex tickparameter minecraft:end_rod ~577 ~0 ~58 1.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 582 run particleex parameter minecraft:end_rod ~582 ~0 ~50 1.000 1.000 1.000 1.000 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 582 run particleex parameter minecraft:end_rod ~582 ~0 ~55 1.000 1.000 1.000 1.000 0 0 0 0 3.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 582 run particleex parameter minecraft:end_rod ~582 ~0 ~58 1.000 1.000 1.000 1.000 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 580 run particleex tickparameter minecraft:end_rod ~580 ~0 ~62 0.000 0.000 1.000 1.000 0 0 0 0 2 "x=1*t;y=0.00000*t;z=-2.00000*t;" 0.05000 20 25
+execute if score @p Timer matches 585 run particleex parameter minecraft:end_rod ~585 ~0 ~48 1.000 1.000 1.000 1.000 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 585 run particleex parameter minecraft:end_rod ~585 ~0 ~53 1.000 1.000 1.000 1.000 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 585 run particleex parameter minecraft:end_rod ~585 ~0 ~58 1.000 1.000 1.000 1.000 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 582 run particleex tickparameter minecraft:end_rod ~582 ~0 ~58 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 588 run particleex parameter minecraft:end_rod ~588 ~0 ~51 1.000 1.000 1.000 1.000 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 588 run particleex parameter minecraft:end_rod ~588 ~0 ~55 1.000 1.000 1.000 1.000 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 588 run particleex parameter minecraft:end_rod ~588 ~0 ~60 1.000 1.000 1.000 1.000 0 0 0 0 3.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 585 run particleex tickparameter minecraft:end_rod ~585 ~0 ~62 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-2.33333*t;" 0.05000 20 25
+execute if score @p Timer matches 591 run particleex parameter minecraft:end_rod ~591 ~0 ~51 1.000 1.000 1.000 1.000 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 591 run particleex parameter minecraft:end_rod ~591 ~0 ~55 1.000 1.000 1.000 1.000 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 591 run particleex parameter minecraft:end_rod ~591 ~0 ~60 1.000 1.000 1.000 1.000 0 0 0 0 3.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 588 run particleex tickparameter minecraft:end_rod ~588 ~0 ~55 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 594 run particleex parameter minecraft:end_rod ~594 ~0 ~51 1.000 1.000 1.000 1.000 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 594 run particleex parameter minecraft:end_rod ~594 ~0 ~55 1.000 1.000 1.000 1.000 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 594 run particleex parameter minecraft:end_rod ~594 ~0 ~60 1.000 1.000 1.000 1.000 0 0 0 0 3.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 591 run particleex tickparameter minecraft:end_rod ~591 ~0 ~51 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 597 run particleex parameter minecraft:end_rod ~597 ~0 ~48 1.000 1.000 1.000 1.000 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 597 run particleex parameter minecraft:end_rod ~597 ~0 ~53 1.000 1.000 1.000 1.000 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 597 run particleex parameter minecraft:end_rod ~597 ~0 ~58 1.000 1.000 1.000 1.000 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 594 run particleex tickparameter minecraft:end_rod ~594 ~0 ~51 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 600 run particleex parameter minecraft:end_rod ~600 ~0 ~57 1.000 1.000 1.000 1.000 0 0 0 0 3.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 597 run particleex tickparameter minecraft:end_rod ~597 ~0 ~53 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=2.33333*t;" 0.05000 20 25
+execute if score @p Timer matches 605 run particleex parameter minecraft:end_rod ~605 ~0 ~50 1.000 1.000 1.000 1.000 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 605 run particleex parameter minecraft:end_rod ~605 ~0 ~55 1.000 1.000 1.000 1.000 0 0 0 0 3.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 605 run particleex parameter minecraft:end_rod ~605 ~0 ~58 1.000 1.000 1.000 1.000 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 600 run particleex tickparameter minecraft:end_rod ~600 ~0 ~60 1.000 1.000 0.000 1.000 0 0 0 0 5 "x=1*t;y=0.00000*t;z=-2.00000*t;" 0.05000 20 25
+execute if score @p Timer matches 611 run particleex parameter minecraft:end_rod ~611 ~0 ~46 1.000 1.000 1.000 1.000 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 611 run particleex parameter minecraft:end_rod ~611 ~0 ~50 1.000 1.000 1.000 1.000 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 611 run particleex parameter minecraft:end_rod ~611 ~0 ~55 1.000 1.000 1.000 1.000 0 0 0 0 3.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 605 run particleex tickparameter minecraft:end_rod ~605 ~0 ~50 0.000 1.000 0.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=0.83333*t;" 0.10000 10 25
+execute if score @p Timer matches 614 run particleex parameter minecraft:end_rod ~614 ~0 ~46 1.000 1.000 1.000 1.000 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 614 run particleex parameter minecraft:end_rod ~614 ~0 ~50 1.000 1.000 1.000 1.000 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 614 run particleex parameter minecraft:end_rod ~614 ~0 ~55 1.000 1.000 1.000 1.000 0 0 0 0 3.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 611 run particleex tickparameter minecraft:end_rod ~611 ~0 ~55 0.000 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 617 run particleex parameter minecraft:end_rod ~617 ~0 ~46 1.000 1.000 1.000 1.000 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 617 run particleex parameter minecraft:end_rod ~617 ~0 ~50 1.000 1.000 1.000 1.000 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 617 run particleex parameter minecraft:end_rod ~617 ~0 ~55 1.000 1.000 1.000 1.000 0 0 0 0 3.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 614 run particleex tickparameter minecraft:end_rod ~614 ~0 ~55 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-3.00000*t;" 0.03333 30 25
+execute if score @p Timer matches 620 run particleex parameter minecraft:end_rod ~620 ~0 ~43 1.000 1.000 1.000 1.000 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 620 run particleex parameter minecraft:end_rod ~620 ~0 ~48 1.000 1.000 1.000 1.000 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 620 run particleex parameter minecraft:end_rod ~620 ~0 ~53 1.000 1.000 1.000 1.000 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 617 run particleex tickparameter minecraft:end_rod ~617 ~0 ~46 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 622 run particleex parameter minecraft:end_rod ~622 ~0 ~51 1.000 1.000 1.000 1.000 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 622 run particleex parameter minecraft:end_rod ~622 ~0 ~55 1.000 1.000 1.000 1.000 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 620 run particleex tickparameter minecraft:end_rod ~620 ~0 ~43 0.000 0.000 1.000 1.000 0 0 0 0 2 "x=1*t;y=0.00000*t;z=6.00000*t;" 0.01667 60 25
+execute if score @p Timer matches 625 run particleex parameter minecraft:end_rod ~625 ~0 ~51 1.000 1.000 1.000 1.000 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 625 run particleex parameter minecraft:end_rod ~625 ~0 ~55 1.000 1.000 1.000 1.000 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 622 run particleex tickparameter minecraft:end_rod ~622 ~0 ~55 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 628 run particleex parameter minecraft:end_rod ~628 ~0 ~51 1.000 1.000 1.000 1.000 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 628 run particleex parameter minecraft:end_rod ~628 ~0 ~55 1.000 1.000 1.000 1.000 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 625 run particleex tickparameter minecraft:end_rod ~625 ~0 ~55 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 631 run particleex parameter minecraft:end_rod ~631 ~0 ~48 1.000 1.000 1.000 1.000 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 631 run particleex parameter minecraft:end_rod ~631 ~0 ~53 1.000 1.000 1.000 1.000 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 628 run particleex tickparameter minecraft:end_rod ~628 ~0 ~51 1.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=2.33333*t;" 0.05000 20 25
+execute if score @p Timer matches 634 run particleex parameter minecraft:end_rod ~634 ~0 ~45 1.000 1.000 1.000 1.000 0 0 0 0 3.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 634 run particleex parameter minecraft:end_rod ~634 ~0 ~48 1.000 1.000 1.000 1.000 0 0 0 0 6.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 631 run particleex tickparameter minecraft:end_rod ~631 ~0 ~58 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-3.33333*t;" 0.03333 30 25
+execute if score @p Timer matches 637 run particleex parameter minecraft:end_rod ~637 ~0 ~43 1.000 1.000 1.000 1.000 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 637 run particleex parameter minecraft:end_rod ~637 ~0 ~48 1.000 1.000 1.000 1.000 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 634 run particleex tickparameter minecraft:end_rod ~634 ~0 ~48 1.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 640 run particleex parameter minecraft:end_rod ~640 ~0 ~43 1.000 1.000 1.000 1.000 0 0 0 0 12.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 637 run particleex tickparameter minecraft:end_rod ~637 ~0 ~43 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 640 run particleex tickparameter minecraft:end_rod ~640 ~0 ~43 1.000 0.000 0.000 1.000 0 0 0 0 2 "x=1*t;y=0.00000*t;z=7.00000*t;" 0.01429 70 25
+execute if score @p Timer matches 645 run particleex parameter minecraft:end_rod ~645 ~0 ~50 1.000 1.000 1.000 1.000 0 0 0 0 8.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 642 run particleex tickparameter minecraft:end_rod ~642 ~0 ~57 1.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-2.33333*t;" 0.05000 20 25
+execute if score @p Timer matches 645 run particleex tickparameter minecraft:end_rod ~645 ~0 ~50 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=3.00000*t;" 0.03333 30 25
+execute if score @p Timer matches 651 run particleex parameter minecraft:end_rod ~651 ~0 ~48 1.000 1.000 1.000 1.000 0 0 0 0 12.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 648 run particleex tickparameter minecraft:end_rod ~648 ~0 ~59 0.000 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-3.66667*t;" 0.03333 30 25
+execute if score @p Timer matches 651 run particleex tickparameter minecraft:end_rod ~651 ~0 ~48 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=4.33333*t;" 0.02500 40 25
+execute if score @p Timer matches 657 run particleex parameter minecraft:end_rod ~657 ~0 ~50 1.000 1.000 1.000 1.000 0 0 0 0 12.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 654 run particleex tickparameter minecraft:end_rod ~654 ~0 ~61 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-3.66667*t;" 0.03333 30 25
+execute if score @p Timer matches 657 run particleex tickparameter minecraft:end_rod ~657 ~0 ~50 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=4.33333*t;" 0.02500 40 25
+execute if score @p Timer matches 662 run particleex parameter minecraft:end_rod ~662 ~0 ~43 1.000 1.000 1.000 1.000 0 0 0 0 19.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 660 run particleex tickparameter minecraft:end_rod ~660 ~0 ~63 1.000 1.000 0.000 1.000 0 0 0 0 2 "x=1*t;y=0.00000*t;z=-0.50000*t;" 0.10000 10 25
+execute if score @p Timer matches 662 run particleex tickparameter minecraft:end_rod ~662 ~0 ~62 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 668 run particleex parameter minecraft:end_rod ~668 ~0 ~46 1.000 1.000 1.000 1.000 0 0 0 0 20.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 665 run particleex tickparameter minecraft:end_rod ~665 ~0 ~67 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 668 run particleex tickparameter minecraft:end_rod ~668 ~0 ~66 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 674 run particleex parameter minecraft:end_rod ~674 ~0 ~45 1.000 1.000 1.000 1.000 0 0 0 0 13.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 671 run particleex tickparameter minecraft:end_rod ~671 ~0 ~67 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-3.00000*t;" 0.03333 30 25
+execute if score @p Timer matches 674 run particleex tickparameter minecraft:end_rod ~674 ~0 ~58 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 680 run particleex parameter minecraft:end_rod ~680 ~0 ~50 1.000 1.000 1.000 1.000 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 677 run particleex tickparameter minecraft:end_rod ~677 ~0 ~57 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 680 run particleex tickparameter minecraft:end_rod ~680 ~0 ~55 0.542 0.000 1.000 1.000 0 0 0 0 2 "x=1*t;y=0.00000*t;z=-0.50000*t;" 0.10000 10 25
+execute if score @p Timer matches 682 run particleex tickparameter minecraft:end_rod ~682 ~0 ~54 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 685 run particleex tickparameter minecraft:end_rod ~685 ~0 ~55 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 691 run particleex parameter minecraft:end_rod ~691 ~0 ~50 1.000 1.000 1.000 1.000 0 0 0 0 8.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 688 run particleex tickparameter minecraft:end_rod ~688 ~0 ~57 1.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-2.33333*t;" 0.05000 20 25
+execute if score @p Timer matches 691 run particleex tickparameter minecraft:end_rod ~691 ~0 ~50 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=3.00000*t;" 0.03333 30 25
+execute if score @p Timer matches 697 run particleex parameter minecraft:end_rod ~697 ~0 ~48 1.000 1.000 1.000 1.000 0 0 0 0 12.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 694 run particleex tickparameter minecraft:end_rod ~694 ~0 ~59 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 697 run particleex tickparameter minecraft:end_rod ~697 ~0 ~60 1.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 702 run particleex parameter minecraft:end_rod ~702 ~0 ~50 1.000 1.000 1.000 1.000 0 0 0 0 12.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 700 run particleex tickparameter minecraft:end_rod ~700 ~0 ~61 0.000 0.000 1.000 1.000 0 0 0 0 2 "x=1*t;y=0.00000*t;z=-5.50000*t;" 0.02000 50 25
+execute if score @p Timer matches 702 run particleex tickparameter minecraft:end_rod ~702 ~0 ~50 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=4.33333*t;" 0.02500 40 25
+execute if score @p Timer matches 708 run particleex parameter minecraft:end_rod ~708 ~0 ~43 1.000 1.000 1.000 1.000 0 0 0 0 19.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 705 run particleex tickparameter minecraft:end_rod ~705 ~0 ~63 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-6.66667*t;" 0.01667 60 25
+execute if score @p Timer matches 708 run particleex tickparameter minecraft:end_rod ~708 ~0 ~43 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=8.00000*t;" 0.01250 80 25
+execute if score @p Timer matches 714 run particleex parameter minecraft:end_rod ~714 ~0 ~50 1.000 1.000 1.000 1.000 0 0 0 0 16.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 711 run particleex tickparameter minecraft:end_rod ~711 ~0 ~67 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 714 run particleex tickparameter minecraft:end_rod ~714 ~0 ~66 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 720 run particleex parameter minecraft:end_rod ~720 ~0 ~48 1.000 1.000 1.000 1.000 0 0 0 0 22.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 717 run particleex tickparameter minecraft:end_rod ~717 ~0 ~67 1.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-6.33333*t;" 0.01667 60 25
+execute if score @p Timer matches 720 run particleex tickparameter minecraft:end_rod ~720 ~0 ~48 0.542 0.000 1.000 1.000 0 0 0 0 2 "x=1*t;y=0.00000*t;z=10.50000*t;" 0.01000 100 25
+execute if score @p Timer matches 725 run particleex parameter minecraft:end_rod ~725 ~0 ~50 1.000 1.000 1.000 1.000 0 0 0 0 17.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 722 run particleex tickparameter minecraft:end_rod ~722 ~0 ~69 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-6.33333*t;" 0.01667 60 25
+execute if score @p Timer matches 725 run particleex tickparameter minecraft:end_rod ~725 ~0 ~50 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=5.00000*t;" 0.02000 50 25
+execute if score @p Timer matches 731 run particleex parameter minecraft:end_rod ~731 ~0 ~43 1.000 1.000 1.000 1.000 0 0 0 0 24.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 728 run particleex tickparameter minecraft:end_rod ~728 ~0 ~65 0.000 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-7.33333*t;" 0.01429 70 25
+execute if score @p Timer matches 731 run particleex tickparameter minecraft:end_rod ~731 ~0 ~43 1.000 0.644 0.000 1.000 0 0 0 0 11 "x=1*t;y=0.00000*t;z=3.27273*t;" 0.03333 30 25
+execute if score @p Timer matches 742 run particleex tickparameter minecraft:end_rod ~742 ~0 ~79 0.000 1.000 0.000 1.000 0 0 0 0 61 "x=1*t;y=0.00000*t;z=-0.59016*t;" 0.10000 10 25
+execute if score @p Timer matches 803 run particleex tickparameter minecraft:end_rod ~803 ~0 ~43 0.000 1.000 0.000 1.000 0 0 0 0 7 "x=1*t;y=0.00000*t;z=2.71429*t;" 0.05000 20 25
+execute if score @p Timer matches 810 run particleex tickparameter minecraft:end_rod ~810 ~0 ~62 1.000 0.644 0.000 1.000 0 0 0 0 7 "x=1*t;y=0.00000*t;z=0.71429*t;" 0.10000 10 25
+execute if score @p Timer matches 817 run particleex tickparameter minecraft:end_rod ~817 ~0 ~67 1.000 0.644 0.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=1.16667*t;" 0.10000 10 25
+execute if score @p Timer matches 830 run particleex parameter minecraft:end_rod ~830 ~0 ~48 1.000 1.000 1.000 1.000 0 0 0 0 26.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 823 run particleex tickparameter minecraft:end_rod ~823 ~0 ~74 1.000 0.000 0.000 1.000 0 0 0 0 7 "x=1*t;y=0.00000*t;z=-3.71429*t;" 0.03333 30 25
+execute if score @p Timer matches 830 run particleex tickparameter minecraft:end_rod ~830 ~0 ~48 1.000 1.000 0.000 1.000 0 0 0 0 11 "x=1*t;y=0.00000*t;z=2.18182*t;" 0.05000 20 25
+execute if score @p Timer matches 841 run particleex tickparameter minecraft:end_rod ~841 ~0 ~72 0.542 0.000 1.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.50000*t;" 0.10000 10 25
+execute if score @p Timer matches 845 run particleex tickparameter minecraft:end_rod ~845 ~0 ~74 1.000 0.000 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.25000*t;" 0.10000 10 25
+execute if score @p Timer matches 849 run particleex tickparameter minecraft:end_rod ~849 ~0 ~75 0.000 1.000 1.000 1.000 0 0 0 0 11 "x=1*t;y=0.00000*t;z=-2.27273*t;" 0.05000 20 25
+execute if score @p Timer matches 860 run particleex tickparameter minecraft:end_rod ~860 ~0 ~50 0.000 1.000 1.000 1.000 0 0 0 0 7 "x=1*t;y=0.00000*t;z=1.71429*t;" 0.10000 10 25
+execute if score @p Timer matches 867 run particleex tickparameter minecraft:end_rod ~867 ~0 ~62 0.000 1.000 0.000 1.000 0 0 0 0 8 "x=1*t;y=0.00000*t;z=0.87500*t;" 0.10000 10 25
+execute if score @p Timer matches 875 run particleex tickparameter minecraft:end_rod ~875 ~0 ~69 0.542 0.000 1.000 1.000 0 0 0 0 7 "x=1*t;y=0.00000*t;z=0.42857*t;" 0.10000 10 25
+execute if score @p Timer matches 890 run particleex parameter minecraft:end_rod ~890 ~0 ~43 1.000 1.000 1.000 1.000 0 0 0 0 29.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 882 run particleex tickparameter minecraft:end_rod ~882 ~0 ~72 1.000 0.644 0.000 1.000 0 0 0 0 8 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 890 run particleex tickparameter minecraft:end_rod ~890 ~0 ~72 0.000 0.000 1.000 1.000 0 0 0 0 11 "x=1*t;y=0.00000*t;z=-0.18182*t;" 0.10000 10 25
+execute if score @p Timer matches 901 run particleex tickparameter minecraft:end_rod ~901 ~0 ~70 1.000 0.000 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.50000*t;" 0.10000 10 25
+execute if score @p Timer matches 905 run particleex tickparameter minecraft:end_rod ~905 ~0 ~72 0.000 1.000 1.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.50000*t;" 0.10000 10 25
+execute if score @p Timer matches 909 run particleex tickparameter minecraft:end_rod ~909 ~0 ~74 0.000 1.000 0.000 1.000 0 0 0 0 11 "x=1*t;y=0.00000*t;z=-1.72727*t;" 0.10000 10 25
+execute if score @p Timer matches 920 run particleex tickparameter minecraft:end_rod ~920 ~0 ~55 1.000 0.000 0.000 1.000 0 0 0 0 7 "x=1*t;y=0.00000*t;z=2.14286*t;" 0.05000 20 25
+execute if score @p Timer matches 927 run particleex tickparameter minecraft:end_rod ~927 ~0 ~70 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 930 run particleex tickparameter minecraft:end_rod ~930 ~0 ~72 0.000 1.000 1.000 1.000 0 0 0 0 2 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 932 run particleex tickparameter minecraft:end_rod ~932 ~0 ~70 0.000 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 935 run particleex tickparameter minecraft:end_rod ~935 ~0 ~69 1.000 1.000 0.000 1.000 0 0 0 0 7 "x=1*t;y=0.00000*t;z=0.14286*t;" 0.10000 10 25
+execute if score @p Timer matches 950 run particleex parameter minecraft:end_rod ~950 ~0 ~51 1.000 1.000 1.000 1.000 0 0 0 0 23.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 942 run particleex tickparameter minecraft:end_rod ~942 ~0 ~70 0.542 0.000 1.000 1.000 0 0 0 0 8 "x=1*t;y=0.00000*t;z=-2.37500*t;" 0.05000 20 25
+execute if score @p Timer matches 950 run particleex tickparameter minecraft:end_rod ~950 ~0 ~51 1.000 0.644 0.000 1.000 0 0 0 0 11 "x=1*t;y=0.00000*t;z=1.72727*t;" 0.10000 10 25
+execute if score @p Timer matches 961 run particleex tickparameter minecraft:end_rod ~961 ~0 ~70 1.000 0.644 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-0.75000*t;" 0.10000 10 25
+execute if score @p Timer matches 965 run particleex tickparameter minecraft:end_rod ~965 ~0 ~67 1.000 1.000 0.000 1.000 0 0 0 0 7 "x=1*t;y=0.00000*t;z=-1.28571*t;" 0.10000 10 25
+execute if score @p Timer matches 980 run particleex parameter minecraft:end_rod ~980 ~0 ~50 1.000 1.000 1.000 1.000 0 0 0 0 17.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 972 run particleex tickparameter minecraft:end_rod ~972 ~0 ~58 0.000 1.000 0.000 1.000 0 0 0 0 8 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 980 run particleex tickparameter minecraft:end_rod ~980 ~0 ~50 0.000 1.000 1.000 1.000 0 0 0 0 7 "x=1*t;y=0.00000*t;z=1.71429*t;" 0.10000 10 25
+execute if score @p Timer matches 987 run particleex tickparameter minecraft:end_rod ~987 ~0 ~62 0.000 1.000 1.000 1.000 0 0 0 0 8 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 995 run particleex tickparameter minecraft:end_rod ~995 ~0 ~70 0.000 1.000 0.000 1.000 0 0 0 0 11 "x=1*t;y=0.00000*t;z=-0.09091*t;" 0.10000 10 25
+execute if score @p Timer matches 1010 run particleex parameter minecraft:end_rod ~1010 ~0 ~43 1.000 1.000 1.000 1.000 0 0 0 0 24.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 1006 run particleex tickparameter minecraft:end_rod ~1006 ~0 ~69 0.542 0.000 1.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-0.50000*t;" 0.10000 10 25
+execute if score @p Timer matches 1010 run particleex tickparameter minecraft:end_rod ~1010 ~0 ~67 0.000 0.000 1.000 1.000 0 0 0 0 7 "x=1*t;y=0.00000*t;z=-1.28571*t;" 0.10000 10 25
+execute if score @p Timer matches 1017 run particleex tickparameter minecraft:end_rod ~1017 ~0 ~58 1.000 0.000 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 1021 run particleex tickparameter minecraft:end_rod ~1021 ~0 ~62 1.000 1.000 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-4.75000*t;" 0.02500 40 25
+execute if score @p Timer matches 1025 run particleex tickparameter minecraft:end_rod ~1025 ~0 ~43 0.000 0.000 1.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=6.00000*t;" 0.01667 60 25
+execute if score @p Timer matches 1029 run particleex tickparameter minecraft:end_rod ~1029 ~0 ~67 0.000 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-3.00000*t;" 0.03333 30 25
+execute if score @p Timer matches 1032 run particleex tickparameter minecraft:end_rod ~1032 ~0 ~58 1.000 1.000 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 1040 run particleex parameter minecraft:end_rod ~1040 ~0 ~55 1.000 1.000 1.000 1.000 0 0 0 0 3.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 1040 run particleex parameter minecraft:end_rod ~1040 ~0 ~58 1.000 1.000 1.000 1.000 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 1040 run particleex parameter minecraft:end_rod ~1040 ~0 ~62 1.000 1.000 1.000 1.000 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 1036 run particleex tickparameter minecraft:end_rod ~1036 ~0 ~62 0.000 1.000 1.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=1.25000*t;" 0.10000 10 25
+execute if score @p Timer matches 1055 run particleex parameter minecraft:end_rod ~1055 ~0 ~53 1.000 1.000 1.000 1.000 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 1055 run particleex parameter minecraft:end_rod ~1055 ~0 ~58 1.000 1.000 1.000 1.000 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 1055 run particleex parameter minecraft:end_rod ~1055 ~0 ~62 1.000 1.000 1.000 1.000 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 1040 run particleex tickparameter minecraft:end_rod ~1040 ~0 ~67 0.000 1.000 0.000 1.000 0 0 0 0 15 "x=1*t;y=0.00000*t;z=-0.60000*t;" 0.10000 10 25
+execute if score @p Timer matches 1055 run particleex tickparameter minecraft:end_rod ~1055 ~0 ~58 1.000 0.644 0.000 1.000 0 0 0 0 11 "x=1*t;y=0.00000*t;z=0.45455*t;" 0.10000 10 25
+execute if score @p Timer matches 1070 run particleex parameter minecraft:end_rod ~1070 ~0 ~48 1.000 1.000 1.000 1.000 0 0 0 0 15.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 1066 run particleex tickparameter minecraft:end_rod ~1066 ~0 ~63 1.000 1.000 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-3.75000*t;" 0.03333 30 25
+execute if score @p Timer matches 1070 run particleex tickparameter minecraft:end_rod ~1070 ~0 ~48 0.000 1.000 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=3.75000*t;" 0.03333 30 25
+execute if score @p Timer matches 1074 run particleex tickparameter minecraft:end_rod ~1074 ~0 ~63 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 1077 run particleex tickparameter minecraft:end_rod ~1077 ~0 ~60 0.000 0.000 1.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.75000*t;" 0.10000 10 25
+execute if score @p Timer matches 1085 run particleex parameter minecraft:end_rod ~1085 ~0 ~55 1.000 1.000 1.000 1.000 0 0 0 0 8.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 1081 run particleex tickparameter minecraft:end_rod ~1081 ~0 ~63 1.000 0.000 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-2.00000*t;" 0.05000 20 25
+execute if score @p Timer matches 1085 run particleex tickparameter minecraft:end_rod ~1085 ~0 ~55 0.000 1.000 1.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=3.00000*t;" 0.03333 30 25
+execute if score @p Timer matches 1089 run particleex tickparameter minecraft:end_rod ~1089 ~0 ~67 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-2.33333*t;" 0.05000 20 25
+execute if score @p Timer matches 1092 run particleex tickparameter minecraft:end_rod ~1092 ~0 ~60 0.000 1.000 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.75000*t;" 0.10000 10 25
+execute if score @p Timer matches 1100 run particleex parameter minecraft:end_rod ~1100 ~0 ~50 1.000 1.000 1.000 1.000 0 0 0 0 12.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 1096 run particleex tickparameter minecraft:end_rod ~1096 ~0 ~63 0.000 0.000 1.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-0.25000*t;" 0.10000 10 25
+execute if score @p Timer matches 1100 run particleex tickparameter minecraft:end_rod ~1100 ~0 ~62 1.000 0.644 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 1104 run particleex tickparameter minecraft:end_rod ~1104 ~0 ~62 1.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 1107 run particleex tickparameter minecraft:end_rod ~1107 ~0 ~60 1.000 0.000 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.50000*t;" 0.10000 10 25
+execute if score @p Timer matches 1115 run particleex parameter minecraft:end_rod ~1115 ~0 ~54 1.000 1.000 1.000 1.000 0 0 0 0 8.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 1111 run particleex tickparameter minecraft:end_rod ~1111 ~0 ~62 1.000 1.000 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-2.00000*t;" 0.05000 20 25
+execute if score @p Timer matches 1115 run particleex tickparameter minecraft:end_rod ~1115 ~0 ~54 1.000 0.644 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=3.75000*t;" 0.03333 30 25
+execute if score @p Timer matches 1119 run particleex tickparameter minecraft:end_rod ~1119 ~0 ~69 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-3.00000*t;" 0.03333 30 25
+execute if score @p Timer matches 1122 run particleex tickparameter minecraft:end_rod ~1122 ~0 ~60 1.000 0.644 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.50000*t;" 0.10000 10 25
+execute if score @p Timer matches 1130 run particleex parameter minecraft:end_rod ~1130 ~0 ~43 1.000 1.000 1.000 1.000 0 0 0 0 19.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 1126 run particleex tickparameter minecraft:end_rod ~1126 ~0 ~62 1.000 1.000 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 1130 run particleex tickparameter minecraft:end_rod ~1130 ~0 ~62 0.000 0.000 1.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 1134 run particleex tickparameter minecraft:end_rod ~1134 ~0 ~62 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 1137 run particleex tickparameter minecraft:end_rod ~1137 ~0 ~58 0.000 1.000 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 1145 run particleex parameter minecraft:end_rod ~1145 ~0 ~55 1.000 1.000 1.000 1.000 0 0 0 0 7.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 1141 run particleex tickparameter minecraft:end_rod ~1141 ~0 ~62 0.000 1.000 1.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-1.75000*t;" 0.05000 20 25
+execute if score @p Timer matches 1145 run particleex tickparameter minecraft:end_rod ~1145 ~0 ~55 0.000 0.000 1.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=3.00000*t;" 0.03333 30 25
+execute if score @p Timer matches 1149 run particleex tickparameter minecraft:end_rod ~1149 ~0 ~67 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-3.00000*t;" 0.03333 30 25
+execute if score @p Timer matches 1152 run particleex tickparameter minecraft:end_rod ~1152 ~0 ~58 1.000 0.000 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 1160 run particleex parameter minecraft:end_rod ~1160 ~0 ~50 1.000 1.000 1.000 1.000 0 0 0 0 13.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 1156 run particleex tickparameter minecraft:end_rod ~1156 ~0 ~62 0.000 1.000 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-3.00000*t;" 0.03333 30 25
+execute if score @p Timer matches 1160 run particleex tickparameter minecraft:end_rod ~1160 ~0 ~50 0.542 0.000 1.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=3.25000*t;" 0.03333 30 25
+execute if score @p Timer matches 1164 run particleex tickparameter minecraft:end_rod ~1164 ~0 ~63 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 1167 run particleex tickparameter minecraft:end_rod ~1167 ~0 ~62 0.000 1.000 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 1175 run particleex parameter minecraft:end_rod ~1175 ~0 ~55 1.000 1.000 1.000 1.000 0 0 0 0 7.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 1171 run particleex tickparameter minecraft:end_rod ~1171 ~0 ~58 1.000 0.644 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 1175 run particleex tickparameter minecraft:end_rod ~1175 ~0 ~62 1.000 1.000 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.25000*t;" 0.10000 10 25
+execute if score @p Timer matches 1179 run particleex tickparameter minecraft:end_rod ~1179 ~0 ~63 0.000 1.000 0.000 1.000 0 0 0 0 1 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 1180 run particleex tickparameter minecraft:end_rod ~1180 ~0 ~62 0.542 0.000 1.000 1.000 0 0 0 0 2 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 1182 run particleex tickparameter minecraft:end_rod ~1182 ~0 ~62 0.000 1.000 1.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.25000*t;" 0.10000 10 25
+execute if score @p Timer matches 1190 run particleex parameter minecraft:end_rod ~1190 ~0 ~51 1.000 1.000 1.000 1.000 0 0 0 0 11.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 1186 run particleex tickparameter minecraft:end_rod ~1186 ~0 ~63 0.000 0.000 1.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-3.00000*t;" 0.03333 30 25
+execute if score @p Timer matches 1190 run particleex tickparameter minecraft:end_rod ~1190 ~0 ~51 1.000 1.000 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=3.00000*t;" 0.03333 30 25
+execute if score @p Timer matches 1194 run particleex tickparameter minecraft:end_rod ~1194 ~0 ~63 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 1197 run particleex tickparameter minecraft:end_rod ~1197 ~0 ~58 0.000 1.000 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=1.25000*t;" 0.10000 10 25
+execute if score @p Timer matches 1205 run particleex parameter minecraft:end_rod ~1205 ~0 ~55 1.000 1.000 1.000 1.000 0 0 0 0 12.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 1201 run particleex tickparameter minecraft:end_rod ~1201 ~0 ~63 0.542 0.000 1.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 1205 run particleex tickparameter minecraft:end_rod ~1205 ~0 ~67 0.000 1.000 1.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 1209 run particleex tickparameter minecraft:end_rod ~1209 ~0 ~63 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 1212 run particleex tickparameter minecraft:end_rod ~1212 ~0 ~58 1.000 0.644 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=1.25000*t;" 0.10000 10 25
+execute if score @p Timer matches 1220 run particleex parameter minecraft:end_rod ~1220 ~0 ~45 1.000 1.000 1.000 1.000 0 0 0 0 17.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 1216 run particleex tickparameter minecraft:end_rod ~1216 ~0 ~63 0.000 1.000 1.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-0.25000*t;" 0.10000 10 25
+execute if score @p Timer matches 1220 run particleex tickparameter minecraft:end_rod ~1220 ~0 ~62 1.000 1.000 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 1224 run particleex tickparameter minecraft:end_rod ~1224 ~0 ~62 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 1227 run particleex tickparameter minecraft:end_rod ~1227 ~0 ~60 0.000 1.000 1.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.50000*t;" 0.10000 10 25
+execute if score @p Timer matches 1235 run particleex parameter minecraft:end_rod ~1235 ~0 ~48 1.000 1.000 1.000 1.000 0 0 0 0 19.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 1231 run particleex tickparameter minecraft:end_rod ~1231 ~0 ~62 0.000 1.000 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-3.50000*t;" 0.03333 30 25
+execute if score @p Timer matches 1235 run particleex tickparameter minecraft:end_rod ~1235 ~0 ~48 1.000 1.000 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=3.50000*t;" 0.03333 30 25
+execute if score @p Timer matches 1239 run particleex tickparameter minecraft:end_rod ~1239 ~0 ~62 1.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 1242 run particleex tickparameter minecraft:end_rod ~1242 ~0 ~60 0.000 1.000 1.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.50000*t;" 0.10000 10 25
+execute if score @p Timer matches 1250 run particleex parameter minecraft:end_rod ~1250 ~0 ~50 1.000 1.000 1.000 1.000 0 0 0 0 10.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 1246 run particleex tickparameter minecraft:end_rod ~1246 ~0 ~62 0.000 0.000 1.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-3.00000*t;" 0.03333 30 25
+execute if score @p Timer matches 1250 run particleex tickparameter minecraft:end_rod ~1250 ~0 ~50 1.000 0.000 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=2.50000*t;" 0.05000 20 25
+execute if score @p Timer matches 1254 run particleex tickparameter minecraft:end_rod ~1254 ~0 ~60 0.000 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 1257 run particleex tickparameter minecraft:end_rod ~1257 ~0 ~60 1.000 0.000 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.50000*t;" 0.10000 10 25
+execute if score @p Timer matches 1265 run particleex parameter minecraft:end_rod ~1265 ~0 ~54 1.000 1.000 1.000 1.000 0 0 0 0 6.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 1261 run particleex tickparameter minecraft:end_rod ~1261 ~0 ~62 0.000 1.000 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-2.00000*t;" 0.05000 20 25
+execute if score @p Timer matches 1265 run particleex tickparameter minecraft:end_rod ~1265 ~0 ~54 0.000 0.000 1.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=2.00000*t;" 0.05000 20 25
+execute if score @p Timer matches 1269 run particleex tickparameter minecraft:end_rod ~1269 ~0 ~62 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 1272 run particleex tickparameter minecraft:end_rod ~1272 ~0 ~62 0.000 1.000 1.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 1280 run particleex parameter minecraft:end_rod ~1280 ~0 ~50 1.000 1.000 1.000 1.000 0 0 0 0 20.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 1276 run particleex tickparameter minecraft:end_rod ~1276 ~0 ~62 0.542 0.000 1.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-3.00000*t;" 0.03333 30 25
+execute if score @p Timer matches 1280 run particleex tickparameter minecraft:end_rod ~1280 ~0 ~50 0.000 1.000 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=4.75000*t;" 0.02500 40 25
+execute if score @p Timer matches 1284 run particleex tickparameter minecraft:end_rod ~1284 ~0 ~69 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-2.33333*t;" 0.05000 20 25
+execute if score @p Timer matches 1287 run particleex tickparameter minecraft:end_rod ~1287 ~0 ~62 0.000 1.000 1.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 1295 run particleex parameter minecraft:end_rod ~1295 ~0 ~54 1.000 1.000 1.000 1.000 0 0 0 0 6.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 1291 run particleex tickparameter minecraft:end_rod ~1291 ~0 ~62 0.542 0.000 1.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-2.00000*t;" 0.05000 20 25
+execute if score @p Timer matches 1295 run particleex tickparameter minecraft:end_rod ~1295 ~0 ~54 0.000 0.000 1.000 1.000 0 0 0 0 11 "x=1*t;y=0.00000*t;z=0.81818*t;" 0.10000 10 25
+execute if score @p Timer matches 1310 run particleex parameter minecraft:end_rod ~1310 ~0 ~48 1.000 1.000 1.000 1.000 0 0 0 0 15.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 1306 run particleex tickparameter minecraft:end_rod ~1306 ~0 ~63 1.000 1.000 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-3.75000*t;" 0.03333 30 25
+execute if score @p Timer matches 1310 run particleex tickparameter minecraft:end_rod ~1310 ~0 ~48 1.000 0.000 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=3.75000*t;" 0.03333 30 25
+execute if score @p Timer matches 1314 run particleex tickparameter minecraft:end_rod ~1314 ~0 ~63 0.000 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 1317 run particleex tickparameter minecraft:end_rod ~1317 ~0 ~60 1.000 0.000 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.75000*t;" 0.10000 10 25
+execute if score @p Timer matches 1325 run particleex parameter minecraft:end_rod ~1325 ~0 ~55 1.000 1.000 1.000 1.000 0 0 0 0 8.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 1321 run particleex tickparameter minecraft:end_rod ~1321 ~0 ~63 0.000 1.000 1.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 1325 run particleex tickparameter minecraft:end_rod ~1325 ~0 ~63 1.000 1.000 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 1329 run particleex tickparameter minecraft:end_rod ~1329 ~0 ~67 0.000 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-2.33333*t;" 0.05000 20 25
+execute if score @p Timer matches 1332 run particleex tickparameter minecraft:end_rod ~1332 ~0 ~60 1.000 1.000 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.75000*t;" 0.10000 10 25
+execute if score @p Timer matches 1340 run particleex parameter minecraft:end_rod ~1340 ~0 ~50 1.000 1.000 1.000 1.000 0 0 0 0 12.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 1336 run particleex tickparameter minecraft:end_rod ~1336 ~0 ~63 1.000 1.000 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-0.25000*t;" 0.10000 10 25
+execute if score @p Timer matches 1340 run particleex tickparameter minecraft:end_rod ~1340 ~0 ~62 1.000 1.000 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 1344 run particleex tickparameter minecraft:end_rod ~1344 ~0 ~62 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 1347 run particleex tickparameter minecraft:end_rod ~1347 ~0 ~60 0.542 0.000 1.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.50000*t;" 0.10000 10 25
+execute if score @p Timer matches 1355 run particleex parameter minecraft:end_rod ~1355 ~0 ~54 1.000 1.000 1.000 1.000 0 0 0 0 8.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 1351 run particleex tickparameter minecraft:end_rod ~1351 ~0 ~62 1.000 0.644 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-2.00000*t;" 0.05000 20 25
+execute if score @p Timer matches 1355 run particleex tickparameter minecraft:end_rod ~1355 ~0 ~54 0.542 0.000 1.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=3.75000*t;" 0.03333 30 25
+execute if score @p Timer matches 1359 run particleex tickparameter minecraft:end_rod ~1359 ~0 ~69 1.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-3.00000*t;" 0.03333 30 25
+execute if score @p Timer matches 1362 run particleex tickparameter minecraft:end_rod ~1362 ~0 ~60 1.000 1.000 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.50000*t;" 0.10000 10 25
+execute if score @p Timer matches 1370 run particleex parameter minecraft:end_rod ~1370 ~0 ~43 1.000 1.000 1.000 1.000 0 0 0 0 19.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 1366 run particleex tickparameter minecraft:end_rod ~1366 ~0 ~62 1.000 0.644 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-4.75000*t;" 0.02500 40 25
+execute if score @p Timer matches 1370 run particleex tickparameter minecraft:end_rod ~1370 ~0 ~43 0.000 1.000 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=4.75000*t;" 0.02500 40 25
+execute if score @p Timer matches 1374 run particleex tickparameter minecraft:end_rod ~1374 ~0 ~62 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 1377 run particleex tickparameter minecraft:end_rod ~1377 ~0 ~58 0.000 0.000 1.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 1385 run particleex parameter minecraft:end_rod ~1385 ~0 ~55 1.000 1.000 1.000 1.000 0 0 0 0 7.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 1381 run particleex tickparameter minecraft:end_rod ~1381 ~0 ~62 1.000 0.644 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 1385 run particleex tickparameter minecraft:end_rod ~1385 ~0 ~62 1.000 0.644 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=1.25000*t;" 0.10000 10 25
+execute if score @p Timer matches 1389 run particleex tickparameter minecraft:end_rod ~1389 ~0 ~67 0.000 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-3.00000*t;" 0.03333 30 25
+execute if score @p Timer matches 1392 run particleex tickparameter minecraft:end_rod ~1392 ~0 ~58 0.542 0.000 1.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 1400 run particleex parameter minecraft:end_rod ~1400 ~0 ~50 1.000 1.000 1.000 1.000 0 0 0 0 13.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 1396 run particleex tickparameter minecraft:end_rod ~1396 ~0 ~62 0.542 0.000 1.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.25000*t;" 0.10000 10 25
+execute if score @p Timer matches 1400 run particleex tickparameter minecraft:end_rod ~1400 ~0 ~63 1.000 0.644 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 1404 run particleex tickparameter minecraft:end_rod ~1404 ~0 ~63 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 1407 run particleex tickparameter minecraft:end_rod ~1407 ~0 ~62 1.000 0.000 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 1415 run particleex parameter minecraft:end_rod ~1415 ~0 ~55 1.000 1.000 1.000 1.000 0 0 0 0 7.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 1411 run particleex tickparameter minecraft:end_rod ~1411 ~0 ~58 0.542 0.000 1.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-0.75000*t;" 0.10000 10 25
+execute if score @p Timer matches 1415 run particleex tickparameter minecraft:end_rod ~1415 ~0 ~55 0.000 1.000 1.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=2.00000*t;" 0.05000 20 25
+execute if score @p Timer matches 1419 run particleex tickparameter minecraft:end_rod ~1419 ~0 ~63 0.000 1.000 1.000 1.000 0 0 0 0 1 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 1420 run particleex tickparameter minecraft:end_rod ~1420 ~0 ~62 1.000 0.000 0.000 1.000 0 0 0 0 2 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 1422 run particleex tickparameter minecraft:end_rod ~1422 ~0 ~62 1.000 1.000 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.25000*t;" 0.10000 10 25
+execute if score @p Timer matches 1430 run particleex parameter minecraft:end_rod ~1430 ~0 ~51 1.000 1.000 1.000 1.000 0 0 0 0 11.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 1426 run particleex tickparameter minecraft:end_rod ~1426 ~0 ~63 1.000 0.000 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-0.25000*t;" 0.10000 10 25
+execute if score @p Timer matches 1430 run particleex tickparameter minecraft:end_rod ~1430 ~0 ~62 1.000 1.000 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.25000*t;" 0.10000 10 25
+execute if score @p Timer matches 1434 run particleex tickparameter minecraft:end_rod ~1434 ~0 ~63 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 1437 run particleex tickparameter minecraft:end_rod ~1437 ~0 ~58 0.542 0.000 1.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=1.25000*t;" 0.10000 10 25
+execute if score @p Timer matches 1445 run particleex parameter minecraft:end_rod ~1445 ~0 ~55 1.000 1.000 1.000 1.000 0 0 0 0 12.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 1441 run particleex tickparameter minecraft:end_rod ~1441 ~0 ~63 0.542 0.000 1.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 1445 run particleex tickparameter minecraft:end_rod ~1445 ~0 ~67 1.000 0.644 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 1449 run particleex tickparameter minecraft:end_rod ~1449 ~0 ~63 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 1452 run particleex tickparameter minecraft:end_rod ~1452 ~0 ~58 0.000 0.000 1.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=1.25000*t;" 0.10000 10 25
+execute if score @p Timer matches 1460 run particleex parameter minecraft:end_rod ~1460 ~0 ~50 1.000 1.000 1.000 1.000 0 0 0 0 12.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 1456 run particleex tickparameter minecraft:end_rod ~1456 ~0 ~63 0.542 0.000 1.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-3.25000*t;" 0.03333 30 25
+execute if score @p Timer matches 1460 run particleex tickparameter minecraft:end_rod ~1460 ~0 ~50 1.000 1.000 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=3.00000*t;" 0.03333 30 25
+execute if score @p Timer matches 1464 run particleex tickparameter minecraft:end_rod ~1464 ~0 ~62 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 1467 run particleex tickparameter minecraft:end_rod ~1467 ~0 ~60 0.000 0.000 1.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.50000*t;" 0.10000 10 25
+execute if score @p Timer matches 1475 run particleex parameter minecraft:end_rod ~1475 ~0 ~54 1.000 1.000 1.000 1.000 0 0 0 0 13.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 1471 run particleex tickparameter minecraft:end_rod ~1471 ~0 ~62 1.000 0.000 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-2.00000*t;" 0.05000 20 25
+execute if score @p Timer matches 1475 run particleex tickparameter minecraft:end_rod ~1475 ~0 ~54 0.542 0.000 1.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=2.00000*t;" 0.05000 20 25
+execute if score @p Timer matches 1479 run particleex tickparameter minecraft:end_rod ~1479 ~0 ~62 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 1482 run particleex tickparameter minecraft:end_rod ~1482 ~0 ~60 0.000 1.000 1.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.50000*t;" 0.10000 10 25
+execute if score @p Timer matches 1490 run particleex parameter minecraft:end_rod ~1490 ~0 ~43 1.000 1.000 1.000 1.000 0 0 0 0 17.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 1486 run particleex tickparameter minecraft:end_rod ~1486 ~0 ~62 1.000 0.000 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-0.50000*t;" 0.10000 10 25
+execute if score @p Timer matches 1490 run particleex tickparameter minecraft:end_rod ~1490 ~0 ~60 0.000 1.000 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 1494 run particleex tickparameter minecraft:end_rod ~1494 ~0 ~60 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 1497 run particleex tickparameter minecraft:end_rod ~1497 ~0 ~60 0.000 0.000 1.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.50000*t;" 0.10000 10 25
+execute if score @p Timer matches 1505 run particleex parameter minecraft:end_rod ~1505 ~0 ~50 1.000 1.000 1.000 1.000 0 0 0 0 12.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 1501 run particleex tickparameter minecraft:end_rod ~1501 ~0 ~62 0.542 0.000 1.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 1505 run particleex tickparameter minecraft:end_rod ~1505 ~0 ~62 0.000 1.000 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 1509 run particleex tickparameter minecraft:end_rod ~1509 ~0 ~62 1.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 1512 run particleex tickparameter minecraft:end_rod ~1512 ~0 ~62 0.000 1.000 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 1520 run particleex parameter minecraft:end_rod ~1520 ~0 ~55 1.000 1.000 1.000 1.000 0 0 0 0 12.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 1516 run particleex tickparameter minecraft:end_rod ~1516 ~0 ~62 1.000 1.000 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=1.25000*t;" 0.10000 10 25
+execute if score @p Timer matches 1520 run particleex tickparameter minecraft:end_rod ~1520 ~0 ~67 1.000 0.644 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 1524 run particleex tickparameter minecraft:end_rod ~1524 ~0 ~67 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 1527 run particleex tickparameter minecraft:end_rod ~1527 ~0 ~69 1.000 0.644 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 1535 run particleex parameter minecraft:end_rod ~1535 ~0 ~50 1.000 1.000 1.000 1.000 0 0 0 0 19.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 1531 run particleex tickparameter minecraft:end_rod ~1531 ~0 ~69 1.000 0.644 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-4.75000*t;" 0.02500 40 25
+execute if score @p Timer matches 1550 run particleex parameter minecraft:end_rod ~1550 ~0 ~48 1.000 1.000 1.000 1.000 0 0 0 0 22.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 1535 run particleex tickparameter minecraft:end_rod ~1535 ~0 ~50 0.000 0.000 1.000 1.000 0 0 0 0 15 "x=1*t;y=0.00000*t;z=-0.13333*t;" 0.10000 10 25
+execute if score @p Timer matches 1550 run particleex tickparameter minecraft:end_rod ~1550 ~0 ~48 0.000 1.000 1.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=4.75000*t;" 0.02500 40 25
+execute if score @p Timer matches 1554 run particleex tickparameter minecraft:end_rod ~1554 ~0 ~67 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 1557 run particleex tickparameter minecraft:end_rod ~1557 ~0 ~70 0.000 1.000 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-0.75000*t;" 0.10000 10 25
+execute if score @p Timer matches 1565 run particleex parameter minecraft:end_rod ~1565 ~0 ~55 1.000 1.000 1.000 1.000 0 0 0 0 15.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 1561 run particleex tickparameter minecraft:end_rod ~1561 ~0 ~67 0.000 1.000 1.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.75000*t;" 0.10000 10 25
+execute if score @p Timer matches 1565 run particleex tickparameter minecraft:end_rod ~1565 ~0 ~70 0.000 1.000 1.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-0.75000*t;" 0.10000 10 25
+execute if score @p Timer matches 1569 run particleex tickparameter minecraft:end_rod ~1569 ~0 ~67 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 1572 run particleex tickparameter minecraft:end_rod ~1572 ~0 ~70 0.000 0.000 1.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 1580 run particleex parameter minecraft:end_rod ~1580 ~0 ~50 1.000 1.000 1.000 1.000 0 0 0 0 22.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 1576 run particleex tickparameter minecraft:end_rod ~1576 ~0 ~70 1.000 1.000 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.50000*t;" 0.10000 10 25
+execute if score @p Timer matches 1580 run particleex tickparameter minecraft:end_rod ~1580 ~0 ~72 0.000 1.000 0.000 1.000 0 0 0 0 11 "x=1*t;y=0.00000*t;z=-1.63636*t;" 0.10000 10 25
+execute if score @p Timer matches 1591 run particleex tickparameter minecraft:end_rod ~1591 ~0 ~54 0.000 1.000 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=1.50000*t;" 0.10000 10 25
+execute if score @p Timer matches 1595 run particleex tickparameter minecraft:end_rod ~1595 ~0 ~60 0.000 1.000 1.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.50000*t;" 0.10000 10 25
+execute if score @p Timer matches 1599 run particleex tickparameter minecraft:end_rod ~1599 ~0 ~62 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=2.66667*t;" 0.05000 20 25
+execute if score @p Timer matches 1602 run particleex tickparameter minecraft:end_rod ~1602 ~0 ~70 0.542 0.000 1.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-0.75000*t;" 0.10000 10 25
+execute if score @p Timer matches 1610 run particleex parameter minecraft:end_rod ~1610 ~0 ~43 1.000 1.000 1.000 1.000 0 0 0 0 27.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 1606 run particleex tickparameter minecraft:end_rod ~1606 ~0 ~67 0.000 0.000 1.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.75000*t;" 0.10000 10 25
+execute if score @p Timer matches 1610 run particleex tickparameter minecraft:end_rod ~1610 ~0 ~70 0.000 1.000 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-0.75000*t;" 0.10000 10 25
+execute if score @p Timer matches 1614 run particleex tickparameter minecraft:end_rod ~1614 ~0 ~67 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 1617 run particleex tickparameter minecraft:end_rod ~1617 ~0 ~70 1.000 0.000 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-0.75000*t;" 0.10000 10 25
+execute if score @p Timer matches 1625 run particleex parameter minecraft:end_rod ~1625 ~0 ~55 1.000 1.000 1.000 1.000 0 0 0 0 15.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 1621 run particleex tickparameter minecraft:end_rod ~1621 ~0 ~67 1.000 1.000 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-3.00000*t;" 0.03333 30 25
+execute if score @p Timer matches 1625 run particleex tickparameter minecraft:end_rod ~1625 ~0 ~55 0.000 0.000 1.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=3.00000*t;" 0.03333 30 25
+execute if score @p Timer matches 1629 run particleex tickparameter minecraft:end_rod ~1629 ~0 ~67 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 1632 run particleex tickparameter minecraft:end_rod ~1632 ~0 ~70 1.000 0.000 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 1640 run particleex parameter minecraft:end_rod ~1640 ~0 ~50 1.000 1.000 1.000 1.000 0 0 0 0 22.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 1636 run particleex tickparameter minecraft:end_rod ~1636 ~0 ~70 0.000 0.000 1.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.50000*t;" 0.10000 10 25
+execute if score @p Timer matches 1640 run particleex tickparameter minecraft:end_rod ~1640 ~0 ~72 1.000 0.000 0.000 1.000 0 0 0 0 7 "x=1*t;y=0.00000*t;z=-0.28571*t;" 0.10000 10 25
+execute if score @p Timer matches 1655 run particleex parameter minecraft:end_rod ~1655 ~0 ~55 1.000 1.000 1.000 1.000 0 0 0 0 14.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 1647 run particleex tickparameter minecraft:end_rod ~1647 ~0 ~70 1.000 0.000 0.000 1.000 0 0 0 0 8 "x=1*t;y=0.00000*t;z=-0.12500*t;" 0.10000 10 25
+execute if score @p Timer matches 1655 run particleex tickparameter minecraft:end_rod ~1655 ~0 ~69 0.000 0.000 1.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-0.50000*t;" 0.10000 10 25
+execute if score @p Timer matches 1659 run particleex tickparameter minecraft:end_rod ~1659 ~0 ~67 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 1662 run particleex tickparameter minecraft:end_rod ~1662 ~0 ~70 0.000 0.000 1.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-0.75000*t;" 0.10000 10 25
+execute if score @p Timer matches 1670 run particleex parameter minecraft:end_rod ~1670 ~0 ~51 1.000 1.000 1.000 1.000 0 0 0 0 19.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 1666 run particleex tickparameter minecraft:end_rod ~1666 ~0 ~67 0.542 0.000 1.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.75000*t;" 0.10000 10 25
+execute if score @p Timer matches 1670 run particleex tickparameter minecraft:end_rod ~1670 ~0 ~70 1.000 0.000 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-0.75000*t;" 0.10000 10 25
+execute if score @p Timer matches 1674 run particleex tickparameter minecraft:end_rod ~1674 ~0 ~67 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 1677 run particleex tickparameter minecraft:end_rod ~1677 ~0 ~70 1.000 0.000 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-0.75000*t;" 0.10000 10 25
+execute if score @p Timer matches 1685 run particleex parameter minecraft:end_rod ~1685 ~0 ~55 1.000 1.000 1.000 1.000 0 0 0 0 15.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 1681 run particleex tickparameter minecraft:end_rod ~1681 ~0 ~67 0.542 0.000 1.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.75000*t;" 0.10000 10 25
+execute if score @p Timer matches 1685 run particleex tickparameter minecraft:end_rod ~1685 ~0 ~70 1.000 0.000 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-0.75000*t;" 0.10000 10 25
+execute if score @p Timer matches 1689 run particleex tickparameter minecraft:end_rod ~1689 ~0 ~67 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 1692 run particleex tickparameter minecraft:end_rod ~1692 ~0 ~70 1.000 0.000 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-0.75000*t;" 0.10000 10 25
+execute if score @p Timer matches 1700 run particleex parameter minecraft:end_rod ~1700 ~0 ~45 1.000 1.000 1.000 1.000 0 0 0 0 27.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 1696 run particleex tickparameter minecraft:end_rod ~1696 ~0 ~67 1.000 1.000 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-5.50000*t;" 0.02000 50 25
+execute if score @p Timer matches 1700 run particleex tickparameter minecraft:end_rod ~1700 ~0 ~45 1.000 1.000 0.000 1.000 0 0 0 0 15 "x=1*t;y=0.00000*t;z=0.20000*t;" 0.10000 10 25
+execute if score @p Timer matches 1715 run particleex tickparameter minecraft:end_rod ~1715 ~0 ~48 1.000 0.644 0.000 1.000 0 0 0 0 7 "x=1*t;y=0.00000*t;z=1.71429*t;" 0.10000 10 25
+execute if score @p Timer matches 1722 run particleex tickparameter minecraft:end_rod ~1722 ~0 ~60 0.542 0.000 1.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-0.50000*t;" 0.10000 10 25
+execute if score @p Timer matches 1730 run particleex parameter minecraft:end_rod ~1730 ~0 ~50 1.000 1.000 1.000 1.000 0 0 0 0 10.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 1726 run particleex tickparameter minecraft:end_rod ~1726 ~0 ~58 1.000 0.000 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-2.00000*t;" 0.05000 20 25
+execute if score @p Timer matches 1730 run particleex tickparameter minecraft:end_rod ~1730 ~0 ~50 0.000 1.000 1.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=2.00000*t;" 0.05000 20 25
+execute if score @p Timer matches 1734 run particleex tickparameter minecraft:end_rod ~1734 ~0 ~58 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 1737 run particleex tickparameter minecraft:end_rod ~1737 ~0 ~60 0.000 0.000 1.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-0.50000*t;" 0.10000 10 25
+execute if score @p Timer matches 1745 run particleex parameter minecraft:end_rod ~1745 ~0 ~54 1.000 1.000 1.000 1.000 0 0 0 0 6.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 1741 run particleex tickparameter minecraft:end_rod ~1741 ~0 ~58 0.000 1.000 1.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.50000*t;" 0.10000 10 25
+execute if score @p Timer matches 1745 run particleex tickparameter minecraft:end_rod ~1745 ~0 ~60 0.542 0.000 1.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-0.50000*t;" 0.10000 10 25
+execute if score @p Timer matches 1749 run particleex tickparameter minecraft:end_rod ~1749 ~0 ~58 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 1752 run particleex tickparameter minecraft:end_rod ~1752 ~0 ~60 0.000 0.000 1.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-0.50000*t;" 0.10000 10 25
+execute if score @p Timer matches 1760 run particleex parameter minecraft:end_rod ~1760 ~0 ~50 1.000 1.000 1.000 1.000 0 0 0 0 12.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 1756 run particleex tickparameter minecraft:end_rod ~1756 ~0 ~58 0.000 1.000 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-2.00000*t;" 0.05000 20 25
+execute if score @p Timer matches 1760 run particleex tickparameter minecraft:end_rod ~1760 ~0 ~50 0.000 0.000 1.000 1.000 0 0 0 0 15 "x=1*t;y=0.00000*t;z=0.26667*t;" 0.10000 10 25
+execute if score @p Timer matches 1790 run particleex parameter minecraft:end_rod ~1790 ~0 ~48 1.000 1.000 1.000 1.000 0 0 0 0 15.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 1775 run particleex tickparameter minecraft:end_rod ~1775 ~0 ~54 0.000 1.000 0.000 1.000 0 0 0 0 15 "x=1*t;y=0.00000*t;z=-0.40000*t;" 0.10000 10 25
+execute if score @p Timer matches 1790 run particleex tickparameter minecraft:end_rod ~1790 ~0 ~48 0.000 1.000 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=3.75000*t;" 0.03333 30 25
+execute if score @p Timer matches 1794 run particleex tickparameter minecraft:end_rod ~1794 ~0 ~63 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 1797 run particleex tickparameter minecraft:end_rod ~1797 ~0 ~63 0.000 1.000 1.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-1.25000*t;" 0.10000 10 25
+execute if score @p Timer matches 1801 run particleex tickparameter minecraft:end_rod ~1801 ~0 ~58 1.000 1.000 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-0.75000*t;" 0.10000 10 25
+execute if score @p Timer matches 1805 run particleex tickparameter minecraft:end_rod ~1805 ~0 ~55 0.000 1.000 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=2.00000*t;" 0.05000 20 25
+execute if score @p Timer matches 1809 run particleex tickparameter minecraft:end_rod ~1809 ~0 ~63 0.000 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 1812 run particleex tickparameter minecraft:end_rod ~1812 ~0 ~63 0.542 0.000 1.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 1820 run particleex parameter minecraft:end_rod ~1820 ~0 ~50 1.000 1.000 1.000 1.000 0 0 0 0 12.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 1816 run particleex tickparameter minecraft:end_rod ~1816 ~0 ~67 1.000 1.000 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-4.25000*t;" 0.02500 40 25
+execute if score @p Timer matches 1820 run particleex tickparameter minecraft:end_rod ~1820 ~0 ~50 0.000 1.000 1.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=3.00000*t;" 0.03333 30 25
+execute if score @p Timer matches 1824 run particleex tickparameter minecraft:end_rod ~1824 ~0 ~62 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 1827 run particleex tickparameter minecraft:end_rod ~1827 ~0 ~62 1.000 1.000 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-0.50000*t;" 0.10000 10 25
+execute if score @p Timer matches 1831 run particleex tickparameter minecraft:end_rod ~1831 ~0 ~60 0.000 1.000 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-1.50000*t;" 0.10000 10 25
+execute if score @p Timer matches 1835 run particleex tickparameter minecraft:end_rod ~1835 ~0 ~54 0.542 0.000 1.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=2.00000*t;" 0.05000 20 25
+execute if score @p Timer matches 1839 run particleex tickparameter minecraft:end_rod ~1839 ~0 ~62 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 1842 run particleex tickparameter minecraft:end_rod ~1842 ~0 ~62 0.542 0.000 1.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=1.75000*t;" 0.05000 20 25
+execute if score @p Timer matches 1850 run particleex parameter minecraft:end_rod ~1850 ~0 ~43 1.000 1.000 1.000 1.000 0 0 0 0 19.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 1846 run particleex tickparameter minecraft:end_rod ~1846 ~0 ~69 1.000 1.000 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-1.75000*t;" 0.05000 20 25
+execute if score @p Timer matches 1850 run particleex tickparameter minecraft:end_rod ~1850 ~0 ~62 1.000 0.000 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 1854 run particleex tickparameter minecraft:end_rod ~1854 ~0 ~62 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 1857 run particleex tickparameter minecraft:end_rod ~1857 ~0 ~58 1.000 0.000 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=2.25000*t;" 0.05000 20 25
+execute if score @p Timer matches 1865 run particleex parameter minecraft:end_rod ~1865 ~0 ~55 1.000 1.000 1.000 1.000 0 0 0 0 15.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 1861 run particleex tickparameter minecraft:end_rod ~1861 ~0 ~67 0.000 1.000 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.75000*t;" 0.10000 10 25
+execute if score @p Timer matches 1865 run particleex tickparameter minecraft:end_rod ~1865 ~0 ~70 0.000 0.000 1.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-0.25000*t;" 0.10000 10 25
+execute if score @p Timer matches 1869 run particleex tickparameter minecraft:end_rod ~1869 ~0 ~69 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 1872 run particleex tickparameter minecraft:end_rod ~1872 ~0 ~67 0.542 0.000 1.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-1.25000*t;" 0.10000 10 25
+execute if score @p Timer matches 1880 run particleex parameter minecraft:end_rod ~1880 ~0 ~50 1.000 1.000 1.000 1.000 0 0 0 0 8.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 1876 run particleex tickparameter minecraft:end_rod ~1876 ~0 ~62 1.000 1.000 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-3.00000*t;" 0.03333 30 25
+execute if score @p Timer matches 1880 run particleex tickparameter minecraft:end_rod ~1880 ~0 ~50 1.000 1.000 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=3.00000*t;" 0.03333 30 25
+execute if score @p Timer matches 1884 run particleex tickparameter minecraft:end_rod ~1884 ~0 ~62 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 1887 run particleex tickparameter minecraft:end_rod ~1887 ~0 ~67 0.000 0.000 1.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-1.25000*t;" 0.10000 10 25
+execute if score @p Timer matches 1891 run particleex tickparameter minecraft:end_rod ~1891 ~0 ~62 1.000 1.000 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-1.75000*t;" 0.05000 20 25
+execute if score @p Timer matches 1895 run particleex tickparameter minecraft:end_rod ~1895 ~0 ~55 1.000 0.000 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=1.75000*t;" 0.05000 20 25
+execute if score @p Timer matches 1899 run particleex tickparameter minecraft:end_rod ~1899 ~0 ~62 1.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 1902 run particleex tickparameter minecraft:end_rod ~1902 ~0 ~67 1.000 1.000 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-1.25000*t;" 0.10000 10 25
+execute if score @p Timer matches 1910 run particleex parameter minecraft:end_rod ~1910 ~0 ~51 1.000 1.000 1.000 1.000 0 0 0 0 7.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 1906 run particleex tickparameter minecraft:end_rod ~1906 ~0 ~62 1.000 0.644 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-2.75000*t;" 0.05000 20 25
+execute if score @p Timer matches 1910 run particleex tickparameter minecraft:end_rod ~1910 ~0 ~51 0.000 0.000 1.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=2.75000*t;" 0.05000 20 25
+execute if score @p Timer matches 1914 run particleex tickparameter minecraft:end_rod ~1914 ~0 ~62 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 1917 run particleex tickparameter minecraft:end_rod ~1917 ~0 ~67 1.000 0.000 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-1.25000*t;" 0.10000 10 25
+execute if score @p Timer matches 1925 run particleex parameter minecraft:end_rod ~1925 ~0 ~55 1.000 1.000 1.000 1.000 0 0 0 0 8.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 1921 run particleex tickparameter minecraft:end_rod ~1921 ~0 ~62 1.000 0.000 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-1.75000*t;" 0.05000 20 25
+execute if score @p Timer matches 1925 run particleex tickparameter minecraft:end_rod ~1925 ~0 ~55 0.000 0.000 1.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=1.75000*t;" 0.05000 20 25
+execute if score @p Timer matches 1929 run particleex tickparameter minecraft:end_rod ~1929 ~0 ~62 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 1932 run particleex tickparameter minecraft:end_rod ~1932 ~0 ~67 0.542 0.000 1.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-1.25000*t;" 0.10000 10 25
+execute if score @p Timer matches 1940 run particleex parameter minecraft:end_rod ~1940 ~0 ~45 1.000 1.000 1.000 1.000 0 0 0 0 15.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 1936 run particleex tickparameter minecraft:end_rod ~1936 ~0 ~62 0.000 0.000 1.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-4.25000*t;" 0.02500 40 25
+execute if score @p Timer matches 1940 run particleex tickparameter minecraft:end_rod ~1940 ~0 ~45 1.000 1.000 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=4.25000*t;" 0.02500 40 25
+execute if score @p Timer matches 1944 run particleex tickparameter minecraft:end_rod ~1944 ~0 ~62 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=2.33333*t;" 0.05000 20 25
+execute if score @p Timer matches 1947 run particleex tickparameter minecraft:end_rod ~1947 ~0 ~69 1.000 1.000 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-1.75000*t;" 0.05000 20 25
+execute if score @p Timer matches 1955 run particleex parameter minecraft:end_rod ~1955 ~0 ~48 1.000 1.000 1.000 1.000 0 0 0 0 15.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 1951 run particleex tickparameter minecraft:end_rod ~1951 ~0 ~62 0.000 0.000 1.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-3.50000*t;" 0.03333 30 25
+execute if score @p Timer matches 1955 run particleex tickparameter minecraft:end_rod ~1955 ~0 ~48 1.000 0.644 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=3.50000*t;" 0.03333 30 25
+execute if score @p Timer matches 1959 run particleex tickparameter minecraft:end_rod ~1959 ~0 ~62 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=2.33333*t;" 0.05000 20 25
+execute if score @p Timer matches 1962 run particleex tickparameter minecraft:end_rod ~1962 ~0 ~69 0.542 0.000 1.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-1.75000*t;" 0.05000 20 25
+execute if score @p Timer matches 1970 run particleex parameter minecraft:end_rod ~1970 ~0 ~43 1.000 1.000 1.000 1.000 0 0 0 0 15.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 1966 run particleex tickparameter minecraft:end_rod ~1966 ~0 ~62 0.000 0.000 1.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 1970 run particleex tickparameter minecraft:end_rod ~1970 ~0 ~58 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 1973 run particleex tickparameter minecraft:end_rod ~1973 ~0 ~62 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 1976 run particleex tickparameter minecraft:end_rod ~1976 ~0 ~67 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 1982 run particleex parameter minecraft:end_rod ~1982 ~0 ~50 1.000 1.000 1.000 1.000 0 0 0 0 17.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 1979 run particleex tickparameter minecraft:end_rod ~1979 ~0 ~69 0.000 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-6.33333*t;" 0.01667 60 25
+execute if score @p Timer matches 1982 run particleex tickparameter minecraft:end_rod ~1982 ~0 ~50 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=4.00000*t;" 0.02500 40 25
+execute if score @p Timer matches 1985 run particleex tickparameter minecraft:end_rod ~1985 ~0 ~62 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 1988 run particleex tickparameter minecraft:end_rod ~1988 ~0 ~58 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 1991 run particleex tickparameter minecraft:end_rod ~1991 ~0 ~55 0.000 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-4.00000*t;" 0.02500 40 25
+execute if score @p Timer matches 1994 run particleex tickparameter minecraft:end_rod ~1994 ~0 ~43 1.000 1.000 0.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=3.16667*t;" 0.03333 30 25
+execute if score @p Timer matches 2000 run particleex tickparameter minecraft:end_rod ~2000 ~0 ~62 1.000 0.000 0.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=0.83333*t;" 0.10000 10 25
+execute if score @p Timer matches 2006 run particleex tickparameter minecraft:end_rod ~2006 ~0 ~67 0.000 0.000 1.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=1.16667*t;" 0.10000 10 25
+execute if score @p Timer matches 2018 run particleex parameter minecraft:end_rod ~2018 ~0 ~48 1.000 1.000 1.000 1.000 0 0 0 0 26.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 2012 run particleex tickparameter minecraft:end_rod ~2012 ~0 ~74 0.000 1.000 1.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-4.33333*t;" 0.02500 40 25
+execute if score @p Timer matches 2018 run particleex tickparameter minecraft:end_rod ~2018 ~0 ~48 1.000 0.644 0.000 1.000 0 0 0 0 9 "x=1*t;y=0.00000*t;z=2.66667*t;" 0.05000 20 25
+execute if score @p Timer matches 2027 run particleex tickparameter minecraft:end_rod ~2027 ~0 ~72 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 2030 run particleex tickparameter minecraft:end_rod ~2030 ~0 ~75 1.000 0.644 0.000 1.000 0 0 0 0 12 "x=1*t;y=0.00000*t;z=-2.08333*t;" 0.05000 20 25
+execute if score @p Timer matches 2042 run particleex tickparameter minecraft:end_rod ~2042 ~0 ~50 0.000 1.000 0.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=2.00000*t;" 0.05000 20 25
+execute if score @p Timer matches 2054 run particleex parameter minecraft:end_rod ~2054 ~0 ~54 1.000 1.000 1.000 1.000 0 0 0 0 15.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 2048 run particleex tickparameter minecraft:end_rod ~2048 ~0 ~62 0.542 0.000 1.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=1.16667*t;" 0.10000 10 25
+execute if score @p Timer matches 2054 run particleex tickparameter minecraft:end_rod ~2054 ~0 ~69 1.000 1.000 0.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=0.50000*t;" 0.10000 10 25
+execute if score @p Timer matches 2066 run particleex parameter minecraft:end_rod ~2066 ~0 ~43 1.000 1.000 1.000 1.000 0 0 0 0 29.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 2060 run particleex tickparameter minecraft:end_rod ~2060 ~0 ~72 1.000 0.644 0.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 2066 run particleex tickparameter minecraft:end_rod ~2066 ~0 ~72 0.000 1.000 0.000 1.000 0 0 0 0 9 "x=1*t;y=0.00000*t;z=-0.22222*t;" 0.10000 10 25
+execute if score @p Timer matches 2075 run particleex tickparameter minecraft:end_rod ~2075 ~0 ~70 1.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 2078 run particleex tickparameter minecraft:end_rod ~2078 ~0 ~74 1.000 1.000 0.000 1.000 0 0 0 0 12 "x=1*t;y=0.00000*t;z=-2.00000*t;" 0.05000 20 25
+execute if score @p Timer matches 2090 run particleex tickparameter minecraft:end_rod ~2090 ~0 ~50 0.000 1.000 1.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=2.00000*t;" 0.05000 20 25
+execute if score @p Timer matches 2102 run particleex parameter minecraft:end_rod ~2102 ~0 ~55 1.000 1.000 1.000 1.000 0 0 0 0 14.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 2096 run particleex tickparameter minecraft:end_rod ~2096 ~0 ~62 0.542 0.000 1.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=1.16667*t;" 0.10000 10 25
+execute if score @p Timer matches 2102 run particleex tickparameter minecraft:end_rod ~2102 ~0 ~69 0.000 1.000 1.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=0.16667*t;" 0.10000 10 25
+execute if score @p Timer matches 2114 run particleex parameter minecraft:end_rod ~2114 ~0 ~51 1.000 1.000 1.000 1.000 0 0 0 0 19.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 2108 run particleex tickparameter minecraft:end_rod ~2108 ~0 ~70 1.000 0.000 0.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 2114 run particleex tickparameter minecraft:end_rod ~2114 ~0 ~70 0.542 0.000 1.000 1.000 0 0 0 0 9 "x=1*t;y=0.00000*t;z=-0.11111*t;" 0.10000 10 25
+execute if score @p Timer matches 2123 run particleex tickparameter minecraft:end_rod ~2123 ~0 ~69 0.000 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 2126 run particleex tickparameter minecraft:end_rod ~2126 ~0 ~72 1.000 0.644 0.000 1.000 0 0 0 0 12 "x=1*t;y=0.00000*t;z=-2.25000*t;" 0.05000 20 25
+execute if score @p Timer matches 2138 run particleex tickparameter minecraft:end_rod ~2138 ~0 ~45 0.000 0.000 1.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=2.83333*t;" 0.03333 30 25
+execute if score @p Timer matches 2150 run particleex parameter minecraft:end_rod ~2150 ~0 ~48 1.000 1.000 1.000 1.000 0 0 0 0 21.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 2144 run particleex tickparameter minecraft:end_rod ~2144 ~0 ~62 0.000 0.000 1.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-2.33333*t;" 0.05000 20 25
+execute if score @p Timer matches 2150 run particleex tickparameter minecraft:end_rod ~2150 ~0 ~48 0.542 0.000 1.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=3.66667*t;" 0.03333 30 25
+execute if score @p Timer matches 2162 run particleex parameter minecraft:end_rod ~2162 ~0 ~50 1.000 1.000 1.000 1.000 0 0 0 0 20.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 2156 run particleex tickparameter minecraft:end_rod ~2156 ~0 ~70 1.000 1.000 0.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-3.33333*t;" 0.03333 30 25
+execute if score @p Timer matches 2162 run particleex tickparameter minecraft:end_rod ~2162 ~0 ~50 1.000 1.000 0.000 1.000 0 0 0 0 9 "x=1*t;y=0.00000*t;z=2.44444*t;" 0.05000 20 25
+execute if score @p Timer matches 2171 run particleex tickparameter minecraft:end_rod ~2171 ~0 ~72 1.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 2174 run particleex tickparameter minecraft:end_rod ~2174 ~0 ~69 0.542 0.000 1.000 1.000 0 0 0 0 12 "x=1*t;y=0.00000*t;z=-1.58333*t;" 0.10000 10 25
+execute if score @p Timer matches 2186 run particleex tickparameter minecraft:end_rod ~2186 ~0 ~50 1.000 0.644 0.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=2.83333*t;" 0.03333 30 25
+execute if score @p Timer matches 2198 run particleex parameter minecraft:end_rod ~2198 ~0 ~54 1.000 1.000 1.000 1.000 0 0 0 0 16.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 2192 run particleex tickparameter minecraft:end_rod ~2192 ~0 ~67 0.000 1.000 1.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=0.50000*t;" 0.10000 10 25
+execute if score @p Timer matches 2198 run particleex tickparameter minecraft:end_rod ~2198 ~0 ~70 0.000 0.000 1.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=0.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 2210 run particleex parameter minecraft:end_rod ~2210 ~0 ~48 1.000 1.000 1.000 1.000 0 0 0 0 26.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 2204 run particleex tickparameter minecraft:end_rod ~2204 ~0 ~74 0.542 0.000 1.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 2210 run particleex tickparameter minecraft:end_rod ~2210 ~0 ~74 1.000 0.644 0.000 1.000 0 0 0 0 9 "x=1*t;y=0.00000*t;z=-0.22222*t;" 0.10000 10 25
+execute if score @p Timer matches 2219 run particleex tickparameter minecraft:end_rod ~2219 ~0 ~72 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=3.00000*t;" 0.03333 30 25
+execute if score @p Timer matches 2222 run particleex tickparameter minecraft:end_rod ~2222 ~0 ~81 0.542 0.000 1.000 1.000 0 0 0 0 12 "x=1*t;y=0.00000*t;z=-2.58333*t;" 0.05000 20 25
+execute if score @p Timer matches 2234 run particleex tickparameter minecraft:end_rod ~2234 ~0 ~50 1.000 0.000 0.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=5.33333*t;" 0.02000 50 25
+execute if score @p Timer matches 2240 run particleex tickparameter minecraft:end_rod ~2240 ~0 ~82 1.000 1.000 0.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-0.16667*t;" 0.10000 10 25
+execute if score @p Timer matches 2246 run particleex tickparameter minecraft:end_rod ~2246 ~0 ~81 0.000 1.000 1.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-1.16667*t;" 0.10000 10 25
+execute if score @p Timer matches 2258 run particleex parameter minecraft:end_rod ~2258 ~0 ~43 1.000 1.000 1.000 1.000 0 0 0 0 29.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 2252 run particleex tickparameter minecraft:end_rod ~2252 ~0 ~74 1.000 0.000 0.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 2258 run particleex tickparameter minecraft:end_rod ~2258 ~0 ~72 1.000 1.000 0.000 1.000 0 0 0 0 9 "x=1*t;y=0.00000*t;z=0.22222*t;" 0.10000 10 25
+execute if score @p Timer matches 2267 run particleex tickparameter minecraft:end_rod ~2267 ~0 ~74 0.000 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 2270 run particleex tickparameter minecraft:end_rod ~2270 ~0 ~70 0.000 1.000 1.000 1.000 0 0 0 0 12 "x=1*t;y=0.00000*t;z=-1.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 2282 run particleex tickparameter minecraft:end_rod ~2282 ~0 ~50 1.000 1.000 0.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=3.33333*t;" 0.03333 30 25
+execute if score @p Timer matches 2294 run particleex parameter minecraft:end_rod ~2294 ~0 ~55 1.000 1.000 1.000 1.000 0 0 0 0 15.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 2288 run particleex tickparameter minecraft:end_rod ~2288 ~0 ~70 1.000 0.644 0.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 2294 run particleex tickparameter minecraft:end_rod ~2294 ~0 ~70 0.542 0.000 1.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 2306 run particleex parameter minecraft:end_rod ~2306 ~0 ~51 1.000 1.000 1.000 1.000 0 0 0 0 23.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 2300 run particleex tickparameter minecraft:end_rod ~2300 ~0 ~70 0.542 0.000 1.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=0.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 2306 run particleex tickparameter minecraft:end_rod ~2306 ~0 ~74 0.542 0.000 1.000 1.000 0 0 0 0 9 "x=1*t;y=0.00000*t;z=-0.22222*t;" 0.10000 10 25
+execute if score @p Timer matches 2315 run particleex tickparameter minecraft:end_rod ~2315 ~0 ~72 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 2318 run particleex tickparameter minecraft:end_rod ~2318 ~0 ~67 1.000 0.644 0.000 1.000 0 0 0 0 12 "x=1*t;y=0.00000*t;z=-1.41667*t;" 0.10000 10 25
+execute if score @p Timer matches 2330 run particleex tickparameter minecraft:end_rod ~2330 ~0 ~50 1.000 1.000 0.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=2.00000*t;" 0.05000 20 25
+execute if score @p Timer matches 2342 run particleex parameter minecraft:end_rod ~2342 ~0 ~54 1.000 1.000 1.000 1.000 0 0 0 0 16.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 2336 run particleex tickparameter minecraft:end_rod ~2336 ~0 ~62 0.000 1.000 1.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=1.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 2342 run particleex tickparameter minecraft:end_rod ~2342 ~0 ~70 1.000 0.000 0.000 1.000 0 0 0 0 9 "x=1*t;y=0.00000*t;z=-0.11111*t;" 0.10000 10 25
+execute if score @p Timer matches 2354 run particleex parameter minecraft:end_rod ~2354 ~0 ~43 1.000 1.000 1.000 1.000 0 0 0 0 24.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 2351 run particleex tickparameter minecraft:end_rod ~2351 ~0 ~69 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 2354 run particleex tickparameter minecraft:end_rod ~2354 ~0 ~67 1.000 1.000 0.000 1.000 0 0 0 0 24 "x=1*t;y=0.00000*t;z=-0.50000*t;" 0.10000 10 25
+execute if score @p Timer matches 2378 run particleex tickparameter minecraft:end_rod ~2378 ~0 ~55 0.000 0.000 1.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=1.16667*t;" 0.10000 10 25
+execute if score @p Timer matches 2384 run particleex tickparameter minecraft:end_rod ~2384 ~0 ~62 0.000 1.000 1.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=0.83333*t;" 0.10000 10 25
+execute if score @p Timer matches 2390 run particleex tickparameter minecraft:end_rod ~2390 ~0 ~67 1.000 0.644 0.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=0.50000*t;" 0.10000 10 25
+execute if score @p Timer matches 2402 run particleex parameter minecraft:end_rod ~2402 ~0 ~48 1.000 1.000 1.000 1.000 0 0 0 0 26.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 2396 run particleex tickparameter minecraft:end_rod ~2396 ~0 ~70 0.542 0.000 1.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=0.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 2402 run particleex tickparameter minecraft:end_rod ~2402 ~0 ~74 1.000 0.000 0.000 1.000 0 0 0 0 9 "x=1*t;y=0.00000*t;z=-0.22222*t;" 0.10000 10 25
+execute if score @p Timer matches 2411 run particleex tickparameter minecraft:end_rod ~2411 ~0 ~72 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 2414 run particleex tickparameter minecraft:end_rod ~2414 ~0 ~74 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 2417 run particleex tickparameter minecraft:end_rod ~2417 ~0 ~75 0.542 0.000 1.000 1.000 0 0 0 0 9 "x=1*t;y=0.00000*t;z=-2.77778*t;" 0.05000 20 25
+execute if score @p Timer matches 2426 run particleex tickparameter minecraft:end_rod ~2426 ~0 ~50 0.000 1.000 0.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=2.00000*t;" 0.05000 20 25
+execute if score @p Timer matches 2432 run particleex tickparameter minecraft:end_rod ~2432 ~0 ~62 0.000 1.000 0.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=1.16667*t;" 0.10000 10 25
+execute if score @p Timer matches 2438 run particleex tickparameter minecraft:end_rod ~2438 ~0 ~69 1.000 0.644 0.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=0.50000*t;" 0.10000 10 25
+execute if score @p Timer matches 2450 run particleex parameter minecraft:end_rod ~2450 ~0 ~43 1.000 1.000 1.000 1.000 0 0 0 0 29.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 2444 run particleex tickparameter minecraft:end_rod ~2444 ~0 ~72 0.542 0.000 1.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-4.83333*t;" 0.02500 40 25
+execute if score @p Timer matches 2450 run particleex tickparameter minecraft:end_rod ~2450 ~0 ~43 1.000 0.644 0.000 1.000 0 0 0 0 9 "x=1*t;y=0.00000*t;z=3.00000*t;" 0.03333 30 25
+execute if score @p Timer matches 2459 run particleex tickparameter minecraft:end_rod ~2459 ~0 ~70 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 2462 run particleex tickparameter minecraft:end_rod ~2462 ~0 ~72 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 2465 run particleex tickparameter minecraft:end_rod ~2465 ~0 ~74 1.000 0.644 0.000 1.000 0 0 0 0 9 "x=1*t;y=0.00000*t;z=-2.11111*t;" 0.05000 20 25
+execute if score @p Timer matches 2474 run particleex tickparameter minecraft:end_rod ~2474 ~0 ~55 0.000 1.000 1.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=1.16667*t;" 0.10000 10 25
+execute if score @p Timer matches 2480 run particleex tickparameter minecraft:end_rod ~2480 ~0 ~62 1.000 0.644 0.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=1.16667*t;" 0.10000 10 25
+execute if score @p Timer matches 2486 run particleex tickparameter minecraft:end_rod ~2486 ~0 ~69 0.000 0.000 1.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=0.16667*t;" 0.10000 10 25
+execute if score @p Timer matches 2498 run particleex parameter minecraft:end_rod ~2498 ~0 ~51 1.000 1.000 1.000 1.000 0 0 0 0 19.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 2492 run particleex tickparameter minecraft:end_rod ~2492 ~0 ~70 0.000 0.000 1.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-3.16667*t;" 0.03333 30 25
+execute if score @p Timer matches 2498 run particleex tickparameter minecraft:end_rod ~2498 ~0 ~51 0.000 1.000 1.000 1.000 0 0 0 0 9 "x=1*t;y=0.00000*t;z=2.00000*t;" 0.05000 20 25
+execute if score @p Timer matches 2507 run particleex tickparameter minecraft:end_rod ~2507 ~0 ~69 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 2510 run particleex tickparameter minecraft:end_rod ~2510 ~0 ~72 0.000 1.000 1.000 1.000 0 0 0 0 12 "x=1*t;y=0.00000*t;z=-2.25000*t;" 0.05000 20 25
+execute if score @p Timer matches 2522 run particleex tickparameter minecraft:end_rod ~2522 ~0 ~45 1.000 0.000 0.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=2.83333*t;" 0.03333 30 25
+execute if score @p Timer matches 2528 run particleex tickparameter minecraft:end_rod ~2528 ~0 ~62 1.000 0.000 0.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=0.83333*t;" 0.10000 10 25
+execute if score @p Timer matches 2534 run particleex tickparameter minecraft:end_rod ~2534 ~0 ~67 0.000 1.000 1.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=0.50000*t;" 0.10000 10 25
+execute if score @p Timer matches 2546 run particleex parameter minecraft:end_rod ~2546 ~0 ~50 1.000 1.000 1.000 1.000 0 0 0 0 20.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 2540 run particleex tickparameter minecraft:end_rod ~2540 ~0 ~70 0.000 0.000 1.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 2546 run particleex tickparameter minecraft:end_rod ~2546 ~0 ~70 0.000 0.000 1.000 1.000 0 0 0 0 9 "x=1*t;y=0.00000*t;z=0.22222*t;" 0.10000 10 25
+execute if score @p Timer matches 2555 run particleex tickparameter minecraft:end_rod ~2555 ~0 ~72 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 2558 run particleex tickparameter minecraft:end_rod ~2558 ~0 ~69 0.000 1.000 1.000 1.000 0 0 0 0 12 "x=1*t;y=0.00000*t;z=-1.25000*t;" 0.10000 10 25
+execute if score @p Timer matches 2570 run particleex tickparameter minecraft:end_rod ~2570 ~0 ~54 0.000 1.000 0.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=1.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 2576 run particleex tickparameter minecraft:end_rod ~2576 ~0 ~62 0.000 1.000 1.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=0.83333*t;" 0.10000 10 25
+execute if score @p Timer matches 2582 run particleex tickparameter minecraft:end_rod ~2582 ~0 ~67 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 2585 run particleex tickparameter minecraft:end_rod ~2585 ~0 ~70 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=2.33333*t;" 0.05000 20 25
+execute if score @p Timer matches 2588 run particleex tickparameter minecraft:end_rod ~2588 ~0 ~77 1.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 2594 run particleex parameter minecraft:end_rod ~2594 ~0 ~48 1.000 1.000 1.000 1.000 0 0 0 0 26.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 2591 run particleex tickparameter minecraft:end_rod ~2591 ~0 ~75 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-9.00000*t;" 0.01111 90 25
+execute if score @p Timer matches 2594 run particleex tickparameter minecraft:end_rod ~2594 ~0 ~48 0.000 1.000 1.000 1.000 0 0 0 0 9 "x=1*t;y=0.00000*t;z=2.66667*t;" 0.05000 20 25
+execute if score @p Timer matches 2603 run particleex tickparameter minecraft:end_rod ~2603 ~0 ~72 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=3.00000*t;" 0.03333 30 25
+execute if score @p Timer matches 2606 run particleex tickparameter minecraft:end_rod ~2606 ~0 ~81 1.000 0.644 0.000 1.000 0 0 0 0 12 "x=1*t;y=0.00000*t;z=-2.58333*t;" 0.05000 20 25
+execute if score @p Timer matches 2618 run particleex tickparameter minecraft:end_rod ~2618 ~0 ~50 1.000 0.000 0.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=3.33333*t;" 0.03333 30 25
+execute if score @p Timer matches 2624 run particleex tickparameter minecraft:end_rod ~2624 ~0 ~70 0.000 1.000 1.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-0.16667*t;" 0.10000 10 25
+execute if score @p Timer matches 2630 run particleex tickparameter minecraft:end_rod ~2630 ~0 ~69 1.000 0.644 0.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-1.16667*t;" 0.10000 10 25
+execute if score @p Timer matches 2642 run particleex parameter minecraft:end_rod ~2642 ~0 ~43 1.000 1.000 1.000 1.000 0 0 0 0 17.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 2636 run particleex tickparameter minecraft:end_rod ~2636 ~0 ~62 0.542 0.000 1.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 2642 run particleex tickparameter minecraft:end_rod ~2642 ~0 ~60 0.000 1.000 0.000 1.000 0 0 0 0 9 "x=1*t;y=0.00000*t;z=0.22222*t;" 0.10000 10 25
+execute if score @p Timer matches 2651 run particleex tickparameter minecraft:end_rod ~2651 ~0 ~62 0.000 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 2654 run particleex tickparameter minecraft:end_rod ~2654 ~0 ~58 1.000 0.644 0.000 1.000 0 0 0 0 12 "x=1*t;y=0.00000*t;z=-0.41667*t;" 0.10000 10 25
+execute if score @p Timer matches 2666 run particleex tickparameter minecraft:end_rod ~2666 ~0 ~53 1.000 0.000 0.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=2.83333*t;" 0.03333 30 25
+execute if score @p Timer matches 2672 run particleex tickparameter minecraft:end_rod ~2672 ~0 ~70 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 2675 run particleex tickparameter minecraft:end_rod ~2675 ~0 ~72 0.000 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 2678 run particleex tickparameter minecraft:end_rod ~2678 ~0 ~69 0.000 1.000 1.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=0.16667*t;" 0.10000 10 25
+execute if score @p Timer matches 2690 run particleex parameter minecraft:end_rod ~2690 ~0 ~51 1.000 1.000 1.000 1.000 0 0 0 0 23.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 2684 run particleex tickparameter minecraft:end_rod ~2684 ~0 ~70 0.542 0.000 1.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-3.16667*t;" 0.03333 30 25
+execute if score @p Timer matches 2690 run particleex tickparameter minecraft:end_rod ~2690 ~0 ~51 0.000 0.000 1.000 1.000 0 0 0 0 9 "x=1*t;y=0.00000*t;z=2.11111*t;" 0.05000 20 25
+execute if score @p Timer matches 2699 run particleex tickparameter minecraft:end_rod ~2699 ~0 ~70 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 2702 run particleex tickparameter minecraft:end_rod ~2702 ~0 ~67 1.000 0.000 0.000 1.000 0 0 0 0 12 "x=1*t;y=0.00000*t;z=-1.41667*t;" 0.10000 10 25
+execute if score @p Timer matches 2714 run particleex tickparameter minecraft:end_rod ~2714 ~0 ~50 1.000 1.000 0.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=2.00000*t;" 0.05000 20 25
+execute if score @p Timer matches 2720 run particleex tickparameter minecraft:end_rod ~2720 ~0 ~62 0.000 1.000 0.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=1.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 2726 run particleex tickparameter minecraft:end_rod ~2726 ~0 ~70 1.000 1.000 0.000 1.000 0 0 0 0 9 "x=1*t;y=0.00000*t;z=-0.11111*t;" 0.10000 10 25
+execute if score @p Timer matches 2738 run particleex parameter minecraft:end_rod ~2738 ~0 ~48 1.000 1.000 1.000 1.000 0 0 0 0 19.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 2735 run particleex tickparameter minecraft:end_rod ~2735 ~0 ~69 0.000 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-7.00000*t;" 0.01429 70 25
+execute if score @p Timer matches 2762 run particleex parameter minecraft:end_rod ~2762 ~0 ~48 1.000 1.000 1.000 1.000 0 0 0 0 10.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 2762 run particleex parameter minecraft:end_rod ~2762 ~0 ~58 1.000 1.000 1.000 1.000 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 2762 run particleex parameter minecraft:end_rod ~2762 ~0 ~62 1.000 1.000 1.000 1.000 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 2738 run particleex tickparameter minecraft:end_rod ~2738 ~0 ~48 0.000 0.000 1.000 1.000 0 0 0 0 24 "x=1*t;y=0.00000*t;z=0.79167*t;" 0.10000 10 25
+execute if score @p Timer matches 2786 run particleex parameter minecraft:end_rod ~2786 ~0 ~47 1.000 1.000 1.000 1.000 0 0 0 0 20.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 2762 run particleex tickparameter minecraft:end_rod ~2762 ~0 ~67 0.000 1.000 0.000 1.000 0 0 0 0 24 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 2786 run particleex tickparameter minecraft:end_rod ~2786 ~0 ~67 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-4.00000*t;" 0.02500 40 25
+execute if score @p Timer matches 2789 run particleex tickparameter minecraft:end_rod ~2789 ~0 ~55 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 2792 run particleex tickparameter minecraft:end_rod ~2792 ~0 ~50 1.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 2795 run particleex tickparameter minecraft:end_rod ~2795 ~0 ~55 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-2.66667*t;" 0.05000 20 25
+execute if score @p Timer matches 2798 run particleex tickparameter minecraft:end_rod ~2798 ~0 ~47 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=2.66667*t;" 0.05000 20 25
+execute if score @p Timer matches 2801 run particleex tickparameter minecraft:end_rod ~2801 ~0 ~55 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 2804 run particleex tickparameter minecraft:end_rod ~2804 ~0 ~50 1.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 2810 run particleex parameter minecraft:end_rod ~2810 ~0 ~47 1.000 1.000 1.000 1.000 0 0 0 0 15.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 2807 run particleex tickparameter minecraft:end_rod ~2807 ~0 ~55 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-2.66667*t;" 0.05000 20 25
+execute if score @p Timer matches 2810 run particleex tickparameter minecraft:end_rod ~2810 ~0 ~47 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=2.66667*t;" 0.05000 20 25
+execute if score @p Timer matches 2813 run particleex tickparameter minecraft:end_rod ~2813 ~0 ~55 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 2816 run particleex tickparameter minecraft:end_rod ~2816 ~0 ~50 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 2819 run particleex tickparameter minecraft:end_rod ~2819 ~0 ~55 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-2.66667*t;" 0.05000 20 25
+execute if score @p Timer matches 2822 run particleex tickparameter minecraft:end_rod ~2822 ~0 ~47 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=2.66667*t;" 0.05000 20 25
+execute if score @p Timer matches 2828 run particleex parameter minecraft:end_rod ~2828 ~0 ~50 1.000 1.000 1.000 1.000 0 0 0 0 13.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 2825 run particleex tickparameter minecraft:end_rod ~2825 ~0 ~55 0.000 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=2.66667*t;" 0.05000 20 25
+execute if score @p Timer matches 2831 run particleex parameter minecraft:end_rod ~2831 ~0 ~55 1.000 1.000 1.000 1.000 0 0 0 0 10.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 2828 run particleex tickparameter minecraft:end_rod ~2828 ~0 ~63 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-2.66667*t;" 0.05000 20 25
+execute if score @p Timer matches 2834 run particleex parameter minecraft:end_rod ~2834 ~0 ~48 1.000 1.000 1.000 1.000 0 0 0 0 17.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 2831 run particleex tickparameter minecraft:end_rod ~2831 ~0 ~55 1.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-2.33333*t;" 0.05000 20 25
+execute if score @p Timer matches 2834 run particleex tickparameter minecraft:end_rod ~2834 ~0 ~48 0.000 1.000 0.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=2.50000*t;" 0.05000 20 25
+execute if score @p Timer matches 2840 run particleex tickparameter minecraft:end_rod ~2840 ~0 ~63 1.000 1.000 0.000 1.000 0 0 0 0 1 "x=1*t;y=0.00000*t;z=2.00000*t;" 0.05000 20 25
+execute if score @p Timer matches 2841 run particleex tickparameter minecraft:end_rod ~2841 ~0 ~65 0.000 0.000 1.000 1.000 0 0 0 0 2 "x=1*t;y=0.00000*t;z=-1.50000*t;" 0.10000 10 25
+execute if score @p Timer matches 2846 run particleex parameter minecraft:end_rod ~2846 ~0 ~48 1.000 1.000 1.000 1.000 0 0 0 0 15.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 2843 run particleex tickparameter minecraft:end_rod ~2843 ~0 ~62 0.000 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 2846 run particleex tickparameter minecraft:end_rod ~2846 ~0 ~63 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 2852 run particleex parameter minecraft:end_rod ~2852 ~0 ~55 1.000 1.000 1.000 1.000 0 0 0 0 17.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 2849 run particleex tickparameter minecraft:end_rod ~2849 ~0 ~67 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-4.00000*t;" 0.02500 40 25
+execute if score @p Timer matches 2852 run particleex tickparameter minecraft:end_rod ~2852 ~0 ~55 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=6.33333*t;" 0.01667 60 25
+execute if score @p Timer matches 2855 run particleex tickparameter minecraft:end_rod ~2855 ~0 ~74 0.000 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 2906 run particleex parameter minecraft:end_rod ~2906 ~0 ~45 1.000 1.000 1.000 1.000 0 0 0 0 20.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 2858 run particleex tickparameter minecraft:end_rod ~2858 ~0 ~75 0.000 1.000 0.000 1.000 0 0 0 0 48 "x=1*t;y=0.00000*t;z=-0.20833*t;" 0.10000 10 25
+execute if score @p Timer matches 2906 run particleex tickparameter minecraft:end_rod ~2906 ~0 ~65 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-4.00000*t;" 0.02500 40 25
+execute if score @p Timer matches 2909 run particleex tickparameter minecraft:end_rod ~2909 ~0 ~53 0.000 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 2912 run particleex tickparameter minecraft:end_rod ~2912 ~0 ~48 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 2918 run particleex parameter minecraft:end_rod ~2918 ~0 ~45 1.000 1.000 1.000 1.000 0 0 0 0 15.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 2915 run particleex tickparameter minecraft:end_rod ~2915 ~0 ~53 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-2.66667*t;" 0.05000 20 25
+execute if score @p Timer matches 2918 run particleex tickparameter minecraft:end_rod ~2918 ~0 ~45 0.000 0.000 1.000 1.000 0 0 0 0 2 "x=1*t;y=0.00000*t;z=8.50000*t;" 0.01250 80 25
+execute if score @p Timer matches 2920 run particleex tickparameter minecraft:end_rod ~2920 ~0 ~62 1.000 0.000 0.000 1.000 0 0 0 0 2 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 2922 run particleex tickparameter minecraft:end_rod ~2922 ~0 ~60 1.000 0.000 0.000 1.000 0 0 0 0 2 "x=1*t;y=0.00000*t;z=-0.50000*t;" 0.10000 10 25
+execute if score @p Timer matches 2924 run particleex tickparameter minecraft:end_rod ~2924 ~0 ~59 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 2930 run particleex parameter minecraft:end_rod ~2930 ~0 ~45 1.000 1.000 1.000 1.000 0 0 0 0 20.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 2927 run particleex tickparameter minecraft:end_rod ~2927 ~0 ~60 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-5.00000*t;" 0.02000 50 25
+execute if score @p Timer matches 2933 run particleex parameter minecraft:end_rod ~2933 ~0 ~53 1.000 1.000 1.000 1.000 0 0 0 0 10.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 2930 run particleex tickparameter minecraft:end_rod ~2930 ~0 ~45 0.000 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=2.66667*t;" 0.05000 20 25
+execute if score @p Timer matches 2936 run particleex parameter minecraft:end_rod ~2936 ~0 ~48 1.000 1.000 1.000 1.000 0 0 0 0 21.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 2933 run particleex tickparameter minecraft:end_rod ~2933 ~0 ~53 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 2939 run particleex parameter minecraft:end_rod ~2939 ~0 ~53 1.000 1.000 1.000 1.000 0 0 0 0 19.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 2936 run particleex tickparameter minecraft:end_rod ~2936 ~0 ~48 1.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 2942 run particleex parameter minecraft:end_rod ~2942 ~0 ~45 1.000 1.000 1.000 1.000 0 0 0 0 20.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 2939 run particleex tickparameter minecraft:end_rod ~2939 ~0 ~53 0.000 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=4.00000*t;" 0.02500 40 25
+execute if score @p Timer matches 2945 run particleex parameter minecraft:end_rod ~2945 ~0 ~53 1.000 1.000 1.000 1.000 0 0 0 0 10.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 2942 run particleex tickparameter minecraft:end_rod ~2942 ~0 ~65 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 2948 run particleex parameter minecraft:end_rod ~2948 ~0 ~48 1.000 1.000 1.000 1.000 0 0 0 0 14.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 2945 run particleex tickparameter minecraft:end_rod ~2945 ~0 ~63 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-5.00000*t;" 0.02000 50 25
+execute if score @p Timer matches 2951 run particleex parameter minecraft:end_rod ~2951 ~0 ~53 1.000 1.000 1.000 1.000 0 0 0 0 7.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 2948 run particleex tickparameter minecraft:end_rod ~2948 ~0 ~48 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 2954 run particleex parameter minecraft:end_rod ~2954 ~0 ~46 1.000 1.000 1.000 1.000 0 0 0 0 16.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 2951 run particleex tickparameter minecraft:end_rod ~2951 ~0 ~53 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=3.00000*t;" 0.03333 30 25
+execute if score @p Timer matches 2954 run particleex tickparameter minecraft:end_rod ~2954 ~0 ~62 0.000 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 2957 run particleex tickparameter minecraft:end_rod ~2957 ~0 ~60 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 2960 run particleex tickparameter minecraft:end_rod ~2960 ~0 ~58 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 2966 run particleex parameter minecraft:end_rod ~2966 ~0 ~50 1.000 1.000 1.000 1.000 0 0 0 0 8.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 2963 run particleex tickparameter minecraft:end_rod ~2963 ~0 ~57 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 2966 run particleex tickparameter minecraft:end_rod ~2966 ~0 ~58 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 2969 run particleex tickparameter minecraft:end_rod ~2969 ~0 ~62 0.000 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 2972 run particleex tickparameter minecraft:end_rod ~2972 ~0 ~65 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 2975 run particleex tickparameter minecraft:end_rod ~2975 ~0 ~70 1.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3026 run particleex parameter minecraft:end_rod ~3026 ~0 ~51 1.000 1.000 1.000 1.000 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 2978 run particleex tickparameter minecraft:end_rod ~2978 ~0 ~74 0.000 1.000 0.000 1.000 0 0 0 0 48 "x=1*t;y=0.00000*t;z=-0.47917*t;" 0.10000 10 25
+execute if score @p Timer matches 3026 run particleex tickparameter minecraft:end_rod ~3026 ~0 ~51 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=5.33333*t;" 0.02000 50 25
+execute if score @p Timer matches 3029 run particleex tickparameter minecraft:end_rod ~3029 ~0 ~67 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3032 run particleex tickparameter minecraft:end_rod ~3032 ~0 ~66 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3035 run particleex tickparameter minecraft:end_rod ~3035 ~0 ~67 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 3038 run particleex tickparameter minecraft:end_rod ~3038 ~0 ~69 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 3041 run particleex tickparameter minecraft:end_rod ~3041 ~0 ~67 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 3044 run particleex tickparameter minecraft:end_rod ~3044 ~0 ~70 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3050 run particleex parameter minecraft:end_rod ~3050 ~0 ~51 1.000 1.000 1.000 1.000 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 3047 run particleex tickparameter minecraft:end_rod ~3047 ~0 ~69 0.000 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-4.66667*t;" 0.02500 40 25
+execute if score @p Timer matches 3050 run particleex tickparameter minecraft:end_rod ~3050 ~0 ~55 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=4.00000*t;" 0.02500 40 25
+execute if score @p Timer matches 3053 run particleex tickparameter minecraft:end_rod ~3053 ~0 ~67 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3056 run particleex tickparameter minecraft:end_rod ~3056 ~0 ~66 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3059 run particleex tickparameter minecraft:end_rod ~3059 ~0 ~65 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3062 run particleex tickparameter minecraft:end_rod ~3062 ~0 ~64 0.000 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3065 run particleex tickparameter minecraft:end_rod ~3065 ~0 ~63 0.000 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3068 run particleex tickparameter minecraft:end_rod ~3068 ~0 ~62 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3074 run particleex parameter minecraft:end_rod ~3074 ~0 ~50 1.000 1.000 1.000 1.000 0 0 0 0 12.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 3071 run particleex tickparameter minecraft:end_rod ~3071 ~0 ~61 1.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-3.66667*t;" 0.03333 30 25
+execute if score @p Timer matches 3074 run particleex tickparameter minecraft:end_rod ~3074 ~0 ~50 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=2.66667*t;" 0.05000 20 25
+execute if score @p Timer matches 3077 run particleex tickparameter minecraft:end_rod ~3077 ~0 ~58 0.000 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3080 run particleex tickparameter minecraft:end_rod ~3080 ~0 ~57 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3083 run particleex tickparameter minecraft:end_rod ~3083 ~0 ~58 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 3086 run particleex tickparameter minecraft:end_rod ~3086 ~0 ~55 0.000 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 3089 run particleex tickparameter minecraft:end_rod ~3089 ~0 ~50 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3092 run particleex tickparameter minecraft:end_rod ~3092 ~0 ~49 1.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3095 run particleex tickparameter minecraft:end_rod ~3095 ~0 ~50 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3098 run particleex tickparameter minecraft:end_rod ~3098 ~0 ~49 1.000 1.000 0.000 1.000 0 0 0 0 2 "x=1*t;y=0.00000*t;z=0.50000*t;" 0.10000 10 25
+execute if score @p Timer matches 3100 run particleex tickparameter minecraft:end_rod ~3100 ~0 ~50 1.000 0.644 0.000 1.000 0 0 0 0 2 "x=1*t;y=0.00000*t;z=0.50000*t;" 0.10000 10 25
+execute if score @p Timer matches 3102 run particleex tickparameter minecraft:end_rod ~3102 ~0 ~51 1.000 0.644 0.000 1.000 0 0 0 0 2 "x=1*t;y=0.00000*t;z=0.50000*t;" 0.10000 10 25
+execute if score @p Timer matches 3104 run particleex tickparameter minecraft:end_rod ~3104 ~0 ~52 1.000 0.000 0.000 1.000 0 0 0 0 2 "x=1*t;y=0.00000*t;z=0.50000*t;" 0.10000 10 25
+execute if score @p Timer matches 3106 run particleex tickparameter minecraft:end_rod ~3106 ~0 ~53 1.000 1.000 0.000 1.000 0 0 0 0 2 "x=1*t;y=0.00000*t;z=0.50000*t;" 0.10000 10 25
+execute if score @p Timer matches 3108 run particleex tickparameter minecraft:end_rod ~3108 ~0 ~54 1.000 0.000 0.000 1.000 0 0 0 0 2 "x=1*t;y=0.00000*t;z=0.50000*t;" 0.10000 10 25
+execute if score @p Timer matches 3110 run particleex tickparameter minecraft:end_rod ~3110 ~0 ~55 0.000 1.000 0.000 1.000 0 0 0 0 4 "x=1*t;y=0.00000*t;z=0.50000*t;" 0.10000 10 25
+execute if score @p Timer matches 3114 run particleex tickparameter minecraft:end_rod ~3114 ~0 ~57 0.000 0.000 1.000 1.000 0 0 0 0 2 "x=1*t;y=0.00000*t;z=0.50000*t;" 0.10000 10 25
+execute if score @p Timer matches 3116 run particleex tickparameter minecraft:end_rod ~3116 ~0 ~58 1.000 0.000 0.000 1.000 0 0 0 0 2 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 3118 run particleex tickparameter minecraft:end_rod ~3118 ~0 ~60 1.000 0.000 0.000 1.000 0 0 0 0 2 "x=1*t;y=0.00000*t;z=0.50000*t;" 0.10000 10 25
+execute if score @p Timer matches 3122 run particleex parameter minecraft:end_rod ~3122 ~0 ~50 1.000 1.000 1.000 1.000 0 0 0 0 12.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 3120 run particleex tickparameter minecraft:end_rod ~3120 ~0 ~61 1.000 0.644 0.000 1.000 0 0 0 0 2 "x=1*t;y=0.00000*t;z=0.50000*t;" 0.10000 10 25
+execute if score @p Timer matches 3122 run particleex tickparameter minecraft:end_rod ~3122 ~0 ~62 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3125 run particleex tickparameter minecraft:end_rod ~3125 ~0 ~58 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 3128 run particleex tickparameter minecraft:end_rod ~3128 ~0 ~55 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=2.33333*t;" 0.05000 20 25
+execute if score @p Timer matches 3131 run particleex tickparameter minecraft:end_rod ~3131 ~0 ~62 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3134 run particleex tickparameter minecraft:end_rod ~3134 ~0 ~63 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3137 run particleex tickparameter minecraft:end_rod ~3137 ~0 ~62 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3140 run particleex tickparameter minecraft:end_rod ~3140 ~0 ~61 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 3146 run particleex parameter minecraft:end_rod ~3146 ~0 ~50 1.000 1.000 1.000 1.000 0 0 0 0 12.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 3143 run particleex tickparameter minecraft:end_rod ~3143 ~0 ~63 0.000 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-4.33333*t;" 0.02500 40 25
+execute if score @p Timer matches 3146 run particleex tickparameter minecraft:end_rod ~3146 ~0 ~50 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 3149 run particleex tickparameter minecraft:end_rod ~3149 ~0 ~55 1.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 3152 run particleex tickparameter minecraft:end_rod ~3152 ~0 ~58 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3155 run particleex tickparameter minecraft:end_rod ~3155 ~0 ~62 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3158 run particleex tickparameter minecraft:end_rod ~3158 ~0 ~63 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3161 run particleex tickparameter minecraft:end_rod ~3161 ~0 ~62 1.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3164 run particleex tickparameter minecraft:end_rod ~3164 ~0 ~61 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 3170 run particleex parameter minecraft:end_rod ~3170 ~0 ~50 1.000 1.000 1.000 1.000 0 0 0 0 12.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 3167 run particleex tickparameter minecraft:end_rod ~3167 ~0 ~63 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-4.33333*t;" 0.02500 40 25
+execute if score @p Timer matches 3170 run particleex tickparameter minecraft:end_rod ~3170 ~0 ~50 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=2.66667*t;" 0.05000 20 25
+execute if score @p Timer matches 3173 run particleex tickparameter minecraft:end_rod ~3173 ~0 ~58 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 3176 run particleex tickparameter minecraft:end_rod ~3176 ~0 ~55 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=2.33333*t;" 0.05000 20 25
+execute if score @p Timer matches 3179 run particleex tickparameter minecraft:end_rod ~3179 ~0 ~62 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3182 run particleex tickparameter minecraft:end_rod ~3182 ~0 ~63 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3185 run particleex tickparameter minecraft:end_rod ~3185 ~0 ~62 0.000 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3188 run particleex tickparameter minecraft:end_rod ~3188 ~0 ~61 0.000 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 3194 run particleex parameter minecraft:end_rod ~3194 ~0 ~50 1.000 1.000 1.000 1.000 0 0 0 0 12.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 3191 run particleex tickparameter minecraft:end_rod ~3191 ~0 ~63 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3194 run particleex tickparameter minecraft:end_rod ~3194 ~0 ~62 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-2.33333*t;" 0.05000 20 25
+execute if score @p Timer matches 3197 run particleex tickparameter minecraft:end_rod ~3197 ~0 ~55 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 3200 run particleex tickparameter minecraft:end_rod ~3200 ~0 ~58 1.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3203 run particleex tickparameter minecraft:end_rod ~3203 ~0 ~62 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3206 run particleex tickparameter minecraft:end_rod ~3206 ~0 ~63 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3209 run particleex tickparameter minecraft:end_rod ~3209 ~0 ~62 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3212 run particleex tickparameter minecraft:end_rod ~3212 ~0 ~61 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 3218 run particleex parameter minecraft:end_rod ~3218 ~0 ~43 1.000 1.000 1.000 1.000 0 0 0 0 19.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 3215 run particleex tickparameter minecraft:end_rod ~3215 ~0 ~63 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-6.66667*t;" 0.01667 60 25
+execute if score @p Timer matches 3218 run particleex tickparameter minecraft:end_rod ~3218 ~0 ~43 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=6.66667*t;" 0.01667 60 25
+execute if score @p Timer matches 3221 run particleex tickparameter minecraft:end_rod ~3221 ~0 ~63 0.000 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3224 run particleex tickparameter minecraft:end_rod ~3224 ~0 ~62 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3227 run particleex tickparameter minecraft:end_rod ~3227 ~0 ~61 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3230 run particleex tickparameter minecraft:end_rod ~3230 ~0 ~62 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3233 run particleex tickparameter minecraft:end_rod ~3233 ~0 ~58 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 3236 run particleex tickparameter minecraft:end_rod ~3236 ~0 ~55 0.000 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=4.00000*t;" 0.02500 40 25
+execute if score @p Timer matches 3242 run particleex parameter minecraft:end_rod ~3242 ~0 ~43 1.000 1.000 1.000 1.000 0 0 0 0 19.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 3239 run particleex tickparameter minecraft:end_rod ~3239 ~0 ~67 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 3242 run particleex tickparameter minecraft:end_rod ~3242 ~0 ~62 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3245 run particleex tickparameter minecraft:end_rod ~3245 ~0 ~63 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3248 run particleex tickparameter minecraft:end_rod ~3248 ~0 ~62 1.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3251 run particleex tickparameter minecraft:end_rod ~3251 ~0 ~61 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3254 run particleex tickparameter minecraft:end_rod ~3254 ~0 ~62 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3257 run particleex tickparameter minecraft:end_rod ~3257 ~0 ~58 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 3260 run particleex tickparameter minecraft:end_rod ~3260 ~0 ~55 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=4.00000*t;" 0.02500 40 25
+execute if score @p Timer matches 3266 run particleex parameter minecraft:end_rod ~3266 ~0 ~53 1.000 1.000 1.000 1.000 0 0 0 0 9.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 3263 run particleex tickparameter minecraft:end_rod ~3263 ~0 ~67 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-4.66667*t;" 0.02500 40 25
+execute if score @p Timer matches 3266 run particleex tickparameter minecraft:end_rod ~3266 ~0 ~53 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=3.33333*t;" 0.03333 30 25
+execute if score @p Timer matches 3269 run particleex tickparameter minecraft:end_rod ~3269 ~0 ~63 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3272 run particleex tickparameter minecraft:end_rod ~3272 ~0 ~62 0.000 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3275 run particleex tickparameter minecraft:end_rod ~3275 ~0 ~61 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3278 run particleex tickparameter minecraft:end_rod ~3278 ~0 ~62 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3281 run particleex tickparameter minecraft:end_rod ~3281 ~0 ~58 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 3284 run particleex tickparameter minecraft:end_rod ~3284 ~0 ~55 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=4.00000*t;" 0.02500 40 25
+execute if score @p Timer matches 3290 run particleex parameter minecraft:end_rod ~3290 ~0 ~53 1.000 1.000 1.000 1.000 0 0 0 0 9.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 3287 run particleex tickparameter minecraft:end_rod ~3287 ~0 ~67 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 3290 run particleex tickparameter minecraft:end_rod ~3290 ~0 ~62 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3293 run particleex tickparameter minecraft:end_rod ~3293 ~0 ~63 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3296 run particleex tickparameter minecraft:end_rod ~3296 ~0 ~62 0.000 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3299 run particleex tickparameter minecraft:end_rod ~3299 ~0 ~61 0.000 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3302 run particleex tickparameter minecraft:end_rod ~3302 ~0 ~62 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3305 run particleex tickparameter minecraft:end_rod ~3305 ~0 ~58 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 3308 run particleex tickparameter minecraft:end_rod ~3308 ~0 ~55 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=4.00000*t;" 0.02500 40 25
+execute if score @p Timer matches 3314 run particleex parameter minecraft:end_rod ~3314 ~0 ~51 1.000 1.000 1.000 1.000 0 0 0 0 11.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 3311 run particleex tickparameter minecraft:end_rod ~3311 ~0 ~67 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 3314 run particleex tickparameter minecraft:end_rod ~3314 ~0 ~62 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3317 run particleex tickparameter minecraft:end_rod ~3317 ~0 ~63 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3320 run particleex tickparameter minecraft:end_rod ~3320 ~0 ~62 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3323 run particleex tickparameter minecraft:end_rod ~3323 ~0 ~61 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3326 run particleex tickparameter minecraft:end_rod ~3326 ~0 ~62 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3329 run particleex tickparameter minecraft:end_rod ~3329 ~0 ~58 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 3332 run particleex tickparameter minecraft:end_rod ~3332 ~0 ~55 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=4.00000*t;" 0.02500 40 25
+execute if score @p Timer matches 3338 run particleex parameter minecraft:end_rod ~3338 ~0 ~51 1.000 1.000 1.000 1.000 0 0 0 0 11.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 3335 run particleex tickparameter minecraft:end_rod ~3335 ~0 ~67 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 3338 run particleex tickparameter minecraft:end_rod ~3338 ~0 ~62 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3341 run particleex tickparameter minecraft:end_rod ~3341 ~0 ~63 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3344 run particleex tickparameter minecraft:end_rod ~3344 ~0 ~62 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3347 run particleex tickparameter minecraft:end_rod ~3347 ~0 ~61 1.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3350 run particleex tickparameter minecraft:end_rod ~3350 ~0 ~62 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3353 run particleex tickparameter minecraft:end_rod ~3353 ~0 ~58 0.000 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 3356 run particleex tickparameter minecraft:end_rod ~3356 ~0 ~55 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=4.00000*t;" 0.02500 40 25
+execute if score @p Timer matches 3362 run particleex parameter minecraft:end_rod ~3362 ~0 ~50 1.000 1.000 1.000 1.000 0 0 0 0 12.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 3359 run particleex tickparameter minecraft:end_rod ~3359 ~0 ~67 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 3362 run particleex tickparameter minecraft:end_rod ~3362 ~0 ~62 0.000 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3365 run particleex tickparameter minecraft:end_rod ~3365 ~0 ~63 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3368 run particleex tickparameter minecraft:end_rod ~3368 ~0 ~62 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3371 run particleex tickparameter minecraft:end_rod ~3371 ~0 ~61 0.000 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3374 run particleex tickparameter minecraft:end_rod ~3374 ~0 ~60 0.000 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 3377 run particleex tickparameter minecraft:end_rod ~3377 ~0 ~57 0.000 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=3.33333*t;" 0.03333 30 25
+execute if score @p Timer matches 3380 run particleex tickparameter minecraft:end_rod ~3380 ~0 ~67 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3386 run particleex parameter minecraft:end_rod ~3386 ~0 ~50 1.000 1.000 1.000 1.000 0 0 0 0 12.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 3383 run particleex tickparameter minecraft:end_rod ~3383 ~0 ~63 0.000 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3386 run particleex tickparameter minecraft:end_rod ~3386 ~0 ~62 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3389 run particleex tickparameter minecraft:end_rod ~3389 ~0 ~63 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3392 run particleex tickparameter minecraft:end_rod ~3392 ~0 ~62 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3395 run particleex tickparameter minecraft:end_rod ~3395 ~0 ~61 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3398 run particleex tickparameter minecraft:end_rod ~3398 ~0 ~62 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 3401 run particleex tickparameter minecraft:end_rod ~3401 ~0 ~60 1.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 3404 run particleex tickparameter minecraft:end_rod ~3404 ~0 ~58 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 3410 run particleex parameter minecraft:end_rod ~3410 ~0 ~43 1.000 1.000 1.000 1.000 0 0 0 0 31.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 3407 run particleex tickparameter minecraft:end_rod ~3407 ~0 ~60 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-5.66667*t;" 0.02000 50 25
+execute if score @p Timer matches 3410 run particleex tickparameter minecraft:end_rod ~3410 ~0 ~43 0.000 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=9.00000*t;" 0.01111 90 25
+execute if score @p Timer matches 3413 run particleex tickparameter minecraft:end_rod ~3413 ~0 ~70 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 3416 run particleex tickparameter minecraft:end_rod ~3416 ~0 ~67 1.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 3419 run particleex tickparameter minecraft:end_rod ~3419 ~0 ~70 1.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3422 run particleex tickparameter minecraft:end_rod ~3422 ~0 ~74 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3425 run particleex tickparameter minecraft:end_rod ~3425 ~0 ~70 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 3428 run particleex tickparameter minecraft:end_rod ~3428 ~0 ~67 1.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 3434 run particleex parameter minecraft:end_rod ~3434 ~0 ~43 1.000 1.000 1.000 1.000 0 0 0 0 31.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 3431 run particleex tickparameter minecraft:end_rod ~3431 ~0 ~70 1.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-9.00000*t;" 0.01111 90 25
+execute if score @p Timer matches 3434 run particleex tickparameter minecraft:end_rod ~3434 ~0 ~43 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=9.00000*t;" 0.01111 90 25
+execute if score @p Timer matches 3437 run particleex tickparameter minecraft:end_rod ~3437 ~0 ~70 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 3440 run particleex tickparameter minecraft:end_rod ~3440 ~0 ~67 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 3443 run particleex tickparameter minecraft:end_rod ~3443 ~0 ~70 0.000 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3446 run particleex tickparameter minecraft:end_rod ~3446 ~0 ~74 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3449 run particleex tickparameter minecraft:end_rod ~3449 ~0 ~70 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 3452 run particleex tickparameter minecraft:end_rod ~3452 ~0 ~67 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 3458 run particleex parameter minecraft:end_rod ~3458 ~0 ~53 1.000 1.000 1.000 1.000 0 0 0 0 21.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 3455 run particleex tickparameter minecraft:end_rod ~3455 ~0 ~70 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-5.66667*t;" 0.02000 50 25
+execute if score @p Timer matches 3458 run particleex tickparameter minecraft:end_rod ~3458 ~0 ~53 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=5.66667*t;" 0.02000 50 25
+execute if score @p Timer matches 3461 run particleex tickparameter minecraft:end_rod ~3461 ~0 ~70 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3464 run particleex tickparameter minecraft:end_rod ~3464 ~0 ~69 1.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3467 run particleex tickparameter minecraft:end_rod ~3467 ~0 ~70 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-2.66667*t;" 0.05000 20 25
+execute if score @p Timer matches 3470 run particleex tickparameter minecraft:end_rod ~3470 ~0 ~62 1.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=2.66667*t;" 0.05000 20 25
+execute if score @p Timer matches 3473 run particleex tickparameter minecraft:end_rod ~3473 ~0 ~70 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3476 run particleex tickparameter minecraft:end_rod ~3476 ~0 ~69 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3482 run particleex parameter minecraft:end_rod ~3482 ~0 ~53 1.000 1.000 1.000 1.000 0 0 0 0 21.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 3479 run particleex tickparameter minecraft:end_rod ~3479 ~0 ~70 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3482 run particleex tickparameter minecraft:end_rod ~3482 ~0 ~74 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3485 run particleex tickparameter minecraft:end_rod ~3485 ~0 ~70 1.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3488 run particleex tickparameter minecraft:end_rod ~3488 ~0 ~69 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3491 run particleex tickparameter minecraft:end_rod ~3491 ~0 ~70 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-2.66667*t;" 0.05000 20 25
+execute if score @p Timer matches 3494 run particleex tickparameter minecraft:end_rod ~3494 ~0 ~62 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=2.66667*t;" 0.05000 20 25
+execute if score @p Timer matches 3497 run particleex tickparameter minecraft:end_rod ~3497 ~0 ~70 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3500 run particleex tickparameter minecraft:end_rod ~3500 ~0 ~69 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3506 run particleex parameter minecraft:end_rod ~3506 ~0 ~51 1.000 1.000 1.000 1.000 0 0 0 0 23.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 3503 run particleex tickparameter minecraft:end_rod ~3503 ~0 ~70 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3506 run particleex tickparameter minecraft:end_rod ~3506 ~0 ~74 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3509 run particleex tickparameter minecraft:end_rod ~3509 ~0 ~70 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 3512 run particleex tickparameter minecraft:end_rod ~3512 ~0 ~67 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 3515 run particleex tickparameter minecraft:end_rod ~3515 ~0 ~70 0.000 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3518 run particleex tickparameter minecraft:end_rod ~3518 ~0 ~74 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3521 run particleex tickparameter minecraft:end_rod ~3521 ~0 ~70 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 3524 run particleex tickparameter minecraft:end_rod ~3524 ~0 ~67 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 3530 run particleex parameter minecraft:end_rod ~3530 ~0 ~51 1.000 1.000 1.000 1.000 0 0 0 0 23.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 3527 run particleex tickparameter minecraft:end_rod ~3527 ~0 ~70 0.000 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3530 run particleex tickparameter minecraft:end_rod ~3530 ~0 ~74 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3533 run particleex tickparameter minecraft:end_rod ~3533 ~0 ~70 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 3536 run particleex tickparameter minecraft:end_rod ~3536 ~0 ~67 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 3539 run particleex tickparameter minecraft:end_rod ~3539 ~0 ~70 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3542 run particleex tickparameter minecraft:end_rod ~3542 ~0 ~74 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3545 run particleex tickparameter minecraft:end_rod ~3545 ~0 ~70 0.000 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 3548 run particleex tickparameter minecraft:end_rod ~3548 ~0 ~67 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 3554 run particleex parameter minecraft:end_rod ~3554 ~0 ~50 1.000 1.000 1.000 1.000 0 0 0 0 12.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 3551 run particleex tickparameter minecraft:end_rod ~3551 ~0 ~70 1.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-6.66667*t;" 0.01667 60 25
+execute if score @p Timer matches 3554 run particleex tickparameter minecraft:end_rod ~3554 ~0 ~50 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=7.33333*t;" 0.01429 70 25
+execute if score @p Timer matches 3557 run particleex tickparameter minecraft:end_rod ~3557 ~0 ~72 0.000 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 3560 run particleex tickparameter minecraft:end_rod ~3560 ~0 ~69 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 3563 run particleex tickparameter minecraft:end_rod ~3563 ~0 ~72 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 3566 run particleex tickparameter minecraft:end_rod ~3566 ~0 ~74 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 3569 run particleex tickparameter minecraft:end_rod ~3569 ~0 ~72 1.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 3572 run particleex tickparameter minecraft:end_rod ~3572 ~0 ~69 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 3578 run particleex parameter minecraft:end_rod ~3578 ~0 ~50 1.000 1.000 1.000 1.000 0 0 0 0 12.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 3575 run particleex tickparameter minecraft:end_rod ~3575 ~0 ~66 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-5.33333*t;" 0.02000 50 25
+execute if score @p Timer matches 3578 run particleex tickparameter minecraft:end_rod ~3578 ~0 ~50 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=7.33333*t;" 0.01429 70 25
+execute if score @p Timer matches 3581 run particleex tickparameter minecraft:end_rod ~3581 ~0 ~72 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 3584 run particleex tickparameter minecraft:end_rod ~3584 ~0 ~69 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 3587 run particleex tickparameter minecraft:end_rod ~3587 ~0 ~72 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 3590 run particleex tickparameter minecraft:end_rod ~3590 ~0 ~74 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 3593 run particleex tickparameter minecraft:end_rod ~3593 ~0 ~72 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 3596 run particleex tickparameter minecraft:end_rod ~3596 ~0 ~69 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 3602 run particleex parameter minecraft:end_rod ~3602 ~0 ~54 1.000 1.000 1.000 1.000 0 0 0 0 3.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 3602 run particleex parameter minecraft:end_rod ~3602 ~0 ~57 1.000 1.000 1.000 1.000 0 0 0 0 5.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 3602 run particleex parameter minecraft:end_rod ~3602 ~0 ~62 1.000 1.000 1.000 1.000 0 0 0 0 4.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 3599 run particleex tickparameter minecraft:end_rod ~3599 ~0 ~67 1.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 3602 run particleex tickparameter minecraft:end_rod ~3602 ~0 ~62 1.000 0.000 0.000 1.000 0 0 0 0 48 "x=1*t;y=0.00000*t;z=-0.39583*t;" 0.10000 10 25
+execute if score @p Timer matches 3650 run particleex tickparameter minecraft:end_rod ~3650 ~0 ~43 0.000 1.000 1.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=3.33333*t;" 0.03333 30 25
+execute if score @p Timer matches 3656 run particleex tickparameter minecraft:end_rod ~3656 ~0 ~63 1.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 3662 run particleex parameter minecraft:end_rod ~3662 ~0 ~43 1.000 1.000 1.000 1.000 0 0 0 0 7.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 3662 run particleex parameter minecraft:end_rod ~3662 ~0 ~50 1.000 1.000 1.000 1.000 0 0 0 0 13.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 3659 run particleex tickparameter minecraft:end_rod ~3659 ~0 ~58 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-5.00000*t;" 0.02000 50 25
+execute if score @p Timer matches 3662 run particleex tickparameter minecraft:end_rod ~3662 ~0 ~43 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=5.00000*t;" 0.02000 50 25
+execute if score @p Timer matches 3665 run particleex tickparameter minecraft:end_rod ~3665 ~0 ~58 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 3668 run particleex tickparameter minecraft:end_rod ~3668 ~0 ~63 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 3674 run particleex parameter minecraft:end_rod ~3674 ~0 ~43 1.000 1.000 1.000 1.000 0 0 0 0 20.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 3671 run particleex tickparameter minecraft:end_rod ~3671 ~0 ~58 1.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-5.00000*t;" 0.02000 50 25
+execute if score @p Timer matches 3674 run particleex tickparameter minecraft:end_rod ~3674 ~0 ~43 0.542 0.000 1.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=3.33333*t;" 0.03333 30 25
+execute if score @p Timer matches 3680 run particleex tickparameter minecraft:end_rod ~3680 ~0 ~63 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 3686 run particleex parameter minecraft:end_rod ~3686 ~0 ~43 1.000 1.000 1.000 1.000 0 0 0 0 7.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 3686 run particleex parameter minecraft:end_rod ~3686 ~0 ~50 1.000 1.000 1.000 1.000 0 0 0 0 13.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 3683 run particleex tickparameter minecraft:end_rod ~3683 ~0 ~58 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-2.66667*t;" 0.05000 20 25
+execute if score @p Timer matches 3686 run particleex tickparameter minecraft:end_rod ~3686 ~0 ~50 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=2.66667*t;" 0.05000 20 25
+execute if score @p Timer matches 3689 run particleex tickparameter minecraft:end_rod ~3689 ~0 ~58 0.000 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 3692 run particleex tickparameter minecraft:end_rod ~3692 ~0 ~63 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 3698 run particleex parameter minecraft:end_rod ~3698 ~0 ~50 1.000 1.000 1.000 1.000 0 0 0 0 13.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 3695 run particleex tickparameter minecraft:end_rod ~3695 ~0 ~58 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-2.66667*t;" 0.05000 20 25
+execute if score @p Timer matches 3698 run particleex tickparameter minecraft:end_rod ~3698 ~0 ~50 0.542 0.000 1.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=2.00000*t;" 0.05000 20 25
+execute if score @p Timer matches 3704 run particleex tickparameter minecraft:end_rod ~3704 ~0 ~62 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3710 run particleex parameter minecraft:end_rod ~3710 ~0 ~48 1.000 1.000 1.000 1.000 0 0 0 0 14.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 3707 run particleex tickparameter minecraft:end_rod ~3707 ~0 ~58 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-3.33333*t;" 0.03333 30 25
+execute if score @p Timer matches 3710 run particleex tickparameter minecraft:end_rod ~3710 ~0 ~48 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=3.33333*t;" 0.03333 30 25
+execute if score @p Timer matches 3713 run particleex tickparameter minecraft:end_rod ~3713 ~0 ~58 1.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3716 run particleex tickparameter minecraft:end_rod ~3716 ~0 ~62 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3722 run particleex parameter minecraft:end_rod ~3722 ~0 ~50 1.000 1.000 1.000 1.000 0 0 0 0 12.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 3719 run particleex tickparameter minecraft:end_rod ~3719 ~0 ~58 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3722 run particleex tickparameter minecraft:end_rod ~3722 ~0 ~62 1.000 1.000 0.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 3728 run particleex tickparameter minecraft:end_rod ~3728 ~0 ~62 1.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3734 run particleex parameter minecraft:end_rod ~3734 ~0 ~48 1.000 1.000 1.000 1.000 0 0 0 0 14.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 3731 run particleex tickparameter minecraft:end_rod ~3731 ~0 ~58 1.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-3.33333*t;" 0.03333 30 25
+execute if score @p Timer matches 3734 run particleex tickparameter minecraft:end_rod ~3734 ~0 ~48 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=3.33333*t;" 0.03333 30 25
+execute if score @p Timer matches 3737 run particleex tickparameter minecraft:end_rod ~3737 ~0 ~58 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3740 run particleex tickparameter minecraft:end_rod ~3740 ~0 ~62 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3746 run particleex parameter minecraft:end_rod ~3746 ~0 ~51 1.000 1.000 1.000 1.000 0 0 0 0 11.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 3743 run particleex tickparameter minecraft:end_rod ~3743 ~0 ~58 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3746 run particleex tickparameter minecraft:end_rod ~3746 ~0 ~62 1.000 0.644 0.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 3752 run particleex tickparameter minecraft:end_rod ~3752 ~0 ~62 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3758 run particleex parameter minecraft:end_rod ~3758 ~0 ~48 1.000 1.000 1.000 1.000 0 0 0 0 7.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 3758 run particleex parameter minecraft:end_rod ~3758 ~0 ~55 1.000 1.000 1.000 1.000 0 0 0 0 7.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 3755 run particleex tickparameter minecraft:end_rod ~3755 ~0 ~58 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-3.33333*t;" 0.03333 30 25
+execute if score @p Timer matches 3758 run particleex tickparameter minecraft:end_rod ~3758 ~0 ~48 1.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=3.33333*t;" 0.03333 30 25
+execute if score @p Timer matches 3761 run particleex tickparameter minecraft:end_rod ~3761 ~0 ~58 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3764 run particleex tickparameter minecraft:end_rod ~3764 ~0 ~62 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3770 run particleex parameter minecraft:end_rod ~3770 ~0 ~51 1.000 1.000 1.000 1.000 0 0 0 0 11.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 3767 run particleex tickparameter minecraft:end_rod ~3767 ~0 ~58 0.000 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-2.33333*t;" 0.05000 20 25
+execute if score @p Timer matches 3770 run particleex tickparameter minecraft:end_rod ~3770 ~0 ~51 0.000 1.000 1.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=1.83333*t;" 0.05000 20 25
+execute if score @p Timer matches 3776 run particleex tickparameter minecraft:end_rod ~3776 ~0 ~62 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3782 run particleex parameter minecraft:end_rod ~3782 ~0 ~48 1.000 1.000 1.000 1.000 0 0 0 0 7.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 3782 run particleex parameter minecraft:end_rod ~3782 ~0 ~55 1.000 1.000 1.000 1.000 0 0 0 0 7.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 3779 run particleex tickparameter minecraft:end_rod ~3779 ~0 ~58 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-3.33333*t;" 0.03333 30 25
+execute if score @p Timer matches 3782 run particleex tickparameter minecraft:end_rod ~3782 ~0 ~48 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=3.33333*t;" 0.03333 30 25
+execute if score @p Timer matches 3785 run particleex tickparameter minecraft:end_rod ~3785 ~0 ~58 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3788 run particleex tickparameter minecraft:end_rod ~3788 ~0 ~62 0.000 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3794 run particleex parameter minecraft:end_rod ~3794 ~0 ~50 1.000 1.000 1.000 1.000 0 0 0 0 12.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 3791 run particleex tickparameter minecraft:end_rod ~3791 ~0 ~58 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-2.66667*t;" 0.05000 20 25
+execute if score @p Timer matches 3794 run particleex tickparameter minecraft:end_rod ~3794 ~0 ~50 1.000 0.644 0.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=2.00000*t;" 0.05000 20 25
+execute if score @p Timer matches 3800 run particleex tickparameter minecraft:end_rod ~3800 ~0 ~62 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 3806 run particleex parameter minecraft:end_rod ~3806 ~0 ~48 1.000 1.000 1.000 1.000 0 0 0 0 6.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 3806 run particleex parameter minecraft:end_rod ~3806 ~0 ~54 1.000 1.000 1.000 1.000 0 0 0 0 8.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 3803 run particleex tickparameter minecraft:end_rod ~3803 ~0 ~60 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-4.00000*t;" 0.02500 40 25
+execute if score @p Timer matches 3806 run particleex tickparameter minecraft:end_rod ~3806 ~0 ~48 1.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=4.00000*t;" 0.02500 40 25
+execute if score @p Timer matches 3809 run particleex tickparameter minecraft:end_rod ~3809 ~0 ~60 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 3812 run particleex tickparameter minecraft:end_rod ~3812 ~0 ~62 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 3818 run particleex parameter minecraft:end_rod ~3818 ~0 ~50 1.000 1.000 1.000 1.000 0 0 0 0 12.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 3815 run particleex tickparameter minecraft:end_rod ~3815 ~0 ~60 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 3818 run particleex tickparameter minecraft:end_rod ~3818 ~0 ~62 0.000 0.000 1.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 3824 run particleex tickparameter minecraft:end_rod ~3824 ~0 ~62 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 3830 run particleex parameter minecraft:end_rod ~3830 ~0 ~48 1.000 1.000 1.000 1.000 0 0 0 0 6.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 3830 run particleex parameter minecraft:end_rod ~3830 ~0 ~54 1.000 1.000 1.000 1.000 0 0 0 0 8.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 3827 run particleex tickparameter minecraft:end_rod ~3827 ~0 ~60 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-4.00000*t;" 0.02500 40 25
+execute if score @p Timer matches 3830 run particleex tickparameter minecraft:end_rod ~3830 ~0 ~48 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=4.00000*t;" 0.02500 40 25
+execute if score @p Timer matches 3833 run particleex tickparameter minecraft:end_rod ~3833 ~0 ~60 0.000 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 3836 run particleex tickparameter minecraft:end_rod ~3836 ~0 ~62 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 3842 run particleex parameter minecraft:end_rod ~3842 ~0 ~43 1.000 1.000 1.000 1.000 0 0 0 0 19.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 3839 run particleex tickparameter minecraft:end_rod ~3839 ~0 ~60 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-5.66667*t;" 0.02000 50 25
+execute if score @p Timer matches 3842 run particleex tickparameter minecraft:end_rod ~3842 ~0 ~43 1.000 0.644 0.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=3.33333*t;" 0.03333 30 25
+execute if score @p Timer matches 3848 run particleex tickparameter minecraft:end_rod ~3848 ~0 ~63 0.542 0.000 1.000 1.000 0 0 0 0 2 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 3850 run particleex tickparameter minecraft:end_rod ~3850 ~0 ~63 0.542 0.000 1.000 1.000 0 0 0 0 2 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 3854 run particleex parameter minecraft:end_rod ~3854 ~0 ~43 1.000 1.000 1.000 1.000 0 0 0 0 19.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 3852 run particleex tickparameter minecraft:end_rod ~3852 ~0 ~63 0.000 0.000 1.000 1.000 0 0 0 0 2 "x=1*t;y=0.00000*t;z=-0.50000*t;" 0.10000 10 25
+execute if score @p Timer matches 3854 run particleex tickparameter minecraft:end_rod ~3854 ~0 ~62 1.000 0.644 0.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=0.16667*t;" 0.10000 10 25
+execute if score @p Timer matches 3860 run particleex tickparameter minecraft:end_rod ~3860 ~0 ~63 0.000 0.000 1.000 1.000 0 0 0 0 2 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 3862 run particleex tickparameter minecraft:end_rod ~3862 ~0 ~63 1.000 1.000 0.000 1.000 0 0 0 0 2 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 3866 run particleex parameter minecraft:end_rod ~3866 ~0 ~43 1.000 1.000 1.000 1.000 0 0 0 0 19.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 3864 run particleex tickparameter minecraft:end_rod ~3864 ~0 ~63 0.000 1.000 1.000 1.000 0 0 0 0 2 "x=1*t;y=0.00000*t;z=-10.00000*t;" 0.01000 100 25
+execute if score @p Timer matches 3866 run particleex tickparameter minecraft:end_rod ~3866 ~0 ~43 0.542 0.000 1.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=3.33333*t;" 0.03333 30 25
+execute if score @p Timer matches 3872 run particleex tickparameter minecraft:end_rod ~3872 ~0 ~63 1.000 1.000 0.000 1.000 0 0 0 0 2 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 3874 run particleex tickparameter minecraft:end_rod ~3874 ~0 ~63 1.000 1.000 0.000 1.000 0 0 0 0 2 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 3878 run particleex parameter minecraft:end_rod ~3878 ~0 ~43 1.000 1.000 1.000 1.000 0 0 0 0 20.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 3876 run particleex tickparameter minecraft:end_rod ~3876 ~0 ~63 0.000 1.000 1.000 1.000 0 0 0 0 2 "x=1*t;y=0.00000*t;z=-10.00000*t;" 0.01000 100 25
+execute if score @p Timer matches 3878 run particleex tickparameter minecraft:end_rod ~3878 ~0 ~43 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=6.33333*t;" 0.01667 60 25
+execute if score @p Timer matches 3881 run particleex tickparameter minecraft:end_rod ~3881 ~0 ~62 1.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3884 run particleex tickparameter minecraft:end_rod ~3884 ~0 ~63 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3890 run particleex parameter minecraft:end_rod ~3890 ~0 ~50 1.000 1.000 1.000 1.000 0 0 0 0 13.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 3887 run particleex tickparameter minecraft:end_rod ~3887 ~0 ~62 1.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3890 run particleex tickparameter minecraft:end_rod ~3890 ~0 ~63 1.000 0.000 0.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-0.16667*t;" 0.10000 10 25
+execute if score @p Timer matches 3896 run particleex tickparameter minecraft:end_rod ~3896 ~0 ~62 0.542 0.000 1.000 1.000 0 0 0 0 2 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 3898 run particleex tickparameter minecraft:end_rod ~3898 ~0 ~62 1.000 0.000 0.000 1.000 0 0 0 0 2 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 3902 run particleex parameter minecraft:end_rod ~3902 ~0 ~48 1.000 1.000 1.000 1.000 0 0 0 0 12.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 3900 run particleex tickparameter minecraft:end_rod ~3900 ~0 ~62 0.000 1.000 1.000 1.000 0 0 0 0 2 "x=1*t;y=0.00000*t;z=-7.00000*t;" 0.01429 70 25
+execute if score @p Timer matches 3902 run particleex tickparameter minecraft:end_rod ~3902 ~0 ~48 0.000 0.000 1.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=2.33333*t;" 0.05000 20 25
+execute if score @p Timer matches 3908 run particleex tickparameter minecraft:end_rod ~3908 ~0 ~62 1.000 1.000 0.000 1.000 0 0 0 0 2 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 3910 run particleex tickparameter minecraft:end_rod ~3910 ~0 ~62 1.000 1.000 0.000 1.000 0 0 0 0 2 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 3914 run particleex parameter minecraft:end_rod ~3914 ~0 ~50 1.000 1.000 1.000 1.000 0 0 0 0 10.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 3912 run particleex tickparameter minecraft:end_rod ~3912 ~0 ~62 1.000 0.000 0.000 1.000 0 0 0 0 2 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 3914 run particleex tickparameter minecraft:end_rod ~3914 ~0 ~60 1.000 1.000 0.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3920 run particleex tickparameter minecraft:end_rod ~3920 ~0 ~62 1.000 0.644 0.000 1.000 0 0 0 0 2 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 3922 run particleex tickparameter minecraft:end_rod ~3922 ~0 ~62 0.000 0.000 1.000 1.000 0 0 0 0 2 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 3926 run particleex parameter minecraft:end_rod ~3926 ~0 ~48 1.000 1.000 1.000 1.000 0 0 0 0 14.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 3924 run particleex tickparameter minecraft:end_rod ~3924 ~0 ~62 1.000 1.000 0.000 1.000 0 0 0 0 2 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 3926 run particleex tickparameter minecraft:end_rod ~3926 ~0 ~62 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 3929 run particleex tickparameter minecraft:end_rod ~3929 ~0 ~60 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 3932 run particleex tickparameter minecraft:end_rod ~3932 ~0 ~62 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 3938 run particleex parameter minecraft:end_rod ~3938 ~0 ~51 1.000 1.000 1.000 1.000 0 0 0 0 11.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 3935 run particleex tickparameter minecraft:end_rod ~3935 ~0 ~60 0.000 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-3.00000*t;" 0.03333 30 25
+execute if score @p Timer matches 3938 run particleex tickparameter minecraft:end_rod ~3938 ~0 ~51 0.000 1.000 1.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=2.00000*t;" 0.05000 20 25
+execute if score @p Timer matches 3944 run particleex tickparameter minecraft:end_rod ~3944 ~0 ~63 0.000 0.000 1.000 1.000 0 0 0 0 2 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 3946 run particleex tickparameter minecraft:end_rod ~3946 ~0 ~63 1.000 0.644 0.000 1.000 0 0 0 0 2 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 3950 run particleex parameter minecraft:end_rod ~3950 ~0 ~48 1.000 1.000 1.000 1.000 0 0 0 0 14.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 3948 run particleex tickparameter minecraft:end_rod ~3948 ~0 ~63 0.000 1.000 1.000 1.000 0 0 0 0 2 "x=1*t;y=0.00000*t;z=-0.50000*t;" 0.10000 10 25
+execute if score @p Timer matches 3950 run particleex tickparameter minecraft:end_rod ~3950 ~0 ~62 0.000 0.000 1.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=0.16667*t;" 0.10000 10 25
+execute if score @p Timer matches 3956 run particleex tickparameter minecraft:end_rod ~3956 ~0 ~63 0.000 1.000 0.000 1.000 0 0 0 0 2 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 3958 run particleex tickparameter minecraft:end_rod ~3958 ~0 ~63 0.000 1.000 0.000 1.000 0 0 0 0 2 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 3962 run particleex parameter minecraft:end_rod ~3962 ~0 ~51 1.000 1.000 1.000 1.000 0 0 0 0 11.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 3960 run particleex tickparameter minecraft:end_rod ~3960 ~0 ~63 1.000 0.644 0.000 1.000 0 0 0 0 2 "x=1*t;y=0.00000*t;z=-6.00000*t;" 0.01667 60 25
+execute if score @p Timer matches 3962 run particleex tickparameter minecraft:end_rod ~3962 ~0 ~51 0.000 1.000 0.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=2.00000*t;" 0.05000 20 25
+execute if score @p Timer matches 3968 run particleex tickparameter minecraft:end_rod ~3968 ~0 ~63 1.000 1.000 0.000 1.000 0 0 0 0 2 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 3970 run particleex tickparameter minecraft:end_rod ~3970 ~0 ~63 1.000 0.644 0.000 1.000 0 0 0 0 2 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 3974 run particleex parameter minecraft:end_rod ~3974 ~0 ~48 1.000 1.000 1.000 1.000 0 0 0 0 15.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 3972 run particleex tickparameter minecraft:end_rod ~3972 ~0 ~63 0.542 0.000 1.000 1.000 0 0 0 0 2 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 3974 run particleex tickparameter minecraft:end_rod ~3974 ~0 ~63 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3977 run particleex tickparameter minecraft:end_rod ~3977 ~0 ~62 0.000 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3980 run particleex tickparameter minecraft:end_rod ~3980 ~0 ~63 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 3986 run particleex parameter minecraft:end_rod ~3986 ~0 ~50 1.000 1.000 1.000 1.000 0 0 0 0 12.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 3983 run particleex tickparameter minecraft:end_rod ~3983 ~0 ~62 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-4.00000*t;" 0.02500 40 25
+execute if score @p Timer matches 3986 run particleex tickparameter minecraft:end_rod ~3986 ~0 ~50 1.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=4.00000*t;" 0.02500 40 25
+execute if score @p Timer matches 3989 run particleex tickparameter minecraft:end_rod ~3989 ~0 ~62 0.542 0.000 1.000 1.000 0 0 0 0 1 "x=1*t;y=0.00000*t;z=-2.00000*t;" 0.05000 20 25
+execute if score @p Timer matches 3990 run particleex tickparameter minecraft:end_rod ~3990 ~0 ~60 1.000 0.000 0.000 1.000 0 0 0 0 2 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 3992 run particleex tickparameter minecraft:end_rod ~3992 ~0 ~62 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 3998 run particleex parameter minecraft:end_rod ~3998 ~0 ~48 1.000 1.000 1.000 1.000 0 0 0 0 14.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 3995 run particleex tickparameter minecraft:end_rod ~3995 ~0 ~62 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 3998 run particleex tickparameter minecraft:end_rod ~3998 ~0 ~62 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 4001 run particleex tickparameter minecraft:end_rod ~4001 ~0 ~62 1.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 4004 run particleex tickparameter minecraft:end_rod ~4004 ~0 ~62 0.000 0.000 1.000 1.000 0 0 0 0 1 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 4005 run particleex tickparameter minecraft:end_rod ~4005 ~0 ~63 0.000 1.000 0.000 1.000 0 0 0 0 2 "x=1*t;y=0.00000*t;z=-0.50000*t;" 0.10000 10 25
+execute if score @p Timer matches 4010 run particleex parameter minecraft:end_rod ~4010 ~0 ~50 1.000 1.000 1.000 1.000 0 0 0 0 12.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 4007 run particleex tickparameter minecraft:end_rod ~4007 ~0 ~62 1.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-4.00000*t;" 0.02500 40 25
+execute if score @p Timer matches 4010 run particleex tickparameter minecraft:end_rod ~4010 ~0 ~50 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=3.33333*t;" 0.03333 30 25
+execute if score @p Timer matches 4013 run particleex tickparameter minecraft:end_rod ~4013 ~0 ~60 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 4016 run particleex tickparameter minecraft:end_rod ~4016 ~0 ~62 0.000 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 4022 run particleex parameter minecraft:end_rod ~4022 ~0 ~48 1.000 1.000 1.000 1.000 0 0 0 0 14.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 4019 run particleex tickparameter minecraft:end_rod ~4019 ~0 ~60 1.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 4022 run particleex tickparameter minecraft:end_rod ~4022 ~0 ~62 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 4025 run particleex tickparameter minecraft:end_rod ~4025 ~0 ~62 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 4028 run particleex tickparameter minecraft:end_rod ~4028 ~0 ~62 1.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 4031 run particleex tickparameter minecraft:end_rod ~4031 ~0 ~60 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-5.66667*t;" 0.02000 50 25
+execute if score @p Timer matches 4046 run particleex parameter minecraft:end_rod ~4046 ~0 ~43 1.000 1.000 1.000 1.000 0 0 0 0 19.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 4034 run particleex tickparameter minecraft:end_rod ~4034 ~0 ~43 1.000 1.000 0.000 1.000 0 0 0 0 12 "x=1*t;y=0.00000*t;z=1.58333*t;" 0.10000 10 25
+execute if score @p Timer matches 4046 run particleex tickparameter minecraft:end_rod ~4046 ~0 ~62 1.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 4049 run particleex tickparameter minecraft:end_rod ~4049 ~0 ~62 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 4052 run particleex tickparameter minecraft:end_rod ~4052 ~0 ~62 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 4058 run particleex parameter minecraft:end_rod ~4058 ~0 ~43 1.000 1.000 1.000 1.000 0 0 0 0 19.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 4055 run particleex tickparameter minecraft:end_rod ~4055 ~0 ~62 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 4058 run particleex tickparameter minecraft:end_rod ~4058 ~0 ~62 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 4061 run particleex tickparameter minecraft:end_rod ~4061 ~0 ~62 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 4064 run particleex tickparameter minecraft:end_rod ~4064 ~0 ~62 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 4070 run particleex parameter minecraft:end_rod ~4070 ~0 ~43 1.000 1.000 1.000 1.000 0 0 0 0 22.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 4067 run particleex tickparameter minecraft:end_rod ~4067 ~0 ~62 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-6.33333*t;" 0.01667 60 25
+execute if score @p Timer matches 4070 run particleex tickparameter minecraft:end_rod ~4070 ~0 ~43 0.000 0.000 1.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=3.16667*t;" 0.03333 30 25
+execute if score @p Timer matches 4082 run particleex parameter minecraft:end_rod ~4082 ~0 ~50 1.000 1.000 1.000 1.000 0 0 0 0 10.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 4076 run particleex tickparameter minecraft:end_rod ~4076 ~0 ~62 0.000 1.000 0.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 4094 run particleex parameter minecraft:end_rod ~4094 ~0 ~48 1.000 1.000 1.000 1.000 0 0 0 0 12.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 4082 run particleex tickparameter minecraft:end_rod ~4082 ~0 ~60 1.000 0.000 0.000 1.000 0 0 0 0 12 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 4094 run particleex tickparameter minecraft:end_rod ~4094 ~0 ~48 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=4.00000*t;" 0.02500 40 25
+execute if score @p Timer matches 4097 run particleex tickparameter minecraft:end_rod ~4097 ~0 ~60 0.000 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 4100 run particleex tickparameter minecraft:end_rod ~4100 ~0 ~60 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 4106 run particleex parameter minecraft:end_rod ~4106 ~0 ~50 1.000 1.000 1.000 1.000 0 0 0 0 10.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 4103 run particleex tickparameter minecraft:end_rod ~4103 ~0 ~60 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-3.33333*t;" 0.03333 30 25
+execute if score @p Timer matches 4106 run particleex tickparameter minecraft:end_rod ~4106 ~0 ~50 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=3.33333*t;" 0.03333 30 25
+execute if score @p Timer matches 4109 run particleex tickparameter minecraft:end_rod ~4109 ~0 ~60 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 4112 run particleex tickparameter minecraft:end_rod ~4112 ~0 ~60 0.000 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 4118 run particleex parameter minecraft:end_rod ~4118 ~0 ~48 1.000 1.000 1.000 1.000 0 0 0 0 12.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 4115 run particleex tickparameter minecraft:end_rod ~4115 ~0 ~58 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-3.33333*t;" 0.03333 30 25
+execute if score @p Timer matches 4118 run particleex tickparameter minecraft:end_rod ~4118 ~0 ~48 1.000 1.000 0.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=2.33333*t;" 0.05000 20 25
+execute if score @p Timer matches 4124 run particleex tickparameter minecraft:end_rod ~4124 ~0 ~62 1.000 0.000 0.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-1.83333*t;" 0.05000 20 25
+execute if score @p Timer matches 4142 run particleex parameter minecraft:end_rod ~4142 ~0 ~48 1.000 1.000 1.000 1.000 0 0 0 0 14.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 4130 run particleex tickparameter minecraft:end_rod ~4130 ~0 ~51 1.000 0.000 0.000 1.000 0 0 0 0 12 "x=1*t;y=0.00000*t;z=-0.25000*t;" 0.10000 10 25
+execute if score @p Timer matches 4142 run particleex tickparameter minecraft:end_rod ~4142 ~0 ~48 0.000 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=4.66667*t;" 0.02500 40 25
+execute if score @p Timer matches 4145 run particleex tickparameter minecraft:end_rod ~4145 ~0 ~62 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 4148 run particleex tickparameter minecraft:end_rod ~4148 ~0 ~62 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 4154 run particleex parameter minecraft:end_rod ~4154 ~0 ~51 1.000 1.000 1.000 1.000 0 0 0 0 11.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 4151 run particleex tickparameter minecraft:end_rod ~4151 ~0 ~62 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-3.66667*t;" 0.03333 30 25
+execute if score @p Timer matches 4154 run particleex tickparameter minecraft:end_rod ~4154 ~0 ~51 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=3.66667*t;" 0.03333 30 25
+execute if score @p Timer matches 4157 run particleex tickparameter minecraft:end_rod ~4157 ~0 ~62 1.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 4160 run particleex tickparameter minecraft:end_rod ~4160 ~0 ~62 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 4166 run particleex parameter minecraft:end_rod ~4166 ~0 ~48 1.000 1.000 1.000 1.000 0 0 0 0 17.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 4163 run particleex tickparameter minecraft:end_rod ~4163 ~0 ~62 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 4166 run particleex tickparameter minecraft:end_rod ~4166 ~0 ~65 1.000 0.644 0.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-0.50000*t;" 0.10000 10 25
+execute if score @p Timer matches 4178 run particleex parameter minecraft:end_rod ~4178 ~0 ~50 1.000 1.000 1.000 1.000 0 0 0 0 10.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 4172 run particleex tickparameter minecraft:end_rod ~4172 ~0 ~62 0.000 1.000 1.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 4190 run particleex parameter minecraft:end_rod ~4190 ~0 ~48 1.000 1.000 1.000 1.000 0 0 0 0 12.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 4178 run particleex tickparameter minecraft:end_rod ~4178 ~0 ~60 0.542 0.000 1.000 1.000 0 0 0 0 12 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 4190 run particleex tickparameter minecraft:end_rod ~4190 ~0 ~60 0.000 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 4193 run particleex tickparameter minecraft:end_rod ~4193 ~0 ~60 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 4196 run particleex tickparameter minecraft:end_rod ~4196 ~0 ~60 0.000 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 4202 run particleex parameter minecraft:end_rod ~4202 ~0 ~50 1.000 1.000 1.000 1.000 0 0 0 0 10.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 4199 run particleex tickparameter minecraft:end_rod ~4199 ~0 ~60 1.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-3.33333*t;" 0.03333 30 25
+execute if score @p Timer matches 4202 run particleex tickparameter minecraft:end_rod ~4202 ~0 ~50 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=3.33333*t;" 0.03333 30 25
+execute if score @p Timer matches 4205 run particleex tickparameter minecraft:end_rod ~4205 ~0 ~60 1.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 4208 run particleex tickparameter minecraft:end_rod ~4208 ~0 ~60 1.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 4214 run particleex parameter minecraft:end_rod ~4214 ~0 ~48 1.000 1.000 1.000 1.000 0 0 0 0 14.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 4211 run particleex tickparameter minecraft:end_rod ~4211 ~0 ~58 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-3.33333*t;" 0.03333 30 25
+execute if score @p Timer matches 4214 run particleex tickparameter minecraft:end_rod ~4214 ~0 ~48 1.000 1.000 0.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=1.16667*t;" 0.10000 10 25
+execute if score @p Timer matches 4220 run particleex tickparameter minecraft:end_rod ~4220 ~0 ~55 0.000 1.000 0.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-2.00000*t;" 0.05000 20 25
+execute if score @p Timer matches 4238 run particleex parameter minecraft:end_rod ~4238 ~0 ~43 1.000 1.000 1.000 1.000 0 0 0 0 19.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 4226 run particleex tickparameter minecraft:end_rod ~4226 ~0 ~43 0.000 1.000 1.000 1.000 0 0 0 0 12 "x=1*t;y=0.00000*t;z=1.58333*t;" 0.10000 10 25
+execute if score @p Timer matches 4238 run particleex tickparameter minecraft:end_rod ~4238 ~0 ~62 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 4241 run particleex tickparameter minecraft:end_rod ~4241 ~0 ~62 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 4244 run particleex tickparameter minecraft:end_rod ~4244 ~0 ~62 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 4250 run particleex parameter minecraft:end_rod ~4250 ~0 ~43 1.000 1.000 1.000 1.000 0 0 0 0 19.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 4247 run particleex tickparameter minecraft:end_rod ~4247 ~0 ~62 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-6.33333*t;" 0.01667 60 25
+execute if score @p Timer matches 4250 run particleex tickparameter minecraft:end_rod ~4250 ~0 ~43 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=6.33333*t;" 0.01667 60 25
+execute if score @p Timer matches 4253 run particleex tickparameter minecraft:end_rod ~4253 ~0 ~62 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 4256 run particleex tickparameter minecraft:end_rod ~4256 ~0 ~62 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 4262 run particleex parameter minecraft:end_rod ~4262 ~0 ~43 1.000 1.000 1.000 1.000 0 0 0 0 22.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 4259 run particleex tickparameter minecraft:end_rod ~4259 ~0 ~62 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 4262 run particleex tickparameter minecraft:end_rod ~4262 ~0 ~65 0.000 0.000 1.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-0.50000*t;" 0.10000 10 25
+execute if score @p Timer matches 4274 run particleex parameter minecraft:end_rod ~4274 ~0 ~50 1.000 1.000 1.000 1.000 0 0 0 0 10.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 4268 run particleex tickparameter minecraft:end_rod ~4268 ~0 ~62 1.000 1.000 0.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 4286 run particleex parameter minecraft:end_rod ~4286 ~0 ~48 1.000 1.000 1.000 1.000 0 0 0 0 12.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 4274 run particleex tickparameter minecraft:end_rod ~4274 ~0 ~60 0.000 0.000 1.000 1.000 0 0 0 0 12 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 4286 run particleex tickparameter minecraft:end_rod ~4286 ~0 ~60 0.000 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 4289 run particleex tickparameter minecraft:end_rod ~4289 ~0 ~60 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 4292 run particleex tickparameter minecraft:end_rod ~4292 ~0 ~60 0.000 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 4298 run particleex parameter minecraft:end_rod ~4298 ~0 ~50 1.000 1.000 1.000 1.000 0 0 0 0 10.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 4295 run particleex tickparameter minecraft:end_rod ~4295 ~0 ~60 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 4298 run particleex tickparameter minecraft:end_rod ~4298 ~0 ~60 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 4301 run particleex tickparameter minecraft:end_rod ~4301 ~0 ~60 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 4304 run particleex tickparameter minecraft:end_rod ~4304 ~0 ~60 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 4310 run particleex parameter minecraft:end_rod ~4310 ~0 ~48 1.000 1.000 1.000 1.000 0 0 0 0 12.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 4307 run particleex tickparameter minecraft:end_rod ~4307 ~0 ~58 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 4310 run particleex tickparameter minecraft:end_rod ~4310 ~0 ~60 1.000 0.000 0.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 4316 run particleex tickparameter minecraft:end_rod ~4316 ~0 ~62 0.542 0.000 1.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-1.83333*t;" 0.05000 20 25
+execute if score @p Timer matches 4334 run particleex parameter minecraft:end_rod ~4334 ~0 ~48 1.000 1.000 1.000 1.000 0 0 0 0 14.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 4322 run particleex tickparameter minecraft:end_rod ~4322 ~0 ~51 1.000 0.644 0.000 1.000 0 0 0 0 12 "x=1*t;y=0.00000*t;z=0.91667*t;" 0.10000 10 25
+execute if score @p Timer matches 4334 run particleex tickparameter minecraft:end_rod ~4334 ~0 ~62 1.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 4337 run particleex tickparameter minecraft:end_rod ~4337 ~0 ~62 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 4340 run particleex tickparameter minecraft:end_rod ~4340 ~0 ~62 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 4346 run particleex parameter minecraft:end_rod ~4346 ~0 ~51 1.000 1.000 1.000 1.000 0 0 0 0 11.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 4343 run particleex tickparameter minecraft:end_rod ~4343 ~0 ~62 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-3.66667*t;" 0.03333 30 25
+execute if score @p Timer matches 4346 run particleex tickparameter minecraft:end_rod ~4346 ~0 ~51 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=3.66667*t;" 0.03333 30 25
+execute if score @p Timer matches 4349 run particleex tickparameter minecraft:end_rod ~4349 ~0 ~62 1.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 4352 run particleex tickparameter minecraft:end_rod ~4352 ~0 ~62 0.000 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 4358 run particleex parameter minecraft:end_rod ~4358 ~0 ~48 1.000 1.000 1.000 1.000 0 0 0 0 17.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 4355 run particleex tickparameter minecraft:end_rod ~4355 ~0 ~62 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 4358 run particleex tickparameter minecraft:end_rod ~4358 ~0 ~65 0.000 1.000 1.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-0.50000*t;" 0.10000 10 25
+execute if score @p Timer matches 4370 run particleex parameter minecraft:end_rod ~4370 ~0 ~50 1.000 1.000 1.000 1.000 0 0 0 0 10.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 4364 run particleex tickparameter minecraft:end_rod ~4364 ~0 ~62 1.000 0.644 0.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-0.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 4382 run particleex parameter minecraft:end_rod ~4382 ~0 ~48 1.000 1.000 1.000 1.000 0 0 0 0 12.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 4370 run particleex tickparameter minecraft:end_rod ~4370 ~0 ~60 1.000 0.000 0.000 1.000 0 0 0 0 12 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 4382 run particleex tickparameter minecraft:end_rod ~4382 ~0 ~60 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 4385 run particleex tickparameter minecraft:end_rod ~4385 ~0 ~60 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 4388 run particleex tickparameter minecraft:end_rod ~4388 ~0 ~60 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 4394 run particleex parameter minecraft:end_rod ~4394 ~0 ~50 1.000 1.000 1.000 1.000 0 0 0 0 10.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 4391 run particleex tickparameter minecraft:end_rod ~4391 ~0 ~60 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 4394 run particleex tickparameter minecraft:end_rod ~4394 ~0 ~60 1.000 0.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 4397 run particleex tickparameter minecraft:end_rod ~4397 ~0 ~60 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 4400 run particleex tickparameter minecraft:end_rod ~4400 ~0 ~60 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 4406 run particleex parameter minecraft:end_rod ~4406 ~0 ~48 1.000 1.000 1.000 1.000 0 0 0 0 14.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 4403 run particleex tickparameter minecraft:end_rod ~4403 ~0 ~58 0.000 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 4406 run particleex tickparameter minecraft:end_rod ~4406 ~0 ~62 0.000 1.000 1.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-1.16667*t;" 0.10000 10 25
+execute if score @p Timer matches 4412 run particleex tickparameter minecraft:end_rod ~4412 ~0 ~55 0.000 1.000 0.000 1.000 0 0 0 0 30 "x=1*t;y=0.00000*t;z=-0.40000*t;" 0.10000 10 25
+execute if score @p Timer matches 4442 run particleex tickparameter minecraft:end_rod ~4442 ~0 ~43 1.000 0.644 0.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=3.16667*t;" 0.03333 30 25
+execute if score @p Timer matches 4448 run particleex tickparameter minecraft:end_rod ~4448 ~0 ~62 1.000 0.644 0.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=0.83333*t;" 0.10000 10 25
+execute if score @p Timer matches 4454 run particleex tickparameter minecraft:end_rod ~4454 ~0 ~67 0.000 1.000 0.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=1.16667*t;" 0.10000 10 25
+execute if score @p Timer matches 4466 run particleex parameter minecraft:end_rod ~4466 ~0 ~48 1.000 1.000 1.000 1.000 0 0 0 0 26.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 4460 run particleex tickparameter minecraft:end_rod ~4460 ~0 ~74 1.000 0.644 0.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-4.33333*t;" 0.02500 40 25
+execute if score @p Timer matches 4466 run particleex tickparameter minecraft:end_rod ~4466 ~0 ~48 1.000 1.000 0.000 1.000 0 0 0 0 9 "x=1*t;y=0.00000*t;z=2.66667*t;" 0.05000 20 25
+execute if score @p Timer matches 4475 run particleex tickparameter minecraft:end_rod ~4475 ~0 ~72 0.000 1.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 4478 run particleex tickparameter minecraft:end_rod ~4478 ~0 ~75 1.000 0.644 0.000 1.000 0 0 0 0 12 "x=1*t;y=0.00000*t;z=-2.08333*t;" 0.05000 20 25
+execute if score @p Timer matches 4490 run particleex tickparameter minecraft:end_rod ~4490 ~0 ~50 0.542 0.000 1.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=2.00000*t;" 0.05000 20 25
+execute if score @p Timer matches 4502 run particleex parameter minecraft:end_rod ~4502 ~0 ~54 1.000 1.000 1.000 1.000 0 0 0 0 15.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 4496 run particleex tickparameter minecraft:end_rod ~4496 ~0 ~62 1.000 0.000 0.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 4502 run particleex tickparameter minecraft:end_rod ~4502 ~0 ~54 1.000 1.000 0.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=3.00000*t;" 0.03333 30 25
+execute if score @p Timer matches 4514 run particleex parameter minecraft:end_rod ~4514 ~0 ~43 1.000 1.000 1.000 1.000 0 0 0 0 29.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 4508 run particleex tickparameter minecraft:end_rod ~4508 ~0 ~72 1.000 0.000 0.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-4.83333*t;" 0.02500 40 25
+execute if score @p Timer matches 4514 run particleex tickparameter minecraft:end_rod ~4514 ~0 ~43 0.000 1.000 0.000 1.000 0 0 0 0 9 "x=1*t;y=0.00000*t;z=3.00000*t;" 0.03333 30 25
+execute if score @p Timer matches 4523 run particleex tickparameter minecraft:end_rod ~4523 ~0 ~70 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 4526 run particleex tickparameter minecraft:end_rod ~4526 ~0 ~74 0.542 0.000 1.000 1.000 0 0 0 0 12 "x=1*t;y=0.00000*t;z=-2.00000*t;" 0.05000 20 25
+execute if score @p Timer matches 4538 run particleex tickparameter minecraft:end_rod ~4538 ~0 ~50 0.000 0.000 1.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=2.00000*t;" 0.05000 20 25
+execute if score @p Timer matches 4550 run particleex parameter minecraft:end_rod ~4550 ~0 ~55 1.000 1.000 1.000 1.000 0 0 0 0 14.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 4544 run particleex tickparameter minecraft:end_rod ~4544 ~0 ~62 0.000 1.000 0.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-1.16667*t;" 0.10000 10 25
+execute if score @p Timer matches 4550 run particleex tickparameter minecraft:end_rod ~4550 ~0 ~55 1.000 1.000 0.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=2.50000*t;" 0.05000 20 25
+execute if score @p Timer matches 4562 run particleex parameter minecraft:end_rod ~4562 ~0 ~51 1.000 1.000 1.000 1.000 0 0 0 0 19.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 4556 run particleex tickparameter minecraft:end_rod ~4556 ~0 ~70 0.542 0.000 1.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 4562 run particleex tickparameter minecraft:end_rod ~4562 ~0 ~70 1.000 0.644 0.000 1.000 0 0 0 0 9 "x=1*t;y=0.00000*t;z=-0.11111*t;" 0.10000 10 25
+execute if score @p Timer matches 4571 run particleex tickparameter minecraft:end_rod ~4571 ~0 ~69 0.542 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 4574 run particleex tickparameter minecraft:end_rod ~4574 ~0 ~72 1.000 0.000 0.000 1.000 0 0 0 0 12 "x=1*t;y=0.00000*t;z=-2.25000*t;" 0.05000 20 25
+execute if score @p Timer matches 4586 run particleex tickparameter minecraft:end_rod ~4586 ~0 ~45 0.000 1.000 1.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=2.83333*t;" 0.03333 30 25
+execute if score @p Timer matches 4598 run particleex parameter minecraft:end_rod ~4598 ~0 ~48 1.000 1.000 1.000 1.000 0 0 0 0 21.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 4592 run particleex tickparameter minecraft:end_rod ~4592 ~0 ~62 1.000 0.000 0.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=1.16667*t;" 0.10000 10 25
+execute if score @p Timer matches 4598 run particleex tickparameter minecraft:end_rod ~4598 ~0 ~69 0.000 1.000 1.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=0.16667*t;" 0.10000 10 25
+execute if score @p Timer matches 4610 run particleex parameter minecraft:end_rod ~4610 ~0 ~50 1.000 1.000 1.000 1.000 0 0 0 0 20.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 4604 run particleex tickparameter minecraft:end_rod ~4604 ~0 ~70 1.000 0.000 0.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 4610 run particleex tickparameter minecraft:end_rod ~4610 ~0 ~70 1.000 0.644 0.000 1.000 0 0 0 0 9 "x=1*t;y=0.00000*t;z=0.22222*t;" 0.10000 10 25
+execute if score @p Timer matches 4619 run particleex tickparameter minecraft:end_rod ~4619 ~0 ~72 0.000 0.000 1.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 4622 run particleex tickparameter minecraft:end_rod ~4622 ~0 ~69 0.542 0.000 1.000 1.000 0 0 0 0 12 "x=1*t;y=0.00000*t;z=-1.58333*t;" 0.10000 10 25
+execute if score @p Timer matches 4634 run particleex tickparameter minecraft:end_rod ~4634 ~0 ~50 1.000 0.000 0.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=2.83333*t;" 0.03333 30 25
+execute if score @p Timer matches 4646 run particleex parameter minecraft:end_rod ~4646 ~0 ~54 1.000 1.000 1.000 1.000 0 0 0 0 16.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 4640 run particleex tickparameter minecraft:end_rod ~4640 ~0 ~67 0.000 0.000 1.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-2.16667*t;" 0.05000 20 25
+execute if score @p Timer matches 4646 run particleex tickparameter minecraft:end_rod ~4646 ~0 ~54 0.542 0.000 1.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=3.33333*t;" 0.03333 30 25
+execute if score @p Timer matches 4658 run particleex parameter minecraft:end_rod ~4658 ~0 ~48 1.000 1.000 1.000 1.000 0 0 0 0 26.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 4652 run particleex tickparameter minecraft:end_rod ~4652 ~0 ~74 1.000 0.644 0.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-4.33333*t;" 0.02500 40 25
+execute if score @p Timer matches 4658 run particleex tickparameter minecraft:end_rod ~4658 ~0 ~48 1.000 1.000 0.000 1.000 0 0 0 0 9 "x=1*t;y=0.00000*t;z=2.66667*t;" 0.05000 20 25
+execute if score @p Timer matches 4667 run particleex tickparameter minecraft:end_rod ~4667 ~0 ~72 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=3.00000*t;" 0.03333 30 25
+execute if score @p Timer matches 4670 run particleex tickparameter minecraft:end_rod ~4670 ~0 ~81 0.000 1.000 1.000 1.000 0 0 0 0 12 "x=1*t;y=0.00000*t;z=-2.58333*t;" 0.05000 20 25
+execute if score @p Timer matches 4682 run particleex tickparameter minecraft:end_rod ~4682 ~0 ~50 1.000 0.000 0.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=5.33333*t;" 0.02000 50 25
+execute if score @p Timer matches 4688 run particleex tickparameter minecraft:end_rod ~4688 ~0 ~82 1.000 0.644 0.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-0.16667*t;" 0.10000 10 25
+execute if score @p Timer matches 4694 run particleex tickparameter minecraft:end_rod ~4694 ~0 ~81 0.000 1.000 0.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-1.16667*t;" 0.10000 10 25
+execute if score @p Timer matches 4706 run particleex parameter minecraft:end_rod ~4706 ~0 ~43 1.000 1.000 1.000 1.000 0 0 0 0 29.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 4700 run particleex tickparameter minecraft:end_rod ~4700 ~0 ~74 0.000 1.000 0.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-5.16667*t;" 0.02000 50 25
+execute if score @p Timer matches 4706 run particleex tickparameter minecraft:end_rod ~4706 ~0 ~43 0.000 1.000 0.000 1.000 0 0 0 0 9 "x=1*t;y=0.00000*t;z=3.44444*t;" 0.03333 30 25
+execute if score @p Timer matches 4715 run particleex tickparameter minecraft:end_rod ~4715 ~0 ~74 0.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 4718 run particleex tickparameter minecraft:end_rod ~4718 ~0 ~70 0.000 1.000 0.000 1.000 0 0 0 0 12 "x=1*t;y=0.00000*t;z=-1.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 4730 run particleex tickparameter minecraft:end_rod ~4730 ~0 ~50 0.000 1.000 0.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=3.33333*t;" 0.03333 30 25
+execute if score @p Timer matches 4742 run particleex parameter minecraft:end_rod ~4742 ~0 ~55 1.000 1.000 1.000 1.000 0 0 0 0 15.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 4736 run particleex tickparameter minecraft:end_rod ~4736 ~0 ~70 1.000 0.000 0.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 4742 run particleex tickparameter minecraft:end_rod ~4742 ~0 ~70 0.542 0.000 1.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=0.00000*t;" 0.10000 10 25
+execute if score @p Timer matches 4754 run particleex parameter minecraft:end_rod ~4754 ~0 ~51 1.000 1.000 1.000 1.000 0 0 0 0 23.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 4748 run particleex tickparameter minecraft:end_rod ~4748 ~0 ~70 1.000 0.000 0.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=0.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 4754 run particleex tickparameter minecraft:end_rod ~4754 ~0 ~74 1.000 0.000 0.000 1.000 0 0 0 0 9 "x=1*t;y=0.00000*t;z=-0.22222*t;" 0.10000 10 25
+execute if score @p Timer matches 4763 run particleex tickparameter minecraft:end_rod ~4763 ~0 ~72 1.000 0.644 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-1.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 4766 run particleex tickparameter minecraft:end_rod ~4766 ~0 ~67 1.000 1.000 0.000 1.000 0 0 0 0 12 "x=1*t;y=0.00000*t;z=-1.41667*t;" 0.10000 10 25
+execute if score @p Timer matches 4778 run particleex tickparameter minecraft:end_rod ~4778 ~0 ~50 0.000 0.000 1.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=2.00000*t;" 0.05000 20 25
+execute if score @p Timer matches 4790 run particleex parameter minecraft:end_rod ~4790 ~0 ~54 1.000 1.000 1.000 1.000 0 0 0 0 16.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 4784 run particleex tickparameter minecraft:end_rod ~4784 ~0 ~62 1.000 1.000 0.000 1.000 0 0 0 0 6 "x=1*t;y=0.00000*t;z=-1.33333*t;" 0.10000 10 25
+execute if score @p Timer matches 4790 run particleex tickparameter minecraft:end_rod ~4790 ~0 ~54 0.000 1.000 0.000 1.000 0 0 0 0 9 "x=1*t;y=0.00000*t;z=1.66667*t;" 0.10000 10 25
+execute if score @p Timer matches 4802 run particleex parameter minecraft:end_rod ~4802 ~0 ~43 1.000 1.000 1.000 1.000 0 0 0 0 12.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 4802 run particleex parameter minecraft:end_rod ~4802 ~0 ~55 1.000 1.000 1.000 1.000 0 0 0 0 12.00000 "x=0*t;y=0.00000*t;z=1.00000*t;" 0.10000 25
+execute if score @p Timer matches 4799 run particleex tickparameter minecraft:end_rod ~4799 ~0 ~69 1.000 1.000 0.000 1.000 0 0 0 0 3 "x=1*t;y=0.00000*t;z=-0.66667*t;" 0.10000 10 25
 execute if score @p Timer matches -30 run tp @p ~-50 ~10 ~60
 execute if score @p Timer matches -29 run tp @p ~-49 ~10 ~60
 execute if score @p Timer matches -28 run tp @p ~-48 ~10 ~60
