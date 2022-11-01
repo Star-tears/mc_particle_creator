@@ -37,11 +37,14 @@ struct Config {
     height: i64,
     tot_tick: i64,
     mid_pitch: i64,
+    midi_xlsx_path: String,
+    output_setblocks_path: String,
+    output_play_path: String,
 }
 
-// opens a new workbook
-fn main() {
+fn init_config() -> Config {
     print!("请输入相对y轴高度: ");
+    let path = r"H:\mc\mc粒子特效\midi_xlsx\最伟大的作品.xlsx";
     stdout().flush().unwrap();
     let mut input = String::new();
     stdin().read_line(&mut input).unwrap();
@@ -51,10 +54,17 @@ fn main() {
         height: y,
         tot_tick: 5000,
         mid_pitch: 60,
+        midi_xlsx_path: r"H:\mc\mc粒子特效\midi_xlsx\最伟大的作品.xlsx".to_string(),
+        output_setblocks_path: "./functions/setblocks.mcfunction".to_string(),
+        output_play_path: "./functions/play.mcfunction".to_string(),
     };
+    config
+}
+// opens a new workbook
+fn main() {
+    let config = init_config();
 
-    let path = r"H:\mc\mc粒子特效\midi_xlsx\最伟大的作品.xlsx";
-    let mut workbook = Excel::open(path).unwrap();
+    let mut workbook = Excel::open(config.midi_xlsx_path.as_str()).unwrap();
     let sheet_list = workbook.sheet_names().unwrap();
     println!("{}", sheet_list[0]);
     // Read whole worksheet data and provide some statistics
@@ -131,6 +141,7 @@ fn get_point_group_list(tick_node_list: &Vec<TickNode>, config: &Config) -> Vec<
     }
     point_group_list
 }
+
 fn get_point_list(tick_node_list: &Vec<TickNode>, config: &Config) -> Vec<Point> {
     let mut point_list = Vec::new();
     for tick_node in tick_node_list {
@@ -164,7 +175,7 @@ fn get_edge_list(point_list: &Vec<Point>, config: &Config) -> Vec<Edge> {
 }
 
 fn create_setblocks_mcfunction(tick_node_list: &Vec<TickNode>, config: &Config) {
-    let mut dest = BufWriter::new(File::create("./setblocks.mcfunction").unwrap());
+    let mut dest = BufWriter::new(File::create(config.output_setblocks_path.as_str()).unwrap());
     for tick_node in tick_node_list {
         for (_, off_z) in tick_node.pitch_set.iter().enumerate() {
             write!(
@@ -183,7 +194,7 @@ fn create_setblocks_mcfunction(tick_node_list: &Vec<TickNode>, config: &Config) 
 }
 
 fn create_play_mcfunction(edge_list: Vec<Edge>, config: &Config) {
-    let mut dest = BufWriter::new(File::create("./play.mcfunction").unwrap());
+    let mut dest = BufWriter::new(File::create(config.output_play_path.as_str()).unwrap());
     for edge in edge_list {
         draw_line(&mut dest, edge.point1, edge.point2);
     }
@@ -203,6 +214,7 @@ fn create_tp_mcfuntion(dest: &mut dyn Write, config: &Config) {
         .unwrap();
     }
 }
+
 fn draw_line(dest: &mut dyn Write, point1: Point, point2: Point) {
     let off_x = point2.x - point1.x;
     let off_y = point2.y - point1.y;
@@ -230,6 +242,7 @@ fn draw_line(dest: &mut dyn Write, point1: Point, point2: Point) {
         write!(dest,"execute if score @p Timer matches {} run particleex parameter minecraft:end_rod ~{} ~{} ~{} 0.8 0.8 0 1 0 0 0 0 {:.5} \"x={}*t;y={:.5}*t;z={:.5}*t;\" {:.5} {} 25\r\n",point1.x,point1.x,point1.y,point1.z,dist,k_x,k_y,k_z,num_sep,num_cpt).unwrap();
     }
 }
+
 // fn write_range<W: Write>(dest: &mut W, range: &Range) -> std::io::Result<()> {
 //     let n = range.get_size().1 - 1;
 //     for i in 0..range.get_size().0 {
