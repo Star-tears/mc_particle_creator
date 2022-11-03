@@ -1,5 +1,5 @@
 [package]
-name = "McParticleCreator"
+name = "mc_particle_creator"
 version = "0.1.0"
 edition = "2021"
 

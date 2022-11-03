@@ -3,14 +3,6 @@
 version = 3
 
 [[package]]
-name = "McParticleCreator"
-version = "0.1.0"
-dependencies = [
- "office",
- "rand",
-]
-
-[[package]]
 name = "adler"
 version = "1.0.2"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -210,6 +202,14 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "abb12e687cfb44aa40f41fc3978ef76448f9b6038cad6aef4259d3c095a2382e"
 dependencies = [
  "cfg-if 1.0.0",
+]
+
+[[package]]
+name = "mc_particle_creator"
+version = "0.1.0"
+dependencies = [
+ "office",
+ "rand",
 ]
 
 [[package]]
