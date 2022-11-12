@@ -1,3 +1,6 @@
+use rand::Rng;
+
+#[derive(Clone, Copy)]
 pub struct Color {
     pub r: f64,
     pub g: f64,
@@ -5,7 +8,7 @@ pub struct Color {
     pub a: f64,
 }
 
-pub const color_list: [Color; 17] = [
+pub const COLOR_LIST: [Color; 17] = [
     //白色
     Color {
         r: 1.0,
@@ -113,3 +116,11 @@ pub const color_list: [Color; 17] = [
         a: 0.9,
     },
 ];
+
+impl Color {
+    pub fn get_gradient_base_color() -> Color {
+        let mut rng = rand::thread_rng();
+        let index_color = rng.gen_range(11..17);
+        COLOR_LIST.get(index_color).unwrap().clone()
+    }
+}

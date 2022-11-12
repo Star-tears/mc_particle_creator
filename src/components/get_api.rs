@@ -53,6 +53,9 @@ pub fn get_tick_node_list(range: &Range) -> Vec<TickNode> {
     tick_node_list
 }
 
+/**
+ * 不包含开始前发散点、结束后收敛点
+ */
 pub fn get_point_group_list(tick_node_list: &Vec<TickNode>, config: &Config) -> Vec<PointGroup> {
     let mut point_group_list = Vec::new();
     for tick_node in tick_node_list {
@@ -137,13 +140,13 @@ pub fn get_point_list(tick_node_list: &Vec<TickNode>, config: &Config) -> Vec<Po
 }
 
 /**
- *  边表生成主函数
+ *  边表生成主函数，包含开始前发散点、结束后收敛点
  */
 pub fn get_edge_list(point_group_list: &Vec<PointGroup>, config: &Config) -> Vec<Edge> {
     let mut rng = rand::thread_rng();
     let mut edge_list = Vec::new();
     let mut point_pre = Point {
-        x: -20.0,
+        x: config.first_tick as f64,
         y: config.height,
         z: config.mid_pitch,
     };

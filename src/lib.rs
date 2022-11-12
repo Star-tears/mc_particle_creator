@@ -4,10 +4,14 @@ pub mod pre_load {
     pub mod graph;
 }
 pub mod utils {
-    pub mod math {}
+    pub mod math {
+        pub mod ve;
+        pub mod cal;
+    }
     pub mod draw {
         pub mod draw_effects;
         pub mod draw_lines;
+        pub mod write_mcfunction;
     }
 }
 

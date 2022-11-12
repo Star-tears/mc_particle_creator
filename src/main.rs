@@ -7,7 +7,7 @@ use std::io::{self, Write};
 
 fn init_config() -> Config {
     print!("请输入相对y轴高度: ");
-    let path = r"H:\mc\mc粒子特效\midi_xlsx\仙剑奇缘.xlsx";
+    let path = r"H:\mc\mc粒子特效\midi_xlsx\名侦探柯南.xlsx";
     io::stdout().flush().unwrap();
     let mut input = String::new();
     io::stdin().read_line(&mut input).unwrap();
@@ -15,8 +15,9 @@ fn init_config() -> Config {
     let y: i64 = s.next().unwrap().parse().unwrap();
     let config = Config {
         height: y as f64,
-        tot_tick: 1600,
-        mid_pitch: 56.0,
+        first_tick: -20,
+        tot_tick: 3200,
+        mid_pitch: 61.7,
         midi_xlsx_path: path.to_string(),
         output_setblocks_path: "./functions/setblocks.mcfunction".to_string(),
         output_play_path: "./functions/play.mcfunction".to_string(),

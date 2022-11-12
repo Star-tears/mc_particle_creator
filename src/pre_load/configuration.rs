@@ -1,5 +1,6 @@
 pub struct Config {
     pub height: f64,
+    pub first_tick: i64,
     pub tot_tick: i64,
     pub mid_pitch: f64,
     pub midi_xlsx_path: String,
