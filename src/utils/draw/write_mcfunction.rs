@@ -8,7 +8,7 @@ use crate::{
         configuration::Config,
         graph::{Point, PointGroup},
     },
-    utils::math::cal,
+    utils::{fsop::write_play_tick, math::cal},
 };
 
 use super::draw_lines;
@@ -192,6 +192,21 @@ pub fn write_soma_lines_mcfunction(
             circle_center_point,
             &Color::get_gradient_base_color(),
             last_direction,
+        );
+    }
+}
+
+pub fn write_tp_mcfuntion_in_play(config: &Config) {
+    for i in -30..config.tot_tick {
+        write_play_tick(
+            format!(
+                "execute if score @p Timer matches {} run tp @p ~{} ~{} ~{}\r\n",
+                i,
+                i - 40,
+                config.height + 30.0,
+                config.mid_pitch
+            ),
+            i,
         );
     }
 }

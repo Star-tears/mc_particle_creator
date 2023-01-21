@@ -1,4 +1,3 @@
-use core::num;
 use std::{
     fs::File,
     io::{BufWriter, Write},
@@ -9,12 +8,12 @@ use rand::{self, Rng};
 use crate::{
     components::get_api,
     pre_load::{
-        color::{self, Color},
+        color::{self, Color, COLOR_LIST},
         graph::Point,
     },
     utils::{
         draw::{draw_effects, write_mcfunction},
-        math::cal,
+        fsop,
     },
 };
 use crate::{
@@ -45,52 +44,48 @@ pub fn create_setblocks_mcfunction(point_group_list: &Vec<PointGroup>, config: &
  */
 pub fn create_play_mcfunction(point_group_list: &Vec<PointGroup>, config: &Config) {
     let mut dest = BufWriter::new(File::create(config.output_play_path.as_str()).unwrap());
+    for i in config.first_tick - 1..config.tot_tick + 1 {
+        writeln!(&mut dest,"execute if score @p Timer matches {} run function star_tears:test_build/play_match_tick/{}",i,i).unwrap();
+    }
+    fsop::write_play_tick(
+        format!(
+            "particleex image minecraft:end_rod ~{} ~{} ~{} Start.png 1 0 270 0 not 10.0 0 1 0 100",
+            config.first_tick,
+            config.height + 30.0 - 10.0,
+            config.mid_pitch - 4.0
+        ),
+        config.first_tick,
+    );
+
     let sub_point_group_list: Vec<Vec<PointGroup>> =
-        get_api::get_sub_point_group_list(&point_group_list, config, 4, 10.0);
+        get_api::get_sub_point_group_list(&point_group_list, config, 6, 10.0);
     let mut count = 0;
     for sub_point_group in sub_point_group_list {
         count += 1;
-        if count == 4 || count == 1 {
-            write_mcfunction::write_soma_lines_mcfunction(&mut dest, config, &sub_point_group);
-        }
         let edge_list = get_api::get_edge_list(&sub_point_group, config);
-        if count == 2 || count == 3 {
-            for edge in edge_list {
-                draw_effects::draw_circle_grow(
+        for edge in edge_list {
+            if count > 4 {
+                draw_effects::draw_cube_flyup(edge.point2, &COLOR_LIST[0]);
+            } else if count == 4 {
+                draw_effects::draw_circle_grow2(edge.point2, &COLOR_LIST[0]);
+            }
+            if count == 1 {
+                draw_lines::draw_straight_line(
                     &mut dest,
+                    edge.point1,
                     edge.point2,
                     &Color::get_gradient_base_color(),
                 );
-                // if edge.point1.x == edge.point2.x {
-                //     draw_lines::draw_straight_line(
-                //         &mut dest,
-                //         edge.point1,
-                //         edge.point2,
-                //         &Color::get_gradient_base_color(),
-                //     );
-                // } else {
-                // if count == 3 {
-                // draw_lines::draw_parabola(
-                //     &mut dest,
-                //     edge.point1,
-                //     edge.point2,
-                //     &Color::get_gradient_base_color(),
-                // );
-                // }
-                // else {
-                //     draw_lines::draw_straight_line(
-                //         &mut dest,
-                //         edge.point1,
-                //         edge.point2,
-                //         &Color::get_gradient_base_color(),
-                //     );
-                // }
-                // }
+            } else if count == 2 || count == 3 {
+                draw_lines::draw_spiral_line(edge.point1, edge.point2);
+            } else {
+                draw_lines::draw_parabola(&mut dest, edge.point1, edge.point2, &COLOR_LIST[0]);
             }
         }
     }
     // create_rhythm_point_mcfunction(&mut dest, config, point_group_list);
-    create_tp_mcfuntion(&mut dest, config);
+    write_mcfunction::write_tp_mcfuntion_in_play(config);
+    fsop::write_play_tick(format!("particleex image minecraft:end_rod ~{} ~{} ~{} Welcome.png 1 0 270 0 not 10.0 0 1 0 100",config.tot_tick-20,config.height+30.0-12.0,config.mid_pitch-5.5), config.tot_tick - 20);
 }
 
 pub fn create_clear_mcfunction(tick_node_list: &Vec<TickNode>, config: &Config) {
@@ -115,7 +110,7 @@ pub fn create_tp_mcfuntion(dest: &mut dyn Write, config: &Config) {
             "execute if score @p Timer matches {} run tp @p ~{} ~{} ~{}\r\n",
             i,
             i - 40,
-            config.height + 15.0,
+            config.height + 30.0,
             config.mid_pitch
         )
         .unwrap();
@@ -140,7 +135,7 @@ pub fn create_rhythm_point_mcfunction(
                 y: config.height,
                 z: *z,
             };
-            draw_effects::draw_cube_flyup(dest, point, color_list.get(index_color).unwrap());
+            draw_effects::draw_cube_flyup(point, color_list.get(index_color).unwrap());
         }
     }
 }

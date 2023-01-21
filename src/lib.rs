@@ -13,6 +13,7 @@ pub mod utils {
         pub mod draw_lines;
         pub mod write_mcfunction;
     }
+    pub mod fsop;
 }
 
 pub mod components {

@@ -152,23 +152,30 @@ pub fn get_edge_list(point_group_list: &Vec<PointGroup>, config: &Config) -> Vec
     };
     let mut point_nxt: Point;
     for point_group in point_group_list {
-        if point_group.z_list.len() > 1 {
-            for i in 0..point_group.z_list.len() - 1 {
-                let point1 = Point {
-                    x: point_group.x,
-                    y: config.height,
-                    z: point_group.z_list[i],
-                };
-                let point2 = Point {
-                    x: point_group.x,
-                    y: config.height,
-                    z: point_group.z_list[i + 1],
-                };
-                edge_list.push(Edge {
-                    point1: point1,
-                    point2: point2,
-                });
-            }
+        for i in 0..point_group.z_list.len() {
+            // let point1 = Point {
+            //     x: point_group.x,
+            //     y: config.height,
+            //     z: point_group.z_list[i],
+            // };
+            // let point2 = Point {
+            //     x: point_group.x,
+            //     y: config.height,
+            //     z: point_group.z_list[i + 1],
+            // };
+            // edge_list.push(Edge {
+            //     point1: point1,
+            //     point2: point2,
+            // });
+            let point_nxt = Point {
+                x: point_group.x,
+                y: config.height,
+                z: point_group.z_list[i],
+            };
+            edge_list.push(Edge {
+                point1: point_pre,
+                point2: point_nxt,
+            });
         }
         let index_nxt = rng.gen_range(0..point_group.z_list.len());
         point_nxt = Point {
@@ -176,10 +183,10 @@ pub fn get_edge_list(point_group_list: &Vec<PointGroup>, config: &Config) -> Vec
             y: config.height,
             z: point_group.z_list[index_nxt],
         };
-        edge_list.push(Edge {
-            point1: point_pre,
-            point2: point_nxt,
-        });
+        // edge_list.push(Edge {
+        //     point1: point_pre,
+        //     point2: point_nxt,
+        // });
         point_pre = point_nxt;
     }
     point_nxt = Point {
